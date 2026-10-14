@@ -1,0 +1,1097 @@
+
+
+Wikipédial'encyclopédie libre
+
+Faire un don
+Créer un compte
+Se connecter
+
+Wiki Loves Monuments
+Photographiez le patrimoine culturel marocain et gagnez des prix !
+
+
+
+Google
+
+Article
+Discussion
+Lire
+Voir le texte source
+Voir l’historique
+
+Cette page est en semi-protection longue.
+Page d’aide sur l’homonymie	
+Cet article concerne l'entreprise Google LLC. Pour le moteur de recherche, voir Google (moteur de recherche). Pour les autres significations, voir Google (homonymie).
+
+Google
+logo de Google
+Logo de Google depuis le 19 mai 2026.
+Image illustrative de l’article Google
+Logo utilisé sur les applications iOS et Android depuis le 12 mai 2025.
+illustration de Google
+Le Googleplex (siège de l'entreprise) en Californie, en 2016.
+Création	4 septembre 1998[1], garage Google, Menlo Park, Californie
+Fondateurs	Larry Page et Sergey Brin
+Forme juridique	Filiale
+Action	Voir Alphabet
+Slogan	Do the right thing (Faites ce qui est juste)
+Siège social	Googleplex, Mountain View
+Drapeau des États-Unis États-Unis
+Direction	Sundar Pichai, directeur général et directeur produits[2]
+Actionnaires	Alphabet (100 %)
+Activité	Internet
+Produits	
+Recherche GoogleYouTubeGoogle ChromeAndroidGoogle PixelAdSenseAdWordsGoogle EarthGmailListe des services
+Société mère	Alphabet
+Filiales	Sparrow, Waze, ITA Software, BufferBox, FeedBurner
+Partenaires	Entertainment Consumers Association (en) et Organisation des Nations unies pour l'alimentation et l'agriculture[3]
+Effectif	85 050 (Q1 2018)[4]
+Site web	google.com
+Capitalisation	793,268 milliards de $ (20 janvier 2018)[5]
+Dette	en diminution 3,81 milliards de $ (2013)
+- 27,25 %[6]
+Chiffre d'affaires	en augmentation 402,84 milliards de $ (2025)[7],[8]
++ 194 % par rapport à 2018
+Résultat net	en augmentation 132,17 milliards de $ (2025)[8]
++ 330 % par rapport à 2018
+modifier - modifier le code - voir Wikidata 
+Google LLC, prononcé en français [gu.gœl] Écouterⓘ, est une entreprise américaine de services technologiques et de marketing en ligne fondée en 1998 dans la Silicon Valley, en Californie, par Larry Page et Sergey Brin, créateurs du moteur de recherche Google. La firme développe et distribue de nombreux autres services très populaires. Elle fait partie des géants du Web, appelés GAFAM (avec Apple, Facebook, Amazon et Microsoft). Son site web figure dans la liste des sites web les plus visités.
+
+C'est une filiale de la société Alphabet depuis août 2015[9].
+
+L'entreprise s'est principalement fait connaître par la position monopolistique de son moteur de recherche, concurrencé historiquement par AltaVista puis par Yahoo! et Bing. Elle a par la suite acquis et développé de nombreux logiciels et sites web notables parmi lesquels YouTube, le système d'exploitation pour téléphones mobiles Android, ainsi que d'autres services tels que Gmail, Google Earth, Google Maps, Google Play ou Google Workspace.
+
+Après Larry Page et Eric Schmidt, son directeur général est, depuis 2015, Pichai Sundararajan[10].
+
+Google est l'une des premières entreprises américaines et mondiales par sa valorisation boursière, quelques années après une entrée en bourse originale. Début 2008, elle valait 176 milliards de dollars à Wall Street[11]. Le 1er février 2016, sa capitalisation boursière dépasse celle d'Apple et devient la première des États-Unis, avec un total de 550 milliards de dollars répartis dans ses différentes catégories d'actions[12].
+
+En 2014, le classement Best Global Brands d'Interbrand situe la marque Google en seconde position mondiale, derrière la marque Apple, avec une estimation de sa valeur à 107,43 milliards de dollars (+15 % par rapport à 2013), dépassant la barre des cent milliards de dollars pour la première fois depuis la création du classement en 1974[13]. En 2016, le classement Brand Z Top 100 place Google en première position devant Apple[14].
+
+La société compte environ 50 000 employés. La plupart travaillent au siège mondial : le Googleplex, à Mountain View en Californie.
+
+Google est l'une des plus importantes entreprises du marché d'Internet et fait partie, avec Apple, Facebook, Amazon et Microsoft, des géants du Web (aussi appelés GAFAM)[15],[16],[17],[18]. En 2011, Google possédait un parc de plus de 900 000 serveurs[19], contre 400 000 en 2006[20], ce qui en fait le parc de serveurs le plus important au monde (2 % du nombre total de machines), avec des appareils répartis sur 32 sites. Parallèlement, le moteur de recherche Google a indexé plus de 1 000 milliards de pages web en 2008[21]. En octobre 2010, Google représente 6,4 % du trafic Internet mondial et affiche une croissance supérieure à celle du web[22]. En Europe, Google détiendrait 93 % de parts du marché des moteurs de recherche[23].
+
+Au-delà du moteur de recherche, Google propose gratuitement de nombreux logiciels et services[24] (courriel, suite bureautique, vidéo, photo, blog, etc.) et se finance par la publicité à partir de l'an 2000, essentiellement avec un principe de lien sponsorisé dans les résultats de recherche et une facturation au « coût par clic » pour les annonceurs[25].
+
+La situation croissante de monopole et les questions de vie privée inquiètent de plus en plus, de l'internaute individuel jusqu'à de grandes organisations. La société a fait l'objet de poursuites en justice, notamment pour violation de copyright et pour sa plateforme Google Livres.
+
+Origine du nom
+Article connexe : Gogol.
+Le nom de l'entreprise Google a pour origine le terme mathématique « googol »[26] /ˈguːgəl/[27] ou gogol en français, qui désigne 10100, c'est-à-dire un nombre commençant par 1, suivi de cent zéros[28]. Larry Page et Sergey Brin demandèrent en 1997 de l'aide à d'autres étudiants en informatique pour nommer le fruit de leur travail.[réf. nécessaire] Larry Page demanda à Sean Anderson d'aller enregistrer le nom de domaine « googol », et celui-ci se serait alors trompé dans l'entrée du nom, en frappant google.com[29]. D'autres sources[Lesquelles ?] affirment que, le nom de domaine googol.com[30] n'étant plus disponible (déjà attribué depuis avril 1995), le nom fut modifié volontairement[31].
+
+Quelle qu'en soit la raison, Google prend la place de googol, plus simple et plus facile à retenir pour un anglophone, et ce terme deviendra célèbre dans le monde entier : en 2006, le nom du moteur de recherche, puis de l'entreprise, figurait parmi les dix marques les plus connues au monde[32] et serait devenu, depuis, la première marque connue au niveau mondial[33],[34],[35],[36]. Certains dictionnaires ont désormais inclus le verbe to google (en français, googoliser ou googler) dans leurs pages, avec le sens utiliser le moteur de recherche Google pour obtenir un renseignement sur le web[37].
+
+Par ailleurs, la similitude avec le mot anglais goggles, signifiant « lunettes », rappelle les deux [O] de la marque. Si on ne peut pas en attribuer l'origine, Google utilise ce jeu de mots dans un de ses services de recherche photo : Google Goggles[38]. Également, 10gogol (un chiffre 1 suivi d'un gogol de zéros) s'appelle un gogolplex, dont vient le nom du quartier général de Google[39].
+
+Ce terme symbolise les buts que Google s'est fixés : « organiser l'immense volume d'information disponible sur le Web et dans le monde[28] ». En effet, si le nombre de pages web indexables est gigantesque (plus de mille milliards), il reste minime par rapport à un gogol. Ce nombre, dont est issu le nom « Google », exprime les dimensions potentiellement colossales et universelles du monde d'Internet, unique domaine d'activité de l'entreprise.
+
+Histoire
+Naissance
+
+Garage Google, siège social historique où est fondé Google le 4 septembre 1998, 232 Santa Margarita, Menlo Park, Californie.
+Les fondements de l'histoire de l'entreprise Google commencent par la rencontre de deux étudiants de l'université Stanford en 1995. Sergey Brin, alors âgé de vingt-trois ans, et Larry Page, vingt-quatre ans, sont « pratiquement en désaccord sur tout »[40]. Cela ne les empêche pourtant pas, en janvier 1996, de commencer à travailler sur un nouveau moteur de recherche[41],[42].
+
+Les fondateurs de Google, alors doctorants, observent la façon dont sont classés les résultats lorsqu'ils effectuent des recherches dans les bases de données scientifiques. Ils constatent que l'exploitation des informations contenues dans la structure hypertextuelle dépend de la nature des liens entre les documents. Ainsi, l'idée d'analyser les liens inter-documents repose sur l'observation d'une caractéristique de la littérature scientifique et des modes d'organisation du Science Citation Index (SCI), qui consiste à attribuer une valeur à une publication scientifique proportionnellement au nombre de publications qui la cite. Ce principe revient aux travaux de Jon Kleinberg qui avait mis au point pour IBM l'algorithme HITS (Hyperlink-Induced Topic Search) qui prenait en considération l'autorité d'une page en fonction du nombre de liens pointant vers elle[43]. C'est donc en s'inspirant des travaux de Jon Kleinberg que les deux étudiants mettent au point l'algorithme de classement des pages web appelé PageRank. Celui-ci prend en considération les liens pointant vers une page comme un vote pour cette page. Plus une page recevrait de vote, plus elle serait considérée comme étant pertinente et plus le vote de cette page, lorsqu'elle pointerait elle-même vers d'autres pages, aurait de la valeur[41].
+
+Ils nomment leur projet BackRub[40]. Ils imaginent un logiciel qui analyserait les relations entre les sites web afin d'offrir des meilleurs résultats que ceux donnés par leurs concurrents de l'époque, AltaVista notamment.
+
+Une fois leurs travaux terminés, les deux étudiants commencent à concrétiser leur projet de moteur de recherche et achètent à cet effet un téraoctet de disques durs d'occasion, afin de créer une base de données. Cette installation sommaire prend place dans la chambre de Larry Page[44]. Sergey loue un bureau et se met en quête de financements. David Filo, fondateur de Yahoo!, convient de l'intérêt de leurs recherches, mais les encourage à créer leur propre moteur de recherche plutôt que vendre leurs travaux[44].
+
+Andy Bechtolsheim, l'un des fondateurs de Sun Microsystems, se laisse convaincre par Sergey et Larry et leur fait un chèque de 100 000 $ pour financer leur moteur. La société Google n'est toutefois pas encore créée et Larry garde le chèque dans son tiroir pendant quelques semaines, le temps d'achever les formalités légales[44]. Le nom de domaine « google.com » est enregistré le 15 septembre 1997[45]. Les deux entrepreneurs sollicitent parallèlement famille et amis et parviennent finalement à réunir un million de dollars pour fonder la compagnie. Google Inc. s'installe dans le garage Google de Menlo Park, loué par une amie, en septembre 1998. La société emploie alors trois personnes : Sergey, Larry et Craig Silverstein, qui est aujourd'hui directeur de Google Technology[44].
+
+Début des technologies
+Article détaillé : Moteur de recherche Google.
+Alors que le moteur est toujours en phase version bêta, il répond à près de 10 000 requêtes par jour. En décembre 1998, PC Magazine classe Google dans sa liste des cent meilleurs sites au monde[46],[GPress 1]. En février 1999, c'est 500 000 requêtes journalières que Google doit gérer. Devenant trop grand pour le « garage Google », Google se déplace, en mars, dans un bureau sur l'avenue de l'université de Palo Alto et huit personnes y travaillent désormais[44]. En août 1999, la barre des trois millions de recherches quotidiennes est franchie.
+
+Dès janvier 1999, la presse mondiale commence à se faire l'écho des performances de ce nouveau moteur de recherche. Le Monde écrit ainsi que le choix technologique de Google « s'avère très efficace à l'usage ». Ainsi, une recherche avec les mots « Bill Clinton » renvoie d'abord au site de la Maison-Blanche, alors qu'AltaVista ne fait apparaître le site qu'après des dizaines d'autres références[47]. Autre avantage, Google affiche les mots-clés en gras dans le contexte d'une phrase pour chaque lien, alors qu'Altavista ne fournit, à l'époque, que les liens eux-mêmes. Le 7 juin 1999, Google obtient 25 000 000 $ de capitaux propres, fournis par des sociétés de capital risque[GPress 2]. Omid Kordestani quitte Netscape pour rejoindre Google en tant que vice-directeur des ventes. Michael Moritz et John Doerr, qui avaient contribué à l'essor de Sun Microsystems, Intuit, Amazon.com et Yahoo!, s'assoient autour de la table de ping-pong — qui sert de bureau de direction — en compagnie de Ram Shriram[44]. La société déménage une seconde fois vers son emplacement définitif, le Googleplex, situé à Mountain View, en Californie. Le moteur de recherche, jusque-là en version bêta, achève sa phase de test le 9 septembre. Google assure alors la gestion de trois millions de recherches par jour.
+
+Le 9 mai 2000, le moteur de recherche est disponible en dix nouvelles langues : allemand, danois, espagnol, finnois, français, italien, néerlandais, norvégien, portugais et suédois[48], permettant à la société de pénétrer de nouveaux marchés et de gagner en importance. Tout juste un mois plus tard, en juin 2000, Google est le premier moteur de recherche à avoir référencé un milliard de pages web. L'entreprise cherche à étendre la portée de son moteur en concentrant ses efforts sur l'Asie, avec les versions chinoise, japonaise et coréenne (12 septembre 2000)[GPress 3], puis au monde entier, totalisant vingt-six langues dès le 27 mars 2001[GPress 4]. Fin octobre 2000, Google signe un partenariat avec Yahoo! et commence à proposer de la publicité ciblée en fonction des mots-clés[49]. L'année 2000 se termine avec la publication de la barre d'outils Google (Google Toolbar), proposée depuis en téléchargement gratuit[GPress 5], et voit le trafic journalier du site dépasser les 100 millions de requêtes[44],[50], ce qui représente plus de 1 000 requêtes/seconde en moyenne. Par son succès et sa croissance exponentielle, l'entreprise devient un phénomène mondial de presse. En mars 2001, Larry Page et Sergey Brin font appel à Eric Schmidt, le président de l'éditeur de logiciels Novell, pour prendre la direction de l'entreprise, en tant que président dans un premier temps[GPress 6], puis PDG à partir du 6 août 2001[GPress 7], cinq jours après l'ouverture du premier bureau à l'étranger, situé à Tokyo[40]. L'année 2001 s'achève donc par une conquête physique du monde et par l'annonce de la 3 milliardième page indexée[GPress 8]. Le 4 septembre 2001, Google obtient la validation de son brevet concernant PageRank.
+
+Le moteur de recherche continue ainsi sa croissance. En 2003, Google compte trois cents millions de requêtes par jour[51]. Il est décliné en plus de cent langues en 2004 et cent cinquante en 2010[40]. En 2010, Google est le premier moteur de recherche sur Internet, que 80 % d'internautes américains utilisent contre seulement 35 % de Chinois, qui préfèrent l'outil chinois Baidu. En Europe, sa part de marché serait de 93 %[23].
+
+Le 12 août 2011, le site annonce une mise à jour de son algorithme dénommée « Panda » dans l'ensemble des versions du site (excepté les versions chinoise, japonaise et coréenne) afin de faire baisser la visibilité des sites sans valeurs ajoutées comme les comparateurs de prix ou les agrégateurs de contenus[52] (à tel point que certains sites marchands de premier plan sont désormais victimes de « pénalité Google »[53]). Outre Motorola Mobility, Google a racheté environ 2 000 brevets à IBM en 2011[54] pour éviter de nouvelles attaques menées par Apple et Microsoft contre Android[55].
+
+En 2012, Google a indexé plus de 30 000 milliards de documents[56] et gère à peu près 3,5 milliards de requêtes de recherche quotidiennement.
+
+Diversification des produits
+Article détaillé : Liste des acquisitions de Google.
+Google, comme Amazon, Apple et Facebook, a depuis sa fondation racheté de nombreuses entreprises pour alimenter sa croissance, élargir sa base d'utilisateurs et développer de nouvelles technologies. Parmi ses acquisitions on peut citer Picasa, Android, YouTube, DoubleClick et Waze.
+
+Croissance et diversification
+
+Présentation du premier produit proposé autre que le moteur de recherche. Il s'agit d'un produit Google Appliance (présenté ici à RSA Expo 2008, San Francisco), logiciel d'indexation de documents et de gestion de données pour les entreprises en intranet. Ici, le boîtier de l'ordinateur Rackmount 1U est vide, sans électronique à l'intérieur.
+C'est à partir de 2002 que l'entreprise diversifie son activité, basée jusqu'alors sur son moteur de recherche. En cette année, Google propose aux entreprises le GB-1001 de Google Search Appliance, une solution à la fois matérielle et logicielle permettant de se « connecter à leur réseau informatique afin de bénéficier des fonctions de recherche sur leurs propres documents[40] ». Google n'a pas voulu révéler le nom de son partenaire de fabrication pour les dispositifs matériels, qu'elle a décrits comme basés sur des composants Intel exploitant Linux. Ce produit pouvait s'installer en rack de serveurs, stocker un index de 150 000 documents (10 go) au prix de 20 000 $. Il fut décliné en un autre modèle, le GB-8008, plus performant, mais plus onéreux (250 000 $)[57].
+
+La fonction Google Labs est également une importante nouveauté de cette année. Elle permet aux utilisateurs curieux de tester les services et produits non finalisés, mais dont la sortie en public approche[58]. Par ailleurs, AdWords voit sa tarification s'établir au nombre de clics (20 février 2002). En septembre, le service en ligne Google Actualités est disponible et permet d'afficher des pages web relatives à l'actualité en fonction des mots-clés de l'utilisateur. Ce service se base au départ du plus de 4 000 sources[59]. Un mois plus tard s'ouvre un nouveau bureau en Australie, à Sydney, alors que l'effectif total de l'entreprise dépasse les 1 600 employés[40]. De ce fait, la société inaugure son nouveau Googleplex, un complexe organisé architecturalement comme un campus, au 1600 Amphitheater Parkway à Mountain View, dans lequel travaillent 800 personnes.
+
+Le 22 janvier 2004, Google s'essaie au monde des réseaux sociaux en mettant au point son propre site de réseautage social : Orkut. Toutefois, ce projet ne rencontre pas le succès escompté, sauf au Brésil et en Inde. Par souci de communication, Google met en ligne son propre blog officiel pour y publier l'actualité de l'entreprise et de ses produits et technologies[40]. Le 29 avril 2004, l'entreprise émet une demande auprès de la Securities and Exchange Commission pour entrer en Bourse[GPress 9]. Cette demande aboutira le 18 août 2004 à son introduction sur le NASDAQ et à la vente de 19 605 052 actions, au prix unitaire de 85 $[GPress 10]. La société réalise une introduction en bourse sous forme d'enchères inversées, une méthode inédite dans l'histoire des bourses de valeurs. En huit ans, le cours de l'action sera multiplié par plus de huit, avec un pic en 2012 à plus de 700 dollars. Entre-temps, Google réalise en août 2005, un an après son introduction en Bourse, afin de disposer d'un « matelas de sécurité » total de 7 milliards de dollars de liquidités pour sa croissance[60], une des plus grandes augmentations de capital de l'histoire boursière, en levant un total de 4,2 milliards de dollars sous forme de 14 159 265 actions nouvelles, soit les huit premières décimales du nombre pi[61].
+
+Le 1er avril 2004 Google propose Gmail[GPress 11], son propre service de courrier électronique avec une capacité initiale de 1 Go annoncée doublée pour 2005. Cette capacité est totalement inédite et foudroie la concurrence, à l'exemple de MSN hotmail, dont la capacité lui était 500 fois inférieure[62]. Ce stockage révolutionne la messagerie, qui s'affranchit dès lors du stockage des messages sur l'ordinateur par l'intermédiaire de logiciels, tels qu'Outlook. Gmail instaure donc l'ère de la messagerie email en ligne. À son lancement, l'inscription nécessite toutefois une invitation. Son succès se traduit par un nombre croissant d'utilisateurs, 176 millions début 2010[63].
+
+Google propose une visionneuse d'images par rachat début juillet 2004[GPress 12] de Picasa. Ce logiciel est couplé à un compte en ligne permettant de stocker une galerie de 100 Mo. Le service connaîtra un certain succès, mais il devra lutter contre le service Flickr de Yahoo! lancé en début d'année et sera concurrencé par la Windows Live Photos en 2008. Le 6 octobre 2004, Google installe son centre européen à Dublin en Irlande avec un effectif de 150 personnes[Gblog 1]. Trois semaines plus tard, on apprend le rachat de Keyhole, une société de cartographie numérique qui sera à la base de Google Earth[GPress 13], sans toutefois publier le logiciel l'année même, qui se termine par le lancement de Google Desktop search le 14 octobre[Gblog 2], de Google Scholar quatre jours plus tard[Gblog 3], et de Google Print le 14 décembre[Gblog 4] (rebaptisé Google Recherche de livres), alors que l'index de recherche affiche huit milliards de pages web[Gblog 5]. L'entreprise emploie à cette date plus de 3 000 employés[40].
+
+En juin 2019, Google signe la quatrième plus grosse acquisition de son histoire en mettant la main sur Looker, une société américaine spécialisée dans l'analyse des données. L'opération, financée en numéraire pour un montant de 2,6 milliards de dollars, vise à renforcer la division Google Cloud[64].
+
+En 2025, Google a conclu un accord de rachat d’une valeur de 32 milliards de dollars américains pour la compagnie américaine Wiz[65].
+
+Réalité virtuelle
+Au Google I/O 2014, Google présente le Google Cardboard, son premier casque de réalité virtuelle fabriqué avec du carton[réf. nécessaire].
+
+En mai 2015, Google a dévoilé la seconde version de son Google Cardboard qui présente notamment l'avantage d'être bien plus facile à monter[66].
+
+En octobre 2016, Google présente un casque de réalité virtuelle, le Daydream View, uniquement compatible avec le Google Pixel[67].
+
+Réalité augmentée
+Lors de la Google I/O 2014, Google annonce le Projet Tango, une plateforme de création de contenus en réalité augmentée. Il est abandonné fin 2017 et fait place à ARCore qui devient plus accessible.
+
+Google lance en 2020 une nouvelle fonctionnalité issue de la réalité augmentée : Art Filters. Le but est de mettre à disposition des utilisateurs des filtres pour transformer un portrait en « œuvre d'art ». Ceux-ci permettent ainsi d'intégrer un visage au sein de différents tableaux[68].
+
+Réputation grandissante
+
+La punaise au siège de Google, à côté d'une voiture Street View.
+Le 8 février 2005, Google pénètre le monde de la cartographie numérique en lançant en ligne un de ses produits les plus populaires : Google Maps[Gblog 6]. Ce service est gratuit, mais encore limité aux États-Unis, au Canada et au Royaume-Uni. Le jeudi 27 avril 2006 il couvre la France, l'Allemagne, l'Espagne et l'Italie, et par la suite, les régions disponibles s'élargissent. Moins de deux mois plus tard, les fonctions très populaires de calcul d'itinéraires et de vues satellites y sont intégrées[Gblog 7]. Ce service sera plus tard utilisé pour la géolocalisation des téléphones portables[Gblog 8] et des GPS. Le 20 avril, Google introduit dans le Labs une fonctionnalité d'affichage et de recherche dans l'historique et de statistique d'utilisation de moteur de recherche[Gblog 9]. Le 19 mai, l'entreprise convie les utilisateurs de son moteur de recherche à personnaliser leurs pages d'accueil par le biais de iGoogle[Gblog 10]. Le 28 juin, le concept de Google Maps est repris pour le logiciel Google Earth qui intègre quelques améliorations, notamment la topographie en relief, certains bâtiments en 3d, puis la vue sous-marine. Maps conserve sa simplicité puisque les grandes innovations sont réservées aux logiciels multiplateformes. Trois ans auparavant, Google avait lancé son propre outil de traduction gratuit en ligne[Gblog 11]. Il connaîtra un succès énorme, tant pour les internautes que pour les élèves, et contribuera une nouvelle fois à la renommée de l'entreprise. La même semaine, l'entreprise annonce la sortie de sa propre messagerie instantanée Google Talk. Cette solution est basée sur le protocole ouvert XMPP et permet la Voix sur IP[Gblog 12]. Elle offrira par la suite la possibilité de chat vidéo et d'utilisation en ligne sans logiciel téléchargé préalablement. Toutefois, malgré ces innovations, l'échec se profilera puisqu'incapable de concurrencer Skype et Windows Live Messenger. C'est au tour de Google Reader de voir le jour début octobre[Gblog 13], Google Analytics le 14 novembre[Gblog 14], puis de l'adaptation à la téléphonie de son service Gmail le lendemain[GPress 14].
+
+Cloud computing pour les utilisateurs
+Article détaillé : Cloud computing.
+Le 20 janvier 2006 Google s'attaque au marché chinois, qui représentait plus de 110 millions d'internautes[69], avec une tendance à la forte hausse pour les années à venir avec la démocratisation de l'accès à Internet. Google déplore aussi en ce pays « un service qui, pour être franc, n'est pas très bon »[Gblog 15]. Entre-temps, Google opère un des plus gros rachats jamais faits, en acquérant la plateforme de partage de vidéo en ligne YouTube pour 1,5 milliard de dollars d'actions de l'entreprise[GPress 15]. Le 9 mars, on apprend le rachat de l'entreprise Writely proposant un éditeur de traitement de texte en ligne, acquis pour 8 millions de dollars[70], dans l'intention de l'utiliser comme base pour le projet Google Documents utilisant le même concept, qui sera annoncé, lui, six mois plus tard[Gblog 16]. Fin mars, c'est Google Finance qui sort des cartons de Google. Il s'agit d'un outil permettant de suivre en ligne les cours et les devises[Gblog 17]. Google Agenda, un agenda en ligne gratuit, est annoncé le 13 avril[Gblog 18]. Ces services sont par la suite destinés aux professionnels par Google Apps, le 28 août 2006[Gblog 19]. Lors de sa sortie même, ces services entrent agressivement en concurrence avec d'autres services déjà bien installés[71].
+
+Empire Google
+
+Voiture avec une plaque minéralogique personnalisée à Bruxelles (Belgique).
+Article détaillé : Liste des services et produits publiés par Google.
+Le 30 août 2006, Google Livres lance un service permettant la lecture en ligne et le téléchargement d'ouvrages littéraires entrés dans le domaine public[Gblog 20] et alimentera des nombreuses controverses. L'entreprise entame l'année 2007 avec 10 674 employés[40]. En mai, Google permet à n'importe quel internaute d'étudier le trafic, les recherches et les statistiques de son moteur de recherche par le biais de trends[Gblog 21]. Quelques jours plus tard, une importante mise à jour de Google Maps permet de naviguer virtuellement dans les rues de certaines villes à travers des photos omnidirectionnelles[72]. Il s'agit de Street View. Le fait de pouvoir regarder ce qui se passe chez les gens ou de voir par hasard n'importe qui dans la rue provoque également des controverses sur le respect de la vie privée. Le mois de mai s'achève par le lancement de Google Gears[Gblog 22]. La deuxième moitié de l'année 2007 se caractérise par le perfectionnement et l'adaptation de services existants à d'autres langues. Dernier fait marquant, l'annonce le 5 novembre d'un OS pour téléphones portables ; Android[Gblog 23], qui concurrencera Symbian OS et Windows Mobile. Cet événement s'inscrit dans la recherche de marché dans la téléphonie mobile qui offre de plus en plus des possibilités de navigation sur Internet. On dénombre 16 805 employés dans l'entreprise en fin d'année[40].
+
+Le projet Google Apps est complété le 28 février 2008 par l'introduction de Google Sites qui permet à tout utilisateur Google de créer facilement son propre site web dans un domaine fourni par Google[Gblog 24]. C'est une alternative peu coûteuse — la version standard de Google Apps étant gratuite — par rapport à des produits commerciaux comme SharePoint de Microsoft. En mai, selon des principes similaires à ceux de Wikipédia, Google annonce son projet Knol[73]. Pendant les mois suivants, aucune sortie notable n'intervient, mais les équipes de Google travaillent sur les produits déjà lancés. En effet, l'entreprise cherche à rendre plus accessibles plusieurs de ses outils, notamment Google Traduction, Google Finance et Street View[40]. Quelques adaptations sont également annoncées, comme la prise en charge de l'Unicode 5.1[Gblog 25] et l'adoption de l'IPv6[Gblog 26]. L'effort d'internationalisation des logiciels et services se poursuit avec un objectif de traduction en 40 langues pour un public d'internautes estimé à 98 %[Gblog 27]. Cette activité relativement faible favorise la préparation de la sortie de son propre navigateur web, Google Chrome, qui est officialisé le 1er septembre 2008[Gblog 28] par une bande dessinée[74], ce qui crée un buzz, du fait du contexte et de la notoriété acquise par l'entreprise américaine. Le navigateur connaîtra une croissance non négligeable puisqu'il atteindra deux ans plus tard 6 % des parts de marché[réf. nécessaire]. Plusieurs versions et mises à jour suivront.
+
+Le 27 mai 2009, Google annonce son intention de développer Google Wave, un produit affiché comme révolutionnaire. Il s'agit d'une application web dont le concept mélange les notions de services de courrier électronique, de messagerie instantanée, de wiki et de réseautage social, le tout associé à un correcteur orthographique et un traducteur instantané. Une première phase de test bêta est lancée le 30 septembre 2009 avec la distribution de 100 000 comptes[75] aux personnes qui se seront inscrites sur leur site avec la volonté de reporter les bugs.
+
+Le 7 juillet 2009, Google annonce le projet de développement ChromeOS, un système d'exploitation open-source basé sur Linux[Gblog 29]. Cet OS se veut léger et adapté aux netbooks en plein essor.
+
+En novembre 2009, Google Musique indexe de la musique sur le moteur de recherche aux États-Unis pour débuter[76]. Pour assurer son autonomie énergétique et réduire ses factures d'électricité, Google annonce en décembre 2009 son intention de fonder Google Energy. Dans ce but, en janvier 2010, Google a demandé à pouvoir bénéficier d'un statut industriel[77].
+
+Après de longues rumeurs et certaines annonces, le 5 janvier 2010, Google présente officiellement son téléphone lors d'une conférence de presse à son siège, à Mountain View[78]. Ce Google phone est produit par HTC. Cette action s'inscrit une nouvelle fois dans l'ambition de conquête de l'Internet nomade. Ce choix se confirme par les fortes rumeurs du lancement d'un netbook fonctionnant sous ChromeOS signé par le géant californien[79]. Le 11 février, Google lance un appel d'offres pour fournir la mise en place d'un réseau de fibre optique à 1 Gbit/s pour 50 000 personnes, voire beaucoup plus[80]. Si cette annonce incite à penser que Google voulait devenir un FAI, l'entreprise a tempéré son ambition en affirmant qu'il s'agissait plus d'un test qu'autre chose[80]. Un mois plus tard, plus de 1 100 villes américaines, principalement sur la côte est, ont fait acte de candidature, appuyées par plus de 200 000 demandes individuelles[81].
+
+Dans le but de créer un concurrent de Facebook, Google Me, durant l'été 2010, l'entreprise de Mountain View, se lance dans plusieurs opérations financières visant aux rachats de six entreprises dont l'activité lui permettrait d'arriver à ce but. Ainsi ont été achetées Slide (entre 182 et 228 M$), Jambool, Angstro, Zynga (achetée entre 100 et 200 M$), Like.com (100 M$) et SocialDeck[82]. Le 28 juin 2011, Google lance son service de réseau social Google+ toujours dans l'optique de concurrencer Facebook. Mais en octobre 2011, Google annonce la fermeture de plusieurs services pour janvier 2012. Il s'agit de Buzz (un réseau social lancé en 2010), Jaiku (un réseau social acheté en 2007), Code Search (outil de recherche de code open source sur le web), les fonctions sociales intégrées à iGoogle et The University Research Program for Google Search (programme qui offrait des API d'accès aux résultats de recherche à des chercheurs universitaires)[83].
+
+En 2011, l'entreprise atteint le milliard de visiteurs uniques par mois[84]. Le 15 août 2011, Google annonce son intention d'acquérir Motorola Mobility pour la somme de 12,5 milliards $[85].
+
+En 2013, Google se développe dans le secteur de la robotique et acquiert 7 sociétés du domaine, dont Boston Dynamics, réputée pour sa collaboration avec le Pentagone et pour ses robots capables de courir en terrains accidentés[86]. Le département Robotique de Google est dirigé par Andy Rubin, ancien responsable du développement d'Android OS. Selon John Markoff[87], ces acquisitions seraient les prémices de la construction de systèmes autonomes capables de tout faire : aide aux tâches ménagères, livraison à domicile ou encore soin aux personnes âgées. En janvier 2014, Google acquiert Nest Labs, une entreprise américaine spécialisée dans la domotique, pour 3,2 milliards de dollars[88] Au mois de janvier 2014, Google annonce le rachat de DeepMind pour 400 millions de dollars, une startup londonienne spécialisée dans l'intelligence artificielle[89]. Le 29 janvier 2014, Google annonce la vente des smartphones Motorola au groupe chinois Lenovo[90]. Dans le même temps, suivant un document de la bourse de Hong Kong, Google prend, le 30 janvier 2014, une participation de 5,94 % du capital de Lenovo[91].
+
+Le 19 février 2014, Google officialise un investissement de 40 millions de dollars dans Renaissance Learning, une startup spécialiste en logiciels et services cloud dans le domaine de l'éducation[92].
+
+Le 12 mars 2014, Google confirme le rachat de Green Throttle Games, une startup spécialisée dans les jeux vidéo[93].
+
+En juin 2014, Google lance un nouveau service d'enregistrement de nom de domaine[94].
+
+Confirmant son intérêt pour les nouvelles technologies, Google investit, en octobre 2014, 542 millions de dollars dans Magic Leap, jeune société spécialisée dans les interactions homme-machine[95],[96].
+
+Le 23 avril 2015, Google entre sur le marché de la téléphonie mobile aux États-Unis en lançant Project Fi. Elle devient un opérateur virtuel en louant le réseau de ses partenaires T-Mobile et Sprint. Pour l'instant, seuls les propriétaires de téléphones Nexus 6 peuvent bénéficier de cette offre[97].
+
+Google devient Alphabet
+Article connexe : Alphabet (entreprise).
+En août 2015, Larry Page, ex-directeur de Google, annonce une importante réorganisation de l'entreprise. En effet, l'entreprise Google devient une filiale du nouveau groupe Alphabet. L'entité nommée Google se voit ainsi retirer toutes les activités qui ne concernent pas Internet ou l'informatique et qui deviennent des filiales à part entière d'Alphabet[98]. Ces filiales sont :
+
+
+Répartitions des différentes filiales d'Alphabet.
+Nest (domotique et objets connectés) ;
+Life Sciences (santé et lutte contre le vieillissement) ;
+Fiber (fournisseur d'accès à Internet) ;
+X (laboratoire multiprojets à long terme) ;
+Capital (finance) ;
+Ventures (investissements).
+Cependant, Google, qui est à présent dirigé par Sundar Pichai[99], garde, sans aucune modification, les autres marques plus connues du grand public, telles que le moteur de recherche Google, YouTube, Android, Google Play, Google Livres, AdSense[100].
+
+Pour les utilisateurs, cette restructuration ne change strictement rien, du moins à court terme. En effet, la restructuration et la création d'Alphabet permettent surtout d'améliorer la transparence de l'entreprise, et de séparer les activités qui ne rapportent pas d'argent (Calico, Google X) de la branche Internet, qui à elle seule rassemble presque tous les profits[101].
+
+Le 17 août 2015, Google présente son service « Sunroof », basé sur Google Maps, et qui permet de déterminer quelles sont les toitures adaptées à l'installation de panneaux solaires photovoltaïques. À cette date, les expérimentations se limitent aux régions américaines de Boston, de la baie de San Francisco et de Fresno[102],[103].
+
+Le 28 avril 2016, Google dépose un brevet sur une lentille de contact électronique permettant d'améliorer la vue. Celle-ci serait directement greffée au patient afin de remplacer la lentille naturelle de l'œil. Grâce à ses capteurs, elle adapte la vision en fonction de la lumière ambiante pour permettre de voir de près comme de loin[104].
+
+En mai 2016, Google annonce conjointement avec Facebook leur projet de créer un câble sous-marin transatlantique à haut débit afin d'accélérer la vitesse d'accès à leurs services et au Cloud. Le projet, du nom de MAREA, devrait relier les villes de Virginia Beach aux États-Unis à Bilbao en Espagne[105].
+
+Le 16 septembre 2016, Google lance Trips, une nouvelle application qui permet d'organiser ses voyages et, une fois sur place, d'accéder à toutes les informations nécessaires, même sans connexion[106].
+
+En novembre 2016, Google présente une nouvelle application, Cloud Jobs API, permettant aux employeurs et aux demandeurs d'emploi de trouver des offres en les recherchant par mots-clefs. Google n'est pas nouveau sur le marché numérique du travail, depuis la création d'Adwords[107] en 2000, les agrégateurs d'offres d'emploi peuvent débourser de l'argent pour que leur site apparaisse en premier dans le moteur de recherche pour certains mots-clefs (RH, développeur par exemple).
+
+En 2017, Google paye 3 milliards de dollars à Apple pour rester le moteur de recherche par défaut sur les terminaux iOS contre un milliard trois années auparavant[108].
+
+En 2017, HTC vend une partie de ses activités, notamment concernant ses téléphones pixels et certaines de ses licences et droits, à Google pour 1,1 milliard de dollars[109]. Le 8 juin 2017, Google se sépare aussi de son entreprise de robotique Boston dynamics[86].
+
+En décembre 2018, Google lance en France son système de paiement mobile avec une banque partenaire. Google Pay est accessible aux utilisateurs d'Android[110].
+
+En mai 2019, l'entreprise relance les Google Glass avec le modèle Enterprise Edition 2. Les Google Glass quittent le laboratoire X pour rejoindre la gamme des produits vendus directement par Google[111].
+
+Le 4 décembre 2019, Larry Page et Sergey Brin, cofondateurs de Google et par extension Alphabet, annoncent leur départ de la direction de l'entreprise. Ainsi, Sundar Pichai devient le CEO de Google en plus d'Alphabet[112].
+
+En août 2020, la société crée le « Android Earthquake Alerts System », un dispositif destiné aux smartphones de la marque permettant de détecter et signaler les premiers signes d'activité sismique précédant un tremblement de terre. Il s'appuie sur le système de « Shake Alert » développé par l'institut américain d'études géologiques[113],[114].
+
+En 2022, Google multiplie les acquisitions de start-up spécialisées dans la cybersécurité telles que Mandiant (mars 2022)[115] ou Siemplify (janvier 2022)[116]. Durant la même période, Google continue également d'investir massivement dans le cloud, en faisant l'acquisition par exemple de MobiledgeX[117].
+
+En janvier 2023, Google annonce la suppression de 12 000 emplois soit 6 % de ses effectifs, dans un contexte de suppressions de postes similaires dans les autres entreprises américaines de technologie[118].
+
+En novembre 2023, Google conclut un accord avec le gouvernement fédéral du Canada pour que la société californienne verse une compensation aux entreprises de presse du pays en échange de la diffusion de leurs contenus. Google versera 100 millions de dollars canadiens par an dans le cadre d’une loi qui contraint les grandes entreprises du Web à négocier des ententes financières avec les médias dont elles diffusent les contenus[119].
+
+Implantation en Chine
+Articles connexes : Censure d'Internet en république populaire de Chine et Opération Aurora.
+
+Dépôt de fleurs pour le refus des conditions imposées par la Chine.
+En 2006, Google accepte de brider son moteur de recherche pour pouvoir s'implanter en Chine. Le gouvernement chinois a, en effet, imposé certaines conditions pour l'entrée sur le marché d'Internet, la censure notamment. Les cofondateurs expliqueront ː « Afin de travailler à partir de la Chine, nous avons retiré certains contenus des résultats de recherches obtenus sur Google.cn, en application de la législation et de la réglementation locales »[120]. Ainsi, à partir du 25 janvier 2006[121], une recherche d'images dans Google.fr sur « Tian'anmen » affiche la célèbre photo de l'étudiant barrant la route aux chars, symbole des manifestations de la place Tian'anmen, tandis que sur Google.cn, les résultats affichent des portraits de familles joyeuses ou des photos de monuments[122]. Cette action a fait couler beaucoup d'encre dans les médias mondiaux.
+
+Cependant, le 12 janvier 2010, une attaque double pirate massive et « hautement sophistiquée » venue de Chine dite « opération Aurora » a ciblé plus d'une vingtaine d'entreprises dont Adobe, Google et Intel. Cette opération a permis à ses auteurs le vol de secrets industriels et la copie des mails de milliers d'exilés chinois et de militants des droits de l'homme[123]. Ces atteintes, malgré le respect et l'application des conditions imposées par le gouvernement chinois, provoqueront la fureur de l'entreprise californienne, qui menacera de ne plus appliquer aucune censure en reconnaissant que cette décision pourrait la contraindre à quitter le pays, mais retirer directement ses services de Chine[Gblog 30],[124]. 2010 est l'année où Google est censuré en Chine (sauf Hong Kong)[125].
+
+Cette annonce fut perçue par certains forums comme un bluff, puisque le marché de l'internet est très porteur (384 millions d'internautes fin 2009[69]) et que Microsoft a annoncé son intention de poursuivre ses activités avec Bing malgré tout[126]. Pour rendre hommage et affirmer leurs soutiens à de telles décisions, de nombreux Chinois déposèrent sur l'édifice portant le logo de l'entreprise fleurs, bougies et mots de soutien[127]. Ces actions sont devenues des phénomènes très médiatisés et l'affaire prit les tournures d'un incident diplomatique entre les États-Unis et la Chine.
+
+Les trois principaux moteurs de recherche dominants en Chine en 2016 sont[125] :
+
+Moteur de recherche	Utilisation sur le marché (%)
+Baidu	54,3
+Qihoo360	29,2
+Sogou	14,7
+Lieux et centres d'activités
+Article connexe : Plateforme Google.
+
+Bureaux en Espagne.
+Google possède des infrastructures et des bureaux partout dans le monde, même s'ils sont plus nombreux en Europe, aux États-Unis, en Inde et Chine littorale[128]. Le principal lieu où se déroule le développement de Google est le Googleplex situé en Californie. Le Googleplex est constitué de quatre principaux bâtiments, totalisant 47 038 m2 sur un terrain de 11 hectares. Le Googleplex abrite aussi le site de développement du système d'exploitation pour smartphones et appareils mobiles, appelé Android.
+
+L'entreprise Google possède un complexe à New York pour la recherche de nouveaux services.
+
+En Europe
+Google est aussi basé en Europe avec un siège à Dublin en Irlande. En mars 2008, l'entreprise crée un nouveau complexe à Zurich, en Suisse, pour son développement en Europe.
+Google crée à partir de 2007 un complexe de serveurs à Mons, en Belgique, dans la zone industrielle de Ghlin-Baudour. Une déviation du canal Nimy-Blaton pour le refroidissement ainsi qu'une ligne de chemin de fer sont prévues.
+Au Moyen-Orient
+Plusieurs bâtiments sont placés au Proche-Orient et Moyen-Orient : en Israël, à Dubaï et au Qatar.
+En Afrique
+En Afrique du Sud sont présents les locaux de Google pour son développement en Afrique. Le Nigéria a sa propre antenne avec des talents locaux comme Ire Aderinokun.
+En Océanie
+Le site australien basé à Sydney a vu naître Google Maps. Google Wave y était également développé.
+En France
+Article détaillé : Google France.
+À l'occasion d'une visite en France, Eric Schmidt annonce le 9 septembre 2010 la création d'un centre de recherche et développement à Paris[129].
+
+6 décembre 2011 : un complexe de 10 000 m2 est installé à Paris dans le 9e arrondissement (Quartier Europe). 100 millions d'euros ont été investis dans le projet.
+
+Dans ce complexe, 350 salariés travaillent sous les ordres de Jean-Marc Tassetto. À l'ouverture de ce centre, Eric Schmidt a déclaré : « La France est l’un des plus importants centres de culture, d’affaires et de technologie au monde. Le pays a rapidement adopté Internet et les Français aiment de plus en plus Google. Nous souhaitions donc plus nous impliquer et je suis heureux que le plan d'investissement lancé en septembre 2010 donne maintenant naissance à des réalisations concrètes, comme l'Institut Culturel et le Centre de R&D. J'ai hâte de voir la suite de ces projets mis en œuvre[130]. » Le 1er février 2013, aux termes d'un accord conclu avec les éditeurs de presse français, la société s'engage à financer à hauteur de 60 millions d'euros un fonds d'aide à « la transition de la presse vers le monde du numérique »[131].
+En mars 2013, Nick Leeder, Australien francophone et formé notamment à l'INSEAD, succède à Jean-Marc Tassetto, démissionnaire[132],[133].
+
+En juin 2022, Google ouvre son premier data center en France en région parisienne[134].
+
+Google France est répertorié comme représentant d'intérêt par la HATVP[135].
+
+En Russie
+À la suite du conflit ukrainien, la filiale russe de Google dépose le bilan le 18 mai 2022 et cesse ses activités en Russie. Le dépôt de bilan fait suite à la saisie du compte bancaire de Google par les autorités russes qui empêche tout fonctionnement de la filiale de Google en Russie. Le chiffre d'affaires de la filiale russe s'est élevé à 134,3 milliards de roubles (1,98 milliard d'euros) en 2021[136],[137].
+
+Technologie et propriété intellectuelle
+PageRank
+Article détaillé : PageRank.
+Le moteur de recherche Google repose principalement sur l'exploitation de la technologie PageRank. Le premier brevet (US 6.285.999 B1, intitulé « Method for Node Ranking in a Linked Database »), déposé en janvier 1997 et enregistré le 9 janvier 1998, est la propriété de l'université Stanford[138]. Le texte du brevet est accessible sur le site du bureau des brevets des États-Unis, qui a licencié cette technologie à Google en 1998 (amendée en 2000 et 2003), deux mois après sa fondation. Il s'agit d'une licence exclusive jusqu'en 2011, l'exclusivité prenant fin à cette date[139].
+
+Les recherches qui ont abouti au développement de la technologie du PageRank ont été financées en partie par la National Science Foundation (Grant NSF - IRI-9411306-4). Il est donc précisé dans le brevet que le gouvernement a certains droits sur cette invention[Lesquels ?][140].
+
+Open Source
+Google existe en grande partie grâce aux logiciels libres sur lesquels elle a été bâtie dès l'origine, tels Linux, MySQL et Python, qu'elle a contribué à améliorer en retour. Google emploie Andrew Morton, un contributeur très important au noyau Linux et a contribué au code de MySQL. Le logiciel libre permet à Google de repérer des programmeurs talentueux, capables non seulement d'imaginer des solutions techniques, mais aussi de les mettre en œuvre. Pour les attirer, Google a créé un environnement de travail où sont encouragées l'innovation, les idées techniques et la participation aux projets open source. Ainsi chaque développeur dispose de 20 % de temps libre pour travailler sur un projet de son choix, qu'il soit libre ou pas.
+
+Google a, de 2004 à 2014, soutenu la fondation Mozilla à travers un partenariat, car la mission de Mozilla - « préserver le choix et l'innovation sur l'Internet » - sert les intérêts de Google[141]. Google est le moteur de recherche par défaut de la barre de recherche de Mozilla Firefox en Europe. Les internautes européens utilisant Firefox font des recherches sur Google et cliquent sur les publicités d'AdSense. Les revenus que Google en tire sont alors partagés avec Mozilla, ce qui leur permet d'avoir les moyens financiers pour améliorer les standards du Web et les logiciels qu'ils éditent (dont Firefox et Mozilla Thunderbird), ce qui pousse les autres éditeurs de navigateur web à faire de même. En définitive, c'est Internet dans son ensemble qui bénéficie de ces améliorations et Google (ou d'autres) peut alors utiliser ces nouvelles possibilités dans ses produits grâce à son cycle rapide d'innovation.
+
+Google participe à l'open source et le soutient :
+
+le site Google Open Source[142] recense l'ensemble des projets Open Source de Google.
+le Google Summer of Code[143] permet d'entretenir les communautés de logiciels libres en amenant des étudiants au logiciel libre, pour qu'ils apportent des idées neuves et du code et qu'ils deviennent peut-être de nouveaux contributeurs réguliers à ces projets.
+Google Code Hosting  [archive] offre un hébergement aux projets de logiciels libres
+16 millions de lignes de codes publiées sous licence open source dans plus de 500 projets[144]
+De nombreux projets open source ont été créés[145] dont les plus connus sont :
+Chromium, base open source du navigateur web Google Chrome
+Android, système d'exploitation pour appareils mobiles
+Google Web Toolkit, une bibliothèque logicielle pour programmer des applications AJAX en Java
+Go, un langage pour la programmation système
+Logiciel propriétaire
+Google édite également des logiciels propriétaires, tels que Picasa ou Google Drawings.
+En novembre 2019, Google a lancé son plugin Wordpress SiteKit[146].
+En juin 2020, Google lance un nouveau réseau social qui se nomme Keen ; il sera disponible sur Android et sur Internet et permettra aux membres de partager leurs passions[147][Passage à actualiser].
+Finances
+Origine des revenus
+Google tire la majorité de ses revenus de la publicité avec différents mécanismes.
+
+Avec le système Ads (anciennement AdWords), littéralement publicité liée aux mots, Google vend des mots-clés aux enchères. Si une personne fait une recherche avec ce mot, les liens des sites de ceux qui ont participé aux enchères s'inscrivent dans la partie des liens commerciaux selon un ordre déterminé par l'algorithme de Google[148]. Chaque fois qu'une personne sélectionne un de ces liens, l'annonceur concerné doit verser une certaine somme à Google. C'est ce qu'on appelle le coût par clic[25].
+
+Le système AdSense for search permet à un site web d'accueillir un moteur de recherche offrant la technologie de Google et par extension les publicités AdWords suivant les mots-clés sur ses pages web. Google reverse une partie de ses gains, toujours au coût par clic, à ce site web, le partage étant de 51 % pour l'éditeur et 49 % pour Google. De même le système AdSense for Content permet à un éditeur d'afficher les encarts publicitaires de Google sur son site web, qu'il soit consulté sur ordinateur ou sur mobile, les revenus générés sont répartis à hauteur de 68 % pour l'éditeur et de 32 % pour Google[25],[149].
+
+Gmail comporte un affichage publicitaire contextuel dans la fenêtre de lecture des e-mails, la rémunération de Google étant toujours au coût par clic[25]. YouTube comporte également des publicités. Le réseau Display de Google permet à un annonceur de cibler précisément les modes de diffusion et les sites de contenu de sa campagne publicitaire ; l'internaute ne consultant un moteur de recherche et donc la publicité que 5 % de son temps, Google optimise les canaux de diffusion de la publicité[150].
+
+En dehors des activités publicitaires, Google a d'autres sources de revenus, notamment la location d'espace sur ses serveurs informatiques. Pour le stockage en ligne, Google propose gratuitement à ses utilisateurs de stocker des documents et des photos, et d'y accéder depuis n'importe quel poste (applications Google Drive et Google Photos). Mais lorsqu'un utilisateur atteint la limite d'espace disque autorisé, il peut acheter de l'espace disque supplémentaire. Google loue également ses serveurs pour l'hébergement de sites Internet (Google Cloud).
+
+Google Workspace (anciennement Google Apps) propose une solution de collaboration, qui réunit plusieurs outils bureautiques et de production. Une version gratuite est disponible, mais les organisations/entreprises désirant utiliser toutes les fonctionnalités de cette solution doivent payer mensuellement pour bénéficier de services supplémentaires.
+
+Google Play est un ensemble de plateformes de distribution numérique, comme Google Play Store, magasin d'applications destiné à la vente ou la location de livres, de jeux et d'applications Android, ou Google Play Musique. Google Store est quant à lui un magasin en ligne d'appareils informatiques, Google Nexus (tablettes et smartphones) entre autres.
+
+Données financières
+Google est une des startups qui ont franchi sans encombre le krach du NASDAQ en 2001, notamment du fait qu'elle n'était pas cotée. L'entreprise s'est introduite en Bourse par un système peu usité d'enchères en mai 2004 qui a comprimé de 5,5 à 1,5 % les commissions perçues par les banques d'affaires ; introduite à 80 $, l'action cotait 250 $ un an plus tard, ce qui valorisait l'entreprise à près de 74 milliards de dollars. Début 2006, l'action coûte 460 $ environ, elle franchit la barre des 600 $ (609,62 $) le 8 octobre 2007, puis celle des 700 $ le 31 octobre 2007, ce qui la place au quatrième rang en termes de capitalisation à la Bourse de New York. Avec les différentes crises financières de fin 2007 et début 2008 sur les marchés financiers et l'annonce d'un probable rachat de Yahoo! par Microsoft, l'action Google a chuté passant de 712 $ fin 2007 à 609 $ en février 2008.
+
+Le code de l'action au NASDAQ est GOOG. Le 2 avril 2014, le cours est divisé entre GOOG et GOOGL, le premier regroupant les titres de classe A et le second de classe C. Les actions de classe B sont toutes détenues par les fondateurs, Larry Page et Sergey Brin, ce qui renforce leur contrôle sur la direction de l'entreprise[151].
+
+Le 20 décembre 2005, Time Warner annonçait que Google allait prendre 5 % de participation dans le capital de sa filiale AOL[152],[153].
+
+
+Graphique représentant le chiffre d'affaires (en rouge) et le résultat net (en vert) en fonction du temps.
+Stratégie fiscale
+Afin d'éviter de payer les impôts auxquels sont soumises la plupart des entreprises américaines et européennes, Google utilise la technique dite d'« optimisation fiscale ». Les licences Europe, Moyen-Orient et Afrique de la marque sont exploitées par une société domiciliée aux Bermudes. Et « pour échapper au Trésor américain qui impose à hauteur de 35 % les bénéfices des entreprises rapatriés de l'étranger, la multinationale les laisse dormir aux Bahamas »[154].
+
+Selon Bloomberg, Google aurait réalisé une économie de 3,1 milliards[Quoi ?] de taxes sur les bénéfices en 2007 et 2009. En 2009, Google serait parvenu à abaisser son taux d'imposition à 2,4 % sur ses activités hors États-Unis, grâce à sa filiale irlandaise par laquelle transitent 88 % de ses activités internationales. Le taux d'imposition sur les bénéfices des sociétés, en Irlande, est, en effet, de 12,5 % contre 25 % en moyenne dans les autres pays où Google réalise l'essentiel de son chiffre d'affaires. Mais Google a également cherché à réduire le montant des bénéfices imposables de sa filiale irlandaise en lui imposant de reverser des redevances à une filiale néerlandaise, condition sine qua non afin que l'Irlande accorde l'exonération fiscale à Google Ireland Holdings, société jumelle de Google Ireland Limited, la filiale opérationnelle. Google Ireland Holdings transfère ses redevances à la filiale néerlandaise qui les transfère ensuite aux Bermudes. Cette stratégie a permis à l'entreprise de cumuler plus de 39 milliards de dollars au comptant[155].
+
+Le véhicule juridique utilisé par Google aux Bermudes, Google Bermuda Unlimited est adopté en 2006 et lui permet d'échapper à la fiscalité des pays où sont réalisées les ventes, mais également à l'obligation de publier ses comptes[156].
+
+Selon Paul Tang, économiste et membre de la délégation du Parti Travailliste hollandais (PvdA) au sein du groupe de l'alliance des socialistes et des démocrates au Parlement européen (Progressive Alliance of Socialists & Democrats in the European Parliament (S&D)), Alphabet, la maison mère de Google, n'aurait été imposé que de 0,36 à 0,82 % de son chiffre d'affaires entre 2013 et 2015 à l'intérieur de la zone UE, alors qu'Alphabet est imposé de 6,49 % à 8,79 % hors UE[157]. Ainsi, au sein de l'union européenne, les pertes s'enregistrent à hauteur de 3 955 millions d'euros entre 2013 et 2015[157].
+
+Si un taux de taxation à hauteur de 2 à 5 % avait été appliqué entre 2013 et 2015 tel qu'il avait été suggéré par le conseil ECOFIN, les pertes en cas d'évasion fiscale vis-à-vis de ce taux (virtuel) auraient été comprises entre 1 262 et 3 155 millions d'euros au sein de l'UE[157].
+
+Soupçons de fraude fiscale en France et amende pour non respect des droits voisins
+Le 18 décembre 2013, une étude menée par VRDCI[158] montre que les revenus de Google en France seraient supérieurs à ses déclarations. Entre novembre 2012 et novembre 2013, Google aurait réalisé 1,43 milliard d'euros en France, un chiffre loin des 193 millions d'euros déclarés par l'entreprise en France (lors de l'exercice fiscal 2012)[159].
+
+Au terme d'une enquête commencée en 2011, le fisc français en février 2014 aurait décidé d'infliger un redressement fiscal de près d'un milliard d'euros à Google pour s'être soustrait à l'impôt[160]. Lors de cette enquête (nom de code « Tulipe »), les membres du parquet ont travaillé durant une année hors connexion, pour garantir une confidentialité maximale autour du dossier[161].
+
+En 2017, le tribunal administratif de Paris annule ce redressement fiscal qui concerne la période de 2005 à 2010, au motif que Google ne disposait pas en France d'un établissement stable[162]. L'administration fiscale ayant fait recours, la justice donne raison à Google et confirme en avril 2019 l'annulation de ce redressement fiscal de 1,15 milliard d'euros[163].
+
+Selon le rapport de Paul Tang, en France, pour 55 millions d'utilisateurs en 2015 (représentant 14 % du flux internet en Europe) les pertes dues à l'évasion fiscale s'enregistrent à hauteur de 544 millions d'euros entre 2013 et 2015[157].
+
+En 2019, Google décide de verser 965 millions d'euros à la France pour clore le dossier du parquet national financier[164].
+
+En mars 2024, l’Autorité de la concurrence inflige 250 millions d’euros d’amende à Google pour non respect des droits voisins. Elle reproche à la société américaine de ne pas avoir respecté ses engagements, pris en 2022, de mettre en œuvre un mécanisme européen de rémunération des médias en ligne ainsi que l’utilisation des contenus de la presse dans son IA Google Gemini[165].
+
+Données collectées
+Les différents outils Google collectent des données qui sont exploitées pour améliorer l'efficacité des services Google, tels que Google Ads. Ces outils Google partagent la même politique de confidentialité, vers laquelle redirige chaque service[166]. La quantité importante de services proposés par Google a mené Google à fusionner le 1er mars 2012 les 70 documents de confidentialité et les 60 règles existantes présentant le traitement des données collectées par les différents services.
+
+La centralisation de la gestion des données collectées dans les services tels que Analytics ou Android à travers un compte Google est justifiée par un objectif de croisement de ces données pour apporter par un service plus personnalisé, mais aussi une publicité plus ciblée, qui ont soulevé des inquiétudes sur la vie privée[167]. Certains services comme Google wallet ou le logiciel Google chrome garderont néanmoins des règles spécifiques du fait de contraintes réglementaires particulières[168].
+
+Une étude publiée le 14 avril 2026 indique que les entreprises Google, Meta et Microsoft ne respectent pas le dispositif Global privacy control (GPC) et dépose des cookies publicitaires même lorsque le navigateur a activé l'option interdisant le pistage. Ce comportement contrevient au California Consumer Privacy Act et au Règlement général sur la protection des données (RGPD)[169].
+
+En juillet 2026, la Commission européenne impose à Google le partage de ses données de moteur de recherche à compter de janvier 2027 afin d'éviter un monopole et favoriser la concurrence. Un chercheur de Google a au cours des négociations prouvé qu'il était possible de réidentifier les données d'utilisateurs à partir de données collectées par le moteur et dites « anonymisées » telles qu'« une maladie, une adresse, un emploi, un déplacement » et ce y compris une fois le nom et l'adresse IP effacés. Seuls les moteurs de recherche respectant le RGPD et approuvés par Google pourront accéder à ces données[170].
+
+Applications, navigateurs et appareil
+Les données collectées pour une personne varient selon qu'elle ait un compte Google ou pas.
+
+Utilisation sans compte Google
+L'usage de services Google sans compte donne lieu à la collecte d'informations. Celles-ci comportent l'identifiant unique associé au navigateur, application ou appareil (ordinateur portable, téléphone, tablette, etc.), les préférences (langue, acceptation des publicités, personnalisation des recherches), le système d'exploitation et sa version. Elles incluent les échanges avec d'autres personnes à travers les services Google (courrier électronique, photos, vidéos enregistrées, documents en ligne, commentaires YouTube, etc.)[166].
+
+Utilisation avec un compte Google
+Un compte Google est associé à plusieurs informations, obligatoires, nom et mot de passe, ou optionnelles, telles qu'un numéro de téléphone et des informations de paiement[166].
+
+Activité
+L'activité sur les différents services est collectée, l'objectif affiché est d'adapter le résultat des pages à chaque personne.
+
+Parmi l'activité sur les services Google, les informations collectées regroupent[166] :
+
+les mots-clés recherchés, incluant ceux entrés sur les moteurs de recherche, qu'il s'agisse de Google, ou des recherches sur YouTube, Google Maps, Google Livres, Google Actualités, Google Home, etc. , quel que soit l'appareil utilisé ;
+les vidéos regardées, sur YouTube, mais aussi sur les pages qui proposent des vidéos YouTube ;
+les interactions avec les publicités, incluant les déplacements de souris au-dessus des publicités sans nécessiter de clic, et dans les pages qui les contiennent ;
+les informations audio et vocales captées, comme les sons enregistrés par les assistants vocaux Google Home, de téléphone mobile et de tablette ; cela inclut des enregistrements sur un certain intervalle de temps avant leur activation audio (pour identifier une activation) ;
+les activités autour des achats ;
+les personnes avec lesquelles ont lieu des échanges ou des partages de contenus ;
+l'activité sur les sites tiers et les applications qui utilisent les services Google, comme les applications utilisant une bibliothèque de développement comme Google Firebase, les sites utilisant Google Analytics pour l'analyse de trafic, ou Google Ads pour générer des revenus avec la publicité, les pixels espions intégrés dans les pages visitées ou les courriers électroniques, le cache de navigateur Chrome ou des applications Android, etc. ;
+l'historique de navigation Chrome synchronisée avec un compte Google ;
+les métadonnées des appels et messages passés par les services Google tels que les numéros de téléphone appelant et appelé, les numéros de transfert, l'heure et la date des appels ou des messages, la durée des appels, les données de routage, le type et le volume d'appel et de messages ;
+Dans le cas où un compte Google est utilisé, il est possible d'accéder à et gérer ces informations.
+
+Position géographique
+La position peut être collectée par les capteurs d'un appareil portatif tel qu'un téléphone mobile ou une tablette, ces capteurs incluent les GPS, les accéléromètres, et les gyroscopes.
+
+Cette position peut être déduite de l'adresse IP de l'appareil, mais aussi des recherches et des lieux sur lesquels un libellé est ajouté, comme le lieu d'habitation ou le lieu de travail.
+
+Enfin, elle peut être obtenue par les appareils qui passent à proximité de l'appareil, tels que des bornes Wi-Fi, des antennes relais et des appareils connectés en bluetooth[166].
+
+Informations collectées auprès de tiers
+Des informations accessibles publiquement sur Internet peuvent être collectées pour usage dans des outils tels que Google traduction, ou encore l'indexation du moteur de recherche Google.
+
+Des informations peuvent aussi être collectées auprès de partenaires tels que des services d'annuaires fournissant des informations commerciales affichables sur Google Maps, des services marketing pour la prospection de clients potentiels des services professionnels, ou des informations permettant de vérifier la véracité des certaines personnes qui utilisent des services Google[166].
+
+Communication
+Identité visuelle
+Article détaillé : Logo de Google.
+Le logo de Google est très simple et provient de son moteur de recherche. Il est constitué du mot Google écrit en police Catull, dont les lettres sont colorées dans l'ordre suivant : bleu-rouge-jaune-bleu-vert-rouge. Cette composition n'a pas changé depuis 1999, si ce n'est la mention « bêta » et le point d'exclamation qui ont disparu. Il a été créé par Ruth Kedar, qui enseignait le design à l'université Stanford à l'époque où les fondateurs du moteur de recherche, Larry Page et Sergey Brin, étudiaient[171]. Cette architecture de couleur et de forme se retrouve sur plusieurs produits, notamment Gmail.
+
+Si le logo de l'entreprise ne change pas, celui de son moteur de recherche est régulièrement remplacé pendant un jour pour marquer ou commémorer un événement particulier. Ces logos, présents uniquement sur la page d'accueil, sont alors visuellement adaptés au thème de la journée. Ce sont les Google Doodles (« doodle » désigne un gribouillage en anglais et permet une paronomase avec « Google »). Il est possible de visualiser le logo Google en art ASCII en recherchant ce même terme dans le moteur de recherche de Google.
+
+Google a gardé son premier logo assez longtemps. Le logo est connu pour ses lettres multicolores et en relief. À partir de fin septembre 2013, Google change légèrement son logo, pour plus de modernisation : les couleurs sont plus pâles et les lettres sont désormais en deux dimensions.
+
+Le logo change à nouveau dès septembre 2015, pour prendre une police plus grasse et arrondie, tout en gardant les mêmes couleurs pour chaque lettre.
+
+Logo du 15 septembre 1997 au 27 septembre 1998
+Logo du 15 septembre 1997 au 27 septembre 1998
+ 
+Logo du 28 septembre au 29 octobre 1998
+Logo du 28 septembre au 29 octobre 1998
+ 
+Logo du 30 octobre 1998 au 30 mai 1999
+Logo du 30 octobre 1998 au 30 mai 1999
+ 
+Logo de la version bêta de Google du 29 octobre 1998 à 1999
+Logo de la version bêta de Google du 29 octobre 1998 à 1999
+ 
+Logo du 31 mai 1999 au 5 mai 2010
+Logo du 31 mai 1999 au 5 mai 2010
+ 
+Logo du 6 mai 2010 au 18 septembre 2013
+Logo du 6 mai 2010 au 18 septembre 2013
+ 
+Logo du 19 septembre 2013 au 31 août 2015
+Logo du 19 septembre 2013 au 31 août 2015
+ 
+Logo du 1er septembre 2015 au 19 mai 2026
+Logo du 1er septembre 2015 au 19 mai 2026
+ 
+Logo depuis le 19 mai 2026
+Logo depuis le 19 mai 2026
+Slogan
+Jusqu'en octobre 2015, le slogan de Google est Don't be evil[172] (« Ne soyez pas malveillants »). Au printemps 2004, la phrase figurait même en tête du courrier adressée aux investisseurs, quelque temps avant leur entrée en bourse. Larry Page a écrit que « Par cette phrase qui est notre devise, nous avons tenté de définir précisément ce qu'être une force bénéfique signifie - toujours faire la chose correcte, éthique ». Cette devise résume assez bien la volonté supposée de Larry Page et Sergey Brin qui tend à faire de Google une société qui œuvre pour un monde meilleur[173].
+
+La société a parfois été prise à partie sur son slogan, en particulier à propos du filtrage interdisant l'accès à certains sites ou à des pages contenant certains mots depuis la Chine. En particulier, google.cn veille à ne pas faire figurer sur ses pages de réponse les chaînes de caractères qui provoquent la déconnexion de l'utilisateur par les mécanismes de surveillance automatique que doivent assurer les fournisseurs d'accès. Elle a expliqué que, selon elle, mieux valait pour les utilisateurs chinois un Google imparfait que pas de Google du tout.
+
+En octobre 2015, le slogan est remplacé par Do the right thing[174] (« Faites ce qui est juste »).
+
+En avril 2018, Don't be evil a été complètement supprimé du code de conduite d'Alphabet[175]. Seule une mention subsiste, la dernière phrase : « And remember… don’t be evil, and if you see something that you think isn’t right – speak up ! » (« Et rappelez-vous… ne soyez pas malveillant, et si vous voyez quelque chose qui vous semble mal : exprimez-vous ! »)[176].
+
+Discrétion
+Google est connu pour sa discrétion, voire son silence auprès des journalistes. Un exemple documenté est celui de Mark Jen, un nouvel employé qui arrive chez Google le lundi 17 janvier 2005. Celui-ci crée alors un blog, retraçant ses impressions sur la société. Mais peu à peu, le ton du blog devient contestataire, Mark Jen allant même jusqu'à déclarer que « Les avantages que procure Microsoft au niveau des soins ridiculisent ceux qu'offre Google. » Le 28 janvier, Mark Jen apprend son licenciement, à cause de son blog. Cet exemple illustre la volonté de discrétion de la société, les journalistes n'arrivant quasiment jamais à décrocher un entretien avec les deux fondateurs, Page et Brin[177].
+
+Engagements environnementaux
+Pour être en accord avec sa politique de développement durable, des services de covoiturages sont organisés et les déplacements entre les bâtiments se font à vélo. Les bâtiments sont surmontés de plusieurs milliers de capteurs solaires. Dans la même visée, au lieu d'employer des tondeuses à gazon pour débroussailler les alentours du Googleplex dans des mesures de lutte anti-incendie, l'entreprise a recruté 200 chèvres[178],[Gblog 31].
+
+Toutefois, cet affichage est mis à mal par la réputation de la société d'être un très grand consommateur d'énergie[179], par le biais de ses grappes de serveurs.
+
+Fin juin 2011, Google injecte 280 millions de dollars dans l'entreprise SolarCity, ce qui porte ses investissements totaux dans les énergies vertes à 680 millions $[180].
+
+Fin septembre 2011, Google s'associe à Clean Power Finance (en) et investit 75 millions de dollars pour installer des systèmes d'énergie solaire chez des particuliers dans le but de démocratiser cette énergie auprès des citoyens[181].
+
+En juillet 2016, Google a fait installer l'intelligence artificielle DeepMind au sein de ses serveurs pour faire baisser sa facture d'électricité en refroidissement de 40 %[182].
+
+En 2020, Google s'est engagé à atteindre des émissions de carbone nulles en 2030[183]. En juillet 2024, son rapport environnemental révèle que ses émissions en 2023 ont été de 14,3 millions de tonnes de dioxyde de carbone (CO2), soit une augmentation de 48 % depuis 2019[184].
+
+Nouvelle forme de travail
+Article connexe : Organisation du travail.
+Google entend fonctionner avec une hiérarchie légère et peu contraignante. L'autonomie et un encadrement libéral offrent aux employés des postes de travail moins stressants. Des plannings sont établis pour établir les lignes directrices du travail collectif ; Google incite toutefois ses employés à adhérer à la politique du 80-20 : un horaire composé de 80 % de travail imposé par la direction et 20 % du temps consacré à des projets autonomes sans restrictions notables[185].
+
+Par ailleurs, Google s'efforce de créer un cadre de travail motivant. Appliquant les principes d'organisation adhocratique, elle laisse ses employés libres de gérer l'environnement de leur poste de travail[186] et prône le travail en équipe. Pour ce faire, l'entreprise utilise des plannings communs et des wikis internes. Les lieux de travail sont également radicalement différents de ceux des autres entreprises : la direction offre à ses salariés l'utilisation gratuite de nombreuses installations de divertissement ou de bien-être. Le Googleplex, siège de l'entreprise, comporte des salles de repos, des salles de billard, des terrains de sport, une piscine, un service de massage ou de coiffure[185]. Les employés sont autorisés à venir avec leur chien, mais pas avec leur chat, au Googleplex[187].
+
+Cette politique de bien-être a pour objectif de générer une plus grande motivation et, en conséquence, une productivité accrue[187]. Parallèlement, cette vie professionnelle hors norme devrait fidéliser les employés[187], assurant ainsi la stabilité de la masse salariale[188],[189]. En effet, d'un point de vue sociologique, cette forme de travail se base sur une très forte intégration de ces derniers au sein de l'entreprise[190] : cette intégration permet aux valeurs de groupe de prendre l'ascendant sur les sentiments personnels et incite les employés à faire passer les intérêts de l'entreprise avant leurs intérêts propres.
+
+En 2023, Google annonce un plan social qui va toucher 12 000 postes dans le monde[191]. Google réduit également ses budgets en diversité et inclusion[192], jusqu'à y mettre totalement un terme à la suite de l'élection de Donald Trump[193].
+
+Critiques et controverses
+Article détaillé : Critiques de Google.
+Craintes d'un abus de position dominante
+Article connexe : Amende de 2,42 milliards d'euros infligée à Google en 2017 par la Commission européenne.
+À mesure que Google se développe et prend une importance de plus en plus considérable dans la gestion des informations mondiales, se développent en parallèle de nombreuses critiques d'une entreprise dont quelques hommes politiques (par exemple Jean-Noël Jeanneney[194]) craignent qu'elle puisse abuser de sa position, notamment en recueillant des données très privées des internautes utilisant ses services, et en les utilisant, voire en en louant l'usage, de manière abusive. Un nombre croissant d'instruments informatiques a ainsi été développé par différents groupes d'activistes et de militants pour limiter les capacités intrusives de Google. Il s'agit, par exemple, de masquer les publicités AdWords.
+
+Parmi ces instruments, on peut citer le réseau Tor (« The Onion Router », littéralement : « le routage en oignon »), qui anonymise les internautes (le résultat visible avec Google est que les publicités ne sont plus ciblées) ; le logiciel Scroogle, un « Google Scraper » développé par l'activiste Daniel Brandt[195] qui détourne le moteur de recherche, lui fournit une nouvelle adresse IP à chaque recherche, et accepte l'installation du cookie sur son serveur avant de le jeter à la poubelle ; ou encore l'extension pour Mozilla Firefox « Optimize Google » qui permet de rendre anonyme le cookie Google, empêche Google Analytics de récolter des statistiques sur l'utilisateur et supprime également les publicités, à l'instar de Adblock Plus (extension de navigateur). Par ailleurs, certains sites militant pour la défense de la protection des informations privées[196] donnent des informations sur la manière dont les internautes peuvent faire valoir auprès des régies publicitaires, et notamment auprès de Doubleclick, leur droit d'exiger que les données les concernant ne soient pas récoltées (elles le sont par défaut, mais il existe un système d'opt-out).
+
+La régie publicitaire Doubleclick est rachetée par Google en 2007 pour 3,1 milliards de dollars ce qui induit une forte concentration du marché entre les mains d'un seul acteur, mais en dépit de protestations la Federal Trade Commission et la Commission européenne ont validé ce rachat[25].
+
+Au cours du premier semestre 2014, Google a dépensé 9,5 millions de dollars[Où ?] pour faire du lobbying, soit plus que presque toute autre entreprise. Selon Marc Rotenberg, président du Electronic Privacy Information Center, Google finance un grand nombre de groupes de réflexion axés sur la politique de l'internet et des télécommunications. Cette stratégie a réduit au silence les critiques contre l'entreprise au cours des dernières années[197]. D'après Barry Lynn de la New America Foundation, « Google est très agressif en jetant son argent autour de Washington et de Bruxelles, puis en tirant les cordes […] Les gens ont peur de Google maintenant ». Toujours selon Lynn, Google essaye de « censurer les journalistes et les chercheurs qui luttent contre les monopoles dangereux »[198]. À la suite d'une publication louant les sanctions de l'Union européenne contre Google, Barry Lynn a été licencié de la New America Foundation et sa publication a été temporairement supprimée en raison d'un « problème interne non intentionnel »[198]. La New America Foundation est un think tank de Washington qui a reçu plus de 21 millions de dollars de Google. La New America Foundation est perçue comme une voix qui compte au sein de la gauche américaine[199],[198].
+
+En avril 2015, la commission européenne après enquête présente à Google une « communication de griefs » sur sa position dominante. La commission accuse le moteur de recherche de mettre en avant ses propres services au détriment de ceux de ses concurrents dans les résultats de recherche notamment son comparateur de prix Google Shopping et cela « en violation des règles de l’Union européenne en matière d’ententes et d’abus de position dominante » selon les termes de Margrethe Vestager, commissaire européenne chargée de la concurrence. Cela présenterait également à l'utilisateur des résultats qui ne seraient pas les plus pertinents. D'autre part, une enquête est également ouverte concernant des faits de distorsion de concurrence pour son système d'exploitation mobile Android. La peine encourue par Google serait une amende pouvant représenter 10 % de son chiffre d'affaires, soit environ six milliards de dollars[23],[200],[201]. En juin 2017, Google est condamné par les autorités de la concurrence européenne à une amende de 2,42 milliards d'euros pour abus de position dominante via son comparateur de prix Google Shopping[202]. Le 10 septembre 2024, la Cour de justice de l'Union européenne (CJUE) confirme cette amende de 2,4 milliards d'euros infligée à Google en 2017 par la Commission européenne pour pratiques anticoncurrentielles[203],[204],[205],[206].
+
+Selon d'anciens cadres de Mozilla, Google aurait saboté Firefox pendant des années en y introduisant de petits bugs afin de favoriser l'application Google Chrome[207].
+
+Le 9 avril 2020, l'Autorité de la concurrence française a prononcé des mesures conservatoires à l'encontre de Google, l'obligeant à négocier la rémunération des éditeurs de presse en ligne[208].
+
+En octobre 2020, aux États-Unis, le département de la justice via le procureur général William Barr ainsi que 11 états (Arkansas, Floride, Géorgie, Indiana, Commonwealth of Kentucky, Louisiane, Mississippi, Missouri, Montana, Caroline du Sud et Texas) déposent une plainte contre Google pour abus de position de dominance[209].
+
+En juin 2021, l'Autorité de la concurrence en France, en parlant de « pratiques très graves » impose une amende de 220 millions € à Google pour avoir abusé de sa position dominante et favorisé ses propres solutions sur le marché des technologies de publicité en ligne (adserver et RTB)[210].
+
+Le 24 janvier 2023, le département de la justice des États-Unis ainsi que 8 États (Californie, Virginie, Connecticut, Colorado, New Jersey, New York, Rhode Island et Tennessee) poursuivent Google devant le tribunal fédéral d'Alexandria pour monopole et pratique anticoncurrentielle, les États plaignants complètent ceux qui se sont associés à la plainte en 2020 pour les mêmes raisons[211].
+
+En 2023, un tribunal fédéral de Californie reconnaît que le magasin d'application Google Play constitue un monopole illégal[212].
+
+En mars 2024, la législation européenne sur les marchés numériques met en place des contraintes afin de limiter les avantages offert à Google par sa position dominante. Elle empêche ainsi l'entreprise de favoriser son comparateur de vol Google Flights (en) dans les résultats de son moteur de recherche, ou de présenter une carte Google Maps en tête des résultats de recherche de certains lieux[213]. L'entreprise fait le choix de ne retirer tout service plutôt que de proposer des services concurrents[214]. Cette législation impose aussi de faciliter le choix d'un autre navigateur par défaut que Chrome sur les téléphones Android[213].
+
+Le 5 août 2024, le juge Amit Mehta de Washington reconnaît Google coupable de pratiques anticoncurrentielles en ayant payé entre autres des entreprises fabricantes de téléphones ou développeuses de navigateurs web pour installer par défaut son moteur de recherche sur le navigateur Safari d'Apple, ou Samsung et Verizon pour l'installer sur les téléphones qu'elles produisent. Google est utilisé pour 90 % du marché des recherches dans le monde, et 95 % pour les recherches sur téléphones. En 2021, 26 milliards de dollars ont ainsi été dépensés à cet effet, convaincant Apple de ne pas développer son moteur de recherche alors qu'elle avait les moyens de le faire. Le montant de l'amende et les contraintes imposées à Alphabet pour corriger cette faute feront l'objet d'une décision distincte, les autorités antitrust des États-Unis n'ont pas écarté la possibilité d'un démantèlement de l'entreprise. Le cours de l'action d'Alphabet a chuté de 4,61 % le 5 au soir. Les avocats de l'entreprise ont annoncé leur intention de faire appel[212],[215].
+
+Le 3 janvier 2025, dans le cadre de l'accord passé avec le gouvernement canadien, qui l'accuse de pratiques anticoncurrentielles sur le marché de la publicité en ligne, Google verse 100 millions de dollars canadiens (soit plus de 67 millions d'euros) aux médias canadiens, par l'intermédiaire du Collectif du journalisme canadien, une organisation à but non lucratif créée spécialement pour gérer la répartition de cet argent. Selon Paul Deegan, le président de News Media Canada (une organisation représentant des centaines d'éditeurs), chaque média peut espérer obtenir 20 000 dollars canadiens par journaliste. Et d'après un porte-parole de la firme américaine, un nouveau paiement est prévu pour fin 2025[216],[217].
+
+Le 2 septembre 2025, le juge fédéral de Washington Amit Mehta décide que l'entreprise devra céder ses résultats de recherche et certaines de ses données à ses concurrentes sans pour autant imposer la séparation du navigateur Chrome ou le démantèlement comme cela avait été requis. Il interdit aussi la signature d'accord d'exclusivité qui interdirait à ses concurrentes d'utiliser d'autres produits ou services sans remettre en cause néanmoins l'accord avec Apple qui fait de Chrome le navigateur par défaut des iPhone avec Safari. C'est une des plus importantes décisions en matière de procès sur les monopoles depuis le procès contre Microsoft en 2002, qui avait abouti à un compromis après une victoire du groupe en appel. Google prévoit de faire appel de l'accusation de monopole. La décision du juge est critiquée comme une faiblesse face au monopole de l'entreprise par certains, tandis qu'elle est considérée par une reprise de contrôle de l'État par d'autres[218].
+
+Contrôle de l'information
+Article détaillé : Censure de l'Internet#Principaux opérateurs de services Web.
+Les géants du web détiennent un quasi-monopole sur le flux d'informations et, en tant que tel, sont en mesure de manipuler le discours public[219]. Internet est un ensemble de services de base. La plupart de ces services sont détenus et gérés par des sociétés privées, qui hébergent le contenu et donnent aux utilisateurs la possibilité de le consulter ou d'en créer de nouveaux. Si ces fournisseurs de services de base ne veulent pas de quelque chose sur Internet, ils peuvent le censurer et le faire disparaître d'Internet dans le monde entier[220]. Ce contrôle d'Internet est, dans les faits, concentré dans les mains de quelques entreprises massives qui font tout pour que le public n'en soit pas conscient[220].
+
+Dans le cas de Google, le contrôle de l'information s'effectue principalement au niveau du moteur de recherche, qui est la principale porte d'entrée aux contenus présents sur internet : en modifiant les résultats affichés, l'entreprise peut rendre des informations inaccessibles ou en mettre d'autres en avant. Google News est son pendant pour l'actualité. Selon l'éditorialiste Tucker Carlson, « Google est en 2017 la société la plus puissante de l'histoire du monde. Google contrôle la réalité et a déjà démontré une volonté troublante de fausser cette réalité à des fins idéologiques »[219]. Réagissant à un blocage des revenus grâce aux contenus publicitaires de centaines de vidéos sur YouTube, SkyNews écrit « c'est de l'intimidation. Le débat n'existe plus »[221].
+
+En avril 2017, Google développe un nouvel algorithme pour rendre plus difficile l'accès aux sites propageant des « théories du complot » et conforter la place des médias dominants. Toutefois, pour ses détracteurs, la mesure s'apparenterait à une censure des sites présentant des opinions différentes, dont la couverture et l'interprétation des événements s'opposent à celles des médias dominants. Certains sites, comme WikiLeaks ou des sites critiques de la politique extérieure des États-Unis, ont connu une baisse massive de visites[222].
+
+En avril 2018, Google désactive les écrans de domaines, sur pression exercée par le gouvernement russe pour limiter l'utilisation de l'application de messagerie sécurisée Telegram, qui utilisait ces réseaux[223], argumentant que cette fonctionnalité « n'a jamais été prise en charge »[224].
+
+Google contrôle la liste des applications disponibles sur Play Store et crée systématiquement des obstacles pour empêcher les utilisateurs Android de télécharger d'autres magasins d'applications pour leur smarphone depuis Google Play[225]. Google empêche l'accès au Google Play Store à des applications qui peuvent entraver ses sources de revenus par la publicité, parmi lesquelles Disconnect qui a porté plainte auprès de l'Union européenne[226], les applications AdBlock Plus en 2013 et AdBlock Fast en 2016[226]. En septembre 2017, le réseau social Gab.ai a intenté un procès contre Google qu'il accuse de violer les lois antitrust fédérales en ayant banni l'application du Google Play[227]. À cette occasion, Andrew Torba, chef de la direction de Gab.ai, a déclaré « Google est la plus grande menace pour la libre circulation de l'information »[227].
+
+Vie privée et informations personnelles
+La multiplication des services proposés par Google engrange une demande accrue de renseignements sur les utilisateurs : suivi de la navigation internet et stockage des mots-clés, informations livrées dans les formulaires, scan des mails dans Gmail, liste des applications téléchargées et historique de géolocalisation dans les smartphones Android, entre autres. Cela pose à chaque innovation la question du respect de leur vie privée, comme le note la philosophe et philologue Barbara Cassin dans son ouvrage sur Google[Lequel ?]. Google croise ces données pour affiner le profil des utilisateurs, et améliorer le ciblage des publicités sur Internet.
+
+Une telle concentration d'informations sur les individus et leur conservation inquiètent les organisations de défense de la vie privée sur Internet, comme l'Electronic Frontier Foundation[228] ou le « Groupe de travail de l'article 29 »[229] de la Commission européenne, une nouvelle forme de surveillance très sophistiquée et un danger pour la liberté des personnes. Récemment, Google fut placé tout en bas du classement[230] élaboré par l'ONG Privacy International, qui dit de Google qu'elle est « ennemie du respect de la confidentialité en raison de la surveillance totale des utilisateurs ». Tout ceci est d'autant plus inquiétant depuis que Google a signé un contrat de sécurisation avec la NSA, services secrets des États-Unis, laissant présager la fourniture des informations des usagers à ces services[231]. Google est également attaqué en Allemagne par l'équivalent allemand de la CNIL, puisque sa Google Car collecterait toutes les informations sur les HotSpot Wi-Fi et leurs adresses MAC sur son passage[232]. Le 29 avril 2012, le New York Times révèle que cette collecte de données personnelle n'était ni fortuite ni une erreur, mais que des responsables avaient été avertis. Ces derniers n'ont pas stoppé la démarche[233],[234]. En 2004, Google, associé à AOL, Amazon.com, CNet, eBay, Microsoft et Yahoo!, a pratiqué aux États-Unis du lobbying contre le Spyware Control Act en Utah obligeant de demander l'accord explicite de l'utilisateur pour activer des options de traçage de ses choix ou avant l'installation d'un logiciel espion[235]. Les raisons de leur opposition, selon eux, étaient d'ordre technique et non éthique : dans la lettre envoyée au sénateur Valentine et au représentant Urquhart, ils reconnaissent les très bonnes intentions de la loi[236].
+
+Au sujet des éventuelles techniques de traçage employées par Google, Google Watch, site de l'activiste américain Daniel Brandt, tente de démontrer les failles et le manque de neutralité de Google et propose un proxy, Scroogle, permettant de soumettre une recherche Google sans être épié d'une quelconque façon. Il dénonce entre autres sa censure orientée, dans d'autres pays comme la Chine[237], ou les États-Unis, concernant l'invasion de l'Irak et la prison d'Abou Ghraib. À ce sujet, Google a dans un premier temps refusé de se plier aux injonctions du gouvernement américain fin 2006 en ne lui donnant pas accès aux listes de recherche et URL qui lui étaient demandées pour contribuer à une loi sur la répression de la pédophilie. Néanmoins, ils ont ensuite remis 50 000 URL au gouvernement, mais le juge chargé de l'affaire a décidé que Google n'avait pas à remettre les listes de mots-clés demandées par le gouvernement[238]. En France, les garanties de respect de la vie privée apportées par la CNIL ne sont pas applicables à des services dont les serveurs sont situés hors du territoire national. Le refus de Google[239] de se soumettre aux lois locales crée donc une extension de fait de la juridiction américaine. Ce refus lui a valu le Big Brother Awards français 2007.
+
+En 2007, le chef du service expertise informatique de la CNIL juge ainsi : « En clair, Google peut contrôler toutes les données personnelles des individus. En exploitant de façon corrélée ces outils, Google pourrait se transformer en une redoutable société de surveillance. […] Les internautes doivent savoir qu'en utilisant les services de Google, ils lui donnent la possibilité de les surveiller »[240]. Seul Google n'a pas réagi à la recommandation du G29 (Union européenne), c'est-à-dire « de porter à six mois maximum, contre au moins douze mois aujourd'hui, la durée pendant laquelle les moteurs de recherche sur Internet ont le droit de conserver ou d'utiliser les données personnelles »[241].
+
+En 2012, Google modifie sa politique de règles de confidentialité, et prévoit de stocker et croiser tout élément concernant ses utilisateurs : données personnelles telles que nom, adresse, numéro de téléphone, numéro de carte de paiement, données techniques sur les appareils connectés et leurs paramétrages, journaux de consultation ou d'utilisation des outils Google[242].
+
+En 2013, le moteur de recherche communique le nombre de ses comptes internet surveillés par le gouvernement américain, dans le cadre du Patriot Act, qui cherche à prévenir d'éventuelles activités terroristes[243].
+
+Le 8 janvier 2014, la Commission nationale de l'informatique et des libertés (CNIL) a sanctionné Google à une amende de 150 000 euros, estimant que les règles de confidentialité mises en œuvre par la firme depuis le 1er mars 2012 ne sont pas conformes à la Loi informatique et libertés en France[244]. La sanction pécuniaire s'accompagne de l'obligation de publier un communiqué sur la page d'accueil de Google.fr pendant 48 heures[245],[246].
+
+Le 13 mars 2014 la Cour européenne de justice a débouté Google dans une affaire de « droit à l'oubli numérique ». La Cour européenne de justice a estimé que l'exploitant d'un moteur de recherche est responsable des données personnelles qui apparaissent sur ses pages et de leur traitement[247]. Face à la pression effectuée par la Cour européenne de justice, Google s'est montré très réactif et a mis en place le 30 mai 2014 un formulaire de droit à l'oubli qui permet à l'internaute qui le souhaite de faire effacer certaines informations le concernant[248],[249]. Le résultat est au rendez-vous puisqu'en 24 h, la firme de Mountain View avait déjà reçu 12 000 requêtes[250]. Mi-juillet 2014, Google nomme un comité consultatif de dix experts, qui est chargé de rédiger un rapport avec des recommandations afin d'appliquer la mesure du « droit à l'oubli ». Il est constitué de Frank La Rue (rapporteur spécial de l'ONU sur les questions de la liberté d'expression), Jose Lui Pinar (ancien vice-président du groupe européen de commissaires à la protection de données), Sabine Leutheusser-Schnarrenberger (ancienne ministre allemande de la Justice), Peggy Valcke (enseignante-chercheuse à l'université de Louvain), Luciano Floridi (professeur à l'université d'Oxford), Sylvie Kauffmann (directrice éditoriale du Monde), Lidia Kolucka-Zuk (membre de l'association Trust for Civil Society in Central and Eastern Europe) et Jimmy Wales (cofondateur de Wikipédia)[251].
+
+En août 2014, un utilisateur de la messagerie Gmail a été dénoncé aux autorités locales par Google à la suite de l'envoi d'une photo pédopornographique en pièce jointe d'un mail[252]. Or Google le dit clairement dans ses conditions d'utilisation : « Nos systèmes automatisés analysent vos contenus (y compris les e-mails) afin de vous proposer […] Cette analyse a lieu lors de l'envoi, de la réception et du stockage des contenus[253]. » Ce fait divers met en lumière le contrôle massif des échanges effectué par Google. Cette méthode entre par ailleurs en contradiction avec l'article 29 de la CNIL qui énonce que : « L'accès à des données à caractère personnel aux fins de sécurité n'est pas acceptable dans une société démocratique dès lors qu'il est massif et sans condition. La conservation, l'accès et l'utilisation de données par les autorités nationales compétentes doivent être limités à ce qui est strictement nécessaire et proportionné dans une société démocratique. Elles doivent être soumises à des garanties substantielles et effectives[254]. »
+
+Le 21 janvier 2019 en France, la CNIL condamne Google à une amende de 50 millions d'euros « en application du règlement général sur la protection des données pour manque de transparence, information insatisfaisante et absence de consentement valable pour la personnalisation de la publicité »[255]. L'enquête de la CNIL, qui a duré plusieurs mois, a été ouverte après des plaintes collectives des associations None Of Your Business et la Quadrature du Net. Il s'agit de la première décision d'une instance de régulation de sanctionner l'un des acteurs majeurs du numérique, en utilisant les dispositions du RGPD en vigueur depuis mai 2018[255]. Le 19 juin 2020, le Conseil d'État valide la sanction de 50 millions d'euros prononcée par la CNIL à l'encontre de la société Google LLC[256],[257].
+
+En décembre 2020, la CNIL décide d'une nouvelle amende de 100 millions d'euros à l'encontre de Google. Celle-ci estime que l'entreprise installe des cookies publicitaires quand les utilisateurs visitent le site Google.fr, sans consentement préalable et sans les en informer de façon suffisante. Cette condamnation rappelle celle de 2014 pour des faits similaires. L'amende s'élève quant à elle à un niveau record en Europe pour une affaire de cet ordre. En outre, les faits reprochés sont en contravention avec la directive européenne privacy (directive on privacy and electronic communications) de 2002 et non seulement avec le règlement général sur la protection des données de 2018, ce qui autorise la CNIL française à statuer sans avoir à remonter jusqu'à son homologue irlandaise, que Google avait pourtant choisie comme « guichet unique » en Europe ayant compétence pour traiter ce type d'instructions[258].
+
+En janvier 2025, le rapport no 50-2023 de l’Agence nationale de protection des données (AEPD), équivalent espagnol de la CNIL, publié par El Mundo révèle que celle-ci a évalué le projet entre Google et le ministère espagnol de l'éducation d'exploiter dans les écoles, collèges et lycées la suite bureautique Google Workspace for Education et des outils additionnels comme YouTube, Google maps et Fotos. Cette évaluation de compatibilité juridique avec la législation espagnole et européenne est une première en Union européenne. Le rapport conclut qu'« Il est incontestable que nous sommes en présence d’une collecte invasive d'informations personnelles ». Il pointe que ces données sont particulièrement sensibles car elles concernent des enfants et permettraient d'obtenir des informations de santé et religieuses. Plusieurs autres éléments sont bloquants : Google s'autorisant à modifier unilatéralement ses conditions d'utilisation, l'hébergement peut être fait n'importe où dans le monde, y compris dans des pays ne garantissant pas un niveau de sécurité suffisant pour les données, et le fait que YouTube et Maps effectuent un profilage des données. L'absence de clarté des engagements de l'entreprise concernant l'usage des données est aussi pointée. L'avis de l'AEPD ne s'impose pas à l'ensemble des écoles espagnoles, dont le système est décentralisé, mais les résultats de l'étude sont examinés par les différentes régions[259],[260].
+
+Google Latitude
+Google Latitude est un service créé en 2009 permettant de déterminer la position d'une personne s'étant enregistrée à ce service par le biais de son téléphone mobile. En 2009, ce service est disponible dans 27 pays[261].
+
+Ce service est sujet à controverse : on peut voir en Latitude un outil permettant de tracer les personnes, la vie privée peut donc être atteinte, mais Google répond que cet outil a été conçu dans une autre optique : il permet, par exemple, de localiser sur Google Maps ses enfants, ses amis ou ses collègues[262].
+
+Le service a été supprimé le 9 août 2013[263].
+
+Google Livres
+Article détaillé : Google Livres.
+Google Books est un projet annexe de Google très critiqué à une certaine époque. Il consiste à numériser systématiquement le plus grand nombre possible de livres. Les critiques s'inquiètent de l'impact que la position dominante de Google peut avoir sur la numérisation des livres en général, et du traitement des droits d'auteur par Google (soit que la distribution internationale des versions numérisées violerait les droits dans certains pays, soit que la position de force de Google leur permettrait d'obtenir des concessions de droits jugées abusives).
+
+Alignement sur le programme de Donald Trump
+En 2024, Google a discrètement supprimé certaines célébrations affichées dans son calendrier, comme le Mois de l'histoire des noirs, celui des femmes ou des personnes indigènes, les journées de la fierté[264]. Puis, le 5 février 2025, à la suite de l'élection de Donald Trump, et après plusieurs autres grandes entreprises américaines comme Disney, McDonald’s, Ford ou Meta, Alphabet met fin à ses programmes conçus pour favoriser la diversité dans les recrutements[193].
+
+Par ailleurs, le 7 janvier 2025, Donald Trump annonce son intention de changer le nom du golfe du Mexique en « golfe de l'Amérique »[265]. Le 24 janvier, le ministère de l'Intérieur de l'administration Trump annonce avoir officiellement changé le nom du golfe du Mexique en golfe d'Amérique[266] et, le 10 février, le changement de nom devient effectif sur Google Maps aux États-Unis[267],[268],[269]. Les personnes situées dans d'autres pays voient les deux noms « Golfe du Mexique (Golfe d'Amérique) »[267],[268].
+
+Le 31 janvier, la présidente du Mexique, Claudia Sheinbaum, indique être « en train de rédiger une lettre à Google » pour empêcher tout changement de nom. Le texte rappelle que « pour changer le nom d'une mer internationale, ce n'est pas à un pays de décider » mais plutôt à une organisation internationale[270]. « Si un pays souhaite modifier la désignation d'un élément de la mer, cela ne s'appliquera qu'à 12 milles nautiques (comme le veut la législation). Cela ne peut pas s'appliquer au reste, dans ce cas, au golfe du Mexique. C'est ce que nous avons expliqué en détail à Google »[270].
+
+Le 13 février, Claudia Sheinbaum confirme que le ministère mexicain des Affaires étrangères a bien envoyé une lettre à Google pour leur expliquer pourquoi ils faisaient erreur et elle menace de poursuivre Google : « Nous avons effectivement un différend en ce moment avec Google […] Et si nécessaire, nous engagerons une action civile » : Sheinbaum explique que la demande du président américain se réfère uniquement à la partie du plateau continental sous souveraineté des États-Unis, et non à l'ensemble du golfe, et elle demande à Google de relire le décret pour constater cela[271],[272].
+
+La présidente mexicaine souligne que, bien que Google soit une entreprise privée, elle est devenue une référence internationale pour la cartographie qu’elle réalise pour toute la planète[271].
+
+Utilisation de l'intelligence artificielle pour les armes
+Après l'élection de Donald Trump fin 2024, Google supprime de ses principes éthiques des promesses faites en 2018, qui prohibaient l’usage de ses technologies d’intelligence artificielle à des fins militaires ou de surveillance. Le changement de politique fait suite à l'annulation par Trump d'un décret pris par son prédécesseur, Joe Biden, encadrant la sécurité en matière d’IA. Désormais, les sociétés du secteur n’ont plus besoin de communiquer les résultats de tests quand leurs programmes présentent « un risque sérieux en termes de sécurité nationale, de sécurité économique nationale, ou de santé publique »[273].
+
+Peines et condamnations
+
+La Commission européenne, qui a imposé trois amendes à Google, en 2017, 2018 et 2019.
+Le 21 février 2008, Google a été condamné à payer 150 000 € pour contrefaçon du film documentaire Le Monde selon Bush[274].
+L'Union européenne a infligé plusieurs lourdes amendes à Google pour monopole abusif envers d'autres sociétés minoritaires.
+La branche vidéo de Google, YouTube, a été plusieurs fois condamnée à des amendes allant jusqu'à 1,6 million de dollars pour diffusions illégales ou non-respect du droit d'auteur.
+Le 18 décembre 2009, Google a été condamné à payer 300 000 € de dommages et intérêts aux éditions du Seuil, Delachaux et Niestlé et Harry N. Abrams, ainsi qu'un euro symbolique à titre de préjudice au Syndicat national de l'édition (SNE) et à la Société des gens de lettres (SGDL) pour avoir reproduit intégralement et en rendant accessibles des extraits d'ouvrages sans l'autorisation des ayants droit. Le tribunal de grande instance de Paris a également interdit à Google de poursuivre la numérisation d'ouvrages sans l'autorisation des éditeurs[275].
+Le 8 septembre 2010, Google est condamné en France pour diffamation par algorithme pour avoir associé certains mots-clés avec les termes « viol », « condamné », « sataniste », « prison » et « violeur[276] ».
+Le 24 août 2011, Google préfère payer une amende de 500 millions de dollars aux autorités américaines, plutôt que d'être poursuivi par la justice pour avoir fait la promotion de médicaments illégaux[277].
+En juin 2017, l'Union européenne (UE) condamne Google à une amende de 2,4 milliards d'euros pour pratiques anticoncurrentielles sur le marché des comparateurs de prix[278]. Cette décision est confirmée en novembre 2021 par le tribunal de l'UE après un recours de Google[279] puis après un pourvoi de Google pour annuler l'amende, mais celle-ci est confirmée en septembre 2024[280],[281].
+En juillet 2018, la Commission européenne condamne Google à une amende de 4,3 milliards d'euros pour abus de position dominante[282]. L'entreprise dépose un recours qui aboutit le 14 septembre 2022, à une condamnation de Google par le tribunal de l'Union européenne à payer 4,1 milliards d'euros pour abus de position dominante d'Android[283],[284]. Google a fait appel de cette condamnatation[281].
+Le 21 janvier 2019 en France, la CNIL condamne Google à une amende de 50 millions d'euros « en application du règlement européen sur la protection des données personnelles (RGPD) pour manque de transparence, information insatisfaisante et absence de consentement valable pour la personnalisation de la publicité »[285],[255]. C'est la première décision d'une instance de régulation de sanctionner l'un des acteurs majeurs du numérique, en utilisant les dispositions du RGPD en vigueur depuis mai 2018[286]. Google fait appel de cette amende[287], mais elle est confirmée le 19 juin 2020 par le Conseil d'État[286],[288].
+Le 12 février 2019, le tribunal de grande instance de Paris condamne Google à 30 000 € pour le caractère illicite de ses conditions générales d'utilisation et ses règles de confidentialité[289],[290]. Le moteur de recherche avait été assigné six ans auparavant par l'association de consommateurs UFC-Que Choisir[291].
+Le 15 mars 2019, Google se voit une nouvelle fois menacé par la Commission européenne (la troisième en moins de deux ans). La Commission reproche à l'Américain d'avoir abusé de sa position dominante dans les recherches sur Internet afin de privilégier ses services, au détriment de ceux de ses rivaux[292]. Le 20 mars, la Commission européenne inflige une amende d'un montant de 1,5 milliard d'euros à l'entreprise. La commissaire européenne à la concurrence, Margrethe Vestager, explique que Google a abusé de sa position dominante entre 2006 et 2016 en obligeant les clients de sa régie publicitaire AdSense à signer des contrats déclarant qu'ils n'accepteraient pas de publicité des moteurs de recherche concurrents[293],[294]. La condamnation est annulée par une décision du tribunal de l'union européenne le 18 septembre 2024[295].
+En décembre 2020, la CNIL décide d'une nouvelle amende, de 100 millions d'euros, à Google pour installation de cookies publicitaires quand les utilisateurs visitent le site Google.fr, sans consentement préalable ni information suffisante. Les faits reprochés contreviennent à la directive du 12 juillet 2002 sur la protection de la vie privée dans le secteur des communications électroniques en plus du RGPD de 2018, ce qui autorise la CNIL française à statuer sans avoir à remonter jusqu'à son homologue irlandaise[296],[297].
+En 2020, à la suite de la saisine de l'Autorité de la concurrence française en 2015 par Benjamin Jayet avec sa société Gibmedia, Google a été condamné à payer une amende de 150 millions d’euros. À la suite de cette première condamnation, une procédure en appel a été initiée par Google refusant cette condamnation. Le 7 avril 2022, la cour d'appel de Paris a confirmé le montant de l'amende et la condamnation de Google dont les règles imposées aux annonceurs ont été jugées « opaques et difficilement compréhensibles »[298].
+En juin 2021, l'Autorité française de la concurrence (ADLC) inflige 220 millions d’euros d'amende à Google pour avoir favorisé ses propres services dans le secteur de la publicité en ligne[299].
+En juillet 2021, l'ADLC condamne Google à 500 millions d'euros pour n'avoir pas négocié de bonne foi les droits voisins de la presse en ligne à la suite de la plainte du Syndicat des éditeurs de la presse magazine (SEPM), l’Alliance de la presse d'information générale (APIG) et l’Agence France-Presse (AFP), avec une astreinte de 300 000 euros par jour au bénéfice de chaque plaignant[300],[281].
+En mars 2022, à la suite d'une plainte de la DGCCRF, Google est condamné à une amende de 2 millions d'euros pour pratique commerciale abusive, et l'entreprise doit retirer 7 clauses abusives de son contrat avec les développeurs et développeuses[301].
+En novembre 2022, l'entreprise règle un litige portant sur la protection des données pour 391,5 millions de dollars à la suite d'un accord avec 40 États des États-Unis[302].
+Le 5 août 2024, un juge de Washington reconnaît Google coupable de pratiques anticoncurrentielles en ayant payé entre autres des entreprises fabricantes de téléphones ou développeuses de navigateurs web pour installer par défaut son moteur de recherche. Le montant de l'amende et les contraintes imposées à Alphabet pour corriger cette faute ne sont pas connues[215].
+Le 2 septembre 2025, un juge de Washington impose à Google de céder ses résultats de recherche et certaines de ses données à ses concurrentes. C'est une des plus importantes décisions en matière de procès sur les monopoles depuis le procès contre Microsoft en 2002[218].
+Le 3 septembre 2025, la CNIL inflige à Google une amende de 325 millions d'euros pour n'avoir pas recueilli le consentement libre et éclairé avant de collecter les cookies publicitaires dans le cadre de la création d'un compte Google[303].
+Le 3 septembre 2025, une cour fédérale de San Francisco condamne Google à 425 millions de dollars de dommages à 98 millions d'utilisateurs pour avoir continué de collecter les données personnelles de personnes qui avaient refusé, à la suite d'un recours en juillet 2020[304]
+Le 5 septembre 2025, la Commission européenne inflige une amende de 2,95 milliards d'euros à Google pour abus de position dominante dans la publicité en ligne pour avoir favorisé ses produits depuis 2014, sans pour autant demander son démantèlement comme elle l'avait évoqué en 2023. Le montant de l'amende semble très bas à certains experts[305].
+Le 14 novembre 2025, un tribunal de Berlin condamne l'entreprise à verser 572 millions d'euros aux entreprises comparatrices de prix Idealo et Producto pour abus de position dominante[306].
+Le 23 juillet 2026, l’Union européenne (UE) met à l'amende Google pour des atteintes à la concurrence dans la recherche en ligne et au sein du magasin d’applications Google Play et pour la somme totale de 890 millions d’euros d’amendes.
+Impact environnemental
+Les requêtes dans Google auraient un impact environnemental non négligeable quant aux émissions de gaz à effet de serre. Il a été mentionné dans des grands titres de la presse anglo-saxonne et française (en citant incorrectement un article d'Alex Wissner-Gross qui ne fait aucune référence à Google) que le coût d'une requête serait de 14 grammes - ce qui n'a pas été étayé par l'étude. Selon les propres calculs de Google, ces requêtes ne pèsent que 0,2 g[307].
+
+Les fermes de serveurs de l'entreprise sont notamment réputées avoir une consommation, systèmes de refroidissement inclus, représentant plusieurs centrales nucléaires[308]. Toutefois, cette assertion est douteuse, dans la mesure où les plus petites tranches de centrales nucléaires ayant une puissance de 900 MW, il faudrait, pour atteindre une telle puissance, que chacun des 900 000 serveurs Google requière une puissance d'un kilowatt, ce qui est peu probable du fait que la puissance habituelle d'un serveur est de l'ordre de 100 W au maximum et celle du système de refroidissement, une fraction de cette dernière.
+
+En octobre 2019, Google reconnaît avoir fait des « contributions substantielles » à des organisations qui, selon The Guardian, « avaient fait campagne contre les législations sur le climat, remis en cause le besoin d’action contre le réchauffement climatique, ou ont activement cherché à revenir sur les initiatives de protection de l’environnement » (American Conservative Union, Competitive Enterprise Institute, American Enterprise Institute, Americans for Tax Reform, Cato Institute, Mercatus Center ou encore Heritage Foundation)[309].
+
+Recrutement
+Article détaillé : Procès antitrust des employés high-tech.
+L'entreprise est mise en cause dans une affaire d'entente sur les salaires et d'entente sur le débauchage d'employés à grande échelle, dont l'origine remonte à 2005 avec des accords non écrits entre Steve Jobs et Eric Schmidt.
+
+En 2017, James Damore, un cadre de l'entreprise, fait circuler un mémo interne (Google's Ideological Echo Chamber – « La chambre d'écho idéologique de Google ») d'une dizaine de pages mettant en garde sa hiérarchie contre les effets contre-productifs de la politique de l'entreprise en matière de diversité et de parité homme-femme. Il reproche notamment à l'entreprise d'organiser des formations réservées « à un genre ou une race », et de favoriser les candidats issus de la diversité. Selon lui, Google a « un biais de gauche » sur les questions de la diversité et de l'inclusion, qui a « créé une monoculture politiquement correcte qui se perpétue en humiliant et en réduisant au silence ceux qui ne s'y conforment pas »[310]. La note, qualifiée de « sexiste » par de nombreux médias américains, et rapidement devenue virale sur les réseaux sociaux, fait scandale[311],[312]. L'ingénieur est licencié par Sundar Pichai le lundi 7 août 2017[313]. La réaction de Google au mémo et son licenciement de Damore sont critiqués par multiples chroniqueurs culturels, dont Margaret Wente of The Globe and Mail[314], Erick Erickson de RedState[315], David Brooks du New York Times[316],[317] (qui appelle Sundar Pichai à démissionner) et Clive Crook de Bloomberg View[318]. D'autres font objection à l'intensité de la réponse au mémo dans les médias et sur Internet, comme Kirsten Powers de CNN[319], Conor Friedersdorf de The Atlantic[320], et Jesse Singal dans le Boston Globe[321]. Le psychologue David C. Geary (en), connu pour le paradoxe de l'égalité des sexes, affirme que la controverse reflète une hostilité au débat ouvert et pacifique sur le lien entre les différences d'origine biologiques dans certains secteurs, et que la censure du débat garantira l'absence de changement[322].
+
+Le 5 février 2025, après Disney, McDonald’s, Ford et Meta, la société mère de Google, Alphabet, met fin à ses programmes conçus pour favoriser la diversité et l'inclusion dans les recrutements, s'alignant ainsi avec le gouvernement de Donald Trump[193].
+
+Google et le marché du travail
+En novembre 2016, Google a annoncé le lancement d'une version alpha de sa nouvelle API Google Cloud Jobs[323], qui permet de mettre en relation des employeurs et des demandeurs d'emploi grâce à des algorithmes d'apprentissage profond et une gigantesque base de données d'offres d'emploi et de curriculum vitae.
+
+Ce n'est pas la première fois que le géant de l'informatique s'attaque au marché de l'emploi. En effet, en octobre 2000, Google lance le dispositif Adwords permettant aux agrégateurs d'emploi d'acheter des mots-clefs pour que des demandeurs d'emploi soient redirigés sur les sites des agrégateurs en question[324].
+
+Google était alors jusque-là, un intermédiaire entre les employeurs et les demandeurs d'emploi, si l'API Cloud Jobs est effectivement lancée publiquement, le géant californien mettra directement les deux parties en relation. Ce système est donc une bonne nouvelle pour les personnes qui ne sont pas satisfaites de leur travail, car l'API permettra d'envoyer directement des offres d'emploi sur navigateur ou sur les réseaux sociaux. Cela pourrait aider, par exemple, des travailleurs frustrés qui n'osent pas démissionner à trouver un emploi dans lequel ils seront davantage épanouis[325].
+
+De nombreuses controverses sont toutefois soulevées par cette initiative. En effet, le rôle de l'action publique dans la régulation et la mise en forme du marché du travail est interrogé. La France, via Pôle Emploi, s'est engagée dans des démarchés de transparence du marché de l'emploi[326] et l'arrivée de la firme californienne ne risque pas d'aider en ce sens. De plus, confier les rênes du marché du travail à des algorithmes pose des questions sur l'identité des demandeurs d'emploi.
+
+Projet Nimbus et la collaboration de Google avec Israël
+Article détaillé : Projet Nimbus.
+Le projet Nimbus est un contrat de 1,2 milliard de dollars signé en 2021 entre le gouvernement israélien, Google et Amazon Web Services[327],[328].
+
+Ce projet est destiné à moderniser les infrastructures numériques d'Israël, il inclut des services de cloud computing et d'intelligence artificielle (IA)[329],[330].
+
+En janvier 2025, des documents internes révèlent que Google a collaboré avec Tsahal pour lui fournir des outils d'IA après l'attaque du Hamas le 7 octobre 2023[331]. D’après les documents obtenus par le Washington Post, le géant américain a collaboré directement avec le ministère de la Défense israélien et Tsahal des le début du conflit[332].
+
+L'utilisation de cette technologie par Tsahal, dont l'utilisation n'est pas détaillée, suscite des critiques internes[331],[333].
+
+Le New-York Times révèle aussi que des responsables ont adressé leurs préoccupations à la direction de l'entreprise concernant les services de Google Cloud fournit au ministre de la défense Israélien et au Shin Bet, puisse contribuer à des violations des droits humains en Cisjordanie, nuisant ainsi à la réputation de l'entreprise[334].
+
+Des employés de Google ont protesté dès 2021 contre cette collaboration, craignant des violations des droits humains, notamment à Gaza. Ces protestations ont conduit à des licenciements[331],[335], tandis que Google affirme n'avoir pas traité avec l'armée, le gouvernement israélien s'étant engagé à respecter les clauses du contrat prévoyant uniquement une utilisation civile[336].
+
+Références
+Blog officiel
+(en) The Official Google Blog, « Dublin go bragh [archive] », sur googleblog.blogspot.com, 10 juin 2004 (consulté le 18 mars 2010).
+(en) The Official Google Blog, « And now, search for your own computer [archive] », sur googleblog.blogspot.com, 14 octobre 2004 (consulté le 18 mars 2010).
+(en) The Official Google Blog, « Scholarly pursuits [archive] », sur googleblog.blogspot.com, 18 octobre 2004 (consulté le 18 mars 2010).
+The Official Google Blog, « All booked up [archive] », sur googleblog.blogspot.com, 14 décembre 2010 (consulté le 18 mars 2010).
+The Officiale Google Blog, « Google's index nearly doubles [archive] », sur googleblog.blogspot.com, 11 octobre 2004 (consulté le 18 mars 2010).
+(en) The Official Google Blog, « Mapping your way [archive] », sur googleblog.blogspot.com, 8 février 2005 (consulté le 20 mars 2010).
+(en) The Official Google Blog, « A bird's-eye view [archive] », sur googleblog.blogspot.com, 4 avril 2005 (consulté le 20 mars 2010).
+(en) The Official Google Blog, « Mobile? Get Local [archive] », sur googleblog.blogspot.com, 12 avril 2005 (consulté le 20 mars 2010).
+(en) The Official Google Blog, « From lost to found 4/20/2005 12:10:00 PM [archive] », sur googleblog.blogspot.com, 20 avril 2005 (consulté le 20 mars 2010).
+(en) The Official Google Blog, « A method to our madness [archive] », sur googleblog.blogspot.com, 19 mai 2005 (consulté le 20 mars 2010).
+(en) The Official Google Blog, « The machines do the translating [archive] », sur googleblog.blogspot.com, 22 août 2005 (consulté le 20 mars 2010).
+(en) The Official Google Blog, « Google gets to talking [archive] », sur googleblog.blogspot.com, 24 août 2005 (consulté le 20 mars 2010).
+(en) The Official Google Blog, « Feed the world [archive] », sur googleblog.blogspot.com, 7 octobre 2005 (consulté le 20 mars 2010).
+(en) The Official Google Blog, « The circle of analytics [archive] », sur googleblog.blogspot.com, 14 novembre 2005 (consulté le 20 mars 2010).
+(en) The Official Google Blog, « Google in China [archive] », sur googleblog.blogspot.com, 27 janvier 2006 (consulté le 20 mars 2010).
+(en) The Official Google Blog, « Better together: Docs & Spreadsheets [archive] », sur googleblog.blogspot.com, 11 octobre 2006 (consulté le 20 mars 2010).
+(en) The Official Google Blog, « Spring is the season for love (and data) [archive] », sur googleblog.blogspot.com, 21 mars 2006 (consulté le 20 mars 2010).
+(en) The Official Google Blog, « It's about time [archive] », sur /googleblog.blogspot.com, 13 avril 2010 (consulté le 20 mars 2010).
+(en) The Official Google Blog, « Get your people talking [archive] », sur googleblog.blogspot.com, 28 août 2008 (consulté le 20 mars 2010).
+(en) The Official Google Blog, « Download the classics [archive] », sur googleblog.blogspot.com, 30 août 2006 (consulté le 20 mars 2010).
+(en) The Official Google Blog, « What's hot today? [archive] », sur googleblog.blogspot.com, 22 mai 2007 (consulté le 20 mars 2010).
+(en) The Official Google Blog, « 29 hours of code [archive] », sur googleblog.blogspot.com, 30 mai 2007 (consulté le 20 mars 2010).
+(en) The Official Google Blog, « Where's my Gphone? [archive] », sur googleblog.blogspot.com, 5 novembre 2007 (consulté le 20 mars 2010).
+(en) The Official Google Blog, « Bringing it all together [archive] », sur googleblog.blogspot.com, 28 février 2008 (consulté le 21 mars 2010).
+(en) The Official Google Blog, « Moving to Unicode 5.1 [archive] », sur googleblog.blogspot.com, 5 mai 2008 (consulté le 21 mars 2010).
+(en) The Official Google Blog, « Looking towards IPv6 [archive] », sur googleblog.blogspot.com, 13 mai 2008 (consulté le 21 mars 2010).
+(en) The Official Google Blog, « Hitting 40 languages [archive] », sur googleblog.blogspot.com, 18 juillet 2008 (consulté le 21 mars 2010).
+(en) The Official Google Blog, « A fresh take on the browser [archive] », sur googleblog.blogspot.com, 1er septembre 2010 (consulté le 21 mars 2010).
+(en) The Official Google Blog, « Introducing the Google Chrome OS [archive] », sur googleblog.blogspot.com, 7 juillet 2009 (consulté le 21 mars 2010).
+(en) David Drummond, « A new approach to China [archive] », sur googleblog.blogspot.com, 12 janvier 2010 (consulté le 22 mars 2010).
+The Official Google Blog, « Mowing with goats [archive] », sur googleblog.blogspot.com, 1er mai 2009 (consulté le 2 avril 2010).
+Communiqués de presse
+(en) Google Press Center, « Industry Awards and Accolades for Google »(Archive.org • Wikiwix • Que faire ?), sur google.com (consulté le 17 mars 2010).
+(en) Google Press Center, « Google Receives $25 Million in Equity Funding [archive] » (consulté le 17 mars 2010).
+(en) Google Press Center, « Google Launches New Japanese, Chinese, and Korean Search Services [archive] », sur google.com, 12 septembre 2000 (consulté le 17 mars 2010).
+(en) Google Press Center, « Marthastewart.com Content Archives Now Accessible Through Online Search Powered By Google [archive] », sur google.com, 27 mars 2001 (consulté le 17 mars 2010).
+(en) Google Press Center, « Google Launches The Google Toolbar [archive] », sur google.com, 11 décembre 2000 (consulté le 17 mars 2010).
+(en) Google Press Center, « Dr. Eric Schmidt Joins Google's Board of Directors as Chairman [archive] », sur google.com, 26 mars 2001 (consulté le 18 mars 2010).
+(en) Google Press Center, « Google Names Dr. Eric Schmidt Chief Executive Officer [archive] », sur google.com, 6 août 2001 (consulté le 18 mars 2010).
+(en) Google Press Center, « Google Offers Immediate Access to 3 Billion Web Documents [archive] », sur google.com, 11 décembre 2001 (consulté le 18 mars 2010).
+(en) Google Press Center, « Google Inc. Files Registration Statement with the SEC for an Initial Public Offering [archive] », sur google.com, 29 avril 2004 (consulté le 18 mars 2010).
+(en) Google Press Center, « Google Inc. Prices Initial Public Offering Of Class A Common Stock [archive] », sur google.com, 18 août 2004 (consulté le 18 mars 2010).
+(en) Google Press Center, « Google Gets the Message, Launches Gmail [archive] », sur google.com, 1er avril 2004 (consulté le 18 mars 2010).
+(en) Google Press Center, « Google Acquires Picasa [archive] », sur google.com, 13 juillet 2004 (consulté le 20 mars 2010).
+(en) Google Press Center, « Google Acquires Keyhole Corp [archive] », sur google.com, 27 octobre 2010 (consulté le 18 mars 2010).
+(en) Google Press Center, « Gmail Mobile [archive] », sur google.com, 15 décembre 2005 (consulté le 20 mars 2010).
+(en) Google Press Center, « Google To Acquire YouTube for $1.65 Billion in Stock [archive] », sur google.com, 9 octobre 2006 (consulté le 21 mars 2010).
+Références externes
+« Google facts » sur la page Company [archive] de Google.
+« Google devient Alphabet » sur la page  [archive] du Monde.
+« https://www.fao.org/connect-private-sector/search/detail/en/c/1381675/ [archive] »
+ [archive].
+« GOOG : Sommaire pour Alphabet Inc. - Yahoo Finance » [archive du 27 novembre 2015], sur yahoo.com via Wikiwix.
+« Résultats entreprise ALPHAB NON VTG-C, chiffre d'affaires (CA) et bilan ALPHAB NON VTG-C GOOG NASDAQ - Boursorama [archive] », sur boursorama.com.
+« GOOGL - Cote boursière - Alphabet Inc - MSN Finance [archive] », sur msn.com.
+ « Finance - Alphabet Inc - MSN Finance - 2021 [archive] », sur msn.com.
+Sylvain Rolland, « Avec Alphabet, Google se réorganise de A à X (Lab) [archive] », sur La Tribune, 11 août 2015 (consulté le 6 novembre 2024).
+(en) « Google Announces Fourth Quarter and Fiscal Year 2010 Results and Management Changes [archive] », sur investor.google.com (consulté le 20 janvier 2011).
+« Microsoft présente une offre de rachat de Yahoo! pour 44,6 milliards de dollars [archive] », sur lemonde.fr, 1er février 2008 (consulté le 20 mai 2015).
+Philippe Escande, « Google, Apple et le prix du rêve [archive] », sur Le Monde, 2 février 2016.
+Challenges.fr, « Les surprises du classement Interbrand des marques les plus performantes », Challenges,‎ 9 octobre 2014 (lire en ligne [archive]).
+« Google, marque à nouveau la plus puissante, devant Apple - Stratégies », Stratégies,‎ 25 août 2016 (lire en ligne [archive], consulté le 7 février 2017).
+(en) « Apple vs Google vs Facebook vs Amazon », WSJ, 25 décembre 2012 (version du 24 octobre 2017 sur archive.org).
+(en) Jamie Carter, « Google, Apple, Facebook and Amazon : where do the big four go from here? »(Archive.org • Wikiwix • Que faire ?), sur techradar.com, 22 juin 2014.
+(en) « Schmidt calls tech a 4-way race: Google, Apple, Amazon, and Facebook »(Archive.org • Wikiwix • Que faire ?), sur TechRepublic, 1er juin 2011.
+(en) « How four companies took over the Internet »(Archive.org • Wikiwix • Que faire ?), CNN Money, 13 mars 2014.
+Nil Sanyas, « Google : le nombre et la consommation de ses serveurs », sur pcinpact.com, 2 août 2011 (version du 17 novembre 2011 sur archive.org).
+« Qui a peur du Google », G.F., Challenges, no 180, 17 septembre 2009, p. 57.
+« Google a identifié mille milliards d'adresses sur la Toile. » [archive du 2 février 2012], sur Le Vif/L'Express via Wikiwix (consulté le 26 août 2026).
+« Google : 6,4 % du trafic Internet », Clubic.com,‎ 26 octobre 2010 (lire en ligne [archive], consulté le 7 février 2017).
+ « La Commission européenne accuse Google d’abus de position dominante [archive] », sur journaldugeek, 15 avril 2015 (consulté le 20 mai 2015).
+« Accès gratuit aux services et à certains sites de Google [archive] », sur Tuto du Geek, 26 août 2018 (consulté le 5 mai 2019).
+ Guillaume Sire, « Publicité en ligne : Google peut-il cumuler les métiers ? [archive] », sur La Revue des Médias, 28 avril 2015 (consulté le 20 mai 2015).
+(en) « Origine du mot GOOGLE [archive] », sur memoclic.com, 13 mai 2008 (consulté le 10 mars 2010).
+Prononciation en anglais américain retranscrite selon la norme API.
+ Google, « Profil de la société »(Archive.org • Wikiwix • Que faire ?) (consulté le 10 mars 2010).
+« Doodle : Google souffle ses 16 bougies ! », Le Point,‎ 27 septembre 2014 (lire en ligne [archive] Accès libre, consulté le 5 octobre 2024).
+googol.com [archive].
+(en) Corona Brezina, Sergey Brin, Larry Page, Eric Schmidt, and Google, The Rosen Publishing Group, 2012, p. 29.
+« Google et Skype parmi les dix marques les plus connues » [archive du 17 avril 2009], sur indexel.net via Wikiwix, 24 janvier 2006.
+Vincent, « Google et Skype sont au top des marques 2005 [archive] », sur clubic.com, 23 janvier 2006 (consulté le 10 mars 2010).
+Philippe Crouzillacq, « Google, marque la plus puissante au monde [archive] », sur 01net.com, 23 avril 2008 (consulté le 10 mars 2010).
+« Google est la marque la plus connue au monde » [archive du 5 avril 2023], sur blog.referencement-1ere-page.com via Internet Archive, 22 avril 2008 (consulté le 10 mars 2010).
+olivierbusuttil, « Google est la marque la plus connue au monde… mais pas en Europe [archive] », sur aujourdhuisurlenet.wordpress.com, 22 avril 2008 (consulté le 9 mars 2010).
+« Google entre dans les dictionnaires aux États-Unis [archive] », sur zdnet.fr, ZDNet France, 7 juillet 2006 (consulté le 10 mars 2010).
+Romain Heuillard, « Google Goggles recherche à partir d'une photo »(Archive.org • Wikiwix • Que faire ?), sur clubic.com, 8 décembre 2009 (consulté le 10 mars 2010) .
+« Googleplex - Dénomination du siège social de Google. [archive] », sur webrankinfo.com, 19 juillet 2017 (consulté le 10 mars 2010).
+ (en) « Google 10th Birthday [archive] », sur google.co.uk, 2008 (consulté le 16 mars 2010).
+ Sergey Brin et Lawrence Page, « The anatomy of a large-scale hypertextual Web search engine », Computer Networks and ISDN Systems, vol. 30, nos 1–7,‎ 1998, p. 107–117 (ISSN 0169-7552, DOI 10.1016/S0169-7552(98)00110-X, CiteSeerx 10.1.1.115.5930, lire en ligne [archive]).
+L.A. Barroso, J. Dean et U. Holzle, « Web search for a planet: the google cluster architecture », IEEE Micro, vol. 23, no 2,‎ 29 avril 2003, p. 22–28 (DOI 10.1109/mm.2003.1196112, lire en ligne [archive]) :
+« We believe that the best price/performance tradeoff for our applications comes from fashioning a reliable computing infrastructure from clusters of unreliable commodity PCs. »
+(en) Jon Kleinberg, « Authoritative sources in a hyperlinked environment », Journal of the ACM, vol. 46, no 5,‎ septembre 1999, p. 604–632 (lire en ligne [archive]).
+ « Histoire de Google » [archive du 6 mai 2021], sur rankspirit.com via Wikiwix (consulté le 16 mars 2010).
+Google fête les 10 ans de son nom de domaine [archive], sur le Journal du Net le 14 septembre 2007. Consulté le 10 novembre 2012.
+« Search Engines - Google! » [archive du 8 mai 1999], sur zdnet.com via Internet Archive, Ziff-Davis Inc., 1998.
+Denis Delbecq, « Google à l'assaut de la Toile », Le Monde,‎ 13 janvier 1999.
+(en) Google Presse Center, « Google Goes Global with Addition of 10 Languages [archive] », sur google.com, 9 mai 2000.
+(en) « Google Launches Self-Service Advertising Program [archive] », sur google.com, 23 octobre 2000 (consulté le 17 mars 2010).
+« Les débuts du moteur de recherche [archive] », sur 7-dragons.com (consulté le 17 mars 2010).
+Jacques Blamont, Réseaux! La pari de l'intelligence collective, Paris, CNRS Editions, 2018, 270 p. (ISBN 978-2-271-12235-3, lire en ligne [archive]), p. 46.
+Chloé Woitier, « Google Panda fait ses premières victimes » [archive du 18 août 2011], sur lefigaro.fr, 2011 (consulté le 18 août 2011).
+« Pénalité Google : des victimes parmi les acteurs majeurs de l’e-commerce [archive] », sur journaldunet.com, 21 juillet 2014.
+« Google a racheté plus de 2000 brevets en 2011 à IBM (1030 en juillet, 1022 en août et 41 en septembre et plus de 200 autres brevets en fin d’année) »(Archive.org • Wikiwix • Que faire ?).
+Google dénonce les attaques de la concurrence à l’encontre d’Android [archive], sur phonandroid.com le 8 août 2011. Consulté le 10 novembre 2012.
+(en-US) « How Google searches 30 trillion web pages, 100 billion times a month », VentureBeat,‎ 1er mars 2013 (lire en ligne [archive], consulté le 19 juin 2018).
+(en) Margaret Kane, « Google aims search device at companies [archive] », sur CNET, 27 mai 2002 (consulté le 25 octobre 2023).
+Paul Festa, « Google ushers Web surfers into its labs [archive] », sur cnet.com, 27 mai 2002 (consulté le 25 octobre 2023).
+(en) Stefanie Olsen, « Google search gets newsier [archive] », sur cnet.com, 25 septembre 2002 (consulté le 25 octobre 2023).
+Rédaction, « Google s'apprête à lever 4 milliards de dollars en Bourse [archive] », sur ZDNet France, 19 août 2005 (consulté le 25 octobre 2023).
+« Google porte son trésor de guerre à 7 milliards de dollars [archive] » Accès limité, sur L'Express, 15 septembre 2005 (consulté le 25 octobre 2023).
+La rédaction, « Webmail gratuit : MSN Hotmail passe à 250 Mo [archive] », sur 01net.com, 24 juin 2004 (consulté le 25 octobre 2023).
+Valérie Collet, « Google Buzz ajoute une dose de réseau social à son Gmail [archive] », sur lefigaro.fr, 24 juin 2004 (consulté le 25 octobre 2023).
+Sébastien Dumoulin, « Google signe la quatrième plus grosse acquisition de son histoire [archive] », sur lesechos.fr, 6 juin 2019 (consulté le 8 juin 2019).
+Agence France-Presse, « Google rachète l’expert de cybersécurité Wiz pour 32 G$ US [archive] », sur Radio-Canada, 18 mars 2025 (consulté le 13 août 2025).
+Vincent Sergère, « Google Cardboard 2015 : prise en main du casque de réalité virtuelle en carton [archive] », sur Frandroid, 2 juin 2015 (consulté le 3 novembre 2020).
+« Google présente Daydream View, son casque de Réalité Virtuelle prometteur et bon marché [archive] », sur Journal du Geek, 4 octobre 2016 (consulté le 5 octobre 2016).
+« Art Filters de Google, pour vous transformer en œuvre d’art [archive] », sur 20minutes.fr (consulté le 12 octobre 2020).
+ « Asie : Population d'internautes », sur Le Journal du Net, 18 janvier 2010 (version du 31 janvier 2010 sur archive.org).
+Andrew Donoghue, « Google s'attaque à Office en absorbant le traitement de texte Writely [archive] », sur zdnet.fr, 13 mars 2006 (consulté le 20 mars 2010).
+Benoit Descary, « Google Apps, retour d’expérience [archive] », sur descary.com, 23 février 2007 (consulté le 20 mars 2010).
+(en) Google Lat Long Blog, « Introducing… Street View! [archive] », sur google-latlong.blogspot.com, 29 mai 2007 (consulté le 20 mars 2010).
+Le Monde, « Google lance Knol pour concurrencer Wikipedia [archive] », 13 mai 2008 (consulté le 21 mars 2010).
+(en) Scott McCloud, « Google Chrome [archive] », sur google.com, 2008 (consulté le 21 mars 2010).
+(en) « Blog des développeurs Google Wave [archive] » (consulté le 20 juillet 2009).
+Benjamin Gourdet, « Un soutien pour l'industrie du disque [archive] », sur 01net.com, 12 novembre 2009 (consulté le 21 mars 2010).
+Bruno C., « Google Energy : production et vente d'électricité ! [archive] », sur generation-nt.com, 9 janvier 2010 (consulté le 21 mars 2010).
+Le Monde, « Google dévoile son propre téléphone, le Nexus One [archive] », 5 janvier 2010 (consulté le 21 mars 2010).
+Alexandre Billault, « Un Netbook Google pour 2010 ? [archive] », sur cnetfrance.fr, 17 décembre 2009 (consulté le 21 mars 2010).
+ Eric Le Bourlout, « Google se lance dans la fibre optique aux États-Unis [archive] », sur 01net.com, 11 février 2010 (consulté le 21 mars 2010).
+Le Monde, « 1 100 villes américaines veulent accueillir le haut débit promis par Google [archive] », sur lemonde.fr, 29 mars 2010 (consulté le 29 mars 2010).
+ZDNET France / Nouvelobs, « 6e acquisition en un mois : Google s'offre SocialDesk [archive] », sur L'Express, 31 août 2010 (consulté le 30 avril 2024).
+« Réseau social : Google coupe Buzz [archive] », sur zdnet.fr.
+Source Comscore Metrix, dans Challenges Spécial Fortunes de France du 7 juillet 2011.
+« Google achète Motorola pour contrer Apple [archive] », sur lefigaro.fr, 15 août 2011.
+ Morgane Tual, « Qu’est-ce que Boston Dynamics, le fleuron de la robotique dont se sépare Google ? [archive] », sur lemonde.fr, Le Monde, 1er mars 2017 (consulté le 8 juin 2023).
+(en-US) John Markoff, « Google Adds to Its Menagerie of Robots », The New York Times,‎ 14 décembre 2013 (ISSN 0362-4331, lire en ligne [archive], consulté le 30 avril 2024).
+Alexei Oreskovic et Poornima Gupta, « Google gains entry to home and prized team with $3.2 billion Nest deal [archive] », sur Reuters, 14 janvier 2014 (consulté le 30 avril 2024).
+Aude Fredouelle, « Google rachète le spécialiste de l'intelligence artificielle DeepMind [archive] », sur journaldunet.com, 27 janvier 2014 (consulté le 30 avril 2024).
+« Google vend les smartphones de Motorola Mobility à Lenovo pour 2,91 mds USD [archive] », sur Le Figaro, 29 janvier 2014 (consulté le 30 avril 2024).
+« Google a acheté 5,94% du capital de Lenovo [archive] », sur Le Figaro, 7 février 2014 (consulté le 30 avril 2024).
+Nicolas Jaimes, « Google investit 40 millions de dollars dans un service cloud pour l'éducation [archive] », sur journaldunet.com, 19 février 2014 (consulté le 30 avril 2024).
+Nicolas Jaimes, « Google rachète un spécialiste du jeux vidéo, pour lancer un nouveau boîtier TV ? [archive] », sur journaldunet.com, 12 mars 2014 (consulté le 30 avril 2024).
+« Google commence à vendre l'enregistrement de nom de domaine [archive] », sur journaldunet.com, 24 juin 2014 (consulté le 30 avril 2024).
+« Réalité augmentée : Google se positionne avec Magic Leap [archive] », sur zdnet.fr, 22 octobre 2014.
+Guillaume Belfiore, « Réalité virtuelle : Google investit 542 millions de dollars dans Magic Leap [archive] », sur clubic.com, 21 octobre 2014.
+Jules Darmanin, « Et maintenant, Google vend aussi des forfaits mobiles [archive] », sur lefigaro.fr, 23 avril 2015 (consulté le 30 avril 2015).
+Jérôme Marin, « Google devient Alphabet », Le Monde,‎ 11 août 2015 (lire en ligne [archive], consulté le 24 septembre 2025).
+Pierre Boissonnat, « Sundar Pichai, le nouvel homme fort de Google [archive] », sur La Croix, 12 août 2015 (consulté le 24 septembre 2025).
+Service Futur, « Le B.A-BA de l'Alphabet de Google [archive] », sur Libération, 11 août 2015 (consulté le 24 septembre 2025).
+Frédéric Martel, « Podcast - Grandeurs et décadences des GAFA - Parti sur Google (et de sa stratégie avec Alphabet) [archive] », sur France Culture, 1er mai 2016 (consulté le 15 mai 2016).
+(en) « About Project Sunroof [archive] », sur Google Project Sunroof (consulté le 24 septembre 2025).
+Johann Breton, « Sunroof : Google affiche le potentiel en énergie solaire de votre toit [archive] », sur Les Numériques, 18 août 2015 (consulté le 24 septembre 2025).
+« Google dépose un brevet pour des lentilles intraoculaires connectées [archive] », sur zdnet.fr, 2 mai 2016 (consulté le 3 mai 2016).
+Xinhua, « Microsoft et Facebook vont construire ensemble un câble sous-marin transatlantique haut-débit [archive] », sur french.peopledaily.com.cn, 30 mai 2016 (consulté le 24 septembre 2025).
+Morgane Tual, « Google lance Trips, une nouvelle application de voyage », Le Monde,‎ 20 septembre 2016 (lire en ligne [archive], consulté le 24 septembre 2025).
+(en) « Google Ads - PPC Online Advertising to Reach Your Marketing Goals [archive] », sur google.com.
+(en) Todd Haselton, « Google is paying Apple billions per year to remain on the iPhone, Bernstein says [archive] », sur cnbc.com, 14 août 2017 (consulté le 17 août 2017).
+(en) Jess Macy Yu et Paresh Dave, « Google to buy part of HTC's smartphone operations for $1.1 billion [archive] », sur Reuters, 21 septembre 2017 (consulté le 24 septembre 2025).
+Véronique Chocron et Jérôme Marin, « Google lance son portefeuille électronique en France », Le Monde.fr,‎ 10 décembre 2018 (lire en ligne [archive], consulté le 24 décembre 2018).
+Nicolas Six, « Google relance officiellement les Google Glass, à destination des professionnels », Le Monde,‎ 21 mai 2019 (lire en ligne [archive], consulté le 21 mai 2019).
+Julien Bergounhoux, « Larry Page et Sergey Brin quittent Alphabet, laissant Sundar Pichai seul maître à bord [archive] », sur usinedigitale.fr, 4 décembre 2019 (consulté le 4 décembre 2019).
+« Google lance le Android Earthquake Alerts System [archive] », sur Societe.com (consulté le 16 août 2020).
+Samuel Kahn, « Google transforme les smartphones Android en détecteurs de séismes [archive] », sur Le Figaro.fr, 12 août 2020 (consulté le 16 août 2020).
+Alice Vitard, « Google rachète le géant de la cybersécurité Mandiant pour 5,4 milliards de dollars [archive] », sur usine-digitale.fr, 8 mars 2022 (consulté le 4 mai 2022).
+Alice Vitard, « Google s'offre la pépite israélienne Siemplify pour muscler son offre de détection des cybermenaces [archive] », sur usine-digitale.fr, 5 janvier 2022 (consulté le 4 mai 2022).
+Raphaële Karayan, « Edge computing : Google Cloud rachète MobiledgeX [archive] », sur usine-digitale.fr, 3 mai 2022 (consulté le 4 mai 2022).
+« Google supprime 12 000 emplois, soit plus de 6 % de ses effectifs mondiaux [archive] » Accès libre, sur Le Monde, 20 janvier 2023.
+« Entre Google et le Canada, un accord « historique » pour l’indemnisation des médias », Le Monde avec AFP,‎ 30 novembre 2023 (lire en ligne [archive] Accès libre, consulté le 30 novembre 2023).
+« Google s'autocensure pour entrer en Chine [archive] », sur nouvelobs.com, 27 janvier 2006 (consulté le 22 mars 2010).
+(en) BBC News, « Google censors itself for China [archive] », sur bbc.co.uk, 25 janvier 2006 (consulté le 22 mars 2010).
+« Exemple de la censure chinoise : La place Tiananmen », sur Flepi.net, 26 novembre 2009 (version du 12 octobre 2012 sur archive.org).
+Benjamin Ferran, « Comment Google a été attaqué depuis la Chine [archive] », sur lefigaro.fr, Le Figaro, 24 février 2010 (consulté le 22 mars 2010).
+Marine Rabreau, « Google menace de quitter la Chine après avoir été attaqué [archive] », sur lefigaro.fr, Le Figaro, 26 janvier 2010 (consulté le 22 mars 2010).
+ « Top 3 des moteurs de recherches chinois [archive] », sur Marketing Chine, 7 septembre 2016 (consulté le 5 décembre 2018).
+Nil Sanyas, « Chine : Google discute, Microsoft compte bien s'y développer », sur PC Inpact, 5 mars 2010 (version du 6 mars 2010 sur archive.org).
+Hélène Duvigneau, « Les internautes chinois soutiennent Google contre Pékin [archive] », sur L'Express, 13 janvier 2010 (consulté le 24 septembre 2025).
+Google, « Informations sur la société - Agences Google »(Archive.org • Wikiwix • Que faire ?), sur google.fr (consulté le 11 mars 2010).
+« Google va ouvrir un centre de recherche et développement à Paris [archive] ».
+Eric Schmidt, le 6 décembre 2011.
+« Google signe un « accord historique » avec les éditeurs de presse français [archive] », sur lesechos.fr, 1er février 2013.
+source AFP, « Google France : démission de Jean-Marc Tassetto, président du groupe [archive] », sur lepoint.fr, 1er mars 2013 (consulté le 25 octobre 2013).
+(en) Gillian Tan, « Google’s Australia Head Nick Leeder Sets Sail for France (Wall Street Journal Blogs, Deal Journal Australia) [archive] », sur blogs.wsj.com/dealjournalaustralia, 4 mars 2013 (consulté le 25 octobre 2013).
+« [L'instant tech] Google ouvre le premier datacenter pour son cloud en France [archive] », sur Usinenouvelle, 30 juin 2022 (consulté le 1er octobre 2022).
+« Fiche Google France [archive] » (consulté le 27 mai 2025)
+Julien Bergounhoux, « La filiale russe de Google dépose le bilan [archive] » Accès libre, Usine Digitale, 18 mai 2022 (consulté le 18 mai 2022).
+Stephanie Condon, « La branche russe de Google dépose le bilan après la saisie de ses actifs par Moscou [archive] », ZDNet, 19 mai 2022 (consulté le 19 mai 2022).
+bureau des brevets des États-Unis (USPTO), « Method for node ranking in a linked database [archive] », sur patft.uspto.gov, 4 septembre 2001 (consulté le 15 mars 2010).
+« Featured Directories of License Agreements [archive] », sur contracts.onecle.com (consulté le 15 mars 2010).
+« The Government has certain rights in the invention. » Voir le texte du brevet [archive].
+« Mozilla tire 90 % de ses revenus de Google en 2012, la fondation enregistre un bond de son chiffre d'affaires », Developpez.com,‎ 25 novembre 2013 (lire en ligne [archive], consulté le 7 novembre 2024)
+« Projects – opensource.google [archive] », sur opensource.google (consulté le 6 juillet 2020).
+« Google Summer of Code [archive] », sur Google.com (consulté le 6 juillet 2020).
+(en) Google and the Open Source Developer [archive] « Copie archivée » (version du 12 février 2010 sur archive.org).
+(en) 35 Google open-source projects that you probably don't know [archive], liste grandissante.
+(en) « Site Kit by Google [archive] », sur Site Kit by Google (consulté le 6 juillet 2020).
+« Google lance un nouveau réseau social [archive] », sur 20minutes.fr (consulté le 25 juin 2020).
+Pierre d'Harcourt, « Enchères automatiques et enchères manuelles [archive] », sur journaldunet.com, 21 octobre 2010 (consulté le 20 mai 2015).
+« AdSense pour les pages de contenu »(Archive.org • Wikiwix • Que faire ?) (consulté le 20 mai 2015).
+Pierre d'Harcourt, « Le réseau display [archive] », sur journaldunet.com, 21 octobre 2010 (consulté le 20 mai 2015).
+(en) « Google splits into GOOG and GOOGL today [archive] », sur Market Watch, 2 avril 2014 (consulté le 3 avril 2014).
+« Google clôture l'année 2008 avec un chiffre d'affaires record », sur pcinpact.com, 10 septembre 2018 (version du 31 janvier 2009 sur archive.org).
+Malgré des résultats record, Google peine à séduire la Bourse [archive].
+« Google champion de la recherche fiscale », Le Canard enchaîné, 27 octobre 2010, p. 2.
+The Wolf, « Google : 39 milliards de cash !!!!!! [archive] », sur Le blog A Lupus un regard hagard sur Lécocomics et ses finances, 24 juillet 2011 (consulté le 7 février 2017).
+Stanislas Jourdan, « Les îles Bermudes, la planque à billets de Google », sur OWNI, 19 avril 2011 (version du 11 janvier 2022 sur archive.org).
+ « EU Tax Revenue Loss from Google and Facebook [archive] ».
+Étude sur Google France [archive] sur plus de 4,3 millions d'expressions (centre de la page d'accueil).
+Sarah Belouezzane, « Les revenus de Google en France seraient nettement supérieurs à ce qu'il déclare », Le Monde.fr,‎ 18 décembre 2013 (ISSN 1950-6244, lire en ligne [archive], consulté le 7 février 2017).
+redressement fiscal de 1 milliard d'euros http://www.lefigaro.fr/societes/2014/02/04/20005-20140204ARTFIG00426-google-redresse-d-un-milliard-d-euros-par-le-fisc.php [archive].
+lefigaro.fr, « Les précautions extrêmes des enquêteurs français face à Google [archive] », sur lefigaro.fr (consulté le 30 mai 2016).
+« Google gagne une première manche contre le fisc », Le Monde,‎ 12 juillet 2017 (lire en ligne [archive], consulté le 25 avril 2019).
+« La justice confirme l’annulation du redressement fiscal de Google de 1,15 milliard d’euros », Le Monde,‎ 25 avril 2019 (lire en ligne [archive], consulté le 25 avril 2019).
+« Fraude fiscale : Google va verser près d’un milliard d’euros pour clore les poursuites en France », Le Monde.fr,‎ 12 septembre 2019 (lire en ligne [archive], consulté le 20 octobre 2020)
+Claudia Cohen, Droits voisins : l’Autorité de la concurrence inflige 250 millions d’euros d’amende à Google [archive], lefigaro.fr, 20 mars 2024
+ Google, « Règles de confidentialité et conditions d'utilisation [archive] », 10 février 2022 (consulté le 13 mai 2022).
+Google regroupe les données qui vous concernent, « Le moteur de recherche unifie les régles de confidentialité de ses différents services. Mais la Commission nationale de l'informatique et des libertés (Cnil) s'inquiète des possibilités de croisement des données qui s'offrent désormais à Google. [archive] », 1er mars 2012 (consulté le 20 mai 2022).
+Christophe Auffray, « Google veut croiser les données des internautes sur ses différents services [archive] », 27 janvier 2012 (consulté le 20 mai 2022).
+Naïm Bada, « Un audit révèle que Google, Meta et Microsoft ignorent massivement le signal de refus de pistage [archive] » Accès libre, sur Clubic, 15 avril 2026
+Mickaël Bazoge, « Bruxelles impose à Google d’ouvrir Android aux assistants IA et ses données de recherche [archive] » Accès libre, sur Next Impact, 16 juillet 2026 (consulté le 4 août 2026)
+(en) « Ruth Kedar On Designing the Google Logo [archive] », sur blogoscoped.com, 14 janvier 2008 (consulté le 10 mars 2010).
+(en) Google [archive].
+Daniel Ichbiah, Comment Google mangera le monde : essai, Paris, Éditions Archipel, 2007, 39-40 p. (ISBN 978-2-84187-885-7).
+« Alphabet replaces Google's 'Don't be evil' with 'Do the right thing' [archive] », sur Engadget (consulté le 8 août 2017).
+(en) « Alphabet Investor Relations [archive] », sur Alphabet Investor Relations (consulté le 26 mai 2018).
+Nelly Lesage, « Google a retiré le slogan « Don't be evil » de son code de conduite - Tech - Numerama », Numerama,‎ 21 mai 2018 (lire en ligne [archive], consulté le 26 mai 2018).
+Daniel Ichbiah 2007, p. 49-50.
+« L’écologie rend Google complètement chèvre ! [archive] », sur greenzer.fr, 2009 (consulté le 2 avril 2010).
+« Les fermes « cachées » de Google, grosses consommatrices d'énergie [archive] », sur lemonde.fr, 2007.
+Steve Hargreaves, « Google invests $280 million in SolarCity [archive] », sur CNN, 14 juin 2011 (consulté le 8 juin 2023).
+Firasofting, « Google: 75 millions de dollars pour apporter l'énergie solaire chez les particuliers [archive] », sur firasofting.com, 30 septembre 2011.
+« Comment Google utilise l’intelligence artificielle pour faire baisser sa facture d’électricité [archive] », sur Les Échos, 24 juillet 2016 (consulté le 27 septembre 2020).
+Dominique Filippone, « Google vise le zéro carbone en 2030 », Le Monde informatique,‎ 16 septembre 2020 (lire en ligne [archive] Accès libre)
+« Google voit ses émissions carbone exploser à cause de l'IA », La Tribune,‎ 3 juillet 2024 (lire en ligne [archive] Accès libre)
+ Catherine Florès, « Le Magazine de l'École polytechnique de Montréal », P.O.L.Y, vol. 4, no 2,‎ automne 2007 (lire en ligne [archive] [PDF], consulté le 2 avril 2010).
+(en) Time, « Life in the Googleplex [archive] », sur time.com, 16 février 2006 (consulté le 11 mars 2010).
+ « Life in the Googlepex - Dogs Allowed [archive] », 16 février 2006 (consulté le 26 septembre 2010).
+« Après le fordisme, le googlisme »(Archive.org • Wikiwix • Que faire ?).
+« Ils ont vécu Google [archive] ».
+« Travailler chez Google : une ironie de la liberté ? [archive] », 28 août 2016 (consulté le 17 janvier 2017).
+« Google annonce un plan social avec la suppression de 12.000 postes dans le monde [archive] », sur Europe 1, 20 janvier 2023 (consulté le 11 octobre 2024)
+(en) Johan Moreno, « Google Slashes Diversity Programs After Big Promises [archive] », sur Forbes (consulté le 11 octobre 2024)
+ « Google met fin à ses programmes pour la diversité aux États-Unis, après d’autres grandes entreprises [archive] » Accès payant, sur Le Monde.fr, 6 février 2025 (consulté le 12 février 2025)
+Dans son livre Quand Google défie l'Europe.
+« scroogle.org [archive] », sur scroogle.org.
+par exemple tipz.net ou assiste.com.
+(en-US) Tom Hamburger et Matea Gold, « How Google learned to stop worrying and mastered the Washington lobbying game », Washington Post,‎ 12 avril 2014 (ISSN 0190-8286, lire en ligne [archive], consulté le 22 septembre 2017).
+ (en-US) Kenneth P. Vogel, « Google Critic Ousted From Think Tank Funded by the Tech Giant », The New York Times,‎ 30 août 2017 (ISSN 0362-4331, lire en ligne [archive], consulté le 22 septembre 2017).
+Gideon Resnick et Sam Stein, « How the Democratic Party Is Learning to Love Being Anti-Monopoly », The Daily Beast,‎ 25 juillet 2017 (lire en ligne [archive], consulté le 22 septembre 2017).
+(en) « Reported European Commission Anti-trust Action Against Google [archive] » (consulté le 20 mai 2015).
+Cécile Ducourtieux, « Bruxelles accuse Google d’abus de position dominante [archive] », sur lemonde.fr, 15 avril 2015 (consulté le 20 mai 2015).
+L’Union européenne punit Google d’une amende record de 2,42 milliards d’euros [archive], Cécile Ducourtieux, Le Monde, 27 juin 2017.
+« Victoire en justice de l'Union européenne dans deux dossiers-clés contre Apple et Google [archive] », sur Le Monde, 10 septembre 2024 (consulté le 10 septembre 2024).
+« Justice européenne : tandis que Google écope d'une amende de 2,4 milliards, Apple doit, elle, rembourser 13 milliards d’euros à l'Irlande [archive] », sur RTBF, 10 septembre 2024.
+« UE vs GAFAM - Apple et Google condamnés à payer plus de 15 milliards d’euros d’amendes, confirme la justice européenne [archive] », sur Libération, 10 septembre 2024.
+Lucas Mediavilla, « Litige fiscal du siècle : Apple doit rembourser 13 milliards d’euros à l’Irlande [archive] », sur Le Figaro, 10 septembre 2024
+« Un ancien cadre de Mozilla accuse : Google a saboté Firefox pendant des années [archive] », sur ZDNet France (consulté le 6 juillet 2020).
+« Droits voisins : l’Autorité fait droit aux demandes de mesures conservatoires présentées par les éditeurs de presse et l’AFP [archive] », 9 avril 2020 (consulté le 26 avril 2020).
+Dominique Filippone, « La foudre antitrust s'abat sur Google aux États-Unis [archive] », sur Le Monde informatique, 20 octobre 2020 (consulté le 1er février 2023).
+L’Autorité de la concurrence sanctionne Google à hauteur de 220 millions d’euros pour avoir favorisé ses propres services dans le secteur de la publicité en ligne [archive]
+Le Monde avec AP et AFP, « États-Unis : le ministère de la Justice poursuit Google pour abus de position dominante [archive] », sur le site Le Monde, 24 janvier 2023 (consulté le 1er février 2023).
+ « Google condamné pour pratiques anticoncurrentielles : "Un tournant majeur" », Courrier International,‎ 6 août 2024 (lire en ligne [archive] Accès payant)
+ Morgane Tual, « DMA : ce qui change pour l’utilisation de Google Maps ou Messenger », Le Monde,‎ 6 mars 2024 (DMA : ce qui change pour l’utilisation de Google Maps ou Messenger Accès libre)
+Marine Protais, « Entrée en vigueur du Digital Markets Act (DMA) : les Gafam font-ils preuve de mauvaise foi… au détriment des utilisateurs? », La Tribune, no 7821,‎ 7 mars 2024, p. 71 (lire en ligne [archive] Accès libre)
+ Fagot, « Google essuie une importante défaite judiciaire, cette fois aux États-Unis », Le Monde,‎ 7 août 2024, p. 11 (lire en ligne [archive] Accès payant)
+« Google a versé 67 millions d’euros aux médias canadiens pour l’utilisation de leurs contenus [archive] » Accès libre, sur France 24 avec l'AFP, 4 janvier 2025 (consulté le 5 janvier 2025)
+« Google a versé l’équivalent de 67 millions d’euros aux médias canadiens pour l’utilisation de leurs contenus [archive] » Accès libre, sur Le Monde avec l'AFP, 4 janvier 2025 (consulté le 5 janvier 2025)
+ Arnaud Leparmentier, « Aux États-Unis, Google échappe au démantèlement », Le Monde,‎ 4 septembre 2025, p. 15 (lire en ligne [archive] Accès payant)
+ (en-US) « Google is squashing free speech, and it’s time we did something about it », LifeSiteNews,‎ 2017 (lire en ligne [archive], consulté le 19 septembre 2017).
+ (en) April Glaser, « Nazis and White Supremacists Are No Longer Welcome on the Internet. So They’re Building Their Own. », Slate Magazine,‎ août 2017 (lire en ligne [archive], consulté le 5 septembre 2017).
+(en) Australian News Channel Pty Ltd, « Facebook blocks traditional marriage campaign », SkyNews,‎ 2017 (lire en ligne [archive], consulté le 19 septembre 2017).
+Collectif Sarka-SPIP, « Un nouvel algorithme de Google limite l’accès aux sites Web progressistes et de gauche - Altermonde-sans-frontières »(Archive.org • Wikiwix • Que faire ?), sur altermonde-sans-frontiere.com.
+(en) « Russian Censor Gets Help From Amazon and Google [archive] », sur bloomberg.com, 3 mai 2018 (consulté le 20 octobre 2018).
+(en) Russell Brandom, « A Google update just created a big problem for anti-censorship tools [archive] », sur The Verge, 18 avril 2018 (consulté le 19 avril 2018).
+(en-US) Tom Fairless et Alistair Barr, « Google Faces Fresh Antitrust Complaint in Europe », Wall Street Journal,‎ 16 juin 2014 (ISSN 0099-9660, lire en ligne [archive], consulté le 22 septembre 2017).
+ (en-US) April Glaser, « The Alt-Right’s Favorite Social Network Has a Point About Google », Slate,‎ 20 septembre 2017 (ISSN 1091-2339, lire en ligne [archive], consulté le 22 septembre 2017).
+ (en-US) Hamza Shaban, « Gab is suing Google for allegedly violating antitrust laws », Washington Post,‎ 15 septembre 2017 (ISSN 0190-8286, lire en ligne [archive], consulté le 19 septembre 2017).
+Cf. les nombreux articles et communiqués de presse de l'EFF sur Google : < [archive]>.
+(en) « Protection of personal data - European Commission [archive] », sur ec.europa.eu (consulté le 7 février 2017).
+Privacy International, <« A Race to the Bottom - Privacy Ranking of Internet Service Companies » [archive du 15 juin 2009], sur privacyinternational.org via Internet Archive (consulté le 26 août 2026)>.
+(en-US) Noah Shachtman, « ‘Don’t Be Evil,’ Meet ‘Spy on Everyone’: How the NSA Deal Could Kill Google », WIRED,‎ 4 février 2010 (lire en ligne [archive], consulté le 7 février 2017).
+« Collecte des données Wi-Fi : La Google Car mal vue en Allemagne », Clubic.com,‎ 23 avril 2010 (lire en ligne [archive], consulté le 7 février 2017).
+(en) David Streitfeld, « Google Engineer Told Others of Data Collection, F.C.C. Report Reveals », The New York Times,‎ 28 avril 2012 (ISSN 0362-4331, lire en ligne [archive], consulté le 7 février 2017) .
+Guillaume Champeau, « Wi-Fi capturé par Google : des responsables savaient », Numerama,‎ 30 avril 2012 (lire en ligne [archive], consulté le 7 février 2017).
+(en) « Top Web Businesses Oppose Utah Spyware Law [archive] », sur slashdot.org (consulté le 7 février 2017).
+H.B. 323, while very well intentioned, would have serious unintended consequences on everyday, legitimate activities on the Internet. Opposition to H.B. 323 [archive].
+cf. L'article du magazine américain Wired, « Google vs. Evil [archive] ».
+(en) « Google Ordered to Submit Data for Child Pornography Study », The New York Times,‎ 18 mars 2006 (ISSN 0362-4331, lire en ligne [archive], consulté le 7 février 2017).
+« Les dragons du Web [archive] », sur telos-eu.com (consulté le 7 février 2017).
+Gwendal Legrand, chef du service expertise informatique à la CNIL, Vie privée : Faut-il avoir peur de Google, La Tribune, 4 juin 2007.
+Jonathan Amsellem, « Internet and Privacy : Toward the Complete Anonymization of Personal Data? » [archive du 1er février 2009], sur institut-thomas-more.org via Internet Archive (consulté le 26 août 2026), Institut Thomas-More, 15 janvier 2009.
+(en) Google Règles en vigueur au 1er mars 2012 [archive] Site de Google.
+« Franceinfo - Actualités en temps réels et info en direct [archive] », sur Franceinfo (consulté le 7 février 2017).
+Données personnelles: Google écope de l'amende maximale de la Cnil [archive] « Copie archivée » (version du 22 juillet 2018 sur archive.org), Challenges, 8 janvier 2014.
+Cnil : Google affiche son amende en une - Le géant américain de l'Internet a mis en ligne samedi sur sa page d'accueil française un encart évoquant sa condamnation à une amende record par la Cnil [archive], Le Point, 8 février 2014.
+« Google ridiculisé par la CNIL sur son propre site internet -La Cnil a infligé à Google une amende de 150 000 euros, mais surtout, l'oblige à publier l'information sur sa page d'accueil. », Challenges,‎ 8 février 2014 (lire en ligne [archive du 7 janvier 2017]).
+Google : la justice européenne favorable à un « droit à l’oubli » sur Internet [archive], Les Échos, 13 mai 2014.
+Lien vers le formulaire :https://support.google.com/legal/contact/lr_eudpa?product=websearch [archive].
+Laurence Neuer, « Google aux commandes du droit à l'oubli », Le Point,‎ 2 juin 2014 (lire en ligne [archive], consulté le 7 février 2017).
+« Google : 12000 demandes de droit à l'oubli en seulement 24 heures [archive] », sur Zebulon (consulté le 7 février 2017).
+Lucie Ronfaut, « Google nomme un comité du "droit à l'oubli" », Le Figaro, encart « Économie », samedi 12 / dimanche 13 juillet 2014, page 26.
+« Aux États-Unis, Google dénonce un pédophile qui utilisait Gmail », libération.fr,‎ 5 août 2014 (lire en ligne [archive], consulté le 8 octobre 2018).
+« Conditions d’utilisation de Google – Règles de confidentialité et conditions d’utilisation – Google [archive] », sur google.com (consulté le 8 octobre 2018).
+« Déclaration commune adoptée par le G29 | CNIL [archive] », sur cnil.fr (consulté le 8 octobre 2018).
+ « Données personnelles : la CNIL condamne Google à une amende record de 50 millions d’euros », Le Monde,‎ 21 janvier 2019 (lire en ligne [archive], consulté le 21 janvier 2019).
+« Le Conseil d’État valide la sanction prononcée à l’encontre de la société Google LLC | CNIL [archive] », sur cnil.fr (consulté le 10 août 2020).
+Conseil d'État, « RGPD : le Conseil d'État rejette le recours dirigé contre la sanction de 50 millions d’euros infligée à Google par la CNIL [archive] », sur Conseil d'État (consulté le 10 août 2020).
+« Cookies : la CNIL sanctionne Google et Amazon de 100 et 35 millions d'euros d'amendes [archive] », sur Les Échos, 10 décembre 2020 (consulté le 12 décembre 2020).
+Mathieu de Taillac, « «Nous sommes en présence d’une collecte invasive d’informations personnelles» : l’Espagne ferme la porte de ses écoles à Google », Le Figaro,‎ 3 janvier 2025 (lire en ligne [archive], consulté le 6 janvier 2025).
+Vincent Hermann, « La CNIL espagnole épingle Google Workspace for Education pour sa « collecte invasive » », Next INpact,‎ 6 janvier 2025 (lire en ligne [archive] Accès libre)
+« Qui a peur du Google », G.F., Challenges, no 180, 17 septembre 2009, p. 48.
+01net, « Situez où sont vos amis avec Google Latitude [archive] », sur 01net.com (consulté le 3 avril 2010).
+« Google FAQ [archive] ».
+« États-Unis: après X et Méta, Google, autre géant de la «tech», fait marche arrière sur la diversité [archive] », sur RFI, 12 février 2025 (consulté le 12 février 2025)
+« Donald Trump va changer le nom du golfe du Mexique en « golfe de l'Amérique » [archive] », sur Le Parisien, 7 janvier 2025.
+(en) « 'Gulf of America' name change now official, Trump administration says [archive] », sur Reuters, 25 janvier 2025.
+ « Sur Google Maps, le golfe du Mexique devient « golfe d'Amérique », d'après le souhait de Donald Trump [archive] », sur Le Monde, 11 février 2025.
+ « Le golfe du Mexique devient le «golfe d'Amérique» sur Google Maps [archive] », sur Le Figaro, 11 février 2025.
+« Google Maps renomme le golfe du Mexique en « golfe d'Amérique » après la demande de Donald Trump [archive] », sur Le Parisien, 11 février 2025.
+ Victor Cousin, « Google renomme le golfe du Mexique en golfe d’Amérique, la présidente affirme que « cela ne s’appliquera pas » [archive] », sur Le Parisien, 31 janvier 2025.
+ « Google menacé de poursuites pour avoir suivi Trump et changé le nom de Golfe du Mexique en « Golfe d’Amérique » [archive] », sur Sud Ouest, 13 février 2025.
+H.B., « « Golfe d'Amérique » : Le Mexique menace Google de poursuites pour avoir renommé le golfe du Mexique [archive] », sur 20 Minutes, 15 février 2025.
+« Google assouplit ses principes concernant l’usage de l’IA dans l’armement ou la surveillance [archive] » Accès payant, sur Le Monde.fr, 5 février 2025
+« Google : 150 000 euros pour contrefaçon d'un reportage », sur pcinpact.com, 22 février 2008 (version du 25 février 2008 sur archive.org)
+Cécile Ducourtieux et Thomas Wieder, « Livre numérique : la justice française donne raison aux éditeurs face à Google », Le Monde.fr,‎ 19 décembre 2009 (ISSN 1950-6244, lire en ligne [archive], consulté le 7 février 2017).
+Tribunal de grande instance de Paris 17e chambre Jugement du 8 septembre 2010 [archive], le 8 septembre 2010.
+« Google à l'amende de 500 millions de dollars », La Tribune,‎ 25 août 2011 (lire en ligne [archive], consulté le 7 février 2017).
+« L’Union européenne punit Google d’une amende record de 2,42 milliards d’euros », Le Monde.fr,‎ 27 juin 2017 (lire en ligne [archive], consulté le 10 novembre 2021)
+« L’UE valide une amende de 2,4 milliards d’euros contre Google pour pratiques anticoncurrentielles », Le Monde.fr,‎ 10 novembre 2021 (lire en ligne [archive], consulté le 10 novembre 2021)
+« Google condamné en appel à payer 2,4 milliards d’euros pour abus de position dominante en Europe », Le Parisien,‎ 10 septembre 2024 (lire en ligne [archive] Accès libre)
+ Romain Gueugneau, « Google : ces amendes records infligées par l'Europe au géant du web », Les Échos,‎ 5 septembre 2025 (lire en ligne [archive] Accès payant)
+« Les six questions que pose l'amende de Google - Les Echos »(Archive.org • Wikiwix • Que faire ?), sur lesechos.fr.
+« Arrêt du tribunal (sixième chambre élargie) : 14 septembre 2022 [archive] », sur curia.europa.eu, 14 septembre 2022 (consulté le 22 septembre 2022).
+« Android: Google devra bien payer une amende de 4,1 milliards d’euros à l’UE : Le Tribunal de l’Union européenne a validé la condamnation record du mastodonte américain, prononcée en 2018, pour avoir abusé de la position dominante de son système d’exploitation. [archive] », sur liberation.fr, 14 septembre 2022 (consulté le 22 septembre 2022).
+« La formation restreinte de la CNIL prononce une sanction de 50 millions d’euros à l’encontre de la société GOOGLE LLC », 21 janvier 2019 (archivé sur archive.org)
+ « Le Conseil d’État valide la sanction prononcée à l’encontre de la société Google LLC | CNIL [archive] », sur cnil.fr (consulté le 10 août 2020).
+« Données personnelles : Google va faire appel de l’amende record infligée par la CNIL », Le Monde,‎ 24 janvier 2019 (lire en ligne [archive], consulté le 28 janvier 2019)
+Le Conseil d'État, « RGPD : le Conseil d’État rejette le recours dirigé contre la sanction de 50 millions d’euros infligée à Google par la CNIL [archive] », sur Conseil d'État (consulté le 10 août 2020).
+Julien Lausson, « Pourquoi Google affiche « Jugement du TGI de Paris » sur sa page d'accueil [archive] », sur Numerama, 14 décembre 2020 (consulté le 14 janvier 2021).
+« Publication Judiciaire - Aide Recherche Google »(Archive.org • Wikiwix • Que faire ?), sur support.google.com (consulté le 14 janvier 2021).
+« Condamnation – Google mauvais perdant ? [archive] », sur quechoisir.org (consulté le 14 janvier 2021).
+« Google menacé d'une amende record de 13 milliards de dollars en Europe [archive] », sur lefigaro.fr, 15 mars 2019 (consulté le 16 mars 2019).
+« Concurrence : l’Europe inflige à Google une troisième amende, d’un montant de 1,49 milliard d’euros », Le Monde,‎ 20 mars 2019 (lire en ligne [archive], consulté le 20 mars 2019).
+Elisa Braun, Un dernier fait d'armes pour la «dame de fer» Margrethe Vestager [archive], Le Figaro, 20 mars 2019.
+David Pargamin, « L’Europe annule une amende de 1,5 milliard, mais Google n’est pas sorti d’affaire pour autant [archive] » Accès libre, Challenges, 18 septembre 2024 (consulté le 18 septembre 2024)
+« Cookies : la CNIL sanctionne Google et Amazon de 100 et 35 millions d'euros d'amendes [archive] », sur Les Echos, 10 décembre 2020 (consulté le 12 décembre 2020).
+« Cookies : sanction de 60 millions d’euros à l’encontre de GOOGLE LLC et de 40 millions d’euros à l’encontre de GOOGLE IRELAND LIMITED | CNIL [archive] », sur cnil.fr (consulté le 19 mai 2021).
+« Concurrence: la Cour d'appel de Paris confirme l'amende de 150 millions d'euros infligée à Google [archive] », sur LEFIGARO, 7 avril 2022 (consulté le 10 avril 2022).
+« Google écope d'une lourde amende de l'Autorité de la concurrence en France [archive] », sur Capital.fr, 7 juin 2021 (consulté le 10 juin 2021).
+Olivier Ubertalli, « Droits voisins : Google écope d’une amende record de 500 millions d’euros », Le Point,‎ 13 juillet 2021 (lire en ligne [archive] Accès libre)
+Chloé Woitier / AFP, « France : Google condamné à une amende de 2 millions d'euros pour son magasin d'applications [archive] », sur Le Figaro, 29 mars 2022 (consulté le 7 janvier 2023).
+« Technologie. Google règle un litige sur la protection des données de ses utilisateurs pour un montant record [archive] », sur Courrier international, 15 novembre 2022 (consulté le 15 novembre 2022).
+« Cookies publicitaires : des amendes colossales pour Google et Shein en France [archive] » Accès libre, sur France 24, 3 septembre 2025 (consulté le 5 septembre 2025)
+AFP, « Google condamné à verser 425 millions de dollars pour atteinte à la vie privée [archive] » Accès libre, sur Le Devoir, 3 septembre 2025 (consulté le 8 septembre 2025)
+« Comment la Commission s’est résignée à infliger une amende de 3 milliards d’euros à Google », Le Monde,‎ 5 septembre 2025 (lire en ligne [archive] Accès payant)
+Vincent Hermann, « Publicité : sanctionnée en Allemagne, Google tente d’apaiser Bruxelles [archive] » Accès libre, sur Next Impact, 17 novembre 2025 (consulté le 20 novembre 2025)
+« Une recherche Google a un coût… énergétique », Le Monde,‎ 12 janvier 2009 (ISSN 1950-6244, lire en ligne [archive], consulté le 7 février 2017).
+Charlotte Houang, « Les fermes », Le Monde.fr,‎ 14 juin 2007 (ISSN 1950-6244, lire en ligne [archive], consulté le 1er mai 2017).
+« Google a contribué au financement d’organisations climatosceptiques », Le Monde,‎ 11 octobre 2019 (lire en ligne [archive])
+Controversé et gênant : le manifeste antidiversité qui circulait à Google [archive], lemonde.fr, 7.08.2017.
+Google: Polémique après les propos d'un employé sur les «différences biologiques» [archive], 20minutes.fr, 7.08.2017.
+(en) Google has fired the employee who penned a controversial memo on women and tech [archive], recode.net, 7.08.2017.
+États-Unis: L’ingénieur de Google auteur d’un blog sexiste a été licencié [archive], 20minutes.fr, 8.08.2017.
+Margaret Wente, « Nerdy guy writes memo, world has nervous breakdown », The Globe and Mail,‎ 11 août 2017 (lire en ligne [archive], consulté le 12 août 2017)
+Erick Erickson, « Why Google's firing terrifies social conservatives so much » [archive du 8 août 2017], sur The Washington Post, 8 août 2017 (consulté le 11 août 2017).
+David Brooks, « Sundar Pichai Should Resign as Google’s C.E.O. » [archive du 11 août 2017] Accès limité, sur The New York Times, 11 août 2017 (consulté le 11 août 2017).
+(en) « New York Times columnist David Brooks wants Google's CEO to resign » [archive du 12 août 2017], sur Business Insider (consulté le 12 août 2017).
+Clive Crook, « Google moves into the business of thought control [archive] », Bloomberg, 14 août 2017 (consulté le 14 août 2017).
+« Kirsten Powers and others who've read the Google 'anti-diversity' memo slam hysterical media coverage [archive] », Twitchy, 8 août 2017 (consulté le 12 août 2017).
+Conor Friedersdorf, « The Most Common Error in Media Coverage of the Google Memo » [archive du 8 août 2017], sur The Atlantic, 8 août 2017 (consulté le 9 août 2017).
+Jesse Singal, « How the Internet got the 'Google memo' wrong », The Boston Globe,‎ 10 août 2017 (lire en ligne [archive], consulté le 13 août 2017)
+(en) David C. Geary (en), « Straight Talk About Sex Differences in Occupational Choices and Work-Family Tradeoffs [archive] », sur Institute for Family Studies, 9 août 2017 (consulté le 5 septembre 2020).
+Ivan Davchev, « Google Job Search API [archive] », 11 mars 2017.
+ [archive].
+« Google Jobs API: The Future of Intense Job Poaching? [archive] », 18 mai 2017.
+ [archive].
+« No Tech for Apartheid : grogne chez Google autour d’un contrat d’IA avec Israël [archive] », sur Courrier international, 10 avril 2024 (consulté le 1er mars 2025)
+Israelvalley Desk, « Le projet "Nimbus". Israël signe un accord avec Google et Amazon Web Services. [archive] », sur IsraelValley, 26 mai 2021 (consulté le 1er mars 2025)
+Par Ricky Ben-David, « Mise en service du premier emplacement de cloud de Google en Israël [archive] », sur fr.timesofisrael.com (consulté le 1er mars 2025)
+i24NEWS, « Google lance la première région locale de cloud pour Israël [archive] », sur i24NEWS, 20 octobre 2022 (consulté le 1er mars 2025)
+ (en) washingtonpost., « Google rushed to sell AI tools to Israel's military after Hamas attack [archive] » Accès payant, sur washingtonpost., 21 janvier 2025
+i24NEWS, « Google a facilité l'accès de Tsahal à son IA dès le début de la guerre à Gaza [archive] », sur i24NEWS, 22 janvier 2025 (consulté le 2 mars 2025)
+Par Times of Israel Staff, « Des documents montreraient que Google a aidé Israël dans sa guerre avec des outils d’IA [archive] », sur fr.timesofisrael.com (consulté le 1er mars 2025)
+Par Times of Israel Staff, « Le contrat de Google avec Israël qui lui fait craindre pour sa réputation – média [archive] », sur fr.timesofisrael.com (consulté le 2 mars 2025)
+« No Tech for Apartheid. Google licencie 28 employés qui protestaient contre un contrat d’IA avec Israël [archive] », sur Courrier international, 18 avril 2024 (consulté le 1er mars 2025)
+(en-US) Gaby Del Valle, « Google reportedly worked directly with Israel’s military on AI tools [archive] », sur The Verge, 22 janvier 2025 (consulté le 1er mars 2025)
+Voir aussi
+Bibliographie
+Tara Calishain et Rael Dornfest (trad. Romain Guy & Hervé Hudebine), Google à 200% : 100 trucs, secrets et techniques [« Google Hacks »], Paris, Ed. O'Reilly, 2003, 356 p. (ISBN 978-2-84177-274-2, OCLC 53469280).
+Boris Beaude, Incontournable et sans contenu, EspacesTemps.net, Mensuelles, 11.09.2004 [archive]
+Jean-Noël Jeanneney, Quand Google défie l'Europe : plaidoyer pour un sursaut, Paris, Mille et une nuits, coll. « Essai », 2005, 113 p. (ISBN 978-2-84205-912-5, OCLC 419717950)
+essai sur le projet de numérisation de bibliothèques universitaires par Google.
+Johnny Long (trad. Anne Boby, préf. Pascal Lointier), Google hacking mettez vos données sensibles à l'abri des moteurs de recherche [« Google hacking »], Dunod, Paris, 2005, 350 p. (ISBN 978-2-10-049421-7, OCLC 890528527) (traduit de Google, (ISBN 1-931836-36-1))
+ouvrage sur l'utilisation des moteurs de recherche, et de Google.com en particulier, pour trouver des failles dans la sécurité des sites web et des entreprises.
+François Cazals et al., Le Monde selon Google, Ludres, Distriforce, 2006, 191 p. (ISBN 978-2-9525909-1-4, OCLC 718598508).
+explore une vision différente et critique du géant des moteurs de recherche.
+David A. Vise et Mark Malseed (trad. Dominique Maniez), Google story, Paris, Dunod, 2006, 314 p. (ISBN 978-2-10-049894-9, OCLC 634759153) raconte l'ascension de la firme californienne
+Barbara Cassin, Google-moi : la deuxième mission de l'Amérique, Paris, Albin Michel, coll. « Banc public », 2007, 258 p. (ISBN 978-2-226-17259-4, OCLC 174100640)
+essai critique de Google comme « champion de la démocratie culturelle ».
+Daniel Ichbiah, Comment Google mangera le monde : essai, Paris, Archipel, 2007, 263 p. (ISBN 978-2-84187-885-7, OCLC 300533449). Retrace l'historique de Google et montre ses dangers.
+Jeff Jarvis (trad. de l'anglais par François Druel, préf. Franck Riboud), La méthode Google : que ferait Google à votre place [« What would Google do? »], Paris, SW-Télémaque, 2009, 391 p. (ISBN 978-2-7533-0091-0, OCLC 470590519)
+essai sur la force du modèle Google et sa possible application à d'autres secteurs d'industrie.
+Randall Stross (trad. de l'anglais par Michel Le Séac'h), Planète Google : faut-il avoir peur du géant du Web [« Planet Google »], Paris, Pearson Education, 2009, 323 p. (ISBN 978-2-7440-6369-5, OCLC 417033396, lire en ligne [archive])
+Renaud Chareyre, Google spleen : la tentation de la désinformation : essai, Toulouse, Interactive Lab, 2009, 141 p. (ISBN 978-2-7466-1310-2, OCLC 717949680)
+Bruno Racine, Google et le nouveau monde, Paris, Plon, coll. « Tribune libre », 2010, 149 p. (ISBN 978-2-259-21203-8, OCLC 652460268)
+Franck Cazenave, Stop Google : relevez les nouveaux défis du géant du web, Paris, Pearson, coll. « Village mondial », 2014, 198 p. (ISBN 978-2-7440-6624-5, OCLC 895633969, présentation en ligne [archive])
+Christine Kerdellant, Dans la Google du loup, Plon, 2017, 336 p. (ISBN 978-2259248785)
+Mickael Berrebi, Jean-Hervé Lorenzi, L'Avenir de notre liberté: Faut-il démanteler Google…Et quelques autres ?, Eyrolles, 2017, 256 p. (ISBN 978-2212567625)
+Filmographie
+Les Stagiaires réalisé par Shawn Levy sorti en 2013 avec Vince Vaughn et Owen Wilson.
+Articles connexes
+
+Une catégorie est consacrée à ce sujet : Google.
+Sur les autres projets Wikimedia :
+
+Google, sur Wikimedia Commons
+google, sur le Wiktionnaire
+Google, sur Wikiquote
+Google, sur Wikinews
+Catégorie:Google, tous les articles de Wikipédia concernant Google.
+Liste des services en ligne de Google
+Critiques de Google
+Plateforme Google
+Garage Google
+Gogol (nombre)
+John Giannandrea
+Liste d'entreprises impliquées dans la guerre de Gaza
+No Tech for Apartheid
+Liens externes
+Site officiel [archive]
+Ressources relatives aux beaux-arts : Cooper–Hewitt, Smithsonian Design MuseumMuseum of Modern ArtTe Papa Tongarewa
+Ressources relatives à l'audiovisuel : France 24IMDbUnifrance
+Ressources relatives à la recherche : CrossRefResearchGate
+Ressource relative à plusieurs domaines : Radio France
+Notices dans des dictionnaires ou encyclopédies généralistes : Britannica [archive]Den Store Danske Encyklopædi [archive]Gran Enciclopèdia Catalana [archive]Larousse [archive]Nationalencyklopedin [archive]Store norske leksikon [archive]Visuotinė lietuvių enciklopedija [archive]
+Notices d'autorité : VIAFISNIBnF (données)IdRefLCCNGNDIsraëlCatalogneSuèdeAustralieNorvègeTchéquie
+« Site en français [archive] »
+(en) « Première version de Google » [archive du 11 novembre 1998], sur stanford.edu via Internet Archive
+Dans la Google du loup - Reportage au cœur de la Silicon Valley [archive], article paru en 2015 dans le no 9 de la revue Z.
+ [afficher]
+v · m
+Google
+ [afficher]
+v · m
+Alphabet
+ [afficher]
+v · m
+Silicon Valley
+ [afficher]
+v · m
+Les 25 plus grandes sociétés commercialisant des jeux vidéo par chiffre d'affaires (décembre 2019)[1]
+icône décorative Portail de Google icône décorative Portail des entreprises icône décorative Portail d’Internet icône décorative Portail de la région de la baie de San Francisco
+Catégories : GoogleEntreprise Internet ayant son siège aux États-UnisEntreprise fondée en 1998Entreprise ayant son siège à Mountain View (Californie)Entreprise du NASDAQ-100Lauréat du prix Princesse des Asturies en communications et humanités[+]
+La dernière modification de cette page a été faite le 4 octobre 2026 à 15:45. La page a été rendue avec Parsoid.
+Droit d'auteur : les textes sont disponibles sous licence Creative Commons attribution, partage dans les mêmes conditions ; d’autres conditions peuvent s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que les crédits graphiques. En cas de réutilisation des textes de cette page, voyez comment citer les auteurs et mentionner la licence.
+Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.
+Politique de confidentialitéÀ propos de WikipédiaAvertissementsContactContacts juridiques & sécuritéCode de conduiteDéveloppementStatistiquesDéclaration sur les témoins (cookies)Version mobile
+Wikimedia Foundation
+Powered by MediaWiki

@@ -1,0 +1,1253 @@
+
+
+Wikipédial'encyclopédie libre
+
+Faire un don
+Créer un compte
+Se connecter
+
+Wiki Loves Monuments
+Photographiez le patrimoine culturel marocain et gagnez des prix !
+
+
+
+Tesla (automobile)
+
+Article
+Discussion
+Lire
+Modifier
+Modifier le code
+Voir l’historique
+
+Page d’aide sur l’homonymie	
+Pour les articles homonymes, voir Tesla.
+
+Tesla
+logo de Tesla (automobile)
+Logo de Tesla.
+illustration de Tesla (automobile)
+Ancien siège social de Tesla à Palo Alto en Californie.
+Création	1er juillet 2003 (23 ans)
+Dates clés	Juin 2010 : Introduction en Bourse[1]
+2017 : Tesla Motors change de nom et devient Tesla[2]
+
+Fondateurs	Martin Eberhard
+Marc Tarpenning
+Personnages clés	Elon Musk
+Forme juridique	For-Profit Corporation (d)[3]
+Action	
+NASDAQ : TSLA
+FWB : TL0
+Siège social	Austin, Texas[4]
+Drapeau des États-Unis États-Unis
+Direction	Elon Musk (depuis 2008)[5]
+Président	Elon Musk
+Directeurs	Drew Baglino (CTO)
+Zach Kirkhorn (CFO)
+Actionnaires	Elon Musk (15,79 %)
+The Vanguard Group (7,79 %)
+BlackRock (6,20 %)
+State Street Corporation (3,52 %)
+Geode Capital Management (2,01 %)
+JPMorgan Chase (1,43 %)
+Eaton Vance Management (1,34̤̬ %)
+Capital Research & Management (1,29̥ %)
+Norges Bank (1,16 %)
+Activité	Construction automobile
+Produits	Véhicules électriques
+Filiales	Tesla Energy
+Tesla Grohmann Automation
+Maxwell Technologies
+Effectif	134 785 (2025)[6]
+Site web	www.tesla.com
+Capitalisation	1420 milliards de US$ (28 octobre 2025)[7]
+Fonds propres	30,2 G$ (31 décembre 2021)[8]
+Chiffre d'affaires	en augmentation 97,7 milliards de US$ (2024)[9]
++0,9 %
+Bilan comptable	62,1 G$ (31 décembre 2021)[8]
+Résultat net	en diminution 7,1 milliards de US$ (2024)[9]
+−53 %
+modifier - modifier le code - voir Wikidata 
+Tesla Inc. est un constructeur automobile de voitures électriques fondé en 2003 à San Carlos, en Californie, par Martin Eberhard et Marc Tarpenning.
+
+Entré au capital en 2004, Elon Musk, son actuel dirigeant, en a fait un constructeur automobile connu du grand public par un marketing de large envergure. La marque se fait connaître notamment par ses promesses de proposer des véhicules se déplaçant en pilotage automatique, bien que les véhicules Tesla ne proposent qu’une assistance à la conduite.
+
+L'entreprise s'est diversifiée dans les solutions énergétiques sous la forme notamment de batteries stationnaires, appelées « powerwall » pour le secteur résidentiel et « powerpack » pour le secteur industriel. En 2016, la fusion avec l'entreprise SolarCity ajoute à son portefeuille de produits les panneaux et tuiles photovoltaïques.
+
+En 2021, Tesla devient le constructeur automobile le plus valorisé du monde occidental et sa capitalisation boursière dépasse 1 000 milliards de dollars.
+
+Au quatrième trimestre 2023, Tesla perd sa place de premier constructeur de voitures électriques, dépassé par le fabricant chinois BYD.
+
+Tesla a fait l'objet de poursuites judiciaires, de boycotts, d'un examen minutieux de la part du gouvernement et de critiques journalistiques, découlant d'allégations de multiples cas de représailles contre les lanceurs d'alerte, violations des droits des travailleurs (notamment le harcèlement sexuel et les activités antisyndicales), défauts de sécurité ayant conduit à des douzaines de rappels de véhicules, ainsi que des déclarations controversées de Musk, notamment la promesse exagérée concernant la technologie d'aide à la conduite de l'entreprise et les délais de lancement des produits.
+
+Le siège social se situe à Austin, Texas, aux États-Unis.
+
+Histoire
+Fondation (2003-2004)
+Fondée sous le nom de Tesla Motors, Tesla est créée en 2003 par Martin Eberhard et Marc Tarpenning[10]. Le nom de l'entreprise est un hommage à Nikola Tesla, inventeur et ingénieur austro-hongrois d'origine serbe naturalisé américain, pionnier dans le domaine de la transmission de courant électrique[11]. Eberhard et Tarpenning occupent alors respectivement les postes de PDG et de directeur financier[12].
+
+Selon Eberhard, l'idée derrière la fondation de Tesla Motors vient d'une volonté de créer « un constructeur automobile qui soit également une entreprise technologique », dont les technologies de base seraient « la batterie, le logiciel informatique et le moteur »[13].
+
+Ian Wright, le troisième employé de Tesla, rejoint l'entreprise quelques mois plus tard[10].
+
+Les trois collègues lèvent 7,5 millions de dollars en février 2004 dans le cadre d'un financement de série A auprès de divers investisseurs, dont Elon Musk, qui contribue pour la grande majorité avec 6,5 millions de dollars[10],[14].
+
+Après l'investissement, Musk rejoint la société et devient président du conseil d'administration[12],[10]. J. B. Straubel rejoint Tesla en mai 2004[10].
+
+À la suite d'un procès entre Martin Eberhard et Tesla en septembre 2009, Eberhard, Tarpenning, Wright, Musk et Straubel sont reconnus comme cofondateurs de Tesla Motors[15].
+
+Roadster (2005-2009)
+Article connexe : Tesla Roadster (première génération).
+
+L'insigne de Tesla Motors tel qu'il apparaît sur un Tesla Roadster Sport première génération.
+Elon Musk joue un rôle actif au sein de l'entreprise et supervise en détail la conception du Tesla Roadster, mais n'est pas profondément impliqué dans les opérations commerciales quotidiennes. Dès le début, Musk affirme que l'objectif stratégique à long terme de Tesla est de créer des véhicules électriques abordables destinés au marché de masse[16]. L'objectif de Tesla est de commencer par une voiture de sport haut de gamme destinée aux premiers acheteurs de l'entreprise, puis de passer à des véhicules plus grand public, notamment des berlines et des breaks abordables[17],[source insuffisante].
+
+En février 2006, un tour de table de série B rapporte un montant de 13 millions de dollars ; Valor Equity Partners rejoint dès lors l'équipe de financement[18],[14]. Musk codirige le troisième tour de table de 40 millions de dollars en mai 2006. Ce tour de table comprend des investissements d'entrepreneurs de premier plan, notamment les cofondateurs de Google, Sergey Brin et Larry Page, et l'ancien président d'eBay, Jeffrey Skoll. Un quatrième tour de table d'une valeur de 45 millions de dollars en mai 2007 porte le total des investissements privés à plus de 105 millions de dollars[19]. Des prototypes de la première voiture de Tesla, le Roadster, sont officiellement révélés au public le 19 juillet 2006 à Santa Monica, en Californie, lors d'un événement sur invitation de 350 personnes organisé dans le hangar Barker de l'aéroport de Santa Monica[20].
+
+En août 2007, le conseil d'administration demande à Eberhard de quitter son poste de PDG[21]. Eberhard occupe ensuite le poste de « président de la technologie » avant de quitter définitivement la société en janvier 2008. Le cofondateur Tarpenning, qui occupe alors le poste de vice-président de l'ingénierie électrique de la société, quitte également la société en janvier 2008[22]. En août 2007, Michael Marks est engagé comme PDG par intérim, et en décembre 2007, Ze'ev Drori devient PDG et président. Musk succède à Drori comme PDG en octobre 2008[23].
+
+Tesla commence la production du Roadster en 2008[24]. En janvier 2009, Tesla a levé 187 millions de dollars et livré 147 voitures. Musk a alors apporté 70 millions de dollars de sa propre fortune à l'entreprise[25]. Plus tard dans l'année, en juin, Tesla est autorisée à recevoir 465 millions de dollars de prêts du département de l'Énergie des États-Unis. Ce financement, qui s'inscrit dans le cadre du programme de prêts pour la fabrication de véhicules à technologie avancée (Advanced Technology Vehicles Manufacturing Loan Program) de 8 milliards de dollars américains, soutient Tesla dans l'ingénierie et la production de la berline Model S[26]. Tesla rembourse le prêt en mai 2013, payant des intérêts d'une valeur de 12 millions de dollars américains[27].
+
+Introduction en bourse, Model S et Model X (2010-2015)
+Articles connexes : Tesla Model S et Tesla Model X.
+
+Premières livraisons du Model S à l'usine Tesla de Fremont, en Californie, en juin 2012.
+En mai 2010, Tesla rachète une ancienne usine de General Motors et Toyota à Fremont, en Californie, pour 42 millions de dollars[28]. Le site, baptisé Tesla Factory, est destiné à la production du Model S et ouvre en octobre 2010[29]. Le 29 juin 2010, Tesla Motors entre en bourse au NASDAQ et devient la première société automobile américaine à le faire depuis l'introduction en bourse de Ford en 1956[30]. La société émet 13,3 millions d'actions ordinaires au prix de 17,00 $ par action, ce qui lui permet de lever 226 millions de dollars[31].
+
+En janvier 2012, Tesla cesse la production du Roadster, et en juin, l'entreprise lance officiellement sa deuxième voiture, la berline de luxe Model S[32]. Le Model S remporte plusieurs prix automobiles en 2012 et 2013, dont le trophée de la Voiture de l'Année Motor Trend, et devient la première voiture électrique à se hisser en tête du classement mensuel des ventes d'un pays, lorsqu'elle atteint la première place du palmarès norvégien des ventes de voitures neuves en septembre 2013[33],[34]. Le Model S est également la voiture électrique la plus vendue au monde pour les années 2015 et 2016[35].
+
+Tesla a dû se porter en justice pour conserver sa marque en Chine. « Tesla » y avait été déposé en 2006 et le constructeur américain avait envisagé de commercialiser ses voitures sous la marque Tuosule avant de gagner son procès début 2014[36].
+
+Tesla annonce l'Autopilot, un système d'aide à la conduite, en 2014. En septembre de la même année, toutes les voitures Tesla commencent à être livrées avec des capteurs et des logiciels pour prendre en charge cette fonction. Ces véhicules portent ainsi la dénomination « hardware version 1 » ou « HW1 »[37]. En juin 2014, Tesla rend ses brevets accessibles à tous, Musk ayant déclaré : « Si une entreprise dépend de ses brevets, c'est qu'elle n'innove pas ou alors qu'elle n'innove pas assez rapidement »[38].
+
+En avril 2015, Tesla fait son entrée sur le marché du stockage d'énergie en dévoilant ses packs de batteries domestiques Powerwall et industriels Powerpack[39]. L'entreprise reçoit des commandes évaluées à 800 millions de dollars dans la semaine qui suit l'annonce[40].
+
+Tesla lance son troisième véhicule, le SUV de luxe Model X, en septembre 2015[41]. À ce moment, l'entreprise vend plus de 10 000 véhicules par trimestre[42]. Malgré ces bons résultats, au deuxième trimestre 2015, Tesla est déficitaire, sa perte nette atteignant les 184 millions de dollars[43].
+
+SolarCity et Model 3 (2016-2018)
+Articles connexes : SolarCity et Tesla Model 3.
+
+La berline Model 3 est présentée au public le 31 mars 2016.
+En novembre 2016, Tesla fait l'acquisition de SolarCity, entrant ainsi sur le marché de l'énergie solaire photovoltaïque[44]. Quelques mois plus tard, en février 2017, Tesla Motors raccourcit son nom en Tesla afin de mieux refléter l'étendue de son activité, qui comprend alors des véhicules électriques, des systèmes de stockage d'énergie stationnaires et la production d'énergie solaire[45].
+
+En mars 2017, Tesla réunit 1,2 milliard de dollars, à la fois en émettant 1,3 million d'actions ordinaires et « via la cession de titres convertibles de premier rang à échéance 2022 »[46].
+
+Tesla commence également son effort philanthropique. En 2017, l'entreprise aide des zones se remettant de catastrophes, en particulier en installant des systèmes de production photovoltaïque et de stockage pour rétablir l'électricité dans un hôpital de Porto Rico, après le passage de l'ouragan Maria[47],[48]. En juillet 2018, l'entreprise fait don de 37,5 millions de dollars à un système d'éducation, le STEM K-12, au Nevada[49]. En janvier 2020, Tesla fait don de 5 millions de yuans (723 000 $) au Centre chinois de contrôle et de prévention des maladies pour lutter contre la pandémie de Covid-19[50],[51].
+
+Tesla commence à vendre son quatrième modèle de véhicule, la berline Model 3, en juillet 2017[52]. Le Model 3, destiné au marché de masse, est moins cher par rapport aux véhicules Tesla précédents. Il est très attendu, ce qui incite l'entreprise à essayer d'accélérer la production[53]. En août 2017, Tesla a 455 000 réservations pour le Model 3[54]. Sa sortie est cependant entachée de retards et de problèmes de production, ce qui augmente la pression sur l'entreprise, qui est alors l'une des entreprises les plus populaires du marché de bourse[55],[56]. En 2018, le PDG Elon Musk envisage brièvement de racheter toutes les actions de Tesla, mais ce projet ne se concrétise pas ; cette déclaration a suscité de nombreuses controverses. À la fin de l'année 2018, les problèmes de production sont surmontés et le Model 3 figure sur la liste des voitures électriques les plus vendues au monde pour l'année[56],[57].
+
+Expansion mondiale (de 2019 à 2023)
+Lancement du modèle Y et nouveaux modèles
+
+Quatre futurs véhicules Tesla (Cybertruck, Cyberquad, Roadster, Semi) alignés durant l'assemblée annuelle des actionnaires de 2020.
+En mars 2020, Tesla commence les livraisons de son cinquième modèle de véhicule, le crossover Model Y[58].
+
+En 2022, Tesla se concentre sur la production de ses modèles actuels, à commencer par le Model Y, en particulier dans ses nouvelles usines d'Austin et de Berlin. Faute de disponibilité des nouvelles cellules de batterie 4680, le Cybertruck et la compacte à bas prix « Model 2 » sont repoussés à 2023 ; le Semi est également retardé[59].
+
+Construction de nouvelles gigafactories
+À la fin des années 2010, l'entreprise étend ses capacités de production à l'échelle mondiale. Tesla ouvre sa première gigafactory en dehors des États-Unis à Shanghai, en Chine, en 2019. La Giga Shanghai est la première usine automobile en Chine entièrement détenue par une société étrangère ; elle est construite en moins de six mois[60].
+
+L'année suivante, Tesla commence également la construction d'une nouvelle gigafactory à Grünheide, près de Berlin, en Allemagne, et d'une autre au Texas, aux États-Unis. Le 22 mars 2022, l'usine de Berlin est inaugurée[61].
+
+En mars 2024, cette usine est attaquée par le groupuscule d'extrême gauche Vulkan qui incendie un poteau électrique, bloquant la production de l'usine. Le préjudice est estimé par Tesla à plusieurs centaines de millions d'euros[62]. Elon Musk décrit le groupe Vulkan comme « les écoterroristes les plus bêtes du monde »[63].
+
+En janvier 2023, l'entreprise annonce un investissement de 775 millions d'euros dans son usine du Texas inaugurée en avril 2022[64],[65].
+
+Résultats d'exploitation et capitalisation boursière
+
+Ventes des véhicules Tesla : l'ordonnée représente le prix et l'abscisse le volume de production.
+Le 10 janvier 2020, Tesla atteint une capitalisation boursière de 86 milliards de dollars, battant le record de la plus grande valorisation de tout constructeur automobile américain[66]. Le 10 juin 2020, la capitalisation boursière de Tesla dépasse celles de BMW, Daimler et Volkswagen réunies[67]. Le mois suivant, Tesla atteint une valorisation de 206 milliards de dollars, dépassant les 202 milliards de dollars de Toyota, pour devenir le constructeur automobile à la valeur la plus haute en termes de capitalisation boursière[68]. Le 31 août 2020, Tesla procède à un fractionnement d'actions à raison de 5 pour 1 à la suite de l'augmentation de sa valeur[69].
+
+De juillet 2019 à juin 2020, Tesla déclare pour la première fois quatre trimestres rentables d'affilée, ce qui la rend éligible à l'inclusion dans le S&P 500[70]. Tesla est ajoutée à l'indice le 21 décembre de la même année. C'est la plus grande société jamais ajoutée et la sixième plus grande société de l'indice au moment de l'inclusion[71]. Malgré les mises en garde de certains analystes[72], le cours de l'action Tesla augmente de 740 % en 2020. Le 26 janvier 2021, sa capitalisation boursière atteint 848 milliards de dollars, soit plus que les neuf autres plus grands constructeurs automobiles réunis, ce qui en fait la cinquième société des États-Unis par la capitalisation boursière[73],[74],[75],[76].
+
+Tesla atteint son objectif de construire un demi-million de voitures en 2020[77]. L'entreprise termine l'année avec plus de 19 milliards de dollars de liquidités, contre 6,3 milliards de dollars US à la fin de 2019[78],[79].
+
+Le 25 octobre 2021, après la publication d'excellents résultats trimestriels, puis l'annonce d'une commande de 100 000 véhicules Tesla par le loueur de voiture Hertz, la capitalisation boursière de Tesla atteint 1 029 milliards USD, devenant ainsi la cinquième capitalisation boursière au monde, 12 fois plus élevée que celle de General Motors[80], 100 fois plus que Renault et davantage que tous les constructeurs traditionnels réunis ; sur le troisième trimestre 2021, la marge opérationnelle de Tesla est désormais, à 14 %, largement supérieure à celle des autres constructeurs : 6 ou 7 %[81].
+
+En 2021, Tesla affiche un bénéfice record de 5,5 milliards de dollars grâce à une marge opérationnelle doublée à 12 %, et déclare : « il ne peut plus y avoir de doute sur la viabilité et la rentabilité des véhicules électriques. Nous sommes aussi parvenus à dégager la plus forte marge opérationnelle trimestrielle de tous les constructeurs automobiles »[82].
+
+En 2022, la bulle boursière dénoncée depuis plusieurs trimestres[83],[84] explose et le cours de bourse chute de près de la moitié par rapport à ses plus hauts[85]. Cette chute du cours touche l'ensemble du secteur de la tech, en particulier les GAFAM, dont les bénéfices reculent ; le cours boursier de Meta (ex-Facebook) a reculé de presque 60 %, depuis janvier[86],[87].
+
+En janvier 2023, elle regagne 65 %, repassant le seuil symbolique des 500 milliards de dollars de capitalisation[88]. Au premier trimestre 2023, le Model Y devient le véhicule particulier le plus vendu en Europe[89]. En 2023, Tesla a vendu 1,8 million de véhicules tout électrique, contre 1,6 million pour BYD. Mais au quatrième trimestre 2023, BYD en a vendu 526 000, contre 484 507 pour Tesla, qui n'a pas atteint son objectif annuel de 2 millions de ventes ; son taux de croissance est cependant de 38 %[90].
+
+Recherche de rentabilité, économies et politique salariale
+Le 6 octobre 2020, Tesla déclare au site Internet Electrek qu'elle a dissous son service de relations publiques (à l'exception de quelques responsables des relations publiques représentant les marchés européens et asiatiques de Tesla), devenant ainsi le premier constructeur automobile à le faire[91].
+
+En février 2021, il est révélé que Tesla a investi près de 1,5 milliard de dollars dans la crypto-monnaie Bitcoin, et l'entreprise indique qu'elle l'accepterait bientôt comme mode de paiement[78],[92]. Cependant, le 12 mai 2021, Tesla indique, via un tweet d'Elon Musk, qu'elle n'accepterait plus le Bitcoin comme forme de paiement en raison de préoccupations climatiques[93].
+
+En octobre 2021, Tesla annonce déménager son siège social au Texas[94], où il n'y a pas d'impôts sur les revenus ni d'impôts sur les plus-values[95].
+
+En mai 2022, Tesla signe un important contrat avec l'entreprise brésilienne Vale sur la fourniture de nickel[96].
+
+En décembre 2023, les ouvriers de Tesla en Suède et au Danemark font grève pour réclamer une amélioration de leurs conditions de travail. L'entreprise américaine refuse et ne signe pas la convention collective sur les salaires proposée par les ouvriers. Musk critique les syndicats ayant apporté leur soutien aux ouvriers de Tesla[97].
+
+En Allemagne, Tesla refuse d'adhérer à la convention collective du secteur automobile et paie, de fait, ses salariés environ 20 % moins cher que les autres constructeurs[98].
+
+En janvier 2024, Tesla annonce un bénéfice net record de 15 milliards de dollars au cours de l'année 2023, grâce notamment à un avantage fiscal exceptionnel de 5,9 milliards de dollars[99],[100].
+
+Repli (2024 - 2025)
+En 2024, le chiffre d’affaires de son activité automobile est de 77 milliards de dollars, soit une baisse de 6 % par rapport à 2023. Les ventes de Tesla dans le monde sont en recul pour la première fois depuis 10 ans, avec un volume de 1 789 226 véhicules. Mais avec le secteur concernant la production au stockage d’énergie et aux services[pas clair], Tesla présente une croissance de 1 % de ses ventes, à 97,69 milliards de dollars[101],[102].
+
+En avril 2024, Elon Musk annonce vouloir licencier 10 % des salariés de Tesla, soit 14 000 salariés. Cette mesure est présentée aux salariés comme une réponse à la baisse des ventes dans le monde[103]. Le 30 avril 2024, Musk ferme la branche Supercharger de Tesla et licencie ses 500 employés[104].
+
+En décembre 2024, une juge du Delaware rejette pour la deuxième fois un plan de rémunération de 55,8 milliards de dollars pour Musk[105]. Ce plan avait été initialement approuvé par les actionnaires en 2018, mais annulé par la justice en janvier 2024[106]. Malgré une nouvelle approbation par 72 % des actionnaires en juin 2024, la juge Kathaleen McCormick maintient sa décision initiale[107]. La juge accorde également 345 millions de dollars d'indemnisation à l'avocat de l'actionnaire à l'origine de la procédure. Tesla annonce son intention de faire appel de cette décision.
+
+En janvier 2025, lors de l'investiture de Donald Trump à la Maison-Blanche, Musk fait par deux fois un salut de type nazi[108]. Il apporte par ailleurs son soutien au parti allemand d'extrême droite AfD[109]. Les ventes de Tesla chutent de 50 % en Europe[110]. Le fonds de pension danois Akademikerpension (da) met l'entreprise sur liste noire en raison de la dégradation de l'image de la marque et de ses atteintes au droit du travail[111].
+
+Début 2025, Robyn Denholm, présidente du conseil d'administration du constructeur, liquide en 3 mois 117 millions de dollars de titres[112].
+
+La capitalisation boursière perd plus de 50 % de sa valeur, entre décembre 2024 et mars 2025[113], et les ventes de véhicules Tesla chutent[114],[115].
+
+En mars 2025, pour soutenir Musk et enrayer la baisse des ventes[116], l'État d'Israël propose à Tesla un appel d'offres concernant les voitures de ses hauts fonctionnaires[117]. Benyamin Netanyahou réitère alors son soutien à Musk, qu'il considère comme « un grand ami d’Israël »[118].
+
+En mai 2025, le Wall Street Journal annonce que le conseil d'administration de Tesla envisage de remplacer Musk[119] ; l'information est démentie, mais les difficultés financières de l'entreprise ont tendu, en effet, les relations entre le conseil d’administration, qui dirige effectivement l'entreprise, et son directeur général et premier actionnaire[120].
+
+En novembre 2025, Tesla a approuvé un plan de rémunération d'une valeur potentielle de mille milliards de dollars sous forme d'actions pour Musk. Il doit recevoir ce montant sur une période de 10 ans s'il atteint des objectifs de performance spécifiques[121].
+
+Transition vers l'IA et la robotique (Depuis 2026)
+En janvier 2026, Musk annonce l’arrêt de la production des Model S et X, afin de recentrer Tesla sur ce qu’il considère comme son avenir : la conduite autonome et la robotique. Ces deux modèles ne représentaient plus, avec le Cybertruck, que 3,1 % des immatriculations de Tesla en 2025. L'espace ainsi libéré dans l'usine de Fremont, en Californie, permettra d'installer une ligne de production destinée au robot humanoïde Optimus, pour lequel Musk évoque un objectif de production pouvant atteindre, à terme, un million d’unités par an[122].
+
+Un projet d'usine de fabrication de semi-conducteurs nommé Terafab, porté par Tesla, xAI, SpaceX (la société mère de xAI) et Intel est annoncé le 21 mars 2026 par Elon Musk [123],
+
+Produits
+Véhicules
+En production
+Model 3
+Article détaillé : Tesla Model 3.
+
+Tesla Model 3.
+La Model 3 est une berline fastback à quatre portes. Tesla a dévoilé la Model 3 le 31 mars 2016[124]. Les réservations ont commencé le même jour avec un dépôt remboursable. Une semaine après l'annonce, Tesla fait état de plus de 325 000 réservations[125]. Selon Bloomberg News, « le lancement du Model 3 est unique dans l'histoire centenaire de l'automobile »[126]. La production du véhicule a commencé en juillet 2017[127].
+
+Depuis mars 2020, la Model 3 est la voiture électrique la plus vendue au monde, et les ventes mondiales depuis sa création ont totalisé plus de 810 000 unités jusqu'en décembre 2020[128],[129]. La Tesla Model 3 s'est classée comme la voiture électrique la plus vendue au monde pendant trois années consécutives, de 2018 à 2020[129],[130], et également comme la voiture électrique la plus vendue aux États-Unis depuis 2018[131],[132],[133]. La Model 3 a également établi des records en Norvège et aux Pays-Bas, se classant dans ces deux pays comme le modèle de voiture le plus vendu sur l'ensemble du marché en 2019[134],[135]. Au premier semestre 2021, la Tesla Model 3 est le véhicule électrique le plus vendu en Europe[136].
+
+Model Y
+Article détaillé : Tesla Model Y.
+
+Tesla Model Y.
+Le Model Y est un crossover compact électrique haut de gamme ; il se présente comme une version surélevée de la Model 3. Le Model Y est produit depuis 2020. En 2023, puis de nouveau en 2024, il devient le véhicule le plus vendu en Europe et dans le monde, toutes énergies confondues, c'est le premier véhicule électrique qui enregistre ce genre de ventes.
+
+Le Model Y Juniper amélioré est disponible depuis 2025 avec des améliorations similaires à celles du Model 3 Highland[137].
+
+Semi
+Article détaillé : Tesla Semi.
+
+Un prototype du Tesla Semi.
+Le Tesla Semi est un camion électrique tracteur de semi-remorque (principe du véhicule articulé) présenté le 16 novembre 2017.
+
+Le camion est propulsé par trois moteurs et, selon Tesla, il dispose d'une puissance d'environ trois fois celle d'un semi-remorque diesel classique, d'une autonomie de 500 miles (800 km) et peut fonctionner avec une consommation d'énergie inférieure à deux kilowattheures par mile (1,2 kW·h/km)[138].
+
+Tesla a déclaré en avril 2025 qu'il prévoyait une production à grande échelle début 2026[139].
+
+Dans une publication du 29 avril 2026 sur son compte X, Tesla annonce que le tout premier exemplaire de son camion « Semi » est sorti des lignes de production[140].
+
+Cybertruck
+Article détaillé : Tesla Cybertruck.
+
+Tesla Cybertruck.
+Le Cybertruck est un véhicule utilitaire tout terrain à benne ouverte (pick-up) électrique, dont la production a débuté le 15 juillet 2023.
+
+Il a été dévoilé pour la première fois sous forme de prototype en novembre 2019.
+
+Initialement prévu pour une production fin 2021, le véhicule a subi de multiples retards avant d'entrer en production limitée à la Gigafactory Texas en novembre 2023, avec les premières livraisons aux clients qui ont eu lieu plus tard ce mois-là.
+
+Après quatorze mois de commercialisation, avec 40 000 véhicules vendus annuellement, le Cybertruck est qualifié d'« indiscutable échec commercial »[141],[142]. SpaceX et d'autres sociétés contrôlées par Elon Musk auraient acheté près d'un Cybertruck sur cinq au quatrième trimestre 2025 pour éviter un effondrement des ventes[143].
+
+Cybercab
+Article détaillé : Tesla Cybercab.
+
+Concept car du Cybercab de 2024.
+Le concept du Cybercab ou Robocab est présenté le 10 octobre 2024 à l'événement de Tesla nommé « We, Robot » en Californie. 20 prototypes proposaient de courts trajets aux participants à l'événement d'annonce. Elon Musk a déclaré en 2024 que la production devrait commencer avant 2027[144]. En avril 2026, Tesla confirme la mise en production du Cybercab à l'usine Giga Texas à Austin[145] bien que le véhicule ne soit pas encore autorisé à rouler sans conducteur[146].
+
+Cyberquad
+Le Cyberquad est présenté le 21 novembre 2019, en même temps que le Cybertruck dont il devait, dans un premier temps, être un accessoire proposé à l'achat fin 2021[147]. En date de novembre 2025, seul un Cyberquad pour enfant est disponible[148]
+
+En développement
+Roadster seconde génération
+Article détaillé : Tesla Roadster (deuxième génération).
+
+Concept car du Tesla Roadster de deuxième génération.
+Le 16 novembre 2017, Tesla dévoile la seconde génération du Roadster[149]. Équipé de quatre roues motrices et proposé en version hybride, le Roadster pourrait passer de 0 à 100 km/h en 1,1 seconde[150] et disposer d'une vitesse de pointe de plus de 400 km/h. Cela serait permis par sa motorisation hybride, une première pour la marque, dotant le Roadster de propulseurs à gaz froid. Une autonomie de près de 1 000 kilomètres[151] serait permise grâce à son pack de batterie de 200 kWh. Le Roadster II serait commercialisé pour un prix avoisinant les 200 000 $[152].
+
+Initialement prévu pour 2020, la livraison a été régulièrement décalée. Lors de l'assemblée annuelle de Tesla du 6 novembre 2025, Elon Musk a annoncé que la présentation de la version de production aura lieu le 1er avril 2026[153].Cependant en juin 2026, Tesla a repoussé la démonstration publique à août 2026 ou plus tard[154].
+
+Robovan
+Le concept du Robovan est présenté le 10 octobre 2024 à l'événement de Tesla nommé « We, Robot » en Californie. Un Robovan a également été conduit de manière autonome jusqu'à la scène principale lors de l'événement. Le Robovan est conçu pour transporter jusqu'à 20 passagers[155].
+
+Anciens véhicules
+Tesla Roadster de première génération
+
+Le Tesla Roadster de première génération.
+Le premier modèle de véhicule Tesla dont la production a été arrêtée est le Tesla Roadster première génération[156]. Le Roadster est une voiture de sport électrique à batterie issue du châssis de la Lotus Elise[157], qui est produite par Tesla en Californie entre 2008 et 2012. Le Roadster est la première voiture électrique de série utilisant des cellules de batterie lithium-ion à être autorisée sur les autoroutes américaines et la première voiture électrique de série à parcourir plus de 320 km par charge. C'est également la première voiture de série à être lancée dans l'espace, transportée pour un vol d'essai de la fusée Falcon Heavy, le 6 février 2018[158].
+
+Model S
+Article détaillé : Tesla Model S.
+
+En mars 2014, en Norvège, la Model S a battu le record vieux de 28 ans des ventes mensuelles les plus élevées pour un seul modèle, quelle que soit la source d'énergie[159],[160].
+La Model S est une berline à cinq portes livrée à partir du 22 juin 2012[161]. Elle est devenue le premier véhicule électrique à se hisser en tête du classement mensuel des ventes d'un pays, lorsqu'elle a atteint la première place du palmarès norvégien des ventes de voitures neuves en septembre 2013[162],[163]. La Model S est incluse dans les 25 meilleures inventions de l'année 2012 du magazine Time[164] et a remporté le prix de la voiture de l'année 2013 de Motor Trend, le prix de la World Green Car (en) 2013[165], le prix de la voiture de l'année 2013 du magazine Automobile[166] ainsi que le prix de la « voiture ultime de l'année » 2019 de Motor Trend[167].
+
+La Model S est la voiture électrique la plus vendue au monde pour les années 2015 et 2016, avec des ventes estimées à 50 931 unités en 2016[168]. À la fin de 2017, elle figure comme la deuxième voiture électrique la plus vendue de l'Histoire après la Nissan Leaf, avec des ventes mondiales de 200 000 unités[169]. En juin 2020, Tesla annonce que la Model S Long Range Plus a une autonomie de 647 km, la plus élevée de toutes les voitures électriques à batterie à ce moment-là[170].
+
+En janvier 2026, Tesla annonce la fin de la production de la Model S au deuxième trimestre 2026[171].
+
+En avril 2026, la production est définitivement arrêtée[172].
+
+Model X
+Article détaillé : Tesla Model X.
+
+Le concept Model X présenté à Hawthorne (Californie).
+Le Model X est un SUV familial électrique haut de gamme . Présenté au public en 2012 au salon de Genève, il est commercialisé aux États-Unis à partir de septembre 2015 et dans certains pays d'Europe à partir de 2016.
+
+Le véhicule est développé sur la même plateforme que la berline Model S et est fabriqué dans la même usine à Fremont, en Californie. Elle peut accueillir jusqu'à sept personnes, sur trois rangées de sièges.
+
+L'une des particularités du Model X est ses portes arrière papillon (falcon-wing, en anglais) : ces portières articulées s'ouvrent verticalement grâce à une motorisation électrique et se déploient selon un arc optimisé en fonction de l'espace disponible.
+
+En janvier 2026, Tesla annonce la fin de la production de la Model X au deuxième trimestre 2026[171].
+
+En avril 2026, la production est définitivement arrêtée[172].
+
+Robot Optimus
+
+Optimus en 2023.
+Article détaillé : Tesla Optimus.
+Optimus, est un robot humanoïde polyvalent en cours de développement. Il a été annoncé lors de l'événement de la Journée de l'Intelligence Artificielle (IA) de l'entreprise, le 19 août 2021[173], et un prototype a été présenté en 2022[174]. En janvier 2026 au forum de Davos, Elon Musk annonce vouloir commercialiser Optimus avant 2028. Une semaine plus tard, il annonce l'arrêt de la production des voitures Model X et Model S pour favoriser la production des robotaxis et des robots Optimus dont les objectifs de production sont fixés à 1million d'unités par an pour 20 000$ l'unité[175],[176].
+
+Tesla Energy
+La filiale de Tesla, Tesla Energy, développe, construit, installe et vend des systèmes de production d'énergie solaire, des produits de stockage d'énergie par batterie ainsi que d'autres produits et services connexes à des clients résidentiels, commerciaux et industriels[177].
+
+La société est fondée après la fusion de la division existante des produits de stockage d'énergie par batterie de Tesla avec SolarCity, une société d'énergie solaire que Tesla a acquise en 2016 pour un coût d'environ 2,6 milliards de dollars[178]. Les produits de production d'électricité de Tesla Energy comprennent des panneaux solaires (construits par d'autres entreprises pour Tesla), Solar Roof — un système de bardeaux solaires —, et l'onduleur solaire Tesla. L'entreprise construit également le Tesla Powerwall, un dispositif de stockage d'énergie à domicile, ainsi que le Powerpack et le Megapack, des systèmes de stockage d'énergie à grande échelle[179],[180],[181].
+
+En 2020, l'entreprise installe des systèmes d'énergie solaire capables de générer, au total, 205 mégawatts (soit environ 1 km² de modules) et installe l'équivalent de 3 gigawattheures de produits de stockage d'énergie par batterie[182](soit environ l'équivalent de 300 000 Powerwalls à 10 kWh ou de 770 Megapack à 3,9 MWh).
+
+Les ventes de Tesla Energy ont progressé de 40 % en 2022, atteignant 3,9 milliards de dollars, soit 5 % du chiffre d'affaires du groupe Tesla. Les ventes de batteries stationnaires, sous forme de « Megapacks » de la taille d'un container, destinées à reporter, en la stockant quelques heures, la production électrique de centrales solaires de midi vers le soir, par exemple en Californie, ou à stabiliser la fréquence sur des réseaux fragiles car très étendus, comme en Australie, ont progressé de 64 %, atteignant 6,5 GWh[183] (soit 1667 Megapacks).
+
+Services
+Tesla perçoit des revenus de services de la part des clients après l'achat initial du véhicule ; ces revenus atteignent près de 500 millions de dollars au deuxième trimestre 2020[184]. Plusieurs services sont prévus à l'avenir : le réseau Tesla, l'Autopilot sous forme d'abonnement et le paiement pour activer une borne Wi-Fi dans la voiture[185],[186].
+
+Recharge de véhicules
+Réseau de Superchargeur
+Article détaillé : Tesla Superchargeur.
+
+Un Model S en charge dans une station Supercharger à Newark, Delaware.
+En 2012, Tesla commence à construire un réseau de stations Superchargeurs de recharge rapide à 480 volts. En novembre 2020, Tesla exploite plus de 20 000 Superchargeurs dans plus de 2 100 stations dans le monde entier[187]. Le Superchargeur est une technologie à courant continu (DC) qui peut fournir jusqu'à 250 kW de puissance[188]. Le logiciel de navigation des voitures Tesla peut recommander l'itinéraire le plus rapide pour les voyages longue distance, en intégrant les éventuels délais de recharge[189].
+
+Presque toutes les voitures Tesla sont compatibles avec le Superchargeur. Les voitures Model S et X commandées avant le 15 janvier 2017 bénéficient de supercharges gratuites et illimitées. Les voitures Model S et X commandées entre le 15 janvier 2017 et le 3 août 2019 reçoivent 400 kWh (1 400 MJ) de crédits de supercharge gratuits par an, ce qui garantit environ 1 600 km gratuits par an[190]. Toutes les voitures Tesla Model S et X commandées entre le 3 août 2019 et le 26 mai 2020 bénéficient à nouveau de la supercharge illimitée gratuite[191],[192]. Étant un modèle moins haut de gamme, les Model 3 ne sont pas livrées avec la supercharge illimitée gratuite[193].
+
+Tesla a construit une usine de superchargeurs à Shanghai, achevée le 20 août 2021. À pleine capacité, elle sera capable de produire jusqu’à 10 000 chargeurs par an, dont une grande majorité de superchargeurs V3 ; Tesla comptant environ 25 000 superchargeurs à travers le monde, cette usine permettra de doubler leur nombre en moins de trois ans[194].
+
+Réseau d'emplacements de recharge à destination
+
+Une borne de recharge à destination en Amérique du Nord.
+En 2014, Tesla lance le réseau d'« emplacements de recharge à destination » en fournissant des chargeurs à des hôtels, des restaurants, des centres commerciaux et autres centres de loisirs pour permettre la recharge de véhicules sur place avec une puissance deux fois supérieure à celle d'une station de recharge domestique typique[195].
+
+Ces chargeurs sont installés gratuitement par des entrepreneurs certifiés par Tesla ; les sites doivent fournir l'électricité sans frais pour leurs clients[196]. Tous les chargeurs installés apparaissent dans le système de navigation de la voiture[197].
+
+Mises à jour et mises à niveau du logiciel
+Les logiciels des véhicules Tesla sont régulièrement mis à jour par Wi-Fi[198] (ou plus rarement par liaison cellulaire) lorsque de nouvelles versions de logiciels et de micrologiciels sont publiées. Cela permet de maintenir le logiciel et de proposer de nouvelles fonctionnalités[199]. Tesla offre également la possibilité de débloquer des fonctionnalités de la voiture par le biais de mises à niveau logicielles après l'achat. Les mises à niveau disponibles comprennent le pilotage automatique partiel ou la conduite autonome complète, l'accélération améliorée (pour les propriétaires de Model 3) et les sièges chauffants à l'arrière (pour les propriétaires de Model 3)[200],[201],[202].
+
+Connectivité
+Toutes les voitures Tesla sont livrées avec une connectivité standard qui permet la navigation à l'aide d'une connexion cellulaire ainsi que du streaming vidéo, une navigation sur Internet et du streaming musical (avec un abonnement payant) uniquement par Wi-Fi ou Bluetooth[203]. La connectivité premium ajoute l'accès cellulaire au trafic en direct, aux cartes satellites et au streaming musical. Lorsque le véhicule est arrêté, la connectivité premium permet aussi le streaming vidéo via des services de vidéo à la demande, la navigation sur Internet et un mode karaoké[203],[204].
+
+Entretien des véhicules
+La stratégie de service de Tesla consiste à entretenir ses véhicules par le biais de diagnostics et de réparations à distance, de techniciens mobiles et de centres de service appartenant à Tesla[205],[206].
+
+En 2016, Tesla recommande de faire inspecter toute voiture Tesla tous les 20 000 km ou une fois par an. Début 2019, le manuel est modifié pour dire : « Votre Tesla ne nécessite pas d'entretien annuel ni de changement régulier des fluides », et recommande plutôt un entretien périodique du liquide de frein, de la climatisation, des pneus et des filtres à air[207].
+
+Autopilot
+Article détaillé : Tesla Autopilot.
+Les véhicules sont équipés d'une fonction d'aide à la conduite, baptisée « Autopilot »,.
+
+Service d'assistance à la conduite
+À partir de juillet 2021, un service d'assistance à la conduite dénommé Full Self-Driving (FSD) est commercialisé dans certaines zones des États-Unis par abonnement mensuel[208]. Le service FSD intègre des fonctions telles que : assistance à la navigation, assistance au changement de file, assistance au stationnement, lecture des feux tricolores, reconnaissance de certains panneaux, y compris les panneaux stop. Ce service diffère de la fonction Autopilot, qui n'agit que sur la direction, le freinage et la direction à l'intérieur d'une voie[209].
+
+Sites
+Tesla exploite huit usines aux États-Unis, en Europe et en Chine. La société exploite également des salles d'exposition et des galeries dans le monde entier[210].
+
+Sites de production actifs de Tesla, Inc.
+Ouverture	Nom	Pays	Employés	Produits	Capacité de production
+(par année)[211]
+2012	Usine de Fremont	Drapeau des États-Unis États-Unis	10 000	Model S/X	100 000 véhicules
+Model 3/Y	550 000 véhicules
+Batteries	10 GWh de batteries
+2013	Usine d'assemblage de Tilbourg	Drapeau des Pays-Bas Pays-Bas	540	Assemblage de composants
+produits aux États-Unis[212]	
+2017	Giga Nevada	Drapeau des États-Unis États-Unis	10 000
+(prévu)
+
+Batteries et moteurs	35 GWh de batteries
+(100 GWh en construction[213])
+
+Semi (prévu)	en construction
+2016	Giga New York	Drapeau des États-Unis États-Unis	1 500	Cellules photovoltaiques	208 MW de panneaux
+Superchargeurs	
+2019	Giga Shanghai[214]	Drapeau de la République populaire de Chine Chine	19 000	Model 3/Y	950 000 véhicules
+Superchargeurs	
+Megapack[215]	
+2022	Giga Berlin[216]	Drapeau de l'Allemagne Allemagne	12 000	Batteries et moteurs (prévu)	50 GWh de batteries
+Model Y	375 000 véhicules
+2022	Giga Texas	Drapeau des États-Unis États-Unis	20 000[217]	Model Y	250 000 véhicules
+Batteries[218]	
+Cybertruck	125 000 véhicules
+2022	Megafactory de Lathrop	Drapeau des États-Unis États-Unis	1 000[219]	Megapack	10 000 batteries
+États-Unis
+Articles détaillés : Usine Tesla de Fremont, Giga Nevada, Giga New York et Giga Texas.
+
+Tesla Model S sortant de l'usine de Fremont (2012).
+Tesla est fondée à San Carlos, en Californie[220]. En 2010, Tesla déplace son siège social et ouvre un centre de développement de systèmes de propulsion à Palo Alto[221]. En mai 2020, alors que le gouvernement californien refuse de laisser l'usine Tesla rouvrir durant la pandémie de Covid-19, Elon Musk menace de déplacer le siège de l'entreprise de la Californie au Texas ou au Nevada[222].
+
+Le premier magasin de détail de Tesla est ouvert en 2008 à Los Angeles[223], suivi par d'autres dans les principales villes américaines. En septembre 2020, Tesla exploite 130 magasins et galeries aux États-Unis[224], possède des magasins et des galeries dans 34 autres pays[225] et dispose de 466 centres de service dans le monde[226].
+
+La première usine d'assemblage de Tesla occupe l'ancienne usine NUMMI à Fremont, en Californie, connue sous le nom de Tesla Factory. L'usine est ouverte à l'origine par General Motors en 1962, puis exploitée par une coentreprise de GM et Toyota à partir de 1984[227]. L'usine d'origine est fermée en 2010 et est rachetée par Tesla la même année[28]. En 2015, Tesla occupe une deuxième usine à Fremont, à quelques kilomètres de l'usine d'origine[228].
+
+
+L'usine Giga Nevada (2019).
+La première grande usine de production de batteries est ouverte dans le Nevada en 2016. La Giga Nevada (à l'origine Gigafactory 1) produit des Powerwalls, des Powerpacks et des Megapacks[229], des cellules de batterie en partenariat avec Panasonic[230] et des packs de batterie et des moteurs pour la Model 3[231]. L'usine reçoit d'importantes subventions de la part du gouvernement local et de l'État qui, en échange de l'ouverture dans leur juridiction, permettent à Tesla de fonctionner essentiellement sans taxes pendant 10 ans[232].
+
+Dans le cadre de l'acquisition de SolarCity en 2016, Tesla acquiert Giga New York, située à Buffalo, dans l'État de New York, sur le site d'une ancienne usine de Republic Steel. SolarCity a reçu des incitations pour implanter son usine à Buffalo par le biais du programme Buffalo Billion[233],[234]. En 2017, l'usine commence à produire des bardeaux solaires pour les toits solaires Tesla[235].
+
+Le 23 juillet 2020, Tesla choisit Austin, au Texas, comme site de la Gigafactory 5, connue depuis lors sous le nom de Giga Texas. L'ouverture de l'usine est prévue pour la fin de l'année 2021[236]. Giga Texas doit être l'usine principale pour l'assemblage du Tesla Cybertruck et du Tesla Semi ; elle produira également des Model 3 et Model Y pour l'est des États-Unis[237].
+
+Le 7 avril 2022, Musk inaugure à Austin la nouvelle « gigafactory » Tesla, qui a déjà commencé à produire des Model Y fin 2021, en mode test, en vue de la certification du site. Sa capacité sera de 500 000 voitures par an[238].
+
+Le 25 janvier 2023, Musk annonce un investissement de plus de 3,6 milliards de dollars pour agrandir sa « gigafactory » du Nevada. Deux nouvelles usines seront construites : la première fabriquera des cellules pour les batteries, avec la « capacité de produire suffisamment de batteries pour 1,5 million de véhicules légers par an », et la seconde sera la « première usine de fabrication de Semi à gros volume »[239].
+
+Europe
+Article détaillé : Tesla Giga Berlin.
+Tesla ouvre son premier magasin européen en juin 2009 à Londres[240]. Le siège social européen de Tesla se trouve aux Pays-Bas[241]. Un centre de service européen de 5 800 m2 se trouve à Tilbourg, aux Pays-Bas, de même qu'une usine d'assemblage de 77 650 m2 qui ajoute les moteurs, la batterie et les logiciels à la carrosserie de la voiture (importée) afin de réduire la taxe d'importation de l'UE, qui dépend du lieu de l'assemblage final[242].
+
+
+L'usine Tesla Giga Berlin en construction (2020).
+Fin 2016, Tesla fait l'acquisition de la société d'ingénierie allemande Grohmann Engineering à Prüm en tant que nouvelle division destinée à aider Tesla à accroître l'automatisation et l'efficacité de son processus de fabrication[243]. Après avoir mis fin aux contrats existants avec d'autres constructeurs automobiles, Grohmann travaille désormais exclusivement sur les projets de Tesla[244].
+
+Tesla annonce en 2016 son intention de construire une Gigafactory de voitures et de batteries en Europe[245]. Plusieurs pays ont fait campagne pour être l'hôte[246], Berlin étant choisie en novembre 2019[247]. La construction de Giga Berlin commence en juin 2020[248] et la production devrait démarrer pour la fin de l'année 2021[249].
+
+L'usine de Grünheide, près de Berlin, est inaugurée le 22 mars 2022. Elle commencera par produire des Model Y, avec une capacité de 500 000 unités à terme. Tesla estime pouvoir produire entre 5 000 et 10 000 véhicules par semaine d'ici à la fin 2022, mais les ajustements nécessaires lors du démarrage d'une nouvelle usine pourraient réduire cette production. L'usine a déjà recruté 3 000 salariés, et compte arriver à 12 000 emplois sur le site[61]. Le chancelier Olaf Scholz participe à la cérémonie, cette usine étant le plus grand projet industriel installé à l'est de l'Allemagne depuis la chute du mur de Berlin. Elon Musk avait choisi ce site de 300 hectares parce qu'il était déjà classé comme site industriel, ayant été auparavant promis à BMW, qui avait finalement opté pour Leipzig[250].
+
+En juillet 2023, Tesla dépose une demande d'autorisation afin de faire passer la capacité de production de sa gigafactory près de Berlin de 500 000 à un million d'unités par an. Celle de batteries doit aussi doubler[251].
+
+Asie
+Article détaillé : Giga Shanghai.
+En novembre 2017, Elon Musk annonce que les négociations pour la construction de la Gigafactory 3 près de Shanghai ont abouti. À la différence de la Gigafactory 1, cette usine fabriquera à la fois batteries et véhicules. Tesla a pour objectif de produire les premiers véhicules dans cette usine en 2020.
+
+Tesla a signé le 10 juillet 2018 un accord préliminaire avec le gouvernement de Shanghai pour la construction d'une usine capable de produire 500 000 véhicules par an d'ici 2023, alors que le nombre de véhicules Tesla assemblés en Californie devrait être, lui, de 600 000 véhicules à cette date. En 2017, la Chine a représenté 17 % des ventes du groupe[252].
+
+En janvier 2019, Musk inaugure à Shanghai le chantier de l'usine, surnommé « Shanghai Giga », qui se concentrera exclusivement sur la production de modèles abordables ; près de 500 000 véhicules devraient y être produits par an ; l'objectif est de commencer à y produire la Model 3 dès la fin de 2019[253].
+
+Le 25 octobre 2019, Tesla annonce avoir ouvert à la réservation ses premières voitures made in China et promet de commencer à les livrer au cours du premier trimestre 2020 ; l'usine est passée en phase de pré-production et construit des véhicules complets ; le prix des Model 3 sera seulement 3 % inférieur à celui des modèles de base importés[254].
+
+Le 30 décembre 2019, Tesla livre les premières Model 3 sorties des lignes de production de la Gigafactory 3, à Shanghai ; l'usine a été construite en moins d'un an[255].
+
+Lors de la publication de ses résultats du Q3 2020, Tesla annonce que la construction de la deuxième phase est quasiment terminée, celle-ci a été conçue pour produire 250 000 Model Y par an. Au même moment, de légères mises à niveau ont été réalisées sur la première phase et un troisième créneau de travail a été ajouté. Celle-ci a désormais atteint sa capacité de production théorique d'environ 250 000 Model 3 par an[256].
+
+En octobre 2020, la Gigafactory 3 a commencé à produire la Model 3 Standard Plus, destinée à l'exportation en Europe[257]. Celles-ci sont par ailleurs équipées de batteries LFP fournies par CATL.
+
+En 2023, Tesla annonce vouloir ouvrir à Shanghai une usine de batteries Megapack, destinées à stocker de grandes quantités d'électricité[258].
+
+Amérique latine
+Le 28 février 2023, le président mexicain Andrés Manuel López Obrador annonce l'ouverture prochaine d'une usine de Tesla à Monterrey, au nord du Mexique[259].
+
+En juillet 2024, les plans de l'entreprise pour construire une nouvelle Gigafactory au Mexique sont en pause jusqu'après l'élection présidentielle américaine, en raison de l'engagement de Donald Trump d'imposer des droits de douane sur les voitures fabriquées au Mexique[260].
+
+Afrique
+Le 27 mai 2025, la société Tesla a officiellement créé sa filiale marocaine, Tesla Morocco, marquant son entrée sur le marché nord-africain. Le siège de la filiale est établi à la Tour Crystal, dans la Marina de Casablanca. Détenue par les entités néerlandaises Tesla International B.V. et Tesla Motors Netherlands B.V., la société dispose d’un capital social de 27,5 millions de dirhams, réparti en 275 274 parts . Cette implantation s’inscrit dans une stratégie d’expansion vers les marchés émergents, notamment dans les domaines de la mobilité électrique, des infrastructures de recharge, du stockage d’énergie et des solutions solaires.
+
+Le choix du Maroc reflète l’intérêt croissant de Tesla pour un pays considéré comme un hub automobile continental, porté par une politique industrielle orientée vers la transition énergétique et la production de batteries à base de phosphate de fer-lithium. L’installation de Tesla Morocco intervient également dans un contexte national favorable à l’électromobilité, en phase avec les objectifs du royaume en matière de décarbonation et de souveraineté énergétique. Si l’ouverture du bureau à Casablanca constitue une première étape, elle pourrait préfigurer à terme une présence industrielle plus marquée[261],[262],[263],[264].
+
+Sites fermés
+De 2008 à 2012, le premier véhicule commercialisé par Tesla, le Roadster de première génération, a été assemblé à Menlo Park, en Californie, dans une usine aménagée en retrait d'un des deux premiers concessionnaires de la marque. Les châssis arrivaient de l'usine de Lotus Cars à Hethel, au Royaume-Uni. Les batteries provenaient du siège de Tesla à Palo Alto[265].
+
+Production et ventes
+
+Les livraisons de Tesla varient considérablement, d'un mois à l'autre, en raison de problèmes régionaux tels que la disponibilité des transporteurs et l'enregistrement de nouveaux véhicules. Tesla ne suit pas la norme de l'industrie automobile en matière de rapports mensuels ; General Motors et Ford sont passés de rapports mensuels à des rapports trimestriels sur les ventes en 2018 et 2019[266]. Certaines ventes mensuelles sont estimées par les médias[267].
+
+Les ventes mondiales dépassent les 250 000 unités en septembre 2017 et Tesla produit son 300 000e véhicule en février 2018[268],[269]. Les ventes mondiales de Tesla atteignent le cap des 500 000 en décembre 2018[270]. En 2019, les ventes mondiales de véhicules Tesla augmentent de 50 %, passant de 245 240 unités, en 2018, à 367 849 unités, en 2019[271]. Le 9 mars 2020, l'entreprise produit sa millionième voiture électrique[272].
+
+Les ventes mondiales de Tesla s'approchent du million d'exemplaires, en 2021 : 936 172 voitures sont livrées, en progression de 87 % par rapport à 2020, dont 911 208 Model3/Y et 24 964 Model S/X[273].
+
+En 2022, une croissance de 40 % des ventes est enregistrée : 1 313 851 voitures, dont 1 247 146 voitures Model 3 / Model Y et 66 705 voitures Model S et X. L'usine de Berlin atteint un rythme de 3 000 voitures par semaine, en décembre[274],[275]. En Chine, 439 770 véhicules ont été vendus en 2022, en hausse de 37 % par rapport à 2021[276].
+
+En 2023, Tesla a vendu 1 808 581 véhicules, en progression de 38 %, et en a produit 1 845 985. L'objectif de deux millions de modèles écoulés sur l’année, annoncé par Elon Musk début 2023, n'a pas été atteint, mais Tesla conserve son rang de premier producteur et vendeur de voitures électriques, devant BYD, qui atteint 1,6 million de ventes[277].
+
+En 2024, Tesla a livré 1 789 226 voitures, soit une baisse de 1 %. Cette mauvaise performance est largement imputable à une gamme vieillissante et limitée, dans laquelle seulement deux modèles, Model 3 et Model Y, assurent 95 % des ventes. La concurrence est également nettement plus féroce, notamment en Chine. En France, les immatriculations de Tesla ont même chuté de 35 %. La production a reculé de 3,9 %, à 1 773 443 voitures. Son principal concurrent, BYD, a vendu 1,76 millions de voitures 100 % électriques, en progression de 12 %[278].
+
+En janvier 2025, les ventes de Tesla en Europe chutent de 50 % par rapport à 2024, allant jusqu'à 75 % de baisse en Espagne et 63 % en France. Ces baisses peuvent s'expliquer par la dégradation de l'image de la marque et de son fondateur Musk[279], mais aussi par la concurrence plus grande des marques chinoises sur le marché de la voiture électrique[280].
+
+En 2025, Tesla a livré 1 636 129 voitures dans le monde, soit un recul de 8,6 %. Model 3 et Model Y assurent 96,9 % des ventes. En Europe, les ventes ont reculé de 28 % sur les onze premiers mois. Tesla est largement dépassé par BYD qui a écoulé plus de 2,2 millions de véhicules électriques dans le monde[281].
+
+100 000200 000300 000400 000500 000600 0003 2012412 20133412 20143412 20153412 20163412 20173412 20183412 20193412 20203412 20213412 20223412 20233412 20243412 20253412 20263
+  Model S
+  Model X
+  Model S/X
+  Model 3
+  Autres modèles
+  Model 3/Y
+
+
+
+
+Année	Ventes mondiales du constructeur Tesla[282]
+100 000		200 000		300 000		400 000		500 000		600 000		700 000		800 000		900 000		1 000 000		1 100 000		1 200 000		1 300 000		1 400 000		1 500 000		1 600 000		1 700 000		1 800 000		1 900 000	
+2014	32 000	 
+2015	50 000	 
+2016	76 200	 
+2017	103 100	 
+2018	245 200	 
+2019	367 500	 
+2020	499 550	 
+2021	936 172	 
+2022	1 313 851	 
+2023[283]	1 808 581	 
+2024[284]	1 789 226	 
+2025[285]	1 636 129	 
+Actionnaires
+Liste des principaux actionnaires au 2 novembre 2025[286] :
+
+Elon Musk	15,79 %
+The Vanguard Group	7,79 %
+BlackRock	6,20 %
+State Street Corporation	3,52 %
+Geode Capital Management	2,01 %
+JPMorgan Chase	1,43 %
+Eaton Vance Management	1,34 %
+Capital Research & Management (World Investors)	1,29 %
+Norges Bank	1,16 %
+Entre le 14 septembre et le 8 novembre 2021, Elon Musk vend 4,5 millions d’actions Tesla, soit 3 % de ses parts ; il lance le 6 novembre un sondage consultation sur Twitter pour demander s'il doit en vendre 10 %. Après ces ventes, il conserve 1,22 million d’actions Tesla en libre accès ainsi que 170 autres millions logées dans un trust[287].
+
+En août 2022, Musk vend pour 6,9 milliards de dollars d'actions Tesla[288].
+
+En septembre 2025, Musk achète pour un milliards de dollars d'actions Tesla[289].
+
+Direction de l'entreprise
+Membres du conseil d'administration
+Portrait	Identité	Période	Durée
+Début	Fin
+Elon Musk, 21 septembre 2025.	Elon Musk[290]
+(né en 1971)	2004		
+Kimbal Musk	Kimbal Musk[290]
+(né en 1972)	2004		
+Pas de portrait sous licence libre disponible pour Ira Ehrenpreis.	Ira Ehrenpreis (d)[290]	2007		
+Robyn Denholm	Robyn Denholm[290]
+(née en 1963)	2014		
+James Murdoch, 13 novembre 2008.	James Murdoch (en)[290],[291]
+(né en 1972)	13 juillet 2017		
+Larry Ellison en 2016.	Larry Ellison[290],[292]
+(né en 1944)	2018	4 août 2022	4 ans
+Pas de portrait sous licence libre disponible pour Kathleen Wilson-Thompson.	Kathleen Wilson-Thompson (en)[290],[293]
+(née en années 1950)	27 décembre 2018		
+Pas de portrait sous licence libre disponible pour Hiromichi Mizuno.	Hiromichi Mizuno (en)[290],[294]
+(né en 1965)	avril 2020	mai 2023	3 ans et 1 mois
+Joe Gebbia, 4 février 2024.	Joe Gebbia[295],[296]
+(né en 1981)	25 septembre 2022		
+JB Straubel	JB Straubel (en)[297]
+(né en 1965)	16 mai 2023		
+Directeurs généraux
+Portrait	Identité	Période	Durée
+Début	Fin
+Martin Eberhard, 27 septembre 2006.	Martin Eberhard
+(né en 1960)	2002	août 2007	5 ans
+Pas de portrait sous licence libre disponible pour Ze'ev Drori.	Ze'ev Drori (en)[298]
+(né en 1940)	décembre 2002	octobre 2008	5 ans et 10 mois
+Elon Musk, 21 septembre 2025.	Elon Musk[5]
+(né en 1971)	octobre 2008	En cours	18 ans
+Présidents
+Portrait	Identité	Période	Durée
+Début	Fin
+Elon Musk, 21 septembre 2025.	Elon Musk[299],[300]
+(né en 1971)	avril 2004	novembre 2018	14 ans et 7 mois
+Robyn Denholm	Robyn Denholm[299],[301]
+(née en 1963)	novembre 2018	En cours	7 ans et 11 mois
+Résultats financiers
+En 2020, pour la première fois de son existence, Tesla est rentable sur une année entière : son résultat net atteint 721 millions de dollars et son chiffre d'affaires 31,5 milliards USD, en hausse de 28 %. Mais le bénéfice est resté largement tiré par les crédits CO2, cédés à d'autres constructeurs (principalement auprès de Fiat-Chrysler et Honda) pour les aider à atteindre leurs objectifs réglementaires. Ils ont atteint 1,6 milliard d'euros, soit 5 % des revenus de Tesla en 2020. Le dernier trimestre est le sixième trimestre bénéficiaire consécutif. La marge opérationnelle annuelle, de 6,3 %, est parmi les meilleures de l'industrie automobile en 2020. La valeur en Bourse de Tesla a dépassé 800 milliards USD. Tesla a livré 499 550 véhicules en 2020, dont 442 500 Model 3 et Model Y. Les 180 570 livraisons du dernier trimestre sont un nouveau record de ventes trimestriel. Cependant, l'évolution des ventes vers des voitures moins chères a entraîné une baisse du prix moyen de 11 % par rapport au dernier trimestre de 2019. Tesla prévoit pour 2021 une hausse de ses ventes de plus de 50 %, à 750 000 unités[302].
+
+En 2019, Tesla a réalisé un chiffre d'affaires de 24,57 milliards USD, contre 21,46 milliards USD en 2018, assorti d'une perte nette de 862 millions USD, réduite de 11,7 % par rapport à 2018 ; au dernier trimestre 2019, l'entreprise a été rentable, avec un bénéfice net de 105 millions de dollars ; c'est le deuxième trimestre consécutif dans le vert. Tesla s'attend désormais à être durablement bénéficiaire, à quelques exceptions près, notamment lors des périodes de lancement d'un nouveau produit et de l'augmentation des cadences de production[303].
+
+En 2020, Tesla enchaîne les records en Bourse, avec une action qui s'est envolée de plus de 660 %. Le 17 décembre 2020, à la fermeture des marchés, la start-up d'Elon Musk vaut plus de 655 milliards de dollars et fait son entrée dans S&P 500[304],[305]. Cette capitalisation, qui culminera en 2021 à plus de 1 023 milliards d'euros, retombera fortement ensuite, pour passer sous les 600 milliards[306]. Au second trimestre 2021, Tesla atteint pour la première fois le milliard de dollars de bénéfice net, plus précisément 1,14 milliard USD, à la suite de la vente de 201 250 véhicules sur le trimestre[307].
+
+En 2021, Tesla publie des résultats spectaculaires : une progression de ses ventes de 87 %, un chiffre d'affaires de 53,82 milliards USD en hausse de 71 % et un résultat net de 5,52 milliards USD. Sa marge opérationnelle passe de 6,3 % en 2020 à 12,1 % en 2021, niveau exceptionnel pour le secteur automobile. Le coût moyen de fabrication d'une Tesla est tombé à 36 000 USD en fin d'année, grâce en partie à la progression des volumes, qui ont bondi de 87 % en 2021, à 936 000 unités[82].
+
+Selon une étude du cabinet EY à partir des comptes 2021 des seize premiers constructeurs mondiaux (hors chinois et indiens), Tesla arrive en tête du classement des constructeurs pour la rentabilité, avec une marge d'exploitation de 12,1 %, devant les constructeurs premium allemands BMW et Mercedes[308].
+
+Au cours de l'année 2022, la valeur de l'entreprise chute de 65 % en Bourse, soit une perte de 700 milliards de dollars[309],[310].
+
+En 2022, le chiffre d'affaires de Tesla bondit de 51 %, à 81,46 milliards USD, porté par une envolée des ventes de 40 %. Tesla a vendu 1,31 million de véhicules en 2022, à peine moins que la marque Renault, et ses revenus atteignent le double de ceux de Renault. Sa marge opérationnelle s'établit à 16,8 %, un niveau rarement atteint dans l'automobile ; le bénéfice net atteint 12,56 milliards USD, et le free cash flow 7,6 milliards USD. Tesla compte produire entre 1,8 et 2 millions de véhicules, en 2023[311].
+
+Au deuxième trimestre 2023, les ventes de Tesla progressent de 83 % par rapport à la même période de 2022 ; malgré des baisses de prix jugées agressives, sa marge brute est encore de 18,2 %, contre 25 % en 2022 ; elle reste supérieure à la normale pour un constructeur automobile. Les recettes du trimestre atteignent 24,9 milliards de dollars, en hausse de 47 % en un an. Le profit opérationnel atteint 2,7 milliards de dollars, et la trésorerie atteint 23 milliards de dollars[312].
+
+Résultats financiers de Tesla[303],[82],[311] (M$)
+Année	Chiffre d'affaires	Résultat d'exploitation	Résultat net
+2008	15	-79
+2009	112	-52
+2010	117	-154
+2011	204	-254
+2012	413	-396
+2013	2 013	-61
+2014	3 198	-187
+2015	4 046	-717
+2016	7 000	-667
+2017	11 759	-1 632	-1 960
+2018	21 461	-388	-980
+2019	24 578	-69	-860
+2020	31 536	1 194	720
+2021	53 823	6 523	5 519
+2022	81 462	13 656	12 556
+2023	96 773	8 891	14 997
+2024	97 690	7 076	7 091
+2025[313]	94 827		3 794
+Crédits CO2
+Plus d'une douzaine d'États des États-Unis, dont la Californie ou le Massachusetts, ont mis en place depuis des années des plafonds d'émissions moyens de CO2 à ne pas dépasser, sous peine de lourdes amendes. L'Union européenne applique un dispositif semblable depuis le 1er janvier 2020. Pour éviter les pénalités, les constructeurs ont, aux États-Unis, la possibilité d'acheter des « crédits CO2 » aux entreprises qui sont en dessous du seuil comme Tesla.
+
+Recettes associées pour Tesla[314]
+Année	Crédits CO2 en millions de dollars
+2012	41
+2013	194
+2014	216
+2015	169
+2016	302
+2017	360
+2018	419
+2019	594
+2020	1 580
+2021	1 465
+2022	1 776
+2023	1 790
+2024	2 763
+2025[315]	1 993
+Critiques et controverses
+Marketing de l'assistance à la conduite
+Le groupe est notamment critiqué pour sa fonction « Autopilot » qui assiste la conduite d'une façon plus poussée que celle des concurrents. En effet, plusieurs accidents ont été constatés parmi les utilisateurs. Cela s'explique surtout par un marketing utilisant des termes ambigus comme « autopilot » ou « full-self-driving »[316] mais aussi par l'association qui est spontanément faite entre pilotage automatique et véhicule parfaitement autonome[317].
+
+Selon Tesla, « Autopilot n'est pas un logiciel de conduite automatique et ceux qui l'utilisent doivent rester maîtres du véhicule »[318]. Dans le même temps, certaines personnes craignent que l'autonomie des véhicules entraîne une baisse de la vigilance du conducteur, par exemple, d'après Vinci, l’automatisation de la conduite entraîne une détérioration de la capacité de réaction en raison d'une diminution du niveau de vigilance[319],[320] ; c'est notamment le cas des systèmes qui intègrent un régulateur de vitesse adaptatif (ACC) ou une aide au maintien dans la file de circulation[321]. Pour d'autres, la baisse de vigilance serait due à l’allègement de la conduite[322].
+
+Le 8 août 2022, le Département des véhicules à moteur (DMV) de Californie accuse Tesla de faire des « déclarations fausses ou trompeuses » sur les capacités de conduite autonome de ses véhicules, alors qu'il reste nécessaire que le conducteur garde les mains sur le volant. Le DMV juge que les noms Autopilot et FSD, ainsi que le langage utilisé par Tesla pour les décrire, pourraient tromper les utilisateurs. Deux sénateurs américains ont également demandé à la Federal Trade Commission (FTC) d'enquêter sur la manière dont la marque fait la publicité de son système d'assistance à la conduite[323]. Tesla a déjà été condamné en 2020 par la justice allemande pour son usage abusif des termes « conduite autonome » et « Autopilot »[324].
+
+Le 7 mai 2016, un conducteur de Tesla, Joshua Brown, décède en Floride à la suite d'une collision avec un semi-remorque alors que la fonction Autopilot de son véhicule était activée[325]. Le 19 janvier 2017, l'Autopilot est mis hors de cause par la justice américaine, estimant que le conducteur de la Tesla avait eu sept secondes pour réagir et que l'accident avait donc été causé par des « facteurs humains »[326]. L'enquête de la NHTSA a notamment mis en lumière le fait que le taux d'accidents en Tesla a baissé de près de 40 % depuis l'introduction de la fonctionnalité de pilotage automatique[327].
+
+En 2025, une évaluation par Forbes du FSD révèle que le système demeure sujet à des erreurs ː non prise en compte de panneaux standards et limitations de vitesse, manque de ralentissement à un passage piéton, changements de voies inutiles, incapacité de s'arrêter face à un panneau clignotant annonçant le passage d'un bus scolaire[328].
+
+En novembre 2025, sur la base des données de la NHTSA , le site « Rouleur électrique » tend à démontrer que Tesla accuse un retard technologique face à Google sur le sujet de la conduite autonome[329]. Ce point de vue est aussi partagé par un article du site « techradar », une des raisons de ce retard serait le choix d'utiliser un système de Conduite Entièrement Autonome basé uniquement sur des caméras, qui est dépourvu des radars, du Lidar et de la myriade d'autres capteurs que ses rivaux jugent obligatoires pour un service fiable et sûr[330].
+
+En mai 2026, un enquête de Reuters documente les réserves d'anciens annotateurs de données et d'experts interrogés sur la manière dont Tesla présente les statistiques de sécurité de la conduite autonome. Dans cette enquête, dix chercheurs sur onze considèrent les statistiques de sécurité avancées par Tesla comme du « marketing trompeur », pas comme une analyse sérieuse[331].
+
+Autonomie
+Tesla a reçu des milliers de plaintes de propriétaires signalant que l'autonomie de conduite de leurs véhicules ne correspondait ni aux autonomies annoncées par Tesla ni aux projections des indicateurs d'autonomie affichés sur le tableau de bord. Lorsque les centres de service ont été débordés par les rendez-vous pour gérer ces problèmes, Tesla a mis en place une équipe de diversion (diversion team) pour annuler autant de rendez-vous que possible. Les clients étaient informés que des diagnostics à distance avaient déterminé qu'il n'y avait aucun problème, et leurs rendez-vous étaient annulés[332].
+
+Risques d'accidents
+Un classement américain réalisé en 2023 considère que les conducteurs de Tesla sont ceux qui auraient le plus d'accidents par conducteur aux États-Unis[réf. nécessaire]. Ces surplus d'accidents ne s'expliquent pas par la distance parcourue[333].
+
+Accidents et fonction autopilot
+La fonction Autopilot a mené à des accidents, dont quatre mortels, toutes les victimes étant des conducteurs de Tesla ayant utilisé la fonction. Aux États-Unis, à la suite d'un accident survenu en 2018, le Conseil national de la sécurité des transports (NTSB) a recommandé, en février 2020, aux autorités de rendre obligatoire pour les fabricants de voiture de niveau 2 (assistance à la conduite, soit le niveau inférieur à la voiture autonome) un équipement capable de surveiller que le conducteur n'est pas distrait durant sa conduite[334][source insuffisante].
+
+Accidents et engagement
+Certains de ces accidents sont causés par la distraction du conducteur, qui reste responsable de sa conduite, même avec l'utilisation de cette aide à la conduite[335].
+
+En avril 2021, l'association de consommateurs américaine Consumer Reports relève certaines caractéristiques de la suite logicielle de conduite de Tesla considérées comme des défauts : le système échoue à surveiller l'engagement du conducteur et à détecter sa présence. D'après Consumer Reports, dans les conditions où aucun conducteur ne conduit, le véhicule n'est pas capable de s'arrêter de lui-même. Par ailleurs, Consumer Reports a révélé que le système de détection du conducteur utilisé par la fonction Autopilot se laisse berner par une ceinture de sécurité bouclée et une chaîne en équilibre sur le volant là où les caméras des systèmes concurrents sont plus à même de détecter la présence et l'attention du conducteur. Consumer Reports suggère également que la non-détection de l'inattention ou de l'absence du conducteur contribue à certains accidents[336].
+
+À la suite d'un accident au Texas ayant fait deux morts à bord d'une Tesla Model S visiblement sans conducteur[337], Elon Musk avait assuré, sur Twitter, que la Tesla Model S accidentée n'avait pas l'Autopilot enclenché. Les premières conclusions de l'enquête suivant l'accident avaient établi l'absence de conducteur. Consumer Reports a testé la possibilité de rouler sans occupant au volant et a réussi[338].
+
+Accidents et Autosteer
+Les véhicules Tesla sont dotés d'une fonction commercialisée sous l'appellation « Autosteer » (ou « maintien de voie »). Cette fonction Autosteer aide à la direction et au maintien de la voiture dans une voie pour une utilisation simultanée avec le régulateur de vitesse en fonction du trafic[339].
+
+La fonction Autosteer permet également de maintenir la voiture au centre de la voie dans les virages sur les routes autorisées[340] que sont certaines autoroutes à accès limité[341].
+
+Certaines sources indiquent que l'activation de la fonction Autosteer a augmenté le déploiement de l'airbag de 59 %[342].
+
+Poignée électronique défectueuse
+Certains véhicules Tesla sont équipées de poignées électroniques ne pouvant être actionnées mécaniquement. Depuis 2016, au moins quinze personnes sont décédées après être enfermées dans leur Tesla[343]. Le 29 octobre 2025, un jeune homme de vingt ans décède après que sa Model Y ait pris feu et que les poignées électroniques ne répondent plus[344].
+
+Autres accidents
+La National Highway Traffic Safety Administration, l'autorité de sécurité des transports américaine, reçoit de nombreuses plaintes au sujet des « freinages fantômes » qui surviennent quand le véhicule ralentit brutalement lorsqu'il détecte un obstacle qui n'est en réalité pas présent. La nouvelle version du Full Self Driving (octobre 2021) n'a pas résolu le problème[345].
+
+En décembre 2021, un accident mortel provoqué par un taxi Tesla de la compagnie G7 à Paris a conduit cette entreprise à suspendre sa flotte de 37 véhicules Model 3[346],[347].
+
+Extraction minière pour les composants des batteries
+L'exploitation minière, principalement de nickel et de cobalt, qui approvisionne Tesla et les autres constructeurs automobiles pour leurs batteries électriques subit des critiques car elle produit des crises humanitaires, sanitaires, environnementales et sociales significatives. Des faits de corruptions, d'abus de droits humains et d'exploitations d'enfants sont reprochés aux fournisseurs de l'entreprise[348],[349],[350],[351],[352].
+
+Risque d'incendie
+En juillet 2014, le cours de l'action de Tesla chute de 2,9 % après qu'une Tesla Model S volée s'enflamme dans un accident après une course-poursuite avec la police[353]. La voiture ayant été coupée en deux lors du crash, des morceaux de batterie lithium-ion enflammés sont projetés autour du lieu de l'accident et des images sont diffusées par la chaîne de télévision KTLA-TV[354],[355]. Deux autres incidents impliquant une Tesla ont eu lieu auparavant, que les autorités de sécurité américaines avaient classés sans suite[356].
+
+Statistiques d'accidents
+Le 4 juin 2017, l'Association américaine des automobilistes augmente les taux d'assurance pour les propriétaires de Tesla après un rapport de l'Insurance Institute for Highway Safety (en) qui conclut que la fréquence des accidents serait 46 % plus élevée pour la Model S et qu'elle serait 50 % plus coûteuse à réparer que des véhicules comparables ; la Tesla X aurait 41 % plus d'accidents et serait 89 % plus coûteuse en réparation, comparé à des véhicules similaires. En conséquence, l'AAA augmente les tarifs d'assurance des voitures Tesla de 30 %. Selon Tesla, cette analyse serait sévèrement biaisée et ne reflèterait pas la réalité. Cependant, Tesla n'apporte pas de données contraires[357]. Peu après, Russ Rader, porte-parole de l'Insurance Institute for Highway Safety, confirme les analyses de l'AAA sur les nombreux accidents impliquant Tesla et les coûts de réparation[358],[359]. L'année suivante, une analyse de la fréquence et des coûts des assurances par l'IIHS conclut que les modèles S et X de Tesla sont les deux plus coûteux à assurer[360].
+
+En octobre 2018, Tesla publie son premier rapport trimestriel d'accidents : au cours du 3e trimestre 2018, Tesla a enregistré un accident tous les 5,37 millions de kilomètres avec l’Autopilot enclenché et un tous les 3,08 millions de kilomètres en conduite manuelle ; en comparaison, l'organisme chargé de la sécurité routière aux États-Unis, le NHTSA, recense une moyenne d’un accident de la route tous les 791 000 km ; les Tesla subiraient donc quatre fois moins d'accidents que les autres voitures en mode manuel et sept fois moins avec le pilote automatique activé[361].
+
+Ces allégations de réussite laissent les statisticiens dubitatifs. Les données de Tesla ne peuvent pas être utilisées pour faire des comparaisons, car elles sont confidentielles[316].
+
+Selon les statistiques de juillet 2022 de la National Highway Traffic Safety Administration, les modèles Tesla représentaient près de 70 % des 392 accidents impliquant des systèmes avancés d'assistance à la conduite signalés depuis juillet 2021, et la majorité des décès et blessures graves. Cette entité a ouvert deux enquêtes distinctes sur des accidents, y compris au sujet de l'emploi de caméras embarquées[323].
+
+Rappels de véhicules
+En mars 2018, le groupe rappelle 123 000 véhicules de la gamme Model S, pour un problème de corrosion des boulons de la direction assistée[362]. À cause de ce problème, les actions perdent 20 % en un mois. Un économiste prédit la faillite du groupe dans les six mois[363]
+
+En janvier 2021, l'agence américaine de la sécurité routière (la NHTSA) demande à Tesla de rappeler environ 158 000 véhicules pour un problème de sécurité relatif à l'épuisement de la mémoire de l'ordinateur de bord. Sont concernées les Model S fabriquées entre 2012 et 2018 et les Model X produites entre 2016 et 2018[364],[365],[366].
+
+Le 13 décembre 2023, Tesla rappelle plus de deux millions de véhicules, aux États-Unis, pour effectuer une mise à jour logicielle visant à corriger un défaut dans le système conçu pour assurer que les conducteurs restent attentifs lors de l'utilisation du système Autopilot, et les modèles concernés sont Y, S, 3, et X produits entre le 5 octobre 2012 et le 7 décembre 2023[367].
+
+Surveillance vidéo
+Des voitures Tesla possèdent huit caméras embarquées et une fonction antivol filmant autour du véhicule (mode « Sentinelle »), pouvant également transmettre les données à l'entreprise aux États-Unis, ce qui pose problème notamment en Suisse où filmer l’espace public sans autorisation est illégal (violation de la sphère privée)[368].
+
+Les employés de Tesla ont accédé à des vidéos à plusieurs reprises entre 2019 et 2022 et les ont diffusées sur des canaux internes. L'entreprise a affirmé que ces vidéos sont anonymes, mais sept employés affirment que le programme utilisé permet la localisation des vidéos et donc du lieu de vie des clients. Un ex-employé a signalé que ces vidéos semblent avoir été prises lorsque le véhicule était à l'arrêt et éteint, ce qui est théoriquement impossible depuis plusieurs années. Elon Musk lui-même a été victime de la diffusion d'une vidéo de son véhicule filmant la Lotus Esprit submersible utilisée pour le tournage du film L'espion qui m'aimait[369].
+
+Ces vidéos sont officiellement utilisées pour l'assistance et l'apprentissage du logiciel de conduite assistée des véhicules vendus par l'entreprise[369].
+
+Giga New York audit
+En 2020, le Contrôleur de l'État de New York a publié un audit sur le projet d'usine Giga New York. L'audit concluait que le projet présentait de nombreux signaux d'alarme, notamment un manque de diligence raisonnable (due diligence) élémentaire, et que l'usine elle-même ne générait que 0,54 $ de bénéfices économiques pour chaque dollar dépensé par l'État[370]̪,[371].
+
+Affaires judiciaires
+Condamnation en Corée du Sud pour publicité mensongère
+En janvier 2023, des médias rapportent que Tesla a été condamné pour publicité mensongère par la Commission antitrust de Corée du Sud à environ 2,8 milliards de wons (environ 2,07 millions d’euros en 2023). Les éléments jugés problématiques sont, notamment, l'autonomie, la vitesse de rechargement des batteries ainsi que les économies supposées sur le carburant[372],[373].
+
+Condamnation en Allemagne concernant le recyclage des batteries
+L'agence fédérale allemande pour l'environnement (UBA) a condamné Tesla à une amende de 12 millions d'euros, en 2020, pour non-respect de la réglementation sur le recyclage des batteries[374],[375],[376].
+
+Droit à la réparation
+En mars 2023, un recours collectif pour entente illégal (antitrust) a été intenté contre Tesla à San Francisco par Virginia M. Lambrix. Elle alléguait que l'entreprise avait illégalement monopolisé le marché de la maintenance et de la réparation de ses véhicules, en violation du Sherman Act et du droit de la concurrence californien. En conséquence, les propriétaires étaient « forcés de payer des prix élevés et de subir des délais d'attente exorbitants » pour les services de maintenance et les pièces de rechange.
+
+La juge de district américaine Trina Thompson a autorisé en juin 2024 la plupart des plaintes à se poursuivre, notamment des violations présumées du Cartwright Act et de la Unfair Competition Law (UCL) de Californie. Le tribunal a trouvé des preuves d'un monopole sur les réparations dans la manière dont Tesla conçoit ses véhicules pour exiger des diagnostics et des mises à jour logicielles que seule l'entreprise peut fournir, ainsi que des preuves d'un monopole sur les pièces dans la restriction par Tesla faite aux fabricants d'équipement d'origine de vendre « à quiconque autre que Tesla »[377].
+
+En juin 2025, Tesla a obtenu le rejet de l'essentiel du recours collectif[378]
+
+Enquête pénale sur les capacités de conduite autonome
+En 2024, des procureurs américains enquêtent pour déterminer si Tesla a commis une fraude sur titres ou une fraude électronique en induisant potentiellement en erreur les investisseurs et les consommateurs concernant les capacités des fonctions de conduite autonome de ses véhicules électriques[379].
+
+Plaintes du personnel
+En 2019, l'entreprise est accusée de racisme par six de ses salariés[380]. Selon le New York Times, Tesla aurait proposé 100 000 USD à l'une des victimes pour éviter que l'affaire ne s'ébruite[381].
+
+En octobre 2021, Tesla est condamné à payer 137 millions de dollars à un ancien employé victime de racisme au sein de l’une de ses usines, en 2015-2016[382]. La somme est finalement ramenée à 3.2 millions de dollars en avril 2023[383]. Un accord financier confidentiel clos le dossier en 2024[384].
+
+En décembre 2021, six employées de l'usine de Fremont portent plainte contre l’entreprise pour harcèlement sexuel[385].
+
+En février 2022, une agence de l’État de Californie porte plainte contre Tesla pour discrimination raciale à l’encontre de travailleurs noirs dans l'usine de Fremont (Californie)[386].
+
+En octobre 2023, la US Equal Employment Opportunity Commission (EEOC) intente un procès à Tesla pour « harcèlement raciste sévère ou généralisé » envers ses employés afro-américains[387].
+
+En septembre 2025, un travailleur de l'usine Tesla de Fremont a poursuivi Tesla pour 51 millions de dollars après avoir été frappé et blessé par un robot de la chaîne de montage[388].
+
+Gouvernance
+Une plainte en justice a été déposée pour attaquer la composition du conseil d’administration (CA)[389]. Non seulement la présence et le rôle d'Elon Musk lui-même sont en cause (22 % de la capitalisation), mais aussi la présence et le rôle de son frère Kimbal Musk, de James Murdoch (en), fils du magnat des médias Rupert Murdoch et ami très proche de Musk, sont critiqués pour leur trop grande proximité avec Elon Musk et aussi pour le risque que cela présente dans la défense des intérêts des petits actionnaires. Par ailleurs, le CA a été critiqué pour avoir accepté le principe d’une rémunération exceptionnelle d'Elon Musk de 56 milliards, et cette rémunération a été annulée par la juge Kathaleen McCormick en janvier 2024[390]. À la suite de cela, il est interdit au CA de négocier un nouveau contrat de rémunération pour Musk, tant que le CA n’aura pas été restructuré de manière à devenir réellement indépendant. Une tribune de Simon Gueguen et Lionel Melka, dans le journal Le Monde, conclut que c’est « toute la structure de la gouvernance Tesla [qui] a été jugée inappropriée pour une société cotée »[389]. Le vendredi 19 décembre 2025, Elon Musk obtient de la Cour suprême de l’Etat du Delaware l’annulation de la décision de première instance de janvier 2024[391].
+
+Plaintes pour responsabilité dans des accidents
+En mai 2019, une propriétaire de Tesla a intenté un procès à Tesla après que son fils de 2 ans a provoqué une accélération involontaire de sa Model X et l'a écrasée contre le mur de son garage. Mallory Harcourt, qui était alors enceinte de 8 mois, a subi de multiples fractures et a accouché prématurément[392],[393]
+
+En août 2025, la société Tesla a été reconnue comme partiellement responsable d’un accident mortel, survenu en 2019, lié au fonctionnement en mode « autopilot » d’une Model S. La firme est condamnée à verser 242 millions de dollars aux plaignants[394].
+
+Le 2 octobre 2025, une famille d’une étudiante étatsunienne tuée dans l’accident d’un véhicule Cybertruck en novembre 2024 porte plainte contre Tesla, arguant que son décès aurait pu être éviter si l’ouverture des portières sur ce modèle n’était pas si difficile. Lors de cet accident, trois autres personnes sont décédées, une seule ayant survécu après avoir été extraite par un témoin ayant brisé une vitre[394].
+
+Limitations de la batterie
+En août 2019, un recours collectif a été déposé en Californie du Nord, affirmant qu'une mise à jour logicielle par voie hertzienne (over-the-air) de 2019 avait limité la durée de vie de la batterie de la Model S, pour certains jusqu'à 40 miles[395] (environ 64 km). Le 7 décembre 2020, Tesla a réglé le procès pour 1,5 million de dollars[396].
+
+En avril 2021, un juge norvégien a déclaré Tesla coupable d'avoir limité la vitesse de charge dans un procès similaire, après que l'entreprise n'ait pas répondu à la plainte. Les 30 clients qui faisaient partie du recours ont reçu 136 000 couronnes norvégiennes chacun (16 000 $)[397],[398].
+
+Freinage fantôme
+En août 2022, un recours collectif de consommateurs a été déposé en Californie alléguant que le système Autopilot des voitures Tesla « présente un défaut dangereux qui provoque un freinage soudain et involontaire du véhicule », un phénomène surnommé « freinage fantôme » (phantom braking)[399]. En novembre 2024, Tesla n'a pas réussi à convaincre un juge de district américain de rejeter la plainte[400].
+
+En février 2025, un tribunal allemand a déclaré l'Autopilot de Tesla défectueux pour une utilisation normale en raison de problèmes de freinage fantôme[401].
+
+Tweet de 2018
+En août 2018, Elon Musk a tweeté : « J'envisage de retirer Tesla de la cote au prix de 420 dollars. Le financement est assuré. ». Ce tweet a initialement fait grimper le cours de l'action, avant qu'elle ne chute lorsqu'il a été révélé que l'information était fausse[402].
+
+Le gendarme boursier américain, la SEC, estimant que le patron n’avait pas apporté la preuve de son financement, lui avait imposé de céder la présidence du conseil d’administration, de payer une amende de 20 millions de dollars, et avait exigé par la suite que ses tweets directement liés à l’activité de Tesla soient pré-approuvés par un juriste compétent. Le 3 févier 2023, il été déclaré non coupable de fraude après une plainte d’investisseurs qui estimaient avoir été lésés[403].
+
+Qualité de la peinture (Model 3 et Y)
+En 2025, un juge de la Cour supérieure du Québec a autorisé une action collective contre Tesla en raison d'allégation de détérioration prématurée de la peinture des Tesla Model 3 et Y[404].
+
+Tesla files
+En 2023, le média allemand Handelsblatt a eu accès à 100 Go de données émanant de Tesla[405]. Les données ont été fournies par le lanceur d'alerte Lukasz Krupski, ancien technicien de Tesla en Norvège, qui a reçu pour cela le prix Blueprint for Free Speech Whistleblowing Award. Il avait été licencié par Tesla en 2022 à la suite de l'évocation de manquements à la sécurité[406],[407].
+
+Tesla a intenté une action en justice contre Krupski. En décembre 2024, un tribunal norvégien a statué que Tesla avait exercé des représailles illégales à son encontre, en violation de ses droits de lanceur d'alerte, et qu'il devrait être indemnisé pour ce qu'il a vécu[408].
+
+Sur la base des données fournies par Lukasz Krupski (les Tesla files), en mars 2025, l'ouvrage en allemand Die Tesla-Files, très critique sur Tesla, est publié[406]. Une version en anglais est publiée en juillet 2025.
+
+Violations environnementales
+En 2019, l'Agence de protection de l'environnement des États-Unis (United States Environmental Protection Agency) a infligé une amende à Tesla pour des violations relatives aux déchets dangereux survenues en 2017[409].
+
+En juin 2019, Tesla a commencé à négocier des sanctions pour dix-neuf violations environnementales auprès du Bay Area Air Quality Management District[410] ; ces violations ont eu lieu autour de l'atelier de peinture de l'usine Tesla de Fremont, où au moins quatre incendies s'étaient déclarés entre 2014 et 2019[411]. Les violations environnementales et les écarts par rapport aux permis à l'usine Tesla de Fremont ont augmenté de 2018 à 2019 avec l'accélération de la production de la Model 3[412].
+
+En janvier 2024, vingt-cinq comtés de Californie ont poursuivi Tesla, accusant l'entreprise d'avoir enfreint les codes de santé et de sécurité de l'État en se débarrassant illégalement de déchets dangereux. Plus tard cette semaine-là, l'affaire a été réglée sous condition que Tesla paie 1,5 million de dollars américains et reconnaisse avoir agi de manière « intentionnelle » et « négligente ». De plus, Tesla a également accepté de former ses employés à l'élimination des déchets dangereux et de faire auditer 10 % de ses installations concernant l'élimination des déchets au cours des cinq années suivantes[413]̼,[414]
+
+Distinctions et récompenses
+En 2019, la Model 3 a reçu le prix Top Safety Pick+ de l'Insurance Institute for Highway Safety[415].
+
+En 2022, la Model Y a obtenu le score de sécurité le plus élevé parmi toutes les voitures analysées par l'Euro NCAP[416]. La même année, Tesla a remporté les S&P Global Automotive Loyalty Awards dans sept catégories[417].
+
+En 2025, le magazine Time a nommé la Model S comme l'une des meilleures inventions des vingt-cinq dernières années, la saluant comme une « avancée révolutionnaire pour les véhicules électriques »[418].
+
+Notes et références
+« Tesla entre en bourse [archive] », sur Radio-Canada, Radio-Canada.ca, 29 juin 2010 (consulté le 20 août 2026).
+« Automoto (Émission) [archive] », sur TF1+ (consulté le 20 août 2026).
+Répertoire mondial des LEI (base de données en ligne), consulté le 17 septembre 2024.
+Audric Doche, « Tesla a déménagé au Texas [archive] », Caradisiac, 16 octobre 2021
+ Tesla 2017 Form 10-K (Form 10-K), 22 février 2018, [lire en ligne [archive]].
+« Tesla: Number of Employees 2011-2025 [archive] », 10 novembre 2025
+« Cours, actualités, cotation et historique des capital-actions Tesla, Inc. (TSLA) - https://www.google.com/search?q=capitalisation+tesla&rlz=1C1AVFC_enFR834FR834&oq=capitalisation+tesla&gs_lcrp=EgZjaHJvbWUyDggAEEUYORhGGPoBGIAEMgcIARAAGIAEMggIAhAAGBYYHjIICAMQABgWGB4yCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yCAgHEAAYFhgeMggICBAAGBYYHjIICAkQABgWGB7SAQg2NjMwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8 [archive] » (consulté le 28 octobre 2025)
+ (en) « Tesla Annual Report 2021 SEC 10-K [archive] »
+ Roch Arene, « Tesla : le bénéfice net s’effondre de 70 % au quatrième trimestre, un nouveau modèle en approche [archive] », sur ZDNET, 31 janvier 2025 (consulté le 6 avril 2025)
+ (en) Ashlee Vance, Elon Musk : Tesla, SpaceX, and the quest for a fantastic future (First ed.), New York, 19 mai 2015 (ISBN 978-0-06-230123-9), p. 151-155.
+Nelly Lesage, « Au fait, pourquoi Tesla s’appelle Tesla ? [archive] », sur numerama.com, 19 février 2023 (consulté le 2 juin 2023).
+ (en-US) Eric Reed, « History of Tesla: Timeline and Facts [archive] », sur TheStreet (consulté le 13 mai 2021)
+(en) « Tesla: A Carmaker With Silicon Valley Spark [archive] », sur bloomberg.com, 30 juillet 2007 (consulté le 13 mai 2021)
+ (en) « A Brief History Of Tesla », sur techcrunch.com, 17 juillet 2015 (consulté le 13 mai 2021)
+(en) Martin LaMonica, « Tesla Motors founders: Now there are five [archive] », sur CNET (consulté le 13 mai 2021)
+(en-US) Jamie Poitra, « Elon Musk Envisions Tesla Electric Car as Low as $20K: Cleantech News [archive] », sur gigaom.com, 30 mars 2016 (consulté le 13 mai 2021)
+(en) « The Secret Tesla Motors Master Plan (just between you and me) [archive] », sur tesla.com, 2 août 2006 (consulté le 13 mai 2021)
+(en) « Series B - Tesla - 2005-02-01 [archive] », sur Crunchbase (consulté le 13 mai 2021)
+(en) E. Freya Williams, Green giants : how smart companies turn sustainability into billion-dollar businesses, New York, 2015 (ISBN 9780814436141).
+(en) « Tesla Gallery [archive] », sur tesla.com (consulté le 13 mai 2021)
+(en-US) Katie Fehrenbacher, « Tesla Founder Eberhard Files Lawsuit Against Tesla, Elon Musk [archive] », sur gigaom.com, 11 juin 2009 (consulté le 13 mai 2021)
+(en) « Martin Eberhard and Marc Tarpenning | American entrepreneurs [archive] », sur Encyclopedia Britannica (consulté le 13 mai 2021)
+(en-US) Drake Baer, « The Making Of Tesla: Invention, Betrayal, And The Birth Of The Roadster [archive] », sur Business Insider (consulté le 13 mai 2021)
+(en-US) Jay Ramey, « The first Tesla Roadster: A look back at the early adopter's electric car [archive] », sur Autoweek, 27 novembre 2017 (consulté le 13 mai 2021)
+(en) « Article Bloomberg [archive] », sur Bloomberg (consulté le 13 mai 2021)
+(en) « Tesla gets long-awaited government loan [archive] », sur bizjournals.com (consulté le 13 mai 2021)
+(en) « Tesla Repays Entire DoE Loan, Taxpayers MAKE $26 Million On The Deal (Updated) [archive] », sur InsideEVs (consulté le 13 mai 2021)
+ (en) « How Elon Musk Turned Tesla Into the Car Company of the Future », sur wired.com, 24 juin 2016 (consulté le 13 mai 2021)
+(en-US) « Tesla's Got the Factory, Now It Needs to Fill It [archive] », sur Wired (ISSN 1059-1028, consulté le 13 mai 2021)
+(en-US) Matt Andrejczak, « Tesla Motors revs up $244 million IPO [archive] », sur MarketWatch (consulté le 13 mai 2021)
+« Tesla Posts Second-Biggest Rally for 2010 U.S. IPO », sur businessweek.com, 30 juin 2010 (consulté le 13 mai 2021)
+(en-US) « Tesla Motors begins delivering Model S electric cars in a Silicon Valley milestone [archive] », sur The Mercury News, 22 juin 2012 (consulté le 13 mai 2021)
+(en) « 2013 Motor Trend Car of the Year: Tesla Model S [archive] », sur MotorTrend, 10 décembre 2012 (consulté le 13 mai 2021)
+(en) « Tesla Model S Was Best-Selling Car In Norway For September [archive] », sur Green Car Reports (consulté le 13 mai 2021)
+(en-US) « Tesla Model S Is World’s Best-Selling Plug-in Car For Second Year In A Row [archive] », sur HybridCars.com, 26 janvier 2017 (consulté le 13 mai 2021)
+(en) Tesla Gets Use Of Its Name Back In China – Goodbye Tuosule Auto Sales [archive] - Jay Cole, Inside EVs/Reuters, 24 janvier 2014
+(en) K. Nived Maanyu, D Goutham Raj, R Vamsi Krishna et Dr. Shruthi Bhargava Choubey, « A Study on Tesla Autopilot », Sreenidhi Institute of Science And Technology, Hyderabad, India,‎ mai 2020 (lire en ligne [archive])
+« Le plaidoyer anti-brevets d’Elon Musk, le patron de Tesla », Le Monde,‎ 13 juin 2014 (lire en ligne [archive]).
+(en-US) Alexandra Berzon et Cassandra Sweet, « Tesla CEO Elon Musk Unveils Line of Home and Industrial Battery Packs [archive] », sur Wall Street Journal, 1er mai 2015 (ISSN 0099-9660, consulté le 13 mai 2021)
+(en) « Tesla's Battery Grabbed $800 Million in Its First Week [archive] », sur bloomberg.com (consulté le 13 mai 2021)
+(en-US) Bryan Logan, « Here's Tesla's first SUV, the all-electric Model X [archive] », sur Business Insider (consulté le 13 mai 2021)
+(en) « Tesla Motors – Third Quarter 2015 Shareholder Letter [archive] », sur tesla-cdn.thron.com, 3 novembre 2015 (consulté le 13 mai 2021)
+« Tesla triple ses pertes malgré des ventes record [archive] », sur Challenges (consulté le 13 mai 2021)
+(en-US) Marco della Cava, « Tesla shareholders approve deal to buy SolarCity [archive] », sur usatoday.com (consulté le 13 mai 2021)
+(en) « Tesla is following in the footsteps of Apple and is changing its name. [archive] », sur NBC News (consulté le 13 mai 2021)
+« Augmentation de capital réussie pour Tesla qui lève 1,2 milliard de dollars [archive] », sur L'Usine nouvelle, 17 mars 2017.
+(en) « Tesla’s Philanthropic Side », sur asaproofing.com, 8 août 2020 (consulté le 13 mai 2021)
+(en) « Tesla Turns Power Back On At Children's Hospital In Puerto Rico [archive] », sur NPR.org (consulté le 13 mai 2021)
+(en-US) « Next Gen: What's Behind Tesla's Latest STEM Education Give? [archive] », sur Inside Philanthropy (consulté le 13 mai 2021)
+(en-US) « Tesla Donates 5 Million Yuan to Chinese CDC in Fight Against Coronavirus [archive] », 31 janvier 2020 (consulté le 13 mai 2021)
+(en) « Tesla's Shanghai plant suspends operations amid virus outbreak [archive] », sur shine.cn (consulté le 13 mai 2021)
+(en) « Tesla hands over first Model 3 electric cars to early buyers [archive] », sur NBC News (consulté le 13 mai 2021)
+(en) Kshitiz Goliya, Alexandria Sage, « Tesla puts pedal to the metal, 500,000 cars planned in 2018 [archive] », sur Reuters, 5 mai 2016 (consulté le 13 mai 2021)
+(en) Seth Fiegerman, « Tesla now averaging more than 1,800 Model 3 reservations a day [archive] », sur money.cnn.com, 2 août 2017 (consulté le 13 mai 2021)
+(en) Chris Isidore, « Tesla will start working 24/7 to crank out Model 3s [archive] », sur money.cnn.com, 18 avril 2018 (consulté le 13 mai 2021)
+ (en-US) « Elon Musk tweets he’s thinking about taking Tesla private [archive] », sur TechCrunch (consulté le 13 mai 2021)
+(en) José Pontes, « EV Sales: Global Top 20 - December 2018 [archive] », sur EV Sales, 31 janvier 2019 (consulté le 13 mai 2021)
+(en-US) « Model Y deliveries begin: Here’s what is new in Tesla’s EV crossover [archive] », sur TechCrunch (consulté le 13 mai 2021)
+Pourquoi vous ne devriez pas voir de nouvelles Tesla de sitôt [archive], automobile-propre.com, 27 janvier 2022.
+(en) « Elon Musk Set Up His Shanghai Gigafactory in Record Time [archive] », sur bloomberg.com (consulté le 13 mai 2021)
+ Tesla : Berlin, une étape cruciale pour le pionnier de la voiture électrique [archive], Les Échos, 23 mars 2022.
+« Le groupuscule d’extrême gauche Vulkan sabote une usine Tesla géante près de Berlin [archive] », sur Libération (consulté le 9 mars 2024)
+« Tesla : l'usine de Berlin sabotée, Elon Musk dénonce « les écoterroristes les plus bêtes du monde » [archive] », sur Les Echos, 5 mars 2024 (consulté le 9 mars 2024)
+« Tesla prêt à investir 775 millions de dollars pour l'agrandissement de son usine texane [archive] », sur Capital.fr, 11 janvier 2023 (consulté le 11 janvier 2023)
+« Inauguration de la nouvelle méga-usine Tesla au Texas, État d'adoption d'Elon Musk [archive] », sur lefigaro.fr, 7 avril 2022 (consulté le 11 janvier 2023)
+(en) Chris Isidore, « Tesla is now the most valuable US automaker ever [archive] », sur CNN (consulté le 13 mai 2021)
+(de) « E-Autohersteller: Tesla ist wertvoller als BMW, Daimler und VW zusammen [archive] », sur handelsblatt.com (consulté le 13 mai 2021)
+(en) Pippa Stevens, « Tesla tops Toyota to become largest automaker by market value [archive] », sur CNBC, 1er juillet 2020 (consulté le 13 mai 2021)
+(en) Anneken Tappe, « Apple and Tesla just announced stock splits. Here's what that means for your investments [archive] », sur CNN (consulté le 13 mai 2021)
+(en) Lora Kolodny, « Tesla reports fourth straight quarter of profits [archive] », sur CNBC, 22 juillet 2020 (consulté le 13 mai 2021)
+(en) « Tesla joins Wall Street's S&P 500 share index [archive] », sur the Guardian, 21 décembre 2020 (consulté le 13 mai 2021)
+(en) « Tesla Shares Are ‘Dramatically Overvalued,’ JPMorgan Says [archive] », sur bloomberg.com (consulté le 13 mai 2021)
+(en) « Tesla Eyes Another Milestone as Valuation Nears Facebook's [archive] », sur bloomberg.com (consulté le 13 mai 2021)
+(en) « Tesla Market Cap [archive] », sur ycharts.com (consulté le 13 mai 2021)
+(en) Michael Wayland et Lora Kolodny, « Tesla's market cap tops the 9 largest automakers combined — Experts disagree about if that can last [archive] », sur CNBC, 14 décembre 2020 (consulté le 13 mai 2021)
+(en) Jessica Bursztynsky, « Tesla closes day as fifth most valuable U.S. company, passing Facebook [archive] », sur CNBC, 8 janvier 2021 (consulté le 13 mai 2021)
+(en) Chris Isidore, « Tesla hit half-million car target in 2020 [archive] », sur CNN (consulté le 13 mai 2021)
+ (en) « Tesla Bets on Bitcoin in Blue-Chip Boost to Cryptocurrency [archive] », sur bloomberg.com (consulté le 13 mai 2021)
+(en-US) Timothy B. Lee, « Tesla reports its first annual profit [archive] », sur Ars Technica, 27 janvier 2021 (consulté le 13 mai 2021)
+Les chiffres fous de Tesla [archive], Les Échos, 26 octobre 2021.
+Automobile : pourquoi Tesla écrase les constructeurs traditionnels en Bourse [archive], Les Échos, 26 octobre 2021.
+ Tesla : la dynamique insolente du spécialiste de la voiture électrique [archive], Les Échos, 26 janvier 2022.
+« Tesla crève le plafond en Bourse, quand la bulle va-t-elle exploser ? [archive] », sur Capital.fr, 21 août 2020 (consulté le 18 novembre 2022)
+«L’anomalie Tesla, le constructeur qui vaut autant que tous les groupes automobiles de la planète» [archive], sur lefigaro.fr, 29 novembre 2020 (consulté le 18 novembre 2022)
+« Automobile, voiture électrique, Tesla : la décharge héroïque [archive] », sur Les Échos, 13 juin 2022 (consulté le 18 novembre 2022)
+Face au ralentissement de leur croissance, les Gafam cherchent la riposte [archive], Les Échos, 26 octobre 2022.
+« Le spectaculaire et inattendu krach de Tesla en Bourse [archive] », sur Les Échos, 26 décembre 2022 (consulté le 3 janvier 2023)
+Bourse : l'impressionnant rebond de Tesla, propulsé par les particuliers [archive], Les Échos, 30 janvier 2023.
+« Cette Tesla devient la voiture la plus vendue en Europe, loin devant ses concurrentes [archive] », sur Capital (consulté le 14 septembre 2023)
+Guillaume Guichard, « Voiture électrique : Tesla dépassé par la déferlante BYD », Les Échos,‎ 2 janvier 2024 (lire en ligne [archive] Accès limité)
+(en) Sean Szymkowski, « Tesla scraps whatever was left of its PR department [archive] », sur Roadshow (consulté le 13 mai 2021)
+(en) Sarah O'Brien, « 'You can now buy a Tesla with bitcoin,' CEO Elon Musk said. But it could mean a big tax bill [archive] », sur CNBC, 24 mars 2021 (consulté le 13 mai 2021)
+(en-GB) « Tesla will no longer accept Bitcoin over climate concerns, says Musk [archive] », sur BBC News, 13 mai 2021 (consulté le 13 mai 2021)
+Hortense Goulard et Nicolas Rauline, « Tesla déménage au Texas [archive] », sur Les Echos, 8 octobre 2021
+« Elon Musk s'installe au Texas, un État à la fiscalité plus souple que la Californie [archive] », sur businessinsider.fr, 9 décembre 2020 (consulté le 9 novembre 2021)
+« Obsédé par le nickel, Tesla signe un contrat de long terme avec Vale [archive] », sur Les Echos, 9 mai 2022 (consulté le 9 mai 2022)
+« Tesla: la grève des ouvriers suédois s'étend au Danemark [archive] », sur Le Figaro, 5 décembre 2023 (consulté le 9 mars 2024)
+Delphine Nerbollier, « Entre Tesla et les Allemands, le courant peine à passer », La Croix,‎ 10 mars 2024 (lire en ligne [archive])
+« La politique agressive de prix de Tesla porte-t-elle ses fruits ? [archive] », sur mobilite-verte.com, 25 janvier 2024 (consulté le 16 avril 2024)
+« Tesla déçoit au 4e trimestre et prévient d'une croissance plus lente en 2024 [archive] », sur BFMTV (consulté le 16 avril 2024)
+Stéphane Lémeret, « Les ventes de Tesla en baisse, une première en plus de dix ans », 20minutes,‎ 3 janvier 2025 (lire en ligne [archive] Accès libre, consulté le 27 janvier 2025)
+Valérie Collet, « Échec du Cybertruck, livraisons en baisse… Tesla ne fait plus rêver les fans d’automobile », Le Figaro,‎ 30 janvier 2025 (lire en ligne [archive] Accès libre, consulté le 4 février 2025)
+Florian Maussion, « Tesla va supprimer 10 % de ses effectifs dans le monde [archive] » Accès payant, sur Les Échos, 15 avril 2024 (consulté le 15 avril 2024)
+(en) « Elon Musk fires Tesla’s entire supercharger team [archive] », sur ft.com (consulté le 30 avril 2024)
+« Pas de salaire record pour Elon Musk chez Tesla : pour la deuxième fois, la justice le prive de ses 50 milliards d’euros [archive] », sur RTBF (consulté le 10 décembre 2024)
+« Elon Musk : la justice rejette encore une fois sa méga-rémunération chez Tesla [archive] », sur SudOuest.fr, 3 décembre 2024 (consulté le 10 décembre 2024)
+« La méga rémunération d’Elon Musk chez Tesla de nouveau rejetée par la justice [archive] », sur leparisien.fr, 3 décembre 2024 (consulté le 10 décembre 2024)
+« Geste polémique: Elon Musk est accusé d’avoir fait un salut nazi lors d’un meeting de Trump [archive] », sur Tribune de Genève, 21 janvier 2025 (consulté le 19 février 2025)
+« Elections en Allemagne : Elon Musk appelle les Allemands à aller au-delà de « la culpabilité du passé » », Les Échos,‎ 25 janvier 2025 (lire en ligne [archive du 27 janvier 2025], consulté le 19 février 2025)
+(fr-CA) Benoit Charette, « Un effondrement des ventes de Tesla en Europe [archive] », sur L'annuel de l'automobile, 6 février 2025 (consulté le 19 février 2025)
+Damien Dole, « «Elon Musk est en train de détruire la marque» : un puissant fonds de pension danois met Tesla sur liste noire et vend ses actions [archive] », sur Libération (consulté le 16 mars 2025)
+« Alors que Tesla est en difficulté, la présidente du conseil d'administration liquide ses actions [archive] », sur Automobile Propre, 6 mars 2025 (consulté le 6 mars 2025)
+Le Figaro, « Près de 800 milliards de dollars perdus en trois mois : la chute vertigineuse de Tesla en Bourse [archive] », 10 mars 2025
+« Les immatriculations de Tesla ont plongé de 63 % en France en janvier 2025 », Le Monde,‎ 8 février 2025 (lire en ligne [archive], consulté le 5 juin 2025)
+« Tesla, la société d’Elon Musk, subit une baisse de 60 % de ses immatriculations en France en avril », Le Monde,‎ 1er mai 2025 (lire en ligne [archive], consulté le 5 juin 2025)
+« "Elon est un grand ami d'Israël" : pour soutenir le patron américain victime des "tendances wokistes", Benyamin Netanyahou passe commande de Tesla pour ses hauts fonctionnaires [archive] », sur lindependant.fr (consulté le 22 mars 2025)
+Par Le Parisien Le 14 mars 2025 à 15h15, « Benyamin Netanyahou souhaite commander des voitures Tesla pour les hauts fonctionnaires israéliens [archive] », sur leparisien.fr, 14 mars 2025 (consulté le 18 mars 2025)
+« « Ne pas céder aux tendances wokes » : Israël veut doter ses hauts fonctionnaires de voitures Tesla [archive] », sur Le Figaro, 14 mars 2025 (consulté le 18 mars 2025)
+(en-US) Emily Glazer, Becky Peterson and Dana Mattioli, « Exclusive | Tesla Board Opened Search for a CEO to Succeed Elon Musk [archive] », sur WSJ (consulté le 5 juin 2025)
+François-Xavier Dudouet, « Elon Musk, l’homme le plus riche du monde, peut-il être renvoyé de l’entreprise qu’il dirige ? [archive] », sur The Conversation, 28 mai 2025 (consulté le 5 juin 2025)
+« "C'est vraiment super, merci" : Elon Musk aura droit à ses 1000 milliards de dollars malgré l'effondrement de Tesla [archive] », sur www.lesnumeriques.com, 7 novembre 2025 (consulté le 9 novembre 2025)
+Tesla : Elon Musk prend une décision radicale et met fin à ces deux voitures électriques [archive], automobile-propre.com, 29 janvier 2026.
+(en-US) Tom Carter, « Elon Musk wants to build a Tesla Terafab. Here's why it will be a 'Herculean' task. [archive] », sur Business Insider (consulté le 4 octobre 2026)
+(en) « Tesla Model 3: Elon Musk unveils the Model 3 to huge fanfare [archive] », sur Los Angeles Times, 31 mars 2016 (consulté le 1er avril 2016).
+(en) Dana Hull, « Tesla Says It Received More Than 325,000 Model 3 Reservations [archive] », sur Bloomberg, 7 avril 2016 (consulté le 16 avril 2016).
+(en) Tom Randall, Bloomberg News, « Ten Charts That Will Make You Rethink Tesla's Model 3 [archive] », 21 avril 2016 (consulté le 7 mai 2016).
+(en) « Tesla Fourth Quarter & Full Year 2016 Update », sur Tesla Inc., 22 février 2017 (consulté le 22 février 2017).
+(en) Maximilian Holland, « Tesla Passes 1 Million EV Milestone & Model 3 Becomes All Time Best Seller » [archive du 12 avril 2020], sur CleanTechnica, 10 février 2020 (consulté le 16 mai 2020) : « Tesla’s quarterly reports, meanwhile, had put the Model 3’s cumulative sales at 447,980 at the end of 2019. ».
+ (en) Pontes Jose, « Global Top 20 - December 2020 [archive] », sur EVSales.com, 2 février 2021 (consulté le 3 février 2021).
+(en) Sean O'Kane, « Tesla's Model 3 was the best-selling EV in the world last year [archive] », sur The Verge, 22 février 2019 (consulté le 1er février 2021).
+(en) Mark Kane, « US Plug-In Electric Car Sales Charted: December 2018 [archive] », sur InsideEVs.com, 4 janvier 2019 (consulté le 24 janvier 2019).
+(en) Mark Kane, « US Plug-In Electric Car Sales Charted: February 2019 [archive] », sur InsideEVs.com, 12 mars 2019 (consulté le 12 mars 2019).
+C.J. Moore, « Tesla's commanding lead in U.S. EVs illustrated by registration report », Automotive News, CarAdvice,‎ 14 février 2021 (lire en ligne [archive], consulté le 14 février 2021).
+(en) Zachary Shahan, « Tesla Model 3 = #1 Best Selling Auto In Netherlands & Norway In 2019 [archive] », sur Clean Technica, 19 janvier 2020 (consulté le 16 mai 2020).
+(no) Norwegian Road Federation (OFV), « OFV Registreringsstatistikk [archive] » [« OFV Registration Statistics »], sur ofv.no, janvier 2020 (consulté le 10 mai 2020).
+« La Tesla Model 3 reine du marché européen au premier semestre [archive] », sur Automobile Propre, 1er août 2021 (consulté le 16 août 2021)
+(en-US) « Tesla to start production of the Model Y Juniper in January - electrive.com [archive] », sur www.electrive.com, 19 décembre 2024 (consulté le 6 novembre 2025)
+(en-US) « Tesla Semi unveiled with tri-motor setup, megawatt charging tech », Yahoo Finance,‎ 4 décembre 2022 (lire en ligne [archive du 26 septembre 2024], consulté le 6 novembre 2025)
+Valentin Cimino, « Tesla Semi : enfin de bonnes nouvelles pour la production à grande échelle du camion électrique ? [archive] », sur Automobile Propre, 30 avril 2025 (consulté le 2 novembre 2025)
+Robin San Vicente, « 1088 chevaux et 800 km d'autonomie : le camion électrique d'Elon Musk prend enfin vie après 9 ans d'attente [archive] », sur Numerama, 30 avril 2026 (consulté le 30 avril 2026)
+« Le Cybertruck de Tesla fait un « cyberflop » », Le Monde,‎ 26 janvier 2025 (lire en ligne [archive], consulté le 6 novembre 2025)
+[vidéo] « Cybertruck : déjà un échec pour Tesla [archive] », 29 janvier 2025 (consulté le 6 novembre 2025)
+Alexandre Mathiot, « Ce rapport embarrassant révèle que le Cybertruck survit grâce à l'empire d'Elon Musk, pas aux particuliers [archive] », sur PhonAndroid, 17 avril 2026 (consulté le 6 juin 2026)
+« Voici la Tesla Cybercab qui se conduit toute seule pour moins de 30 000€ [archive] », sur Caradisiac.com, 11 octobre 2024 (consulté le 12 octobre 2024)
+Thomas Kim, « Tesla crée la surprise : le Cybercab entre en production sans volant ni pédales [archive] », sur 01net.com, 29 avril 2026 (consulté le 30 mai 2026)
+Caradisiac.com, « La Tesla Cybercab sans volant démarre sa production à l'usine mais où aura-t-elle le droit de rouler ? [archive] », sur Caradisiac.com, 27 avril 2026 (consulté le 30 mai 2026)
+(en) Peter Valdes-Dapena, « Elon Musk reveals when Tesla's electric ATV will go on sale [archive] », sur CNN, 9 décembre 2019 (consulté le 2 août 2021)
+Sébastien Vanhouche Media365, « Le Tesla Cyberquad est disponible en France ! - Orange [archive] », sur Orange Auto, 27 octobre 2023 (consulté le 9 novembre 2025)
+Florent Ferrière, « Surprise : Tesla dévoile son nouveau Roadster [archive] », sur Caradisiac, 17 novembre 2017
+(en) « Tesla Roadster SpaceX Package’s shocking 0-60 mph time teased in museum info [archive] »
+Yves Maroselli, « Tesla Roadster : quasiment 1 000 km d'autonomie [archive] », sur Le Point, 17 novembre 2017
+(en) « Today in Elon Tweets: Updated Tesla Roadster Arrival Date Announced [archive] », sur MotorTrend, 28 janvier 2021 (consulté le 29 juillet 2021)
+« Tesla Roadster 2 : la présentation sera faite un jour pas comme les autres [archive] », 16 novembre 2025 (consulté le 16 novembre 2025)
+« Tesla reporte la démo du Roadster en août en raison de retards Par Investing.com [archive] », sur Investing.com France (consulté le 6 juin 2026)
+Valentin Cimino, « Tesla Robovan : une navette électrique et autonome capable de transporter jusqu'à 20 passagers [archive] », sur Automobile Propre, 11 octobre 2024 (consulté le 12 octobre 2024)
+(en) « Tesla boasts about electric car deliveries, plans for sedan [archive] », sur usatoday.com (consulté le 15 mai 2021)
+(en) « Supply Agreement for Products and Services - Lotus Cars Limited [archive] », sur sec.gov (consulté le 15 mai 2021)
+(en) Phil Plait, « Elon Musk: On the Roadster to Mars [archive] », sur syfy.com, 2 décembre 2017 (consulté le 15 mai 2021)
+(no) Ståle Frydenlund, « Tesla knuste 28 år gammel rekord », Norsk Elbilforening (Norwegian Electric Vehicle Association), 2 avril 2014 (consulté le 5 avril 2014).
+(en) John D. Stoll, « Tesla Breaks Norway's All-Time Sales Record [archive] », sur The Wall Street Journal, 2 avril 2014 (consulté le 3 avril 2016).
+(en) John Boudreau, « In a Silicon Valley milestone, Tesla Motors begins delivering Model S electric cars [archive] », San Jose Mercury News, 22 juin 2012 (consulté le 22 juin 2012).
+(no) « Norges mest solgte bil i september er en elbil », sur gronnbil.no, 1er octobre 2013 (consulté le 2 octobre 2013).
+(en) John Voelcker, « Tesla Model S Was Best-Selling Car in Norway For September [archive] », sur Green Car Reports, 1er octobre 2013 (consulté le 2 octobre 2013)
+(en) « Best Inventions of the Year 2012—$22,000–$750,000—The Tesla Model S [archive] », sur Time, 1er novembre 2012 (consulté le 2 novembre 2012).
+(en) « And Now There Is One… Tesla Model S Declared 2013 World Green Car [press release] », sur International Business Times, 28 mars 2013 (consulté le 28 mars 2013).
+(en) David Zenlea, « 2013 Automobile of the Year: Tesla Model S [archive] », sur Automobile, 1er novembre 2012 (consulté le 1er novembre 2012).
+(en) « Tesla Model S Beats Chevy, Toyota, and Cadillac for Ultimate Car of the Year Honors [archive] », sur Motor Trend (consulté le 2 janvier 2020).
+(en) Jeff Cobb, « Tesla Model S Is World's Best-Selling Plug-in Car For Second Year In A Row [archive] », sur HybridCars.com, 26 janvier 2017 (consulté le 31 janvier 2017).
+(en) Jeff Cobb, « Tesla Quietly Sold 200,000th Model S Last Year [archive] », sur HybridCars.com, 22 janvier 2018 (consulté le 22 janvier 2018).
+(en-US) « Tesla Model S Long Range Plus Exceeds 400 Miles Of Range, EPA Confirms [archive] », sur CleanTechnica, 16 juin 2020 (consulté le 6 octobre 2020).
+ Florian Bayard, « Tesla abandonne deux voitures électriques emblématiques, une page se tourne [archive] », sur 01net.com, 29 janvier 2026 (consulté le 8 mars 2026)
+ Thomas Kim, « Tesla : c’est fini pour les mythiques Model S et Model X, une page se tourne officiellement [archive] », sur 01net.com, 9 avril 2026 (consulté le 30 avril 2026)
+[vidéo] « Tesla AI Day 2021 [archive] », Tesla, 19 août 2021, 183:20 min (consulté le 7 novembre 2025)
+Dimitri Charitsis, « Tesla veut présenter Optimus, son robot humanoïde, en septembre [archive] », sur 01net.com, 3 juin 2022 (consulté le 7 novembre 2025)
+« Pour entrer à pleine vitesse dans l'ère des robots humanoïdes et des robotaxis, Elon Musk arrête la production de deux de ses modèles de Tesla [archive] », sur BFM, 30 janvier 2026 (consulté le 4 février 2026)
+« Elon Musk veut commercialiser ses robots humanoïdes Optimus d'ici fin 2027 [archive] », sur Le Figaro, 22 janvier 2026 (consulté le 4 février 2026)
+« Elon Musk lance Tesla Energy [archive] », sur journaldunet.com (consulté le 15 mai 2021)
+(en-US) Jeff Desjardins, « Here's what the future of Tesla could look like [archive] », sur Business Insider (consulté le 15 mai 2021)
+(en-US) Steve Hanley, « Elon Musk & SolarCity CTO Peter Rive Announce "Solar Roof" (Not "Solar On The Roof") [archive] », sur CleanTechnica, 12 août 2016 (consulté le 15 mai 2021)
+(en) « Complete review of Tesla solar panels: are they worth it? [archive] », sur Solar Reviews (consulté le 15 mai 2021)
+(en-US) Matthew DeBord, « Elon Musk's big announcement: It's called 'Tesla Energy' [archive] », sur Business Insider (consulté le 15 mai 2021)
+(en-US) Sarah E. Needleman, « Tesla to Rent Solar Panels to Homeowners [archive] », sur Wall Street Journal, 19 août 2019 (ISSN 0099-9660, consulté le 15 mai 2021)
+Tesla : les batteries géantes d'Elon Musk sortent de l'ombre [archive], Les Échos, 13 février 2023.
+(en) « Tesla Revenue Breakdown And Sales Growth [archive] », sur stockdividendscreener.com (consulté le 15 mai 2021)
+(en) « Tesla Full Self-Driving to move to subscription model this year [archive] », sur Autoblog (consulté le 15 mai 2021)
+(en-US) Fred Lambert, « Elon Musk is considering a Tesla in-car Wifi hotspot and dynamic 360-degree surround view [archive] », sur Electrek, 23 mai 2017 (consulté le 15 mai 2021)
+(en-US) Fred Lambert, « Tesla unveils new map of upcoming Supercharger stations, adds stations, and updates timelines [archive] », sur Electrek, 5 janvier 2021 (consulté le 15 mai 2021)
+(en-US) Connor Hoffman, « Tesla's 250-kW Supercharger Only Saved Us 2 Minutes vs. a 150-kW Charger [archive] », sur Car and Driver, 15 avril 2020 (consulté le 15 mai 2021)
+(en-US) Kyle Field, « Tesla's Navigation Eliminates The Need To Plan Charging Stops On Road Trips [archive] », sur CleanTechnica, 26 mars 2019 (consulté le 15 mai 2021)
+(en-US) Fred Lambert, « Understanding Tesla's new Supercharger access for Model S and Model X [archive] », sur Electrek, 20 mai 2017 (consulté le 15 mai 2021)
+(en-US) Fred Lambert, « Tesla brings back 'unsustainable' free unlimited Supercharging perk [archive] », sur Electrek, 3 août 2019 (consulté le 15 mai 2021)
+(en-US) Fred Lambert, « Tesla removes free Supercharging on Model S and Model X [archive] », sur Electrek, 27 mai 2020 (consulté le 15 mai 2021)
+(en-US) Joey Capparella, « Tesla Brings Back Free Supercharging in Attempt to Boost Model S and Model X Sales [archive] », sur Car and Driver, 5 août 2019 (consulté le 15 mai 2021)
+Tesla a un nouvel atout majeur pour étendre son réseau Superchargeurs [archive], 9 septembre 2021.
+(en-US) « Tesla Rolls Out 'Destination Charging' At Resorts And Restaurants [archive] », sur Jalopnik (consulté le 15 mai 2021)
+(en) Brad Templeton, « For Tesla Electric Car Tourism, Hotel Charging Is The Answer, Not Supercharging [archive] », sur Forbes (consulté le 15 mai 2021)
+(en-US) Fred Lambert, « Tesla is starting to add third-party charging stations to its in-car navigation [archive] », sur Electrek, 14 février 2020 (consulté le 15 mai 2021)
+https://www.frandroid.com/comment-faire/tutoriaux/1011479_comment-mettre-a-jour-sa-tesla [archive]
+(en-US) Fred Lambert, « Tesla's over-the-air software updates make other vehicles 'highly vulnerable to obsolescence', says analyst [archive] », sur Electrek, 19 juillet 2017 (consulté le 15 mai 2021)
+(en-US) Roberto Baldwin, « Musk Announces Tesla Basic Autopilot Deal [archive] », sur caranddriver.com, 22 juin 2020 (consulté le 15 mai 2021)
+(en) « Make your Model 3 quicker with this option from Tesla [archive] », sur evannex.com (consulté le 15 mai 2021)
+(en-US) Fred Lambert, « Tesla starts selling rear-heated seats on Model 3 SR and SR Plus as $300 OTA upgrade [archive] », sur Electrek, 15 février 2020 (consulté le 15 mai 2021)
+ (en-US) Fred Lambert, « Tesla starts charging $10 a month for its 'premium connectivity' features [archive] », sur Electrek, 7 décembre 2019 (consulté le 15 mai 2021)
+(en-US) Todd Spangler, « Tesla Adds Spotify, Netflix, YouTube and Hulu Support [archive] », sur Variety, 26 septembre 2019 (consulté le 15 mai 2021)
+(en-US) Chris Boylan, « Tesla Service Struggles To Keep Up With Sales Volume [archive] », sur CleanTechnica, 21 mars 2019 (consulté le 15 mai 2021)
+(en-US) « Tesla Mobile Service [archive] », sur Electrek (consulté le 15 mai 2021)
+(en-US) « Tesla drops annual servicing for 'as needed' repair model [archive] », sur Engadget (consulté le 15 mai 2021)
+(en) Kim Lyons, « Tesla Full Self Driving subscriptions are now available for $199 a month [archive] », sur The Verge, 17 juillet 2021 (consulté le 17 juillet 2021).
+(en) Lora Kolodny, « Tesla owners can now get 'FSD' premium driver assistance for $199 per month [archive] », sur CNBC, 17 juillet 2021 (consulté le 19 juillet 2021).
+(en-US) James B. Stewart, « Getting Tesla From Here to There [archive] », sur The New York Times, 23 août 2013 (ISSN 0362-4331, consulté le 3 août 2021)
+(en) Mark Kane, « Tesla's Annual EV Production Capacity Is Set To Reach Almost 3 Million Units [archive] », sur InsideEVs, 25 avril 2024 (consulté le 16 février 2025)
+(en-US) Fred Lambert, « Tesla is closing in on a factory in Europe [archive] », sur Electrek, 26 juillet 2019 (consulté le 3 août 2021)
+(en) Lora Kolodny, « Tesla plans to spend $3.6 billion more on battery and truck manufacturing in Nevada [archive] », sur CNBC (consulté le 27 janvier 2023)
+(en) Joey Klender, « esla’s workforce expansion at Giga Shanghai will grow ‘new model’ line by 50% [archive] », sur teslarati.com, 6 janvier 2022 (consulté le 22 mars 2022)
+(en) Katrina Northrop et Vic Chiang, « Tesla opens Megapack battery factory in China amid nascent trade war », The Washington Post,‎ 11 février 2025 (lire en ligne [archive])
+Mael Pilven, « Les Tesla Model Y "Made in Germany" arrivent sur les routes [archive] », sur InsideEVs France, 22 mars 2022 (consulté le 22 mars 2022)
+(en) Cristela Jones, « 6,300 Tesla employees have been laid off in Texas, California, New York [archive] », sur www.mysanantonio.com, 24 avril 2024 (consulté le 16 février 2025)
+(en) Steven Loveday, « Tesla Plans Massive Battery-Related Expansion Projects At Giga Texas [archive] », sur InsideEVs, 11 janvier 2023 (consulté le 27 janvier 2023)
+(en-US) Johnna Crider, « New Tesla Megapack Factory Will Create 1,000–2,000 Jobs [archive] », sur CleanTechnica, 6 octobre 2021 (consulté le 31 janvier 2023)
+(en-US) « 2006: San Carlos start-up Tesla seeks sexier electric car [archive] », sur The Mercury News, 14 juillet 2014 (consulté le 3 août 2021)
+(en-US) « Tesla moving headquarters and powertrain operations to Palo Alto [archive] », sur The Mercury News, 17 août 2009 (consulté le 3 août 2021)
+(en-GB) « Coronavirus: Elon Musk vows to move Tesla factory in lockdown row [archive] », sur BBC News, 10 mai 2020 (consulté le 3 août 2021)
+(en) « Tesla Opens First Dealership in Los Angeles », sur laist.com, 5 mai 2008 (consulté le 3 août 2021)
+(en) « US Tesla Stores and Galleries [archive] », sur tesla.com (consulté le 3 août 2021)
+(en) « Find Us [archive] », sur tesla.com (consulté le 3 août 2021)
+(en) « Tesla plans to open about 52 new service centers in 2021: Electrek [archive] », sur Reuters, 29 octobre 2020 (consulté le 3 août 2021)
+(en-US) David Kiley, « Goodbye, NUMMI: How a Plant Changed the Culture of Car-Making [archive] », sur Popular Mechanics, 2 avril 2010 (consulté le 3 août 2021)
+(en-US) « Tesla lease in Fremont helps city’s economy rebound [archive] », sur The Mercury News, 11 juin 2015 (consulté le 3 août 2021)
+(en-US) moderategreencentrist, « Tesla Starts Off 2016 By Producing & Delivering Powerwall [archive] », sur CleanTechnica, 8 janvier 2016 (consulté le 3 août 2021)
+(en) « Tesla Flips the Switch on the Gigafactory [archive] », sur bloomberg.com (consulté le 3 août 2021)
+(en-US) Fred Lambert, « Tesla increases hiring effort at Gigafactory 1 to reach goal of 35 GWh of battery production [archive] », sur Electrek, 3 janvier 2018 (consulté le 3 août 2021)
+(en-US) Anjeanette Damon, « Inside Nevada's $1.25 billion Tesla tax deal [archive] », sur Reno Gazette Journal (consulté le 3 août 2021)
+(en) David Robinson, « 6 things to watch as Panasonic gears up to start production [archive] », sur The Buffalo News (consulté le 3 août 2021)
+(en) Samantha Christmann, « Panasonic will invest in Tesla's South Buffalo solar plant [archive] », sur The Buffalo News (consulté le 3 août 2021)
+(en-US) James Ayre, « Solar Roof Tile Production At Tesla's Buffalo "Gigafactory" Now Up & Running [archive] », sur CleanTechnica, 7 septembre 2017 (consulté le 3 août 2021)
+(en-US) Fred Lambert, « Tesla Gigafactory Texas hits hyperspeed with giant building coming up, new job postings [archive] », sur Electrek, 5 janvier 2021 (consulté le 3 août 2021)
+(en) Jessica Bursztynsky, « Tesla will build its next Gigafactory near Austin, Texas [archive] », sur CNBC, 22 juillet 2020 (consulté le 3 août 2021)
+Tesla garde une longueur d'avance sur ses rivaux américains avec son usine texane [archive], Les Échos, 8 avril 2022.
+Tesla accélère dans le camion électrique et double la mise dans sa « gigafactory » du Nevada [archive], Les Échos, 25 janvier 2023.
+(en) Samson Leeds, « Tesla opens Flagship Euro Store in London [archive] », sur Sablog zone, 28 juin 2009 (consulté le 25 octobre 2009)
+(en-US) William Boston in Berlin and Tim Higgins in San Francisco, « Tesla Explores Building Major Factory in Europe [archive] », sur Wall Street Journal, 30 juillet 2018 (ISSN 0099-9660, consulté le 3 août 2021)
+(en) « Tesla's New Tilburg Factory Now Open [archive] », sur InsideEVs (consulté le 3 août 2021)
+(en) Gareth Tredway, « Tesla buys automated manufacturing specialist Grohmann [archive] », sur Automotive Logistics (consulté le 3 août 2021)
+(de) « Demnächst nur noch ein einziger Kunde für Tesla Grohmann in Prüm [archive] », sur Volksfreund, 5 avril 2017 (consulté le 3 août 2021)
+(en-US) Fred Lambert, « Tesla plans to choose location for 'Gigafactory 2' in Europe next year, will produce both batteries and cars [archive] », sur Electrek, 8 novembre 2016 (consulté le 3 août 2021)
+(en-US) Fred Lambert, « The race to get 'Tesla Gigafactory 2' heats up, French Minister visits Fremont factory [archive] », sur Electrek, 8 janvier 2017 (consulté le 3 août 2021)
+(en) Chiara Remondini et Christoph Rauwald, « Tesla Plans to Build Next Factory in Berlin, Elon Musk Says [archive] », Bloomberg, 12 novembre 2019 (consulté le 12 novembre 2019)
+(en) « Tesla Giga Berlin’s building structure is about to begin construction [archive] », 26 juin 2020.
+(en) « Explainer: What's happening with Tesla's $7 billion German 'gigafactory'? [archive] », sur Reuters, 22 juin 2021 (consulté le 3 août 2021)
+Comment l'Allemagne déroule le tapis rouge pour Tesla [archive], Les Échos, 22 mars 2022.
+Tesla : Musk veut doubler sa production de voitures électriques en Allemagne [archive], Les Échos, 17 juillet 2023.
+Tesla veut bâtir une usine géante en Chine [archive], Les Échos, 10 juillet 2018.
+Elon Musk lance la construction d'une «giga-usine» Tesla en Chine [archive], Le Figaro, 7 janvier 2019.
+Tesla démarre la production dans sa « gigafactory » chinoise [archive], Les Échos, 27 octobre 2019.
+Tesla livre ses premières Model 3 « Made in China » [archive], automobile-propre.com, 30 décembre 2019.
+(en) « Q3 2020Update [archive] », sur tesla-cdn.thron.com.
+(en) « Tesla Giga Shanghai to Export Around 7000 Model 3 to Europe, Starting Tomorrow [archive] », sur tesmanian.com (consulté le 6 février 2021)
+« Tesla va ouvrir une usine de batteries Megapack à Shanghai [archive] », sur Les Echos, 9 avril 2023 (consulté le 11 avril 2023)
+Tesla va ouvrir une usine estimée à 5 milliards de dollars au Mexique [archive], Les Échos, 28 février 2023.
+(en-US) Eric Revell, « Musk says Tesla's Mexico factory on pause over Trump's tariff pledge [archive] », sur FOXBusiness, 23 juillet 2024 (consulté le 9 novembre 2025)
+« Tesla s’installe officiellement au Maroc et annonce ses ambitions énergétiques [archive] », sur Industrie du Maroc Magazine, 13 juin 2025 (consulté le 13 juin 2025)
+Nawfal Kaiss, « Tesla officialise son implantation au Maroc [archive] », sur Médias24 numéro un de l'information économique marocaine, 12 juin 2025 (consulté le 13 juin 2025)
+« Tesla installe officiellement une filiale au Maroc [archive] », sur L'Opinion Maroc - Actualité et Infos au Maroc et dans le monde. (consulté le 13 juin 2025)
+Maroc Diplomatique, « Tesla Morocco : la firme américaine lance sa filiale à Casablanca [archive] », sur Maroc Diplomatique, 12 juin 2025 (consulté le 13 juin 2025)
+(en) Chris Gulker, « Menlo Park's only auto factory assembles $100,000 cars [archive] », sur inmenlo.com, 28 septembre 2010 (consulté le 2 août 2021)
+(en) « Tesla CEO Elon Musk: Here's Why We Don't Report Monthly Sales Figures [archive] », sur InsideEVs (consulté le 15 mai 2021).
+(en) « Quarterly Plug-In EV Sales Scorecard [archive] », sur InsideEVs (consulté le 15 mai 2021).
+(en) « Tesla Has Delivered More Than 250,000 EVs, ~55% In The U.S. [archive] », sur InsideEVs (consulté le 15 mai 2021).
+(en-US) Fred Lambert, « Tesla confirms having produced its 300,000th electric car [archive] », sur Electrek (en), 14 février 2018 (consulté le 15 mai 2021).
+(en) Chris Isidore, « Automakers taking greater aim at Tesla [archive] », sur CNN (consulté le 15 mai 2021).
+(en) José Pontes, « EV Sales: 2019 sales by OEM [archive] », sur EV Sales, 4 février 2020 (consulté le 15 mai 2021).
+(en-US) Fred Lambert, « Tesla produces its 1 millionth electric car [archive] », sur Electrek, 10 mars 2020 (consulté le 15 mai 2021).
+Ventes Tesla : près de 1 million de véhicules livrés en 2021 [archive], automobile-propre.com, 3 janvier 2022.
+« Plus que millionnaire, Tesla explose les compteurs de ventes [archive] », sur automobile-propre.com, 2 janvier 2023 (consulté le 7 janvier 2023)
+« Pour Tesla, l’entreprise d’Elon Musk, le bilan 2022 est décevant [archive] », sur sudouest.fr, 1er février 2023 (ISSN 1760-6454, consulté le 3 janvier 2023)
+« La Chine déroule le tapis rouge au « camarade Elon Musk » », Le Monde.fr,‎ 2 juin 2023 (lire en ligne [archive], consulté le 2 juin 2023)
+Tesla : voici le bilan des ventes 2023, avec un record et une petite déception [archive], automobile-propre.com, 2 janvier 2024.
+Lionel Steinmann, Tesla piétine et voit BYD dans son rétroviseur [archive], Les Échos, 3 janvier 2025.
+« La politisation d'Elon Musk fait chuter les ventes de Tesla [archive] », sur Les Échos
+« Tesla : chute de 63 % des ventes en France, l’Europe face à un naufrage sans précédent [archive] », sur lesnumeriques.com, 4 février 2025 (consulté le 4 février 2025)
+Tesla : grosse baisse des ventes en 2025, le constructeur américain n'est plus le champion de l'électrique [archive], automobile-propre.com, 2 janvier 2026.
+Éric Houguet, « Les livraisons mondiales de véhicules électriques Tesla atteignent 1 313 851 unités en 2022 [archive] », La Tribune Auto, 3 janvier 2023
+Eric Houguet, « Les livraisons mondiales de véhicules électriques Tesla atteignent 1 808 581 unités en 2023 [archive] », La Tribune Auto, 5 janvier 2024
+Žiga Lesjak, « Statistiques sur les ventes, le chiffre d'affaires et la production de Tesla (juin 2025) [archive] », sur Tridens, 11 février 2025 (consulté le 10 novembre 2025)
+(en) Fred Lambert, « Tesla (TSLA) releases Q4 delivery results: confirms decline in sales is accelerating [archive] », sur Electrek, 2 janvier 2026 (consulté le 2 janvier 2026)
+« TESLA, INC. : Actionnaires Dirigeants et Profil Société [archive] », sur zonebourse.com (consulté le 2 novembre 2025)
+Tesla : Elon Musk se sépare de près de 5 milliards de dollars d’actions [archive], Le Monde, 11 novembre 2021.
+« Elon Musk vend pour près de 7 milliards de dollars d'actions Tesla [archive] », sur lefigaro.fr, 10 août 2022 (consulté le 10 août 2022)
+« Elon Musk achète pour un milliard de dollars d'actions Tesla [archive] », sur Boursorama, 15 septembre 2025 (consulté le 2 novembre 2025)
+ Proxy Statement (SEC filing).
+Form 8-K (formulaire).
+« https://www.sec.gov/Archives/edgar/data/1318605/000156459022022992/tsla-pre14a_20220804.htm [archive] »
+Form 8-K (formulaire).
+Proxy Statement (SEC filing).
+« https://ir.tesla.com/corporate/joe-gebbia [archive] »
+Form 8-K (formulaire).
+« https://www.sec.gov/Archives/edgar/data/1318605/000156459023007379/tsla-8k_20230516.htm [archive] »
+Los Angeles Times (quotidien), El Segundo, consulté le 7 juin 2018.
+ « https://www.theguardian.com/technology/2018/nov/08/tesla-names-new-chair-robyn-denholm-to-replace-elon-musk [archive] »
+« https://www.sec.gov/Archives/edgar/data/1318605/000119312511092509/ddef14a.htm [archive] »
+« https://www.sec.gov/Archives/edgar/data/1318605/000119312523094075/d451342ddef14a.htm [archive] »
+Tesla est rentable pour la première fois de son histoire [archive], Les Échos, 28 janvier 2021.
+ Tesla réduit ses pertes et continue d'avancer [archive], Les Échos, 30 janvier 2020.
+« L'ascension de Tesla en bourse consacre l'année du virage vers l'électrique [archive] », L'Usine nouvelle, 21 décembre 2020 (consulté le 22 décembre 2020).
+« Tesla, grand champion en 2020 en Bourse, fait son entrée au S&P 500 [archive] », La Tribune (consulté le 22 décembre 2020).
+« L’affaire Elon Musk [archive] », Le Nouvel Obs, 17 novembre 2022 (consulté le 18 novembre 2022).
+« Tesla gagne pour la première fois plus d'un milliard de dollars sur un trimestre [archive] », Le Figaro (consulté le 27 juillet 2021).
+Tesla, nouveau champion des profits chez les constructeurs automobiles [archive], Les Échos, 3 mai 2022.
+William Zimmer, « Tesla connait une année noire, la valeur de l’entreprise chute de près de 70 % en 2022 [archive] », sur PhonAndroid, 24 décembre 2022 (consulté le 26 décembre 2022).
+« Le spectaculaire et inattendu krach de Tesla en Bourse [archive] », Les Échos, 26 décembre 2022 (consulté le 26 décembre 2022).
+ Tesla : les voitures électriques d'Elon Musk affolent les compteurs [archive], Les Échos, 26 janvier 2023.
+Tesla continue de prendre du galon dans l'automobile mondiale [archive], Les Échos, 21 juillet 2023.
+« Tesla, Inc. publie ses résultats financiers pour le quatrième trimestre et l'année complète clos le 31 décembre 2025 [archive] », S&P Capital IQ / zonebourse.com, 28 janvier 2026 (consulté le 8 mars 2026).
+(en) « Tesla Regulatory Credits Revenue And Carbon Credit Per Car | Fundamental Data And Statistics For Stocks [archive] », sur stockdividendscreener.com (consulté le 9 novembre 2025).
+« Tesla encaisse gros avec ses crédits carbone, deux constructeurs abandonnent [archive] », sur passionandcar.fr, 7 mars 2026 (consulté le 8 mars 2026).
+ (en-US) Russ Mitchell, « Trump left a ‘massive’ traffic-safety mess for Biden. Item one: Tesla’s self-driving claims [archive] », sur The Columbian, 5 février 2021 (consulté le 6 février 2021).
+Julien Bergounhoux, « Tesla pointé du doigt pour sa communication ambiguë à la suite d'un nouvel accident de son Autopilot » [archive], L'Usine nouvelle, 16 août 2016.
+« Tesla : un nouvel accident fait réagir Elon Musk [archive] », sur Sciences et Avenir, 17 mai 2018 (consulté le 10 juin 2020).
+« Les effets du régulateur et du limiteur de vitesse sur la vigilance des conducteurs [archive] », sur fondation.vinci-autoroutes.com, 11 juillet 2013 (consulté le 10 juin 2020).
+« Conduite semi-autonome : une étude sur les risques avec ces assistances [archive] », sur Autoplus.fr (consulté le 10 juin 2020).
+« Régulateur de vitesse, assistance à la trajectoire : la conduite semi-assistée allonge le temps de réaction [archive] », sur Dossier Familial (consulté le 10 juin 2020).
+Serge Martin, « Régulateur de vitesse : toujours des doutes sur la sécurité apportée [archive] », sur Francetvinfo.fr, 10 juillet 2013 (consulté le 10 juin 2020).
+ https://www.lesechos.fr/industrie-services/automobile/tesla-releve-a-nouveau-les-tarifs-de-ses-systemes-de-conduite-automatique-1783125 Tesla relève à nouveau les tarifs de ses systèmes de conduite automatique [archive], Les Échos, 22 août 2022.
+Hortense Goulard, « Pourquoi Tesla joue avec le feu dans la conduite autonome » [archive], 8 août 2022, sur lesechos.fr.
+Eric Bergerolle, « Tesla sommé de s'expliquer après la défaillance de son Autopilot [archive] », sur Challenges, 16 juillet 2016.
+« Crash mortel : L'Autopilot de Tesla blanchi, le conducteur a eu 7 secondes pour réagir [archive] », sur 20 minutes, 20 janvier 2017.
+(en) Fred Lambert, « Tesla’s crash rate was reduced by 40% after introduction of Autopilot based on data reviewed by NHTSA [archive] », sur Electrek, 19 janvier 2017.
+« Conduite « autonome » chez Tesla : un fiasco dangereux que la loi devrait encadrer ? - Forbes France [archive] », 28 septembre 2025 (consulté le 8 novembre 2025).
+Philippe Moureau, « Conduite autonome : Tesla accuse un retard technologique face à Google [archive] », le rouleur electrique (consulté le 9 novembre 2025).
+(en) Leon Poultney, « I’m not buying the Tesla robotaxi hype – here’s why it’s still miles behind Waymo [archive] », sur TechRadar, 23 juin 2025 (consulté le 9 novembre 2025).
+Naïm Bada, « Tesla FSD : l'enquête accablante qui pourrait remettre en question le déploiement européen [archive] », sur 01net.com, 30 mai 2026 (consulté le 6 juin 2026).
+(en) « Tesla’s secret team to suppress thousands of driving range complaints », Reuters,‎ 27 juillet 2023 (lire en ligne [archive du 8 octobre 2025], consulté le 8 novembre 2025)
+Valentin Cimino, « Une étude affirme que les conducteurs de Tesla sont ceux qui ont le plus d'accidents : vrai ou faux ? [archive] », sur Automobile Propre, 22 décembre 2023 (consulté le 28 avril 2026).
+Rapport du NTSB du 25 février 2020.
+Florian Bayard, « Une Tesla Model S avec Autopilot emboutit une voiture de police, le conducteur regardait un film ! [archive] », sur phonandroid.com, 27 août 2020.
+(en) Tesla cars can drive with nobody in the driver's seat, Consumer Reports engineers find [archive], CNBC, 22 avril 2021.
+Accident mortel d'une Tesla visiblement sans conducteur [archive], automobile-propre.com, 19 avril 2021.
+Quoi qu'en dise Elon Musk, une Tesla peut rouler sans conducteur [archive], automobile-propre.com, 23 avril 2021.
+Jason Cipriani, Qu'est-ce que l'Autopilot de Tesla et comment fonctionne-t-il ? [archive], pocket-lint.com, 31 août 2023.
+Frederic L., Tesla limite les fonctions de l'Autopilot pour 2 millions de véhicules [archive], kulturegeek.fr, 13 décembre 2023.
+Axel Tardieu et Associated Press, Tesla rappelle des centaines de milliers de véhicules au Canada et aux États-Unis [archive], Radio-Canada, 13 décembre 2023.
+https://www.techtimes.com/articles/259919/20210505/new-tesla-crash-in-fontana-sees-1-dead-2-injured-as-ev-slams-person-helping-truck-driver-40-safer-allegedly-based-on-flawed-data.htm [archive]
+(en-US) Taylor Herzlich, « Tesla driver's devastating 911 call while stuck in fiery car revealed: 'Help please ... I am going to die' [archive] », New York Post, 6 février 2026 (consulté le 7 février 2026).
+(en-US) Andrew J. Hawkins, « Tesla hit with another wrongful death suit over its electronic door handles [archive] », The Verge, 5 février 2026 (consulté le 7 février 2026).
+Emmanuel Touzot, « Autopilot : Les freinages fantômes hantent toujours Tesla [archive] », sur automobile-propre.com, 16 novembre 2021.
+Simon Louvet, « Les voitures Tesla de G7 mises à l'arrêt après le violent accident d'un taxi à Paris [archive] », sur actu.fr, 14 décembre 2021.
+Dimitri Charitsis, « La compagnie G7 suspend ses taxis Tesla après un accident mortel à Paris [archive] », 01net, 15 décembre 2021.
+(en) Justine Calma, « Tesla battery material supplier tops list of human rights abuses for second year in a row [archive] », sur The Verge, 15 juin 2023 (consulté le 3 décembre 2024)
+(en) « DRC: Investigations reveal poor working conditions at the Kamoto Copper Company, with Glencore's comments [archive] », sur Business & Human Rights Resource Centre (consulté le 3 décembre 2024)
+Maria Angeles Salazar, « Nickel, Tesla et deux décennies d'activisme environnemental : Q&R avec le dirigeant Raphaël Mapou [archive] », sur Nouvelles de l'environnement, 27 juin 2022 (consulté le 3 décembre 2024)
+(en) Hannah Beech, « Can a Tiny Territory in the South Pacific Power Tesla’s Ambitions? », The New York Times,‎ 30 décembre 2021 (lire en ligne [archive])
+(en) Alan Ohnsman, « Battery Push By Tesla And Other EV Makers Raises Child Labor Concerns [archive] », sur Forbes (consulté le 3 décembre 2024)
+(en) Mike Ramsey, « Tesla Shares Down After Stolen Vehicle Crash in California [archive] », sur The Wall Street Journal, 7 juillet 2014
+(en) Maria Gallucci, « Tesla Motors Shares Dip After Fiery Model S Crash [archive] », sur International Business Times, 8 juillet 2014
+La vidéo du crash d’une Tesla Model S coupée en deux à 160 km/h [archive] - Voiture électrique Populaire, 6 juillet 2014
+(en) NHTSA says finds no 'defect trend' in Tesla Model S sedans [archive], CNBC, 28 mars 2014
+(en) Ronan Glon, « AAA raising insurance rates for Tesla owners [archive] », sur Left Lane News, 4 juin 2017 (consulté le 7 juin 2017)
+(en) Katie Burke, « Tesla owners should pay more for insurance, AAA says », Automotive News,‎ 4 juin 2017 (lire en ligne [archive], consulté le 7 juin 2017)
+(en) Ryan Felton, « AAA Raises Insurance Rates On Tesla Vehicles Because Repairs Are So Costly [archive] », sur jalopnik.com, 5 juin 2017 (consulté le 7 juin 2017).
+(en) Suzanne Barlyn et Tamara Mathias, « Tesla rolls out insurance in California [archive] », sur Reuters, 28 août 2019 (consulté le 29 novembre 2020).
+« Tesla publie son premier rapport trimestriel d’accidents [archive] », sur automobile-propre.com, 6 octobre 2018.
+Tesla rappelle 123 000 véhicules de sa gamme Model S [archive] usinenouvelle.com, le 30 mars 2018
+« Tesla rappelle 123 000 véhicules [archive] », sur fr.finance.yahoo.com, 30 mars 2018 (consulté le 10 juin 2020).
+« Tesla prié de rappeler 158 000 voitures pour un défaut lié à la sécurité [archive] », sur Boursorama, 14 janvier 2021 (consulté le 15 janvier 2021)
+Grégoire Huvelin, « 000-model-s-x-au-rappel-a-cause-dune-defaillance-inevitable Tesla : 158 000 Model S/X au rappel à cause d’une défaillance inévitable [archive] », sur Frandroid, 14 janvier 2021 (consulté le 15 janvier 2021)
+« Tesla va devoir rappeler 158 000 voitures pour un problème de sécurité », Le Monde.fr,‎ 14 janvier 2021 (lire en ligne [archive], consulté le 15 janvier 2021)
+(fr-CA) Tom Krisher, « Système d'aide à la conduite défectueux: Rappel de plus de 2 millions de véhicules Tesla », La Presse,‎ 13 décembre 2023 (lire en ligne [archive], consulté le 24 décembre 2023)
+Anouch Seydtaghia, « En Suisse, les Tesla filmant en permanence posent de gros problèmes », Le temps,‎ 14 juillet 2022 (lire en ligne [archive], consulté le 16 juillet 2022).
+ (en) Steve Stecklow, Waylon Cunningham et Hyunjoo Jin, « Special Report: Tesla workers shared sensitive images recorded by customer cars [archive] », sur Reuters, 6 avril 2023 (consulté le 8 avril 2023)
+(en-US) « Audit finds Cuomo's 'Buffalo Billions' a waste of tax money [archive] », 21 août 2020 (consulté le 8 novembre 2025)
+(en) « Cuomo’s billion dollar ‘boondoggle’ with Elon Musk [archive] », sur POLITICO, 22 mars 2025 (consulté le 8 novembre 2025)
+#LeBrief, « Tesla condamnée en Corée du Sud pour publicité mensongère [archive] », sur nextinpact.com, 4 janvier 2023 (consulté le 4 janvier 2023)
+(en) « Korea Fines Tesla $2.2 Million for Alleged False Advertising », Bloomberg.com,‎ 3 janvier 2023 (lire en ligne [archive], consulté le 4 janvier 2023)
+« Tesla sanctionnée par l'allemagne sur le recyclage des batteries [archive] », sur Les Échos
+(de) « Bußgeld für Tesla: Autobauer soll in Deutschland zwölf Millionen Euro zahlen [archive] », sur welt.de (consulté le 28 novembre 2024)
+(en) « German agency fines Tesla for allegedly failing to comply with battery recycling laws [archive] », sur Clean Energy Wire, 2 novembre 2020 (consulté le 28 novembre 2024)
+(en-US) « VIRGINIA LAMBRIX v. TESLA INC (2024) [archive] », sur FindLaw (consulté le 8 novembre 2025)
+(en-US) « No Right to Repair: Anti-trust lawsuit against Tesla dismissed [archive] », sur Collision Repair Mag, 16 juin 2025 (consulté le 8 novembre 2025)
+(en) « In Tesla Autopilot Investigation, US Prosecutors Focus on Securities, Wire Fraud [archive] », sur The Law Reporters (consulté le 8 novembre 2025)
+« Tesla, à la pointe de la technologie et… du racisme [archive] », sur lemuslimpost.com, 3 décembre 2018 (consulté le 3 juillet 2019)
+(en-US) Lauren Hepler, « Menial Tasks, Slurs and Swastikas: Many Black Workers at Tesla Say They Faced Racism », The New York Times,‎ 30 novembre 2018 (ISSN 0362-4331, lire en ligne [archive], consulté le 3 juillet 2019)
+« Tesla condamné à payer 137 millions de dollars à un ancien employé victime de racisme au sein de l’une de ses usines », Le Monde.fr,‎ 6 octobre 2021 (lire en ligne [archive], consulté le 15 décembre 2021)
+« Etats-Unis : Tesla condamné à payer 3,2 millions de dollars à un ex-employé noir pour discrimination raciale et harcèlement [archive] », sur Business and Human Rights Centre (consulté le 21 août 2026)
+(en-GB) Associated Press, « Tesla settles with former employee over racial discrimination claims », The Guardian,‎ 16 mars 2024 (ISSN 0261-3077, lire en ligne [archive], consulté le 21 août 2026)
+« Etats-Unis : six employées de Tesla portent plainte contre l’entreprise pour harcèlement sexuel », Le Monde.fr,‎ 15 décembre 2021 (lire en ligne [archive], consulté le 15 décembre 2021)
+« Tesla accusé de « ségrégation raciale » dans une usine californienne », Le Monde.fr,‎ 10 février 2022 (lire en ligne [archive])
+(en) Andrew J. Hawkins, « Tesla sued for “severe” racial discrimination at its California factory, again [archive] », sur The Verge, 28 septembre 2023 (consulté le 23 octobre 2023)
+« Un employé de Tesla a été agressé par un robot et exige 51 millions de dollars à l'entreprise [archive] », sur www.lesnumeriques.com, 28 septembre 2025 (consulté le 2 novembre 2025)
+ « « Une partie des actionnaires de Tesla se comporte comme si ce n’était pas le groupe qui était coté en Bourse, mais Elon Musk lui-même » », Le Monde,‎ 19 février 2024 (lire en ligne [archive], consulté le 19 février 2024).
+« Elon Musk voit 56 milliards de dollars de rémunération de Tesla lui échapper sur décision de justice », Le Monde.fr,‎ 31 janvier 2024 (lire en ligne [archive], consulté le 19 février 2024)
+« Elon Musk récupère une rémunération de 56 milliards de dollars sur décision de justice », Le Monde,‎ 20 décembre 2025 (lire en ligne [archive], consulté le 21 décembre 2025)
+(en-US) Linette Lopez, « New lawsuit against Tesla alleges that a Model X pinned a pregnant woman against a wall, breaking her bones and sending her into premature labor [archive] », sur Business Insider (consulté le 2 novembre 2025)
+(en) Jordan Parker, « Tesla faces trial in case of Model X that pinned pregnant woman in her garage [archive] », sur San Francisco Chronicle, 13 avril 2024 (consulté le 2 novembre 2025)
+ RFI avec AFP, « États-Unis: l'entreprise Tesla poursuivie par la famille d'une adolescente morte dans un accident [archive] », sur www.rfi.fr, 3 octobre 2025.
+(en) Alexandria Sage, « Tesla owner lawsuit claims software update fraudulently cut battery capacity [archive] », sur Reuters, 9 août 2019 (consulté le 2 novembre 2025)
+(en) « Tesla agrees to pay $1.5 mln to settle claims over battery voltage reduction [archive] », 30 juillet 2021 (consulté le 2 novembre 2025)
+(en) Carlie Porterfield, « Tesla Found Guilty Of Throttling Battery Life, Charging Speed In Norway [archive] », sur Forbes (consulté le 2 novembre 2025)
+(en-US) Andrew J. Hawkins, « Tesla faces a huge fine in Norway for throttling battery charging speeds [archive] », sur The Verge, 24 mai 2021 (consulté le 2 novembre 2025)
+(en) Tom Hals et Hyunjoo Jin, « Tesla hit with proposed class action over phantom braking issue [archive] » Accès payant, Reuters, 29 août 2022 (consulté le 28 avril 2026).
+(en-US) Scott Nordlund, « Tesla fails to get “phantom braking” case dismissed [archive] », sur Drive Tesla, 23 novembre 2024 (consulté le 2 novembre 2025).
+(en) Brad Anderson, « Court Rules Tesla’s Autopilot Defective For Normal Use After Phantom Braking », Carscoops,‎ 19 février 2025 (lire en ligne [archive], consulté le 24 février 2025).
+« Les sept tweets d'Elon Musk qui ont fait déraper Tesla en Bourse », Les Echos,‎ 9 novembre 2021 (lire en ligne [archive du 17 janvier 2024], consulté le 8 novembre 2025)
+« Elon Musk déclaré non coupable de fraude après des tweets sur Tesla », Le Monde,‎ 4 février 2023 (lire en ligne [archive], consulté le 8 novembre 2025)
+Julien Denis, « Une action collective autorisée contre Tesla; la qualité de la peinture visée [archive] », sur Noovo info, 16 mai 2025 (consulté le 2 novembre 2025)
+Raphaëlle Baut, « Tesla-files : 4 choses à retenir sur l'énorme fuite des 100 Go de documents Tesla [archive] », Numerama, 26 mai 2023 (consulté le 21 novembre 2025).
+ « Voici comment Elon Musk met ses clients et ses employés en danger [archive] », sur 24 heures, 21 mars 2025 (consulté le 21 novembre 2025).
+(en-GB) « Ex-Tesla employee casts doubt on car safety [archive] », BBC, 5 décembre 2023 (consulté le 21 novembre 2025).
+(en-GB) « Lukasz Krupski wins retaliation case against Tesla [archive] », sur Blueprint for Free Speech (consulté le 21 novembre 2025).
+(en-US) Sean O'Kane, « Tesla penalized for violating hazardous waste law at California factory [archive] », The Verge, 1er avril 2019 (consulté le 7 novembre 2025).
+(en-US) Edward Niedermeyer, « Tesla In Settlement Proceedings Over 19 Air Quality Violations As Investigation Continues [archive] », sur The Drive, 6 juin 2019 (consulté le 7 novembre 2025).
+(en-US) Edward Niedermeyer, « Tesla Air Quality Compliance Violations Center On Troubled Paint Shop [archive] », sur The Drive, 3 juin 2019 (consulté le 7 novembre 2025).
+(en-US) Edward Niedermeyer, « Documents Show Persistent Air Quality Non-Compliance At Tesla Factory [archive] », sur The Drive, 3 juin 2019 (consulté le 7 novembre 2025).
+(en-US) Justine Calma, « How bad is Tesla’s hazardous waste problem in California? [archive] », The Verge, 3 février 2024 (consulté le 7 novembre 2025).
+(en-US) « Tesla settles for $1.5 million after allegations of illegally disposing hazardous waste [archive] », Los Angeles Times, 3 février 2024 (consulté le 7 novembre 2025).
+(en) Peter Valdes-Dapena, « Tesla’s Model 3 earns top safety award [archive] », CNN Business, 19 septembre 2019 (consulté le 8 novembre 2025).
+(en) John Koetsier, « Tesla Model Y Gets Highest Safety Score Ever In European Test [archive] », Forbes, 7 septembre 2022 (consulté le 8 novembre 2025).
+(en) « S&P Global Mobility Recognizes General Motors as Top Manufacturer; Tesla as Top Make in its 27th Annual Automotive Loyalty Awards [archive] », sur News Release Archive (consulté le 8 novembre 2025).
+(en) Merrill Fabry, « TIME Best Inventions Hall of Fame » [archive du 12 octobre 2025], Time, 9 octobre 2025 (consulté le 8 novembre 2025).
+Voir aussi
+Sur les autres projets Wikimedia :
+
+Tesla (automobile), sur Wikimedia Commons
+Bibliographie
+Edward Niedermeyer, Ludicrous: The Unvarnished Story of Tesla Motors , 2019
+Michaël Valentin , Le modèle Tesla - 2e éd. - Du toyotisme au teslisme : la disruption d'Elon Musk, 2020
+Tim Higgins, Power Play: Tesla, Elon Musk, and the Bet of the Century (en), 2021
+Articles connexes
+Véhicule électrique
+Voiture électrique
+Véhicule propre
+Usine Tesla de Fremont
+Giga Berlin
+Giga New York
+Giga Nevada
+Giga Shanghai
+Giga Texas
+Usine Tesla de Lathrop
+Raffinerie de Tesla
+Terafab
+Tesla Megapack
+Tesla Autopilot
+Ionity (réseau européen de recharge électrique)
+NATU (Netflix, Airbnb, Tesla et Uber)
+Tesla Network
+Liens externes
+Site officiel [archive]
+Ressources relatives aux organisations : data.gouv.frRegistre de transparence de l'UE
+Ressource relative à la recherche : ResearchGate
+Ressource relative à l'audiovisuel : France 24
+Notices dans des dictionnaires ou encyclopédies généralistes : Britannica [archive]Brockhaus [archive]Den Store Danske Encyklopædi [archive]Hrvatska Enciklopedija [archive]Nationalencyklopedin [archive]Store norske leksikon [archive]Treccani [archive]Visuotinė lietuvių enciklopedija [archive]
+Notices d'autorité : VIAFISNILCCNGNDPologneIsraëlNorvègeTchéquieBrésil
+ [afficher]
+v · m
+Tesla
+ [afficher]
+v · m
+Chronologie des modèles de Tesla de 2008 à nos jours.
+ [afficher]
+v · m
+Elon Musk
+ [afficher]
+v · m
+Construction automobile aux États-Unis
+ [afficher]
+v · m
+Silicon Valley
+ [afficher]
+v · m
+Entreprises du NASDAQ-100 (Mai 2023)
+icône décorative Portail de l’automobile icône décorative Portail du génie mécanique icône décorative Portail de l'industrie icône décorative Portail des entreprises icône décorative Portail de la région de la baie de San Francisco
+Catégories : Société cotée au NASDAQSociété cotée au FWBTesla (automobile)Constructeur automobile ayant son siège aux États-UnisMarque américaineEntreprise fondée en 2003Entreprise ayant son siège dans le comté de San MateoConstructeur de voitures de sportElon Musk[+]
+La dernière modification de cette page a été faite le 4 octobre 2026 à 22:03. La page a été rendue avec Parsoid.
+Droit d'auteur : les textes sont disponibles sous licence Creative Commons attribution, partage dans les mêmes conditions ; d’autres conditions peuvent s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que les crédits graphiques. En cas de réutilisation des textes de cette page, voyez comment citer les auteurs et mentionner la licence.
+Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.
+Politique de confidentialitéÀ propos de WikipédiaAvertissementsContactContacts juridiques & sécuritéCode de conduiteDéveloppementStatistiquesDéclaration sur les témoins (cookies)Version mobile
+Wikimedia Foundation
+Powered by MediaWiki
+ Tesla
+Ce titre fait référence à plus d’une page
+Voir les pages homonymes

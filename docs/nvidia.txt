@@ -1,0 +1,449 @@
+
+
+Wikipédial'encyclopédie libre
+
+Faire un don
+Créer un compte
+Se connecter
+
+Wiki Loves Monuments
+Photographiez le patrimoine culturel marocain et gagnez des prix !
+
+
+
+Nvidia
+
+Article
+Discussion
+Lire
+Modifier
+Modifier le code
+Voir l’historique
+
+37° 22′ 14,62″ N, 121° 57′ 49,46″ O
+Nvidia
+logo de Nvidia
+Logo de Nvidia.
+illustration de Nvidia
+Création	5 avril 1993
+Fondateurs	Jen-Hsun Huang (actuel PDG), Chris A. Malachowsky et Curtis Priem
+Forme juridique	SA
+Action	NASDAQ : NVDA, Dow Jones Industrial Average
+Siège social	Santa Clara
+Drapeau des États-Unis États-Unis
+Direction	Jen-Hsun Huang (depuis 1993)[1]
+Actionnaires	BlackRock (+7.43 pourcent (unité non prise en charge)) (2026)
+The Vanguard Group (+7.31 pourcent (unité non prise en charge)) (2026)
+Jen-Hsun Huang (+3.58 pourcent (unité non prise en charge)) (2026)[2]
+Activité	Semi-conducteurs
+Processeurs graphiques
+Microprocesseurs
+Électronique numérique
+Produits	Cartes graphiques
+Cartes mères
+Chipset
+Processeur
+Filiales	Nvidia Ltd. (d)[3]
+Mental Images (en)
+Icera (en)[4]
+Mellanox
+Effectif	42 000 (2025)
+Site web	nvidia.com
+Capitalisation	4 752 G$ (25 février 2026)[5],[6]
+Fonds propres	157,3 G (25 janvier 2026)[7]
+Dette	11,1 G$ (31 janvier 2024)[8]
+Chiffre d'affaires	en augmentation 215,9 milliards US$ (2025)[9]
++65 %
+Bilan comptable	206,8 G$ (25 janvier 2026)[7]
+Résultat net	en augmentation 120,1 milliards US$ (2025)[9]
++65 %
+Société précédente	3dfx[10],[11] et AGEIA[12]
+modifier - modifier le code - voir Wikidata 
+Nvidia Corporation est une société multinationale américaine de technologie basée à Santa Clara et immatriculée dans l'État du Delaware. Il s'agit d'un éditeur de logiciels et d'une entreprise sans usine qui conçoit des processeurs graphiques (GPU), des interfaces de programmation d'applications (API) pour la science des données et le calcul intensif, ainsi que des systèmes sur une puce (SoC) pour les marchés de l'informatique mobile et de l'automobile. Elle conçoit ses circuits intégrés dans ses centres de recherches, mais sous-traite leur production à d'autres sociétés de semi-conducteurs[Note 1].
+
+À l'origine axés sur les GPU pour le jeu vidéo, Nvidia a élargi leur utilisation sur d'autres marchés, y compris l'intelligence artificielle (IA), les centres de données et les supercalculateurs. Les gammes de produits de la société comprennent les GPU GeForce pour les charges de travail de jeu et de création, et les GPU professionnels pour l'informatique de pointe, la recherche scientifique et les applications industrielles.
+
+Ses principaux concurrents sont AMD (anciennement ATI)[13],[14], Intel et Qualcomm[15],[16]. Nvidia est toutefois un acteur dominant dans le secteur du jeu vidéo ainsi que le matériel utilisé pour des projets d'intelligence artificielle[17],[18].
+
+Le boom de l'intelligence artificielle des années 2020 fait connaître à NVIDIA une croissance financière exceptionnelle. Son chiffre d'affaires est passé d'environ 10 milliards de dollars en 2020 à plus de 215 milliards en 2025. Parallèlement, sa capitalisation boursière a fortement progressé, faisant d'elle la première entreprise dépassant les 4 000 milliards de dollars de capitalisation boursière en juillet 2025 et les 5000 milliards de dollars en octobre 2025, faisant de NVIDIA la société la plus valorisée au monde[19],[20].
+
+L'entreprise est constituée en avril 1993 dans l'État de Californie, avant de rejoindre la Côte est des États-Unis et l'État de Delaware en 1998[21].
+
+Historique de la société
+Création
+Nvidia est fondé le 5 avril 1993[22] à Santa Clara par[23] :
+
+Jensen Huang, ancien employé de LSI Logic et AMD (en tant que designer de microprocesseurs), actuellement PDG, américain d'origine taïwanaise, né à Tainan (sud de Taïwan) ;
+Chris Malachowsky, ancien employé de Hewlett-Packard et Sun Microsystems, actuellement vice-président ;
+Curtis Priem (en), ancien employé de Sun Microsystems, actuellement directeur technique.
+La société est baptisée Nvidia, avec un logo vert et blanc représentant un œil stylisé. L'entreprise conserve son statut de startup jusque vers les années 1997-1998, lorsqu'elle prend de l'importance pour devenir peu à peu un acteur majeur sur le marché des processeurs graphiques, notamment avec le lancement des puces graphiques Riva pour PC.
+
+La société est aussi surnommée, du fait de son logo, la « marque au caméléon »[24],[25],[26].
+
+Années 1990
+En 1994, Nvidia conclut son premier partenariat stratégique avec SGS-Thomson Microelectronics pour la fabrication d'une puce d'accélération pour interface graphique. Le groupe Diamond Multimedia Systems installe les puces sur les cartes[27][réf. non conforme].
+
+En 1995, l'entreprise lance sa première puce graphique, la NV1[28] à gravure en 500 nm, qui connaîtra un succès très mitigé. À cause de son côté « tout en un », d'abord (puce 2D/3D « potable », avec émulation sonore et contrôleur de pad Sega) et ensuite parce qu'elle est dédiée à Windows 95. De plus, la technologie même de la puce posait problème. Par exemple, le bus PCI bridait la carte et la technologie spécifique utilisée, le Quadratic Texture Map (QTM), un genre de technologie d'optimisation pour la 3D, nécessitait une programmation spécifique, qui ne sera jamais véritablement adoptée du fait du manque de notoriété de Nvidia à l'époque[29]. La NV2 n'aura jamais vu le jour, car elle était également basée sur le QTM, et Nvidia préférera l'abandonner pour se consacrer à la génération suivante de puces.
+
+À l'automne 1997, l'entreprise lance la RIVA 128 (en)[30], une puce graphique gravée à 350 nm (nom de code : NV3). De nombreux OEM, attirés par l'esprit tout en un qui avait rebuté avec la NV1, décident alors d'utiliser cette carte qui est vendue à un million d'unités en quatre mois[27][réf. non conforme]. Malgré tout, Nvidia reste derrière 3dfx et ATi.
+
+En avril 1998, la sortie de la RIVA 128 ZX, qui dispose du double de la mémoire de la RIVA 128 et d'un port AGP 2×[31] propulse la société sur le devant de la scène. De plus, elle signe un partenariat avec l'entreprise de fonderie taïwanaise TSMC. En septembre 1998, Nvidia sort la Riva TNT qui, malgré les promesses, reste moins puissante que la Voodoo 2[Note 2] de 3dfx.
+
+En janvier 1999, la société fait son entrée sur le NASDAQ. Au printemps 1999, arrive la puce RIVA TNT2 (en)[30] à gravure 250 nm, suivie à l'automne par la GeForce 256, dotée de la puce NV10 gravée à 220 nm, la première carte vidéo GPU grand public à pouvoir prendre en charge l'intégralité des calculs graphiques. En mai, elle atteint les dix millions de puces vendues.
+
+Processeur RIVA 128ZX (1998).
+Processeur RIVA 128ZX (1998).
+ 
+Processeur RIVA TNT2 (1999).
+Processeur RIVA TNT2 (1999).
+ 
+GeForce 256 (1999).
+GeForce 256 (1999).
+Années 2000
+
+Cette section ne cite pas suffisamment ses sources (août 2023). 
+En 2000, Nvidia achète son concurrent 3dfx, alors chef de file de l'industrie de ce secteur mais en faillite[30]. Début 2000, l’utilisation sur certaines cartes de mémoire DDR SDRAM (Double Data Rate SDRAM) à la place de mémoire SDRAM classique permet aux GeForce 256 de largement surclasser la concurrence du moment. Au printemps 2000, la GeForce 2 GTS apparaît, dotée de la puce NV15. À l'automne 2000, une déclinaison d'entrée de gamme et une autre de très haut de gamme de la GeForce 2 sortent, les GeForce 2 MX (puce NV11), une version allégée de la GeForce 2 GTS, et les GeForce 2 Ultra, cadencées à 250 MHz au lieu de 200 MHz. Nvidia sort aussi la GeForce 2 Pro, constituée d’une GeForce 2 GTS normale équipée de meilleure mémoire.
+
+En 2001, ATI sort sa carte graphique Radeon 8500. Nvidia commercialise en ce temps les GeForce 3 (puces NV20 à microachitecture Kelvin (en) à gravure de 150 nm), qui sont les premières cartes à comprendre des unités programmables (shaders). Le processeur graphique de la console Xbox de Microsoft (première du nom) est un Nvidia NV2A, variante du NV20 adaptée aux consoles par des fonctions et des performances améliorées[32][réf. non conforme]. Nvidia réplique faiblement à ATI, en apportant quelques optimisations sur ses puces NV25 (GeForce 4). Néanmoins, l'entreprise parvient à conserver sa domination grâce aux problèmes d'ATI concernant les pilotes graphiques et une renommée bien plus forte à l'époque.
+
+En février 2002, Nvidia a vendu un total de 100 millions de processeurs graphiques. Elle vend aussi directement des cartes graphiques équipées de ses processeurs.
+
+La fin de 2002 et 2003 est une période difficile pour le constructeur. Son NV30 (GeForce FX) n'arrive qu'en retard de plusieurs mois tandis qu'ATI inonde le marché avec ses cartes Radeon 9500 et 9700. Pour tenter de combler son retard, Nvidia sort des évolutions annoncées comme les puces NV28, destinés aux « Ti », et des NV18, destinés aux « Mx ». Ces évolutions consistent simplement en un port AGP 8×. Le NV30 (microachitecture Rankine (en) à gravure de 150 nm, 140 nm puis 130 nm), qui sort avec énormément de retard, au début de 2003, ne répond absolument pas aux attentes des consommateurs. Nvidia tente de corriger le tir en oubliant rapidement les GeForce FX 5800 pour se concentrer sur le NV35, une évolution plus en phase avec les tendances de l'époque. Sortent ainsi les GeForce FX 5900 et 5700. La génération NV3x aura été un échec technique et, dans une moindre mesure, commercial pour la firme[réf. nécessaire].
+
+Dans les années qui suivent, l'entreprise élargit son offre en proposant également des chipsets pour les cartes mères pour PC à base de microprocesseurs AMD.
+
+En 2004, le Scalable Link Interface (SLI) est lancé. Il consiste à faire travailler en parallèle deux cartes graphiques pour doubler le débit d'affichage. La microarchitecture Curie (en) est lancée, nommé d’après la physicienne Marie Curie. Elle est utilisée dans les GPU GeForce 6 et GeForce 7, fabriqués en 130 nm, 110 nm, 90 nm et 80 nm.
+
+En 2005, l’entreprise réalise un chiffre d'affaires de 2,079 milliards de dollars et se classe parmi les cinq premiers fabricants de puces sans usine, devant son concurrent ATI. Au cours de l'Electronic Entertainment Expo (E3) en mai 2005, Nvidia annonce qu'il équipera les PlayStation 3 de Sony en processeurs graphiques. Ils sont nommés RSX (« Reality Synthetizer ») et annoncés comme aussi performants que deux GeForce 6800 en SLI, ce qui correspond à peu près à la GeForce 7800 GTX. Les caractéristiques techniques et les performances sont étonnamment proches de ce qui était annoncé à l'époque pour le processeur graphique (GPU) de la PS3, ce qui laisse fortement penser que tout était prêt du côté du GPU de cette console nouvelle génération (contrairement à d'autres composants comme le Cell, le processeur conçu conjointement par IBM, Sony et Toshiba). En décembre 2005, Nvidia annonce le rachat et la fusion de ULi Electronics pour environ 52 millions de dollars, afin de renforcer sa division chipsets.
+
+En 2006, Tesla est le nom de code d’une microarchitecture de GPU développée par Nvidia en tant que successeur de la microarchitecture Curie (en). Il a été nommé d’après l’ingénieur électricien pionnier Nikola Tesla. En tant que première microarchitecture de Nvidia à implémenter des shaders unifiés, elle a été utilisée dans les GPU GeForce 8, GeForce 9, GeForce 100, GeForce 200 et GeForce 300, fabriqués en 90 nm, 80 nm, 65 nm, 55 nm et 40 nm. Il était également présent dans la GeForce 405 et dans les modules de calcul Quadro FX, Quadro x000, Quadro NVS et Tesla.
+
+En 2007, l'entreprise introduit l'environnement de développement CUDA.
+
+En février 2008, Nvidia acquiert AGEIA, connue pour le développement de la carte et du logiciel PhysX. Le 7 novembre 2008, elle voit son chiffre d'affaires diminuer de presque 20 % lors de la publication des résultats financiers anticipés pour le troisième trimestre de l'année fiscale 2009. L'entreprise réalise un chiffre d'affaires de 3,4 milliards de dollars et est toujours parmi les cinq premiers fabricants de puces sans usine.
+
+La même année, elle présente au Mobile World Congress de Barcelone un processeur à destination des terminaux mobiles « multimédia ». Baptisée APX 2500, cette puce, cadencée à 750 MHz et gravée en 65 nm est composée d'un cœur ARM11 (en) (256 Ko de cache de second niveau) ainsi que d'une partie graphique de génération GeForce 6. Elle est capable de décoder des flux HD (720p) qu'elle peut transférer à un téléviseur via le port HDMI, alors qu'elle est capable de traiter des images de 12 mégapixels.
+
+Carte graphique GeForce3 Ti 500 (2001).
+Carte graphique GeForce3 Ti 500 (2001).
+ 
+GPU GeForce 4 (2002).
+GPU GeForce 4 (2002).
+ 
+Carte graphique GeForce FX5200 (2003).
+Carte graphique GeForce FX5200 (2003).
+ 
+Carte graphique GeForce 6610XL (2004).
+Carte graphique GeForce 6610XL (2004).
+ 
+Carte graphique Asus EN7900GS (GeForce 7, 2005).
+Carte graphique Asus EN7900GS (GeForce 7, 2005).
+ 
+Geforce 8800gtx (2006).
+Geforce 8800gtx (2006).
+ 
+Geforce 9600 GT GE (2008).
+Geforce 9600 GT GE (2008).
+ 
+Carte graphique GeForce GTX 260 (2009).
+Carte graphique GeForce GTX 260 (2009).
+ 
+Exemple de Scalable Link Interface (SLI) avec trois cartes (« 3-way SLI »).
+Exemple de Scalable Link Interface (SLI) avec trois cartes (« 3-way SLI »).
+Années 2010
+
+Carte Quadro (SGI VPro VR3) (2010).
+En juin 2011, Nvidia acquiert Icera, un leader dans les modems sans fil et la technologie RF, pour 367 millions de dollars[33].
+
+À partir de mars 2012, elle commercialise sa nouvelle architecture Kepler, dont l'objectif est de diviser par deux la consommation tout en conservant les mêmes performances par rapport à l'architecture Fermi, avec la GTX 660 Ti, 670, 680 (carte mono-GPU) et la GTX 690 (carte bi-GPU).
+
+Le 6 janvier 2013, à l'occasion du Consumer Electronics Show annuel, la firme dévoile la première console de jeux vidéo de son histoire : Project Shield, une console portable embarquant le processeur Tegra 4, et une sortie TV HDMI[34]. Près d'un mois après Nvidia sort la série des Titan (en) avec la GeForce GTX Titan. Elle est basée sur l’architecture Kepler.
+
+En 2013, un ordinateur personnel peut développer une puissance d'environ 200 gigaFLOPS avec un microprocesseur comme l'Intel Core i7-3770, de puissance comparable aux superordinateurs de 1995, et 5 621 gigaFLOPS avec un processeur graphique comme le Nvidia GTX 690, soit une puissance comparable aux superordinateurs de 2001[35].
+
+En 2014, l'entreprise commercialise une nouvelle architecture Maxwell, utilisée dans les cartes GTX 750 et 750 Ti puis en 2015 Nvidia lance la série GTX 900. La même année ce sont deux Titan qui sortent, la GeForce GTX Titan Black et Z. Basées sur la même architecture que la précédente, la seule différence notable est la fréquence légèrement plus élevée. Les GPU Maxwell de Nvidia imposent la présence d'un microcode signé cryptographiquement pour déverrouiller l'ensemble des fonctions des cartes graphiques, rendant plus difficile l'écriture de pilotes libres[36],[37].
+
+Le 17 mars 2015, elle sort la GeForce GTX Titan X Basée sur l’architecture Maxwell 2.0. En 2015, l'entreprise possède 82 % des parts du marché du secteur des cartes graphiques pour ordinateurs de bureau, ce qui place AMD en dessous de la barre des 20 % pour la première fois[38].
+
+En 2016, elle lance sa nouvelle architecture Pascal, qui est d'abord présentée en marge du Computex 2016, puis commercialisée dans la GTX 1080, Elle est aussi déclinée en plusieurs versions dont les GTX 1060 et 1070, et quelques mois plus tard les 1050 et 1050TI (TI signifiant une carte graphique plus performante que la version de base). La même année, Nvidia décide de supprimer la mention GTX de ces Titan jugeant qu'elles ne sont pas destinées aux jeux vidéo. C'est alors une GeForce Titan X qui sortira, basée sur la même architecture que les GTX sorties la même année (Pascal).
+
+En 2017, elle commercialise des versions TI des GTX 1080 et 1070 et une Titan XP. En décembre de la même année, c'est au tour de la GeForce Titan V de faire son apparition sur le marché. C'est la première carte graphique à sortir avec la nouvelle architecture Volta destinée à l'Intelligence artificielle. La GeForce GT 1030 sort la même année. Cette carte graphique est surtout destinée aux configurations PC à petit budget. En 2017, Nvidia signe un partenariat avec l'équipementier Bosch pour travailler ensemble sur l'apprentissage profond et la voiture autonome[39].
+
+En 2018, l'entreprise sort une nouvelle architecture de processeurs graphiques, l'architecture Turing, qui apporte un nouvel élément dans les cartes graphiques, le ray tracing. Elle commercialise donc une nouvelle gamme de cartes graphiques, la gamme RTX. Sortent la RTX 2080, 2080 Ti, 2070 et 2060. Elle conçoit aussi une Titan RTX.
+
+En janvier 2019, la société annonce des résultats trimestriels bien en deçà des objectifs formulés préalablement, qui comptaient sur un chiffre d'affaires de 2,7 milliards de dollars au dernier trimestre de 2018[40]. En mars 2019, elle annonce l'acquisition de l'entreprise israélienne Mellanox pour 6,8 milliards de dollars, supplantant une offre d'Intel[41]. En début d'année 2019 sortent les GTX 1650, 1660 et 1660 Ti[42],[43]. Plus tard, sortent des cartes RTX améliorées, avec les RTX 2080 Super, 2070 Super et la 2060 Super.
+
+ASUS GTX-650 Ti (2012).
+ASUS GTX-650 Ti (2012).
+ 
+Nvidia GeForce GTX Titan (2013).
+Nvidia GeForce GTX Titan (2013).
+ 
+EVGA GeForce GTX 960 SuperSC ACX 2.0+ (2015).
+EVGA GeForce GTX 960 SuperSC ACX 2.0+ (2015).
+ 
+GeForce GTX 1080ti Founders Edition (2017).
+GeForce GTX 1080ti Founders Edition (2017).
+ 
+MSI GeForce RTX 2080 Gaming X Trio (2018).
+MSI GeForce RTX 2080 Gaming X Trio (2018).
+ 
+ASUS TUF Gaming X3 Geforce GTX 1660 (2019).
+ASUS TUF Gaming X3 Geforce GTX 1660 (2019).
+ 
+Gigabyte GeForce RTX 2080 Super (2019).
+Gigabyte GeForce RTX 2080 Super (2019).
+Années 2020
+La série GeForce 30 est annoncée le 1er septembre 2020 sur le site web de Nvidia. Les trois cartes graphiques dévoilées (GeForce RTX 3070, GeForce RTX 3080 et GeForce RTX 3090) exploitent un GPU adoptant la nouvelle architecture Ampere. Il s'agit d'une évolution de l'architecture Turing des GeForce RTX 20 plutôt que d'une réelle révolution. La GeForce RTX 3070 est annoncée comme bien plus rapide que l'ancien fer de lance de la marque, la GeForce RTX 2080 Ti.
+
+
+GALAX RTX 3090 Gamer OC.
+En septembre 2020, Nvidia annonce vouloir racheter le britannique ARM, leader des puces pour smartphones, au groupe japonais SoftBank pour un montant de 40 milliards de dollars . Cette acquisition devait permettre à Nvidia de monter en puissance dans l’intelligence artificielle, les objets connectés et la 5G, les autres points forts de la société ARM avec les puces pour smartphones[44],[45]. Mais en décembre 2021, les autorités de la concurrence américaines s'opposent à cette acquisition[46], et le 8 février 2022, Nvidia annonce l'abandon du rachat à la suite du refus du régulateur[47].
+
+
+NVIDIA RTX 4090 Founders Edition.
+La série GeForce 40 succède à la série GeForce 30. Elle est annoncée le 20 septembre 2022 lors de la conférence GPU Technology Conference (GTC) 2022. Son fer de lance, la RTX 4090, embarque 24 Go de mémoire GDDR6X à 2 625 MHz, étrenne l’architecture Ada Lovelace et pèse 2,2 kg. Il comprend quelques nouveautés logicielles telles le DLSS 3, qui permet d'exploiter des affichages en 3 840 × 2 160 pixels (4K) à 120 fps[48].
+
+Portée par l'accélération du secteur de l'intelligence artificielle, Nvidia devient en juin 2024 la première capitalisation boursière au monde, atteignant 3 335 milliards de dollars à la bourse de New York[49].
+
+En mars 2024, NVIDIA arrête la production des séries GeForce GTX[50].
+
+En novembre 2024, l’entreprise intègre le Dow Jones Industrial Average[51].
+
+La série GeForce 50 est annoncées le 1er janvier 2025 lors du Consumer Electronics Show, où sont dévoilés quatre premiers modèles : les RTX 5090, RTX 5080, RTX 5070 Ti et RTX 5070. Cette génération prend en charge le PCIe 5.0 ainsi que la mémoire GDDR7. Elle inaugure également la technologie DLSS 4, qui permet la génération de plusieurs images intermédiaires par image rendue (Multi-Frame Generation), en remplacement du procédé à image unique utilisé sur la série GeForce 40.
+
+Le 27 janvier 2025, après la sortie de R1, le premier « modèle de raisonnement IA » de DeepSeek, une IA open source réputée aussi fiable mais bien moins coûteuse que celles d'OpenAI, Meta et Google, Nvidia perd 593 milliards de dollars de valorisation dans la journée[52], passant à 2 900 milliards de dollars. Cette perte est « la plus importante jamais enregistrée en une journée pour une société ».
+
+Le 14 avril 2025, l'entreprise annonce son intention de construire des supercalculateurs d'IA au Texas et d'investir jusqu'à 500 milliards de dollars aux États-Unis[53],[54].
+
+Le 9 juillet 2025, elle devient la première entreprise à dépasser les 4 000 milliards de dollars de capitalisation boursière[55],[56]. Trois mois plus tard, la valorisation boursière de Nvidia dépasse les 5 000 milliards de dollars, ce qui fait de l'entreprise la première à dépasser cette capitalisation[57].
+
+En janvier 2026, Nvidia annonce l'acquisition de Groq pour 20 milliards de dollars[58].
+
+Produits
+Nvidia produit principalement des processeurs graphiques, utilisées majoritairement dans les PC, mais de plus en plus, ses processeurs haute performance sont utilisés dans des machines de calcul professionnelles :
+
+NV1 - le premier produit de Nvidia[29] ;
+NV2 - Annulée - Utilise les mêmes technologies que la NV1 ;
+RIVA 128 (en), RIVA 128ZX[31] - support de DirectX 5 ;
+RIVA TNT (en), RIVA TNT 2 - support de DirectX 6 - succès qui propulse Nvidia en tête de marché ;
+les GeForce, depuis 1999 ce sont les cartes graphiques pour joueurs de Nvidia, représentées en 2025 par les Nvidia GeForce 50 Series ;
+Quadro, des cartes pour professionnels ;
+Crownir, des cartes pour serveurs ;
+Tesla, des cartes sans sortie vidéo, uniquement dédiées au calcul, qui utilisent CUDA ;
+les Titan (en), des cartes graphiques dont les performances sont proches des GeForce GTX, mais qui sont destinées au montage vidéo et aux tâches qui demandent de grosses ressources vidéo ;
+les puces graphiques Tegra, destinées aux appareils portables comme les smartphones, tablettes et consoles portables.
+Nvidia a également conçu des processeurs graphiques pour consoles de jeux comme la Xbox (processeur graphique de type GeForce 3) ou la PlayStation 3 (RSX, « Reality Synthesiser » fondée sur l'architecture des GeForce 7).
+
+Bien que spécialisé dans les puces graphiques, Nvidia a produit une seule et unique puce de type x86, son nom le M6117C[59].
+
+Dans le domaine de la mobilité, NVIDIA développe des processeurs ARM. Elle a également produit les chipsets nForce, mais à la suite d'un procès avec Intel, NVIDIA ne développe plus et ne commercialise plus de chipset pour PC[60],[61].
+
+En 2016, la société annonce un supercalculateur maison, Saturn V[62], qui s'impose d'emblée dans le TOP500 et s'arroge également la première position en matière d'efficacité énergétique[63]. Le supercalculateur est propulsé par 60 512 processeurs Xeon E5-2698v4 pilotant des cartes graphiques Nvidia 125 DGX-1s (gamme Nvidia DGX (en)). Surnommé « AI supercomputer in a box », il est destiné à l'apprentissage profond (deep learning). Il utilise aussi des processeurs graphiques Tesla P100[64].
+
+En septembre 2023, Getty Images lance avec Nvidia Generative AI by Getty Images, une intelligence artificielle créant des images à l'aide de la bibliothèque de photos sous licence de Getty, à partir du modèle Edify de Nvidia (disponible sur la bibliothèque de modèles d'intelligence artificielle générative de Nvidia, Picasso)[65].
+
+Nvidia et l'informatique quantique
+Nvidia ne semble pas vouloir produire d'ordinateur quantique, mais depuis le début des années 2020, se positionne pour produire l'interface dominante du secteur de l'informatique quantique, en privilégiant une approche hybride unifiant processeurs graphiques (GPU) et processeurs quantiques (QPU, encore émergents, qui doivent être refroidis à des températures proches du zéro absolu, soit environ –273 °C)[66].
+
+Cette trajectoire a débuté avec la simulation massive de circuits quantiques, sur des architectures classiques, notamment via le lancement en 2021 du kit de développement cuQuantum, conçu pour optimiser les bibliothèques de calcul tensoriel et de vecteurs d'état sur ses GPU. En 2023, Nvidia déploie sa plateforme de programmation ouverte CUDA-Q (initialement CUDA Quantum), un langage agnostique permettant l'exécution de flux de travail hybrides au sein d'un même système logiciel[66].
+
+En 2025, Nvidia a intensifié ses partenariats avec des constructeurs de matériel tels qu'IonQ, IQM et Rigetti, en intégrant directement des supercalculateurs DGX à proximité des unités quantiques pour permettre une interconnexion à ultra-basse latence, condition sine qua non pour la gestion dynamique des erreurs[66].
+
+Le 14 avril 2026 Nvidia lance la famille de modèles ouverts Ising, une suite d'intelligence artificielle spécialisée sous licence Apache-2.0. Ces modèles, incluant Ising Calibration et Ising Decoding, utilisent des réseaux neuronaux de 35 milliards de paramètres pour automatiser le réglage des processeurs quantiques et assurer une correction d'erreurs en temps réel jusqu'à 2,5 fois plus rapide que les méthodes algorithmiques conventionnelles. En positionnant ses technologies comme le « plan de contrôle » indispensable de ces machines, Nvidia vise à stabiliser les qubits fragiles pour rendre le calcul quantique tolérant aux fautes et économiquement viable au sein des centres de données modernes[67],[68],[69],[70].
+
+Technologies
+
+Cette section ne cite pas suffisamment ses sources (août 2023). 
+Nvidia a développé ou a fait l'acquisition de plusieurs technologies pour ses produits.
+
+SLI
+La technologie SLI (Scalable Link Interface) consiste à cumuler jusqu'à quatre cartes graphiques GeForce[Note 3], via l'usage d'un pont qui connecte physiquement les cartes, pour augmenter les performances graphiques. Annoncée à la fin 2004, cette technologie a été présentée comme un moyen d'améliorer à faible coût les performances d'une machine, mais en général, même si deux GeForces sont utilisées, le gain de puissance est rarement proportionnel, et il l'est de moins en moins au fur et à mesure que l'on ajoute des cartes.
+
+En 2016, lors de la présentation de la nouvelle carte GTX 1080, Nvidia annonce un nouveau pont SLI, le SLI HB Bridge. Théoriquement censé doubler la bande passante disponible, il limite cependant son usage à deux cartes plutôt qu'aux quatre supportées auparavant. Cette technologie est similaire au CrossFire d'AMD, bien qu'AMD délaisse l'emploi du pont à partir de 2013 avec sa série R9 290X.
+
+NVLink
+NVLink est un protocole de communication série multi-voies filaire à courte portée développé par Nvidia. Contrairement à PCI Express, un périphérique peut être constitué de plusieurs NVLinks et les périphériques utilisent un réseau maillé pour communiquer au lieu d’un hub central.
+
+Le protocole NVlink 1.0 est introduit pour la première fois en 2014, sur la puce P100, et utilise une interconnexion de signalisation à haut débit (NVHS) propriétaire[71][réf. non conforme],[72].
+
+Optimus
+La technologie Optimus consiste à désactiver la carte graphique pour économiser de l'énergie quand la fonction 3D n'est pas requise ; l'affichage est alors géré par l'IGP (l'unité graphique de base qui se trouve sur la carte mère).
+
+Cette technologie est souvent utilisée dans les GeForces mobiles et n'a pas été tout de suite supportée sur le système d'exploitation Linux[73].
+
+AMD propose une solution similaire sur ses cartes.
+
+3D Vision
+La technologie 3D Vision permet de profiter de la 3D stéréoscopique sur PC, actuellement en version 2[74].
+
+Le principe consiste à utiliser des écrans spéciaux[Note 4] qui affichent tantôt une image pour l'œil gauche, tantôt une image pour l'œil droit. Des lunettes spéciales permettent alors de répartir les images entre les deux yeux pour recréer une illusion de 3D. Cette technologie s'oppose à la HD3D présentée par AMD.
+
+La version professionnelle, « 3D Vision Pro », utilise la transmission radio plutôt que par infrarouge[75].
+
+GPU Boost
+La technologie GPU Boost est un système qui augmente la vitesse du processeur tant que sa fréquence d'horloge, sa température et sa consommation restent dans certaines limites. Ce système, utilisé dans l'architecture Kepler a connu trois versions.
+
+La version 1.0 débute avec la GeForce GTX 680 en 2012. La version 2.0 débute avec la GeForce Titan en 2013, sans apporter de nouveauté importante. Avec le GPU Boost 3.0, présenté en même temps que la GTX 1080 et l'architecture Pascal, l'augmentation de fréquence n'est plus linéaire comme pour les deux versions précédentes, mais définie automatiquement en fonction de la tension[76],[77],[78].
+
+PhysX
+La technologie PhysX est un moteur physique (logiciel) permettant de créer un rendu en temps réel qui gère les collisions et les processus physiques complexes dans un jeu, comme les créations de particules après impact ; limité aux jeux compatibles.
+
+Battery Boost
+Battery Boost[79] est une technologie permettant d'augmenter l'autonomie d'un PC portable en jeu, en ajustant les fréquences de la mémoire et des cœurs CUDA du GPU, ainsi que celles du processeur.
+
+GeForce Experience
+GeForce Experience est un logiciel facultatif, installé généralement en même temps que les pilotes (drivers) des cartes graphiques. Il permet d'optimiser les jeux selon un ratio performance/qualité paramétrable, de configurer ShadowPlay ou de streamer sur son PC depuis une NVIDIA Shield ou une Shield Android TV.
+
+ShadowPlay
+La fonctionnalité ShadowPlay permet d'enregistrer des séquences de jeu, voire les minutes précédant l'activation du logiciel (avec qualité et durée paramétrable), le microphone ou le son intrajeu.
+
+En septembre 2016, ShadowPlay a été remplacée par NVIDIA Share lors de la mise à jour 3.0 du logiciel GeForce Experience.
+
+Ray Tracing
+La technologie ray tracing est utilisée dans l'architecture Turing visant à retranscrire au mieux la propagation de la lumière dans les jeux vidéo, en calculant la direction des rayons lumineux pour déterminer leur façon de rebondir sur les éléments. Cela est rendu possible par des langages de programmation associés (OpenCL ou CUDA par exemple) et par des moteurs comme Iray et OptiX de Nvidia[80]. Cette méthode apparait dans le monde du jeu vidéo le 23 août 2018[81], lors de la conférence Nvidia. Ce procédé permet d’améliorer le réalisme, comme la réflexion des flammes ou le reflet des miroirs, au prix d'importantes ressources utilisées. Annoncée à l'occasion du lancement de la gamme de cartes graphiques RTX, qui sont les premières à intégrer cette technologie[82].
+
+DLSS et DLAA
+La technologie Deep Learning Super Sampling (DLSS) permet d'améliorer les performances en jeu tout en préservant la qualité. Le DLSS fonctionne grâce à l'intelligence artificielle des tensor cores des cartes graphiques RTX. Le principe est de générer le rendu du jeu dans une résolution inférieure, puis de le remettre à celle de l'écran en complétant les pixels manquants de l'image grâce à l'apprentissage profond d'une intelligence artificielle, dont les calculs sont opérés via un super-ordinateur de Nvidia.
+
+La technologie Deep Learning Anti-Aliasing (DLAA) est similaire au DLSS, mais a pour priorité d'améliorer la qualité de l'image au détriment des performances[83].
+
+Collaboration avec les fabricants de cartes graphiques
+Étant une société sans usines, Nvidia ne fabrique pas elle-même ses cartes graphiques, se contentant de produire ses puces graphiques (GPU). Elle fournit aux fabricants (par exemple MSI, Asustek, Gigabyte, EVGA ou XFX, entre autres) ses GPU, en mettant à leur disposition un modèle de référence avec un dissipateur de référence[Note 5], en leur donnant le choix de conserver ce design ou d'appliquer le leur propre.
+
+Événements marquants
+Le 26 septembre 2023, les bureaux français de Nvidia ont fait l'objet d'une perquisition par l'Autorité de la concurrence. Cette opération, autorisée par un juge, s'inscrivait dans le cadre d'une enquête sur des pratiques anticoncurrentielles présumées dans le secteur des cartes graphiques[84],[85].
+
+Notes et références
+Notes
+Par exemple, dans le passé, Nvidia a utilisé les capacités de production de sociétés comme IBM Microelectronics ou l'européen STMicroelectronics. Actuellement, Nvidia sous-traite sa production aux grands fondeurs comme les taïwanais TSMC (Taiwan Semiconductor Manufacturing Company, Limited) ou UMC (United Microelectronics Corporation).
+Il s'agit d'une période confuse dans le domaine de la 3D. Des problèmes apparaissent aussi chez ATi, qui ne parvient pas à sortir ses cartes dans les délais et aux performances annoncées.
+Ou désormais deux GeForces GTX 590 ou deux GTX 690
+Qui disposent d'un rafraîchissement élevé (supérieur ou égal à 120 Hz).
+Le modèle (dessin) de référence inclut le fonctionnement du circuit imprimé (PCB, Printed circuit board), l'étage d'alimentation par exemple.
+Références
+« https://www.nvidia.com/en-us/about-nvidia/board-of-directors/jensen-huang/ [archive] » (consulté le 15 mars 2024)
+Proxy Statement (SEC filing), consulté le 3 août 2026.
+« http://s22.q4cdn.com/364334381/files/doc_financials/quarterly_reports/2018/NVIDIA-Q4Y18-Form-10K.pdf [archive] »
+« http://s22.q4cdn.com/364334381/files/doc_financials/quarterly_reports/2018/NVIDIA-Q4Y18-Form-10K.pdf [archive] »
+« NVIDIA Corporation (NVDA) Stock Price, News, Quote, History - Yahoo Finance [archive] »
+« NVIDIA Corporation Common Stock (NVDA) Stock Price, Quote, News, History | Nasdaq [archive] »
+ Form 10-K (SEC filing).
+« https://companiesmarketcap.com/nvidia/total-debt [archive] »
+ « Nvidia ignore les inquiétudes sur la « vieille tech » et accélère pour devenir « parrain » du monde de l’IA », Le Monde,‎ 26 février 2026 (lire en ligne [archive], consulté le 26 février 2026).
+NVIDIA Subsidiary Completes its Purchase of Certain 3dfx Graphics Assets (communiqué de presse), Nvidia, 19 avril 2001.
+3dfx Announces Completion of Sale of Assets (communiqué de presse), 3dfx, 19 avril 2001.
+NVIDIA completes Acquisition of AGEIA Technologies (communiqué de presse), Nvidia, 13 février 2008, [lire en ligne [archive]].
+Pierre Fontaine, « Les cartes graphiques ATI vont disparaître »(Archive.org • Wikiwix • Que faire ?), sur 01net.com, 1er septembre 2010 (consulté le 3 septembre 2026).
+Clémence Tanguy, « Nvidia en Bourse : analyse du leader de cartes et processeurs graphiques [archive] », sur cafedelabourse.com, Cafédelabourse, 12 juin 2019 (consulté le 3 septembre 2026).
+« Quels sont les principaux concurrents d’AMD ? »(Archive.org • Wikiwix • Que faire ?), sur news.chastin.com, 2023 (consulté le 21 juin 2023).
+Andy Patrizio, « Attaqué, Intel se défend sur plusieurs fronts [archive] », sur lemondeinformatique.fr, 29 septembre 2021 (consulté le 3 septembre 2026).
+(en) Sharon Goldman, « How Nvidia dominated AI — and plans to keep it that way as generative AI explodes [archive] », sur venturebeat.com, 23 février 2023 (consulté le 7 octobre 2023).
+« Intel et AMD peuvent-ils rivaliser avec Nvidia ? | Investing.com [archive] », sur Investing.com France (consulté le 4 novembre 2025).
+(en) « NVDA | NVIDIA Corp. Annual Income Statement | MarketWatch » [archive du 28 avril 2025], sur MarketWatch (consulté le 4 novembre 2025).
+« Nvidia devient la première entreprise à voir sa valorisation boursière dépasser les 5000 milliards de dollars [archive] », sur Le Figaro, 29 octobre 2025 (consulté le 4 novembre 2025).
+(en) « FAQs [archive] », sur nvidia.com (consulté le 7 octobre 2023).
+(en-US) « NVIDIA Corporation : History [archive] », sur Nvidia (consulté le 3 septembre 2026).
+(en) Andrew Nusca, « This Man Is Leading an AI Revolution in Silicon Valley—And He’s Just Getting Started [archive] » Accès payant, sur fortune.com, 16 novembre 2017 (consulté le 3 septembre 2026).
+Nvidia muscle son entrée de gamme avec la GeForce GTX 1650 [archive], Sud Ouest, 25 avril 2019 (consulté le 24 septembre 2020).
+« NVIDIA GeForce GTX 295 : le retour du caméléon [archive] », sur clubic.com, 9 janvier 2009 (consulté le 3 septembre 2026).
+Nvidia : des résultats financiers en hausse, le caméléon a pris la couleur d'Android [archive], lesmobiles.com, 9 novembre 2012 (consulté le 24 septembre 2020).
+ « Historique NVIDIA  : l’innovation au fil des années [archive] », sur NVIDIA (consulté le 19 août 2026).
+« 15 ans de cartes graphiques NVIDIA en images [archive] », sur Tom's Hardware, 21 avril 2010 (consulté le 21 juin 2023).
+ « Diapo : l'histoire des cartes graphiques Nvidia en images [archive] », 14 septembre 2018.
+ Nil Sanyas, « L'histoire de NVIDIA », sur nextinpact.com, 1er décembre 2003 (version du 21 juin 2023 sur archive.org).
+ (en) Thomas Pabst, « Nvidia Announces RIVA 128ZX [archive] », sur tomshardware.com, Tom's Hardware, 24 février 1998 (consulté le 3 septembre 2026).
+https://www.gamespot.com/articles/inside-the-xbox-gpu/1100-2764159/ [archive]
+(en) « Nvidia finalise l'acquisition d’Icera, un leader dans les modems sans fil et la technologie RF [archive] », sur nvidia.fr (consulté le 3 septembre 2026).
+« Nvidia dévoile Project Shield, une console portable Android [archive] », sur gamekult.com, 7 janvier 2013 (consulté le 3 septembre 2026).
+(en) Top500 List - November 2001 [archive], sur top500.org.
+NVIDIA Begins Requiring Signed GPU Firmware Images [archive], slashdot, 2014-09-27.
+Linux-Firmware Adds Signed NVIDIA Firmware Binaries For Turing's Type-C Controller [archive], phoronix, 13 février 2019.
+(en) Anton Shilov, « Discrete Desktop GPU Market Trends Q2 2016: AMD Grabs Market Share, But Nvidia Remains on Top [archive] », sur anandtech.com, 16 septembre 2016.
+« Voiture autonome : Bosch et Nvidia s'allient sur l'Intelligence Artificielle [archive] », sur ZDNet France, 20 mars 2017 (consulté le 3 septembre 2026).
+Régis Jehl, « Nvidia revoit ses résultats à la baisse et décroche en Bourse » [archive], sur Les Numériques, 29 janvier 2019 (consulté le 3 septembre 2026).
+(en) Sayanti Chakraborty et Tova Cohen, « Nvidia outbids Intel to buy Israel's Mellanox in data centre push [archive] », sur Reuters, 11 mars 2019.
+Christian D., « Nvidia GeForce GTX 1660 et 1650 : des dates de lancement pour les GPU [archive] », sur Génération-NT, 1er mars 2019 (consulté le 3 septembre 2026).
+Julien Cadot, « Nvidia annonce sa GTX 1660 Ti à 299 € : une carte de référence pour le 1080p à 120 fps ? [archive] », sur Numerama, 22 février 2019 (consulté le 3 septembre 2026).
+Philippe Berry, « Nvidia veut racheter le géant des puces mobiles ARM pour 40 milliards de dollars [archive] », sur 20 minutes.fr, 20 Minutes, 15 septembre 2020 (consulté le 3 septembre 2026).
+Sam Nussey et Stephen Nellis, « Nvidia to buy chip designer Arm for $40 billion as SoftBank exits [archive] », sur Reuters, 14 septembre 2020.
+(en) Stephen Nellis et David Shepardson, « U.S. FTC sues to block Nvidia deal to buy Arm [archive] », sur Reuters.com, 3 décembre 2021.
+Eric Albert, « Puces électroniques : l’acquisition du britannique ARM par l’américain Nvidia bloquée par les régulateurs [archive] », Le Monde, 9 février 2022.
+Régis Jehl, « Test Nvidia GeForce RTX 4090 : un monolithe de luxe qui mise tout sur le raytracing et la 4K - Les Numériques [archive] », sur lesnumeriques.com, 9 février 2022 (consulté le 3 septembre 2026).
+« Nvidia devient la première capitalisation boursière au monde, devant Apple et Microsoft [archive] », L'Usine digitale, 19 juin 2024 (consulté le 8 juillet 2024).
+« NVIDIA stoppe la production des GeForce GTX. La fin d'une époque [archive] », sur clubic.com, 5 mars 2024 (consulté le 3 septembre 2026).
+(en) Kif Leswing, « Nvidia to join Dow Jones Industrial Average, replacing rival chipmaker Intel [archive] », sur CNBC, 1er novembre 2024 (consulté le 3 septembre 2026).
+MT Newswires, « Nvidia enregistre une baisse record de sa capitalisation boursière après que DeepSeek a défié ses concurrents américains [archive] » Accès payant, sur zonebourse.com, 28 janvier 2025 (consulté le 3 septembre 2026).
+Barron's, 14-04-2025, lire en ligne [archive].
+(en-US) « NVIDIA to Manufacture American-Made AI Supercomputers in US for First Time [archive] », sur NVIDIA Blog, 14 avril 2025 (consulté le 3 septembre 2026).
+« Nvidia, première entreprise à dépasser 4 000 milliards de dollars de capitalisation boursière [archive] », Le Monde, 9 juillet 2025 (consulté le 9 juillet 2025).
+Chloé Woitier, « Nvidia devient la première entreprise à franchir le seuil des 4 000 milliards de dollars de capitalisation boursière [archive] », sur lefigaro.fr, Le Figaro, 9 juillet 2025 (consulté le 3 septembre 2026).
+« Nvidia devient la première entreprise à voir sa valorisation boursière dépasser les 5 000 milliards de dollars [archive] », Le Figaro, 29 octobre 2025 (consulté le 29 octobre 2025).
+« Nvidia rachète Groq pour 20 milliards : « L'IA est un sport énergétique et économique extrême, les architectures actuelles sont dans l'impasse » [archive] » Accès payant, Les Échos, 22 janvier 2026.
+(en) « M6117C - 386SX Embedded Microcontroller [archive] », sur nvidia.com (consulté le 3 septembre 2026).
+« NVIDIA suspend le développement de chipsets [archive] », 8 octobre 2009.
+« NVIDIA et Intel : fin des conflits pour 1.5 milliard de dollars », sur pcinpact.com (version du 14 janvier 2011 sur archive.org).
+(en) « Inside Nvidia’s Next-Gen Saturn V AI Cluster » [archive], Timothy Prickett Morgan, nextplatform.com, 30 novembre 2017.
+(en) « Nvidia Just Made the Most Energy-Efficient Supercomputer of All-Time [archive] », sur futurism.com, 20 novembre 2016.
+« NVIDIA Tesla P100 - Le Tout Premier Supercalculateur IA Pour Data Center » [archive], nvidia.com (consulté le 15 septembre 2020).
+(en) Emilia David, « Getty made an AI generator that only trained on its licensed images [archive] », sur The Verge, 25 septembre 2023 (consulté le 10 juin 2024).
+ (en-US) Jeff Burt, « Nvidia Brings The Power Of Open Source AI Models To Quantum Computing [archive] », sur nextplatform, 14 avril 2026 (consulté le 20 avril 2026).
+(en) « NVIDIA Ising Introduces AI-Powered Workflows to Build Fault-Tolerant Quantum Systems [archive] », sur NVIDIA Developer, 14 avril 2026 (consulté le 19 avril 2026).
+(en) « Berkeley Lab and NVIDIA Collaboration Accelerates U.S. Leadership in Hybrid Quantum–Classical Computing [archive] », sur Berkeley Lab News, 16 mars 2026 (consulté le 19 avril 2026).
+(en) « Nvidia Releases Open-Source Quantum AI Model Ising [archive] », sur TradingKey, 15 avril 2026 (consulté le 19 avril 2026).
+(en) « NVIDIA Announces Cloud Services for Quantum Computing Simulation [archive] », sur NVIDIA Newsroom, 18 mars 2024 (consulté le 19 avril 2026).
+https://www.fibermall.com/fr/blog/evolution-of-nvlink.htm [archive]
+(en) Jon Worrel, « Nvidia NVLINK 2.0 arrives in IBM servers next year [archive] », sur fudzilla.com, 24 août 2016.
+« Linux enfin compatible Nvidia Optimus »(Archive.org • Wikiwix • Que faire ?), 23 mai 2011.
+« 3D Vision 2 et LightBoost : la nouvelle solution Nvidia en détail [archive] ».
+« Carte graphique Quadro K5000 avec Kepler-NVIDIA [archive] », sur nvidia.fr.
+« Nvidia GeForce GTX 680 : la réponse au Radeon HD 7970 ? [archive] », 9 octobre 1201.
+« GeForce GTX Titan : la carte graphique la plus rapide ? [archive] ».
+« GPU Boost et overclocking - Nvidia GeForce GTX Titan en test : big Kepler débarque enfin ! - HardWare.fr [archive] ».
+« GeForce GTX 880M : la puce mobile de Nvidia en test [archive] », sur clubic.com.
+(en) Steven G. Parker, James Bigler, Andreas Dietrich et Heiko Friedrich, « OptiX: A General Purpose Ray Tracing Engine », ACM SIGGRAPH 2010 Papers, ACM,‎ 1er janvier 2010, p. 66:1–66:13 (ISBN 9781450302104, DOI 10.1145/1833349.1778803).
+(en) NVIDIA GeForce, « Battlefield V: Official GeForce RTX Real-Time Ray Tracing Demo [archive] », sur YouTube (consulté le 20 mai 2021).
+Victoria Castro, « Tout comprendre au ray tracing : les moteurs de jeu vidéo ont-ils trouvé leur Graal ? » [archive],'Numerama, 3 décembre 2018.
+(en) « Nvidia's DLAA makes PC games look better with little performance hit [archive] », PC World (consulté le 20 avril 2024).
+Libération et AFP, « Perquisition au siège français de Nvidia pour soupçons de concurrence déloyale [archive] », sur Libération (consulté le 10 mars 2025).
+« Nvidia perquisitionné par l'Autorité de la concurrence en France - Challenges », sur web.archive.org, 29 septembre 2023 (consulté le 10 mars 2025).
+Voir aussi
+Sur les autres projets Wikimedia :
+
+Nvidia, sur Wikimedia Commons
+Articles connexes
+Scalable Link Interface (SLI)
+AMD, ATi, Matrox, Intel Concurrents
+3dfx Ancien concurrent
+Entreprise sans usine
+Liste des principaux fabricants de semi-conducteurs au fil des ans
+Liens externes
+Site officiel [archive]
+Ressources relatives à la recherche : CrossRefHorizon 2020
+Ressource relative aux organisations : Registre de transparence de l'UE
+Ressource relative à l'audiovisuel : France 24
+Notices dans des dictionnaires ou encyclopédies généralistes : Britannica [archive]Store norske leksikon [archive]
+Notices d'autorité : VIAFISNILCCNGNDIsraëlNUKATTchéquie
+ [afficher]
+v · m
+Technologies Nvidia
+ [afficher]
+v · m
+Principales entreprises de semi-conducteurs par chiffre d'affaires (2019)[1]
+ [afficher]
+v · m
+Entreprises du NASDAQ-100 (Mai 2023)
+ [afficher]
+v · m
+Silicon Valley
+ [afficher]
+v · m
+Technologies de processeur
+icône décorative Portail des entreprises icône décorative Portail de l’informatique icône décorative Portail de l’intelligence artificielle icône décorative Portail de l’électricité et de l’électronique icône décorative Portail de la région de la baie de San Francisco
+Catégories : Société cotée au NASDAQNVIDIAEntreprise fondée en 1993Constructeur informatiqueEntreprise informatique ayant son siège aux États-UnisEntreprise ayant son siège à Santa Clara (Californie)3DEntreprise du NASDAQ-100Processeur graphique[+]
+La dernière modification de cette page a été faite le 3 septembre 2026 à 21:46. La page a été rendue avec Parsoid.
+Droit d'auteur : les textes sont disponibles sous licence Creative Commons attribution, partage dans les mêmes conditions ; d’autres conditions peuvent s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que les crédits graphiques. En cas de réutilisation des textes de cette page, voyez comment citer les auteurs et mentionner la licence.
+Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.
+Politique de confidentialitéÀ propos de WikipédiaAvertissementsContactContacts juridiques & sécuritéCode de conduiteDéveloppementStatistiquesDéclaration sur les témoins (cookies)Version mobile
+Wikimedia Foundation
+Powered by MediaWiki

@@ -1,0 +1,978 @@
+
+
+Wikipédial'encyclopédie libre
+
+Faire un don
+Créer un compte
+Se connecter
+
+Wiki Loves Monuments
+Photographiez le patrimoine culturel marocain et gagnez des prix !
+
+
+
+Microsoft
+
+Article
+Discussion
+Lire
+Modifier
+Modifier le code
+Voir l’historique
+
+47° 38′ 22,55″ N, 122° 07′ 42,42″ O
+Microsoft
+logo de Microsoft
+Logo de Microsoft.
+illustration de Microsoft
+Le Building 92 au quartier général de Microsoft à Redmond.
+Création	4 avril 1975[1], 51 ans, 188 jours
+Dates clés	1981 : lancement de MS-DOS
+1985 : lancement de Windows 1.0
+1992 : lancement de Office
+2001 : lancement de la Xbox
+2007 : rachat de aQuantive
+2011 : achat de Skype
+2014 : achat de Nokia mobile OY et rachat de Mojang AB
+2016 : rachat de LinkedIn
+2018 : rachat de GitHub
+2020 : rachat de ZeniMax Media
+2021 : rachat de Nuance Communications
+2023 : rachat de Activision Blizzard
+Fondateurs	Bill Gates, Paul Allen[2]
+Personnages clés	Bill Gates, Steve Ballmer, Paul Allen, Satya Nadella, Steven Sinofsky, Phil Spencer
+Forme juridique	Corporation
+Société anonyme avec appel public à l'épargne
+Action	NASDAQ (MSFT)
+Bourse de Hong Kong (4338)
+Slogan	empower every person and organization on the planet to achieve more (« Microsoft donne à chaque individu et chaque organisation les moyens de réaliser ses ambitions »)
+Siège social	Redmond
+Drapeau des États-Unis États-Unis
+Direction	Satya Nadella (depuis le 4 février 2014)
+Actionnaires	
+The Vanguard Group (8,531 %)
+Fidelity Management & Research Co. LLC (2,132 %)
+Pour le détail voir le tableau dédié.
+
+Activité	Système d'exploitation, logiciels, jeux vidéo, téléphonie mobile, tablette/ordinateur, objets connectés, télécommunication, logiciel
+Produits	
+Microsoft Windows
+Microsoft Office
+Microsoft Servers
+Skype
+LinkedIn
+Microsoft Azure
+Microsoft Dynamics
+Microsoft Visual Studio
+Xbox
+Microsoft Surface
+Microsoft Mobile
+Bing
+matériel informatique
+Liste des applications de Microsoft (en)
+Microsoft Project Calendar.help (d)
+Filiales	Microsoft Mobile OY LTD (anciennement Nokia)
+Xbox Game Studios
+
+Partenaires	ID2020
+Effectif	228 000[3]
+Site web	www.microsoft.com
+Capitalisation	3 123 milliards de $[4] (avril 2024)
+Fonds propres	en augmentation 141,9 milliards de $[5] (2021)
+Dette	en augmentation 191,7 milliards de $[5] (2021)
+Chiffre d'affaires	en augmentation 331,8 milliards US$ (2026)[6]
++18 %
+Bilan comptable	512,1 G$ (2024)
+Résultat net	en augmentation 133,7 milliards US$ (2026)[6]
++31 %
+modifier - modifier le code - voir Wikidata 
+Microsoft Corporation (/ˈmaɪkɹəˌsɔft ˌkɔɹpəˈɹeɪʃən/[7] Écouterⓘ) est une multinationale informatique et micro-informatique américaine, fondée le 4 avril 1975 par Bill Gates et Paul Allen[8]. La firme fait partie des géants du Web, appelés GAFAM (avec Google, Apple, Facebook et Amazon), ainsi que des principales capitalisations boursières du NASDAQ[9], aux côtés d'Apple et d'Amazon. En 2026, son chiffre d'affaires s'élevait à 331,8 milliards USD pour un bénéfice net de 133,7 milliards USD[10],[6]. Elle est dirigée, depuis le 4 février 2014, par Satya Nadella qui succède à Steve Ballmer et Bill Gates en qualité de directeur général[11],[12]. En 2020, l'entreprise emploie 148 000 personnes dans 120 pays[3].
+
+Son activité principale consiste à développer et vendre des systèmes d'exploitation, des logiciels et des produits matériels dérivés. Les meilleures ventes historiques sont portées par les systèmes d'exploitation MS-DOS puis Microsoft Windows, et la suite bureautique Microsoft Office, qui alimentent à présent une politique de diversification. Windows a atteint une position dominante sur les ordinateurs personnels, avec 90 % de parts de marché dans le monde des PC Desktop (ZDNET, juin 2019, cumul Windows 7, Windows 10)[13]. Microsoft est présent dans l'informatique en nuage (Microsoft Azure), les sites Web (moteur de recherche Microsoft Bing, réseau social LinkedIn, messagerie électronique Outlook.com), les consoles de jeux vidéo (Xbox) et les tablettes PC (Microsoft Surface).
+
+La vigoureuse stratégie commerciale menée par Microsoft lui a valu des déboires judiciaires, notamment aux États-Unis et dans l'Union européenne. Cette stratégie s'est notamment appuyée sur le principe d'Embrace, extend and extinguish, l'abus de position dominante de Microsoft Windows, et la vente liée.
+
+Microsoft est présent dans les pays suivants : Irlande, Allemagne, Belgique, Canada, Danemark, Espagne, Autriche, France, Suisse, Italie, Finlande, Mexique, Pays-Bas, Royaume-Uni, Turquie, Émirats arabes unis et la Pologne offrant une grande variété de produits et de services. Microsoft est également présent dans d'autres pays, où ils réalisent des fonctions de support, comme : Australie, Argentine, Brésil, et la république de l'Inde[14].
+
+Histoire
+Création et début de l'entreprise
+
+Paul Allen et Bill Gates à Lakeside School en 1970
+La société est née en avril 1975 sous le nom original de Micro-Soft, à Albuquerque, dans le Nouveau-Mexique, du besoin de deux étudiants américains, Bill Gates et Paul Allen, de formaliser la vente de l'interpréteur de langage informatique BASIC : Altair BASIC adapté par eux deux et Monte Davidoff (ou qu’ils avaient acheté à partir d’un freeware)[15], pour ce qui est considéré comme le premier ordinateur personnel américain, l'Altair 8800, de la société MITS, avec le premier langage de programmation pour micro-ordinateur de l'histoire de l'informatique. La marque Microsoft (Le trait d'union disparaîtra quelques années plus tard) fut déposée le 26 novembre 1976[16],[17].
+
+À l'origine, la société avait été fondée pour développer et vendre des programmes informatiques BASIC pour l'Altair 8800, puis elle est devenue un des sous-traitants d'IBM. Pour de nombreux historiens, la décision d'IBM de confier en 1979 le soin d'écrire le système d'exploitation de ses micro-ordinateurs à un éditeur de logiciels aussi peu expérimenté que Microsoft, vient de la « peur des juges » ressentie par IBM après de longues années de conflit judiciaire lors des procès anti-monopole contre IBM des années 1960 et 1970[18].
+
+Microsoft a par la suite réussi à dominer le marché du système d'exploitation de l'ordinateur personnel avec MS-DOS au milieu des années 1980. Elle a pu ensuite s'affranchir d'IBM. L'introduction en bourse de la société, et l'envolée du prix des actions qui s'ensuivit, ont fait quatre milliardaires et environ 12 000 millionnaires parmi les employés de Microsoft[19],[20].
+
+Au cours de son histoire, la société a été critiquée pour abus de position dominante, parfois devant la justice américaine et européenne, ou pour des copies, ces dernières critiques s'étant atténuées après la paix Apple-Microsoft de 1997[21],[22],[23].
+
+Ce premier contrat de Microsoft représenta le véritable tour de force de Bill Gates, étant peut-être même plus important pour cette société que le rôle que jouera ensuite MS-DOS : contrairement à ce qui se faisait à l'époque, où les constructeurs achetaient aux éditeurs leurs logiciels avec tous les droits, Bill Gates et Paul Allen demandèrent de recevoir chacun trois mille dollars pour leur Altair BASIC tout en restant propriétaires, et ne concédèrent qu'une licence à MITS, qui devait leur reverser trente-cinq dollars par exemplaire distribué. À titre indicatif le prix de vente de l'Altair 8800 étant de 397 dollars, la licence de Microsoft en représentait donc 8,8 %. C'est ainsi que le BASIC de Microsoft se retrouva dans deux micro-ordinateurs populaires introduits en 1977 : le PET de Commodore et le TRS-80 de Tandy[24].
+
+Au cours de cette période, l'informatique évolue et dépend moins des « grands systèmes IBM », les constructeurs proposant une informatique plus décentralisée. En 1980, IBM s'apprêtant à lancer l'IBM PC, a demandé son BASIC (dont une version en mémoire ROM) à Microsoft. IBM a, par ailleurs, demandé à la société Digital Research, dirigée par Gary Kildall, de lui fournir une version de son système d'exploitation CP/M[25].
+
+L'histoire du contrat manqué par Gary Kildall est très controversée. La version avancée par de nombreuses personnes, dont Tim Paterson, qui sera bientôt amené à travailler pour Microsoft, et la moins contestée, affirme que Kildall et son ancienne épouse, Dorothy McEwen, auraient refusé de signer un accord de confidentialité. De plus, ils ont refusé de modifier CP/M-86, ont demandé une redevance plus élevée, et surtout, le CP/M 86 étant totalement exempt de bugs, n'ont pas autorisé IBM à en modifier le codage[25].
+
+
+Campus de Microsoft à Redmond (Washington).
+IBM se tourna alors vers Microsoft, et voulut sous-traiter CP/M pour l'IBM PC. Le contrat avec Microsoft ne le permettant pas, celui-ci dépensa 25 000 $ en décembre 1980 pour une licence non exclusive pour un système d'exploitation, disponible à un stade expérimental, clone de CP/M, le QDOS (« Quick and Dirty Operating System », littéralement « système d’exploitation vite et mal fait »). En mai 1981, Microsoft engagea Tim Paterson pour porter QDOS sur l'IBM PC. En juillet 1981, Microsoft acheta tous les droits sur 86-DOS pour cinq mille dollars. IBM vit ainsi sauvé son projet d'IBM PC, mais au prix, qu'elle ignora, de la perte de sa position dominante : cet accord va permettre de réaliser des clones, et surtout, à IBM d'empocher des redevances sur le MS-DOS pour les correctifs qu'elle y a apportés (débogage). IBM avait détenu jusqu'à 66 % du marché des mainframes propriétaires ; sa part du marché des PC ne dépassa jamais un maximum de 21 %, atteint vers 1983, puis a décliné pour placer ce constructeur derrière Dell et Compaq (aujourd'hui intégrée par Hewlett-Packard), situation devenue marginale, inimaginable en 1981[26],[27].
+
+Microsoft vendit donc à IBM des licences pour ce système d'exploitation tiers, le 86-DOS, écrit par Tim Paterson de Seattle Computer Products pour le microprocesseur Intel 8086 (le Intel 8088 qui équipa le Compatible PC est compatible avec le Intel 8086, et juste un peu moins rapide que ce dernier, et possède le même langage machine). Le MS-DOS devint ainsi l'un des trois systèmes d'exploitation disponibles pour l'IBM PC, avec CP/M 86 (Gary Kildall mis face à une concurrence a fini par se laisser convaincre) et PC/IX, une version d'UNIX ne possédant pas de mode de protection mémoire. Microsoft a acheté pour 50 000 dollars le logiciel qui va ériger son empire, même si elle a dû en compléter le développement pour répondre au cahier des charges d'IBM. Celui-ci fut édité sous le nom d'IBM PC-DOS 1.0 lors de l'introduction des IBM PC sur les marchés anglophones, le 12 août 1981. Étant plus léger, moins cher et rendu plus disponible que ses deux concurrents, il devint rapidement le système d'exploitation installé d'office sur les IBM PC, puis plus tard des Compatibles PC[28],[29].
+
+Comme pour le BASIC, Microsoft s'est réservé le droit de vendre des licences à d'autres constructeurs sous le nom de MS-DOS. Avec l'essor des Compatible PC dès le milieu des années 1980 (de Texas Instruments, Compaq, Seiko Epson, Thomson, Amstrad…), MS-DOS s'imposa rapidement et devient de facto la plate-forme de référence professionnelle et, selon les points de vue, un monopole. En 1987, des milliers de constructeurs de compatible PC existaient dans le monde, et tous sans exception avaient un point de passage obligé qui était le système d'exploitation de Microsoft, le plus performant de tous, dans un souci, crucial pour le monde professionnel, d'unité, de standardisation, et de portabilité de tous les ordinateurs compatible PC[30].
+
+Montée en puissance de Microsoft
+
+Microsoft Store.
+D'abord simple environnement graphique pour MS-DOS, Windows est devenu entre 1993 et 2001 un système d'exploitation à part entière. Quelques coups de stratégie de marketing ne sont pas étrangers à ce succès, comme l'ajout de trois touches « Windows » sur les claviers afin de marquer celui-ci dans l'esprit du consommateur comme « étant fait pour Windows » et marginaliser ainsi le concurrent potentiel OS/2 développé par IBM, et codéveloppé initialement par Microsoft et IBM, jusqu'au divorce officiel entre les deux sociétés en septembre 1991. Selon Microsoft, un soin particulier a également été apporté aux questions d'ergonomie, et en particulier à la question des polices de caractères typographiques, dès les versions 3.0 (Adobe Type Manager) et 3.1 (TrueType) de Windows[31].
+
+Bien des années plus tard, Microsoft affirmera considérer son avance sur le plan de l'ergonomie comme l'atout qui permettra à Windows de survivre face à la concurrence libre de Linux et de KDE/GNOME. De fait, Microsoft consacre une part très importante de son budget aux questions d'ergonomie : un service observe toutes les hésitations d'utilisateurs novices, pour rendre les menus plus clairs, démarche fastidieuse et rarement réalisée sur des logiciels gratuits[32].
+
+Windows est alors devenu un standard micro-informatique de facto solidement soutenu par l'effet réseau indirect de milliers de logiciels et de périphériques matériels spécifiques à Windows qui ont nécessité des milliards de journées/hommes de développement[33].
+
+Quelques-uns s'y risqueront : Go Software, avec un produit performant, rapide, et très riche en fonctionnalités, mais alors que beaucoup d'applications sont déjà portées ou en cours de portage sous Windows (Go se reconvertira dans les interfaces de téléphones mobiles), ou Be Inc. avec le système d'exploitation BeOS, créé par Jean-Louis Gassée, alors patron de la R&D d'Apple. L'élaboration d'un produit capable de rivaliser avec Windows impliquerait de disposer, comme Microsoft, de revenus réguliers pendant les années nécessaires au développement d'un tel système. Or, le temps que celui-ci soit développé, Microsoft aurait déjà pris de l'avance, et éventuellement modifié les standards. La société Be propose tout de même BeOS, orienté d'emblée dans la gestion de la vidéo : ce système d'exploitation ne décollera jamais vraiment hors d'un cercle de passionnés. Et Be intentera d'ailleurs un procès antitrust contre Microsoft pour abus de position dominante, qui s'achèvera par un accord financier à l'amiable entre les deux sociétés[34],[35].
+
+En 1986, Microsoft lance l'environnement graphique Windows 1.0, peu après la sortie des produits concurrents GEM de Digital Research et Mac OS d'Apple. La version 1.0 de Windows, rudimentaire – les fenêtres ne peuvent même pas se chevaucher –, n'inquiète pas sérieusement Apple, qui ne réagit pas. La version 2.0 est une concurrence plus sérieuse, et Apple intente un procès contre Microsoft pour plagiat, peu de temps après avoir intenté un procès similaire contre Digital Research. Cette dernière usa de tous les moyens légaux pour faire traîner le procès en longueur. Apple perdit définitivement son procès contre Microsoft en appel en 1994. Apple, en situation financière délicate, menaça ensuite d'attaquer à nouveau Microsoft, ce qui aboutit à un règlement à l'amiable en 1997, au moment du retour de Steve Jobs à la tête d'Apple, appelé « paix Apple-Microsoft » de 1997, ce qui l'a sortie de grosses difficultés[36].
+
+
+Siège social de Microsoft à Redmond, dans l'État de Washington (États-Unis).
+Cet accord comprenait une prise de participation temporaire de Microsoft dans le capital d'Apple (à hauteur de 150 millions de dollars soit 6 % du capital de la pomme), et l'obligation pour Microsoft de développer Internet Explorer et Microsoft Office pour Mac OS au moins jusqu'en 2002. En échange, Apple abandonnait ses poursuites[37]. Pendant douze ans et demi, Microsoft a conservé le record de la plus grande capitalisation de l'histoire boursière[15], avec le niveau de 620,58 milliards de dollars atteint le 30 décembre 1999. Le 20 août 2012, ce record est battu par Apple, à 622,10 milliards de dollars, grâce au succès populaire de ses appareils mobiles iPhone et iPad[38].
+
+Un facteur important de l'adoption généralisée de Windows a été son rôle d'interface non seulement graphique, mais également de pilotes. Sous MS-DOS, chaque éditeur de logiciel devait développer individuellement la gestion de tout le panel des milliers de périphériques compatible PC existants et à venir. Tâche colossale que les éditeurs de logiciels n'ont plus à gérer sous Windows dans la mesure où celui-ci se charge de gérer lui-même en standard tous les pilotes de périphériques de l'univers compatible PC[39],[25].
+
+Le Campus Microsoft est le nom informel du siège social de Microsoft, situé au One Microsoft Way à Redmond, Washington. Microsoft s'est d'abord installé sur les lieux le 26 février 1986, puis la société est entrée en bourse le 13 mars. Le siège a depuis connu de multiples expansions[3]. On estime qu'il englobe plus de 740 000 m2 d'espace de bureau et 30 000 à 40 000 employés[3]. D'autres bureaux sont situés à Bellevue et Issaquah (90 000 employés dans le monde). En janvier 2006, Microsoft a annoncé l'achat de campus de Redmond Safeco. (Anciennement un des principaux employeurs de Redmond, Safeco a commencé à consolider ses bureaux dans le quartier universitaire de Seattle à la Tour Safeco en 2005)[40].
+
+En février 2006, Microsoft a annoncé qu'il avait l'intention d'étendre son campus de Redmond de 100 000 m2 pour un coût d'un milliard $ et a dit que ce serait pour créer un espace pour entre 7 000 et 15 000 nouveaux employés au cours des trois années suivantes[41].
+
+L'histoire de Microsoft ne se résume cependant pas à celle de Windows. D'autres pans importants de l'activité de Microsoft ont permis sa croissance :
+
+Ses logiciels d'application commercialisés maintenant autour de la suite Microsoft Office. Au départ, il s'agissait de Multiplan, qui concurrençait notamment Lotus 1-2-3, et Word, qui concurrençait WordPerfect. Le passage à Windows et l'intégration sous forme de suite de ces logiciels, complétés par PowerPoint, et en 1997, d'Outlook, ont permis à Microsoft de générer un nouveau pôle et une nouvelle dominance représentant un chiffre d'affaires du même ordre de grandeur que celui de Windows[42].
+
+Campus de Microsoft en Inde.
+Son activité dans les logiciels pour serveurs, qui a démarré en 1990, avec LAN Manager, un système d'exploitation réseau surcouche d'OS/2. S'ensuivit la version serveur de Windows NT, devenu Windows Server qui bénéficia un temps[43] d'une part de marché mondiale supérieure à 65 %, et qui a signé le déclin de Novell Netware qui n'a pas su s'adapter, notamment lors de l'essor d'Internet. L'activité serveurs a été complétée par une large gamme de produits comme SQL Server (base de données), Exchange (serveur de messagerie), BizTalk Server, Operations Manager, et autres outils d'administration système. L'activité serveur représentait, en 2006, 23 % du chiffre d'affaires de Microsoft et était sa principale source de croissance des revenus et profits[44],[45].
+L'activité grand public, avec des logiciels de jeu (Flight Simulator), des encyclopédies (Encarta), des logiciels de gestion de finance personnelle (Money), une suite bureautique grand public (Works), et des matériels (souris, claviers, etc.). Cette activité a connu un développement important en 2001 avec le lancement de la Xbox, renouvelé avec le lancement fin 2005 de la Xbox 360[46], puis avec celui de la Xbox One, fin 2013.
+L'activité Internet avec le portail MSN lancé en 1995 qui a subi plusieurs transformations depuis, avec la partie « logicielle » de MSN fournie sous la marque « Windows Live », depuis 2005. Microsoft est devenu un acteur majeur de ce marché avec Hotmail (messagerie) et surtout Live Messenger (messagerie instantanée), tout en peinant sur son moteur de recherche (Bing) face au leader de ce domaine, Google[47].
+Les versions successives du système d'exploitation Windows (comme Windows 8 et Windows 10) intègrent certaines fonctionnalités incluses dans les précédentes versions des logiciels comme la suite bureautique Office. La firme espère ainsi réintégrer ses développements informatiques passés, à l'instar du ruban de Office 2007 que l'on trouve sous Windows 8. Les autres activités de Microsoft semblent donc avoir un rôle moteur dans le développement de Windows[48].
+Le 16 juillet 2014, Microsoft rachète l'entreprise Mojang Studios, connue pour son jeu Minecraft, pour 2,5 milliards de dollars[49].
+Microsoft se positionne également sur les appareils lecteurs de flux multimédias en temps réel en lançant à partir du 31 octobre 2014 aux États-Unis le Wireless Display Adapter[50]. Concurrent direct du Chromecast de Google, le système de Microsoft s'en différencie notamment en ne nécessitant pas de connexion Internet[51], mais seulement un protocole Miracast permettant de diffuser du contenu. La clef HDMI est commercialisée en France à partir de février 2015[52].
+En février 2015, Microsoft rachète l'application mobile Sunrise (créé en 2012) qui permet de gérer son agenda sous différents standards (Google Calendar, ICloud ou Microsoft Exchange). Cette acquisition aurait coûté au moins 100 millions de dollars au groupe[53]. Le même mois, Microsoft acquiert N-trig, une entreprise israélienne spécialisée dans les stylos numériques, pour 200 millions de dollars[54].
+Le Seattle Times a rapporté, au début de septembre 2015, que Microsoft avait embauché un cabinet d'architecture Skidmore, Owings & Merrill pour commencer une refonte de plusieurs milliards de dollars du campus de Redmond, en utilisant 130 000 m2 supplémentaire, refonte autorisée par un accord avec la Ville de Redmond[55].
+
+En août 2016, Microsoft effectue une émission obligataire d'un montant de 20 milliards d'euros, permettant le financement de l'acquisition de LinkedIn. Cette émission obligataire est la cinquième plus grosse jamais lancée sur le marché du crédit américain[56].
+
+En juin 2020, Microsoft annonce la fermeture d'une grande partie de ses boutiques[57].
+
+En mars 2021, le groupe lance Mesh, sa nouvelle plateforme de réalité mixte, à partir de laquelle les développeurs pourront créer hologrammes et objets virtuels[58]. En décembre 2021, AT&T annonce la vente de sa filiale de publicité en ligne Xandr à Microsoft, pour un montant de 1 milliard de dollars[59].
+
+En janvier 2023, le groupe annonce un plan de 10 000 licenciements d'ici à la fin de mois de mars[60], soit 4,5% de ses effectifs (221 000 employés)[61].
+
+Le 20 novembre 2023, Satya Nadella, directeur général de Microsoft annonce que Sam Altman dirigera une nouvelle équipe de recherche dans le domaine de l'intelligence artificielle[62].
+
+Le 2 juillet 2025, Microsoft annonce un deuxième plan social dans l'année après celui de mai, ce qui représente au total 15 000 licenciements[63]. Le 31 juillet 2025, le groupe annonce un bénéfice historique de 101,8 milliards de dollars pour son année fiscale 2025[64],[65].
+
+Début juillet 2026 Microsoft annonce un nouveau plan social après ceux de 2025 ; 2,5% de ses effectifs, soit 6 000 licenciements, dont 4 800 à effet immédiat. Par ailleurs, sur les 6 000 licenciements, 1 600 concernent la filiale Xbox, qui fera l'objet de 1 600 licenciements supplémentaires en 2027[66]. A la fin de ce même mois, le groupe annonce un bénéfice net record de 133,7 milliards de dollars pour son année fiscale 2026, en hausse de 31% par rapport à 2025[6].
+
+Chronologie
+Années 1970
+
+Paul Allen.
+Janvier 1975 : Développement de Altair 8800 par la Micro Instrumentation and Telemetry Systems.
+Février 1975 : Gates et Allen complètent leur interpréteur Altair BASIC pour l'Altair 8800.
+Juillet 1975 : commercialisation de l'Altair BASIC.
+Novembre 1975 : Gates propose à Allen d'utiliser le nom « Micro-soft » pour désigner leur association.
+Novembre 1976 : dépôt de la marque de commerce Microsoft par Bill Gates et Paul Allen.
+Février 1977 : Microsoft commercialise un compilateur FORTRAN.
+Novembre 1977 : fin de l'association entre Microsoft et MITS après une longue dispute judiciaire.
+Avril 1978 : Microsoft commercialise un compilateur COBOL-80.
+Novembre 1978 : Microsoft fonde un premier comptoir de vente outremer à Tokyo, au Japon.
+Décembre 1978 : le chiffre d'affaires de la société dépasse le million de dollars.
+Juin 1979 : Microsoft annonce un BASIC pour le microprocesseur 8086.
+Novembre 1979 : Microsoft s'installe en Europe par le biais d'un représentant belge : Vector Microsoft.
+Années 1980
+Avril 1980 : Microsoft commercialise la SoftCard Z-80, une carte s'enfichant dans un Apple II.
+Juin 1980 : le gestionnaire Steve Ballmer rejoint Bill Gates et Paul Allen.
+Août 1980 : Microsoft annonce le Xenix OS, un système d'exploitation de type Unix portable pour microprocesseurs 16 bits.
+Août 1981 : IBM introduit son PC, avec IBM PC-DOS 1.0.
+Juin 1982 : Microsoft change de logo. Le nouveau logo reçoit un nom : le « Blibbet ».
+Mai 1983 : Microsoft commercialise sa première souris. Contrairement à la souris d'Apple, elle possède deux boutons.
+3 mai 1983 : Microsoft ouvre ses bureaux aux Ulis en France, avec à sa tête Bernard Vergnes[67].
+Septembre 1983 : première version du logiciel de traitement de texte Word pour MS-DOS.
+Novembre 1983 : Microsoft dévoile Microsoft Windows. Il s'agit d'un complément à MS-DOS, qui permet d'ouvrir plusieurs programmes en même temps et de passer de l'un à l'autre par le biais de fenêtres.
+Novembre 1985 : Microsoft présente l'interface graphique Windows 1.0 pour son système MS-DOS. À cause du peu de fonctionnalités apportées, c'est un échec.
+13 mars 1986 : Microsoft entre en Bourse. Le cours de l'action débute à 21 $ et termine la journée à 28 $.
+Mars 1987 : nouveau logo Microsoft. Les employés protestent et lancent une campagne de sauvegarde du « Blibbet ». Le nouveau logo est tout de même adopté.
+Avril 1987 : commercialisation de MS OS/2, un nouveau système d'exploitation développé pour tirer parti des possibilités des microprocesseurs 286 et 386.
+Avril 1987 : commercialisation de Windows 2.0, tournant sur MS-DOS. Au nombre de nouveautés : nouvelle apparence, fenêtres se superposant.
+Juillet 1987 : Microsoft acquiert Forethought Inc., qui produit un logiciel de présentation nommé PowerPoint.
+Octobre 1987 : Microsoft commercialise Excel pour Windows. Il s'agit du premier produit tournant exclusivement sous Windows.
+Mars 1988 : Apple poursuit Microsoft en justice pour plagiat de « look and feel » (intuitivité) par Windows 2.0, qui lui, commence à séduire.
+Années 1990
+Mai 1990 : Microsoft lance Windows 3.0. Dix millions d'exemplaires seront vendus en deux ans
+Juillet 1990 : Microsoft devient le premier éditeur de logiciel à dépasser le milliard de dollars de vente annuelle.
+Mars 1992 : premiers spots publicitaires destinés à la télévision. Ces spots vantent les mérites de Windows. Également : Microsoft et Fox Software (Foxpro) fusionnent.
+Avril 1992 : Microsoft commercialise Windows 3.1. Cette version présente plus de cent améliorations par rapport à Windows 3.0 et connaît un succès sans précédent : plus d'un million de pré-commandes !
+Juin 1992 : le président américain George Bush décerne à Bill Gates la médaille nationale de la technologie pour réussite technologique et commerciale aux États-Unis.
+Octobre 1992 : commercialisation de Windows for Workgroups 3.1. Elle permet l'échange de courriels, des fichiers, des imprimantes et la gestion de réseaux.
+
+Steve Ballmer.
+Novembre 1992 : commercialisation d'Access pour Windows.
+Mars 1993 : commercialisation de Encarta, la première encyclopédie destinée à un ordinateur. Également : commercialisation de MS-DOS 6.0.
+Avril 1993 : plus de 25 millions de personnes utilisent Windows à travers le monde.
+Mai 1993 : commercialisation du premier Windows NT. Microsoft s'attaque au monde de l'entreprise. Également : Commercialisation de la seconde souris Microsoft.
+Juillet 1993 : commercialisation de Windows for Workgroups 3.11.
+Décembre 1993 : le magazine Fortune décerne à Microsoft le titre de « compagnie la plus innovante ».
+Avril 1994 : Windows for Workgroups 3.11 devient le système d'exploitation le plus vendu. 300 000 copies ont été vendues à travers le monde.
+Juin 1994 : Microsoft acquiert la montréalaise Softimage Inc. pour trente millions de dollars.
+Septembre 1994 : Microsoft choisit le nom officiel de la prochaine version de Windows (dont le nom de code est Chicago) : Windows 95.
+Janvier 1995 : Bill Gates annonce Microsoft Office for Windows 95, qui regroupe traitement de texte, calendrier, carnet d'adresses, courriel, etc.
+Mars 1995 : Microsoft et DreamWorks SKG (Steven Spielberg) fondent DreamWorks Interactive (laquelle sera rachetée par Electronic Arts en 2000).
+Août 1995 : lancement de Windows 95. Un million de copies seront vendues quatre jours seulement après sa sortie.
+1996 : création de MSNBC, un partenariat entre Microsoft et la National Broadcast Corporation (NBC).
+Juillet 1996 : lancement de Windows NT 4.0 qui remplace Windows NT 3.11. Cette version est plus lourde que Windows 95 mais plus fiable.
+Août 1996 : lancement d'Internet Explorer 3.0, c'est le début de la fin pour Netscape.
+Août 1997 : le différend qui opposait Microsoft et Apple au sujet de la paternité (et de la propriété) de l'interface graphique.
+Mai 1998 : début du procès « anti-trust » contre Microsoft aux États-Unis.
+Juillet 1998 : commercialisation de Windows 98, considéré à l'époque comme une révision mineure de Windows 95.
+1999 : Commercialisation de Windows 98 Deuxième Édition.
+Années 2000
+Janvier 2000 : Bill Gates cède sa place à Steve Ballmer à la tête de Microsoft.
+Février 2000 : commercialisation de Windows 2000, connu également sous le nom de Windows NT 5.0 disponible pour serveur et station de travail.
+Septembre 2000 : commercialisation en parallèle de Windows 2000 et de Windows Me, uniquement pour les stations de travail.
+Août 2001 : commercialisation de Windows XP, qui est la réunification de Windows 2000 pour sa robustesse et des Windows 9x pour l'aspect utilisateur particulier, avec une interface simple d'utilisation.
+27 septembre 2001 : la société anonyme Softimage France, propriété de Microsoft depuis 1994, a été condamnée par le tribunal de commerce de Nanterre à trois millions de francs de dommages-intérêts.
+15 novembre 2001 : lancement de la Xbox, aux États-Unis. La politique de Microsoft était de la vendre à prix coûtant pour amorcer la pompe et de prendre son bénéfice uniquement sur les jeux.
+14 mars 2002 : commercialisation de la Xbox en Europe.
+Septembre 2002 : rachat de Rareware.
+2003 : sortie du Service Pack 1 de Windows XP.
+Avril 2003 : commercialisation de Windows Server 2003 ; développement dans les technologies mobiles avec Windows CE : PocketPC (assistants personnels), smartphone (téléphones mobiles), etc.
+Août 2004 : sortie du Service Pack 2 de Windows XP.
+9 mai 2005 : lancement mondial de Windows Mobile 5.0 destiné aux smartphones et PDA
+8 novembre 2005 : lancement mondial de SQL Serveur 2005 et Visual Studio 2005 au Carrousel du Louvre à Paris ; Microsoft introduit dans SQL Server 2005 la notion de miroir de base.
+
+Console Xbox 360.
+2 décembre 2005 : sortie de la Xbox 360.
+30 novembre 2006 : disponibilité de Windows Vista pour les entreprises.
+30 janvier 2007 : sortie de Windows Vista et d'Office 2007 pour les particuliers.
+Mai 2007 : nouvelle technologie des claviers de demain, exposé à la foire de Paris.
+Mars 2008 : sortie du Service Pack 1 de Windows Vista.
+Avril 2008 : sortie du Service Pack 3 de Windows XP.
+26 mai 2009 : sortie du Service Pack 2 de Windows Vista.
+Juin 2008 : Microsoft acquiert MobiComp pour son expertise en gestion et protection de données personnelles mobiles[68].
+1er juin 2009 : lancement du nouveau moteur de recherche Bing[69].
+15 juillet 2009 : ouverture de la réservation de Windows 7 sur le site Microsoft.fr : la boutique Microsoft Store est en dérangement devant le trop grand nombre de demandes.
+22 octobre 2009 : lancement du système d'exploitation Windows 7[70].
+18 novembre 2009 : mise à disposition gratuitement de la bêta d'Office 2010[71].
+Années 2010
+15 juin 2010 : commercialisation d'Office 2010.
+21 octobre 2010 : sortie des téléphones sous Windows Phone 7 en Europe (8 novembre aux États-Unis).
+4 novembre 2010 : sortie de Kinect aux États-Unis et le 10 novembre en Europe.
+14 octobre 2011 : rachat de Skype, logiciel permettant aux utilisateurs de passer des appels téléphoniques via Internet, pour une somme de 8,5 milliards de dollars.
+23 août 2012 : Microsoft présente son nouveau logo avec ses nouvelles couleurs : Rouge pour Office, Vert pour Xbox, Bleu pour Windows et Jaune pour Bing.
+26 octobre 2012 : lancement de Windows 8.
+29 octobre 2012 : lancement d'Internet Explorer 10 sur les ordinateurs possédants Windows 8.
+8 avril 2013 : Ericsson rachète la filiale IPTV de Microsoft pour entre cent et 250 millions de dollars[72].
+2 septembre 2013 : Microsoft annonce le rachat de l'activité téléphonie mobile de Nokia pour 5,44 milliards d'euros[73].
+22 novembre 2013 : sortie de la Xbox One.
+4 février 2014 : Satya Nadella prend la place de Steve Ballmer comme PDG de Microsoft.
+Mai 2014 : acquisition de Capptain, spécialisé dans l'analyse des données d'usage des utilisateurs d'applications mobiles.
+Juillet 2014 : en juillet 2015, Microsoft annonce son retrait partiel du secteur de la publicité en ligne, au travers d'un partenariat avec AOL, acheté par Verizon[74],[75].
+17 juillet 2014 : Microsoft annonce la suppression de 18 000 emplois dont 12 500 dans la filiale de mobile de Nokia[76].
+15 septembre 2014 : acquisition de Mojang Studio, l'éditeur du jeu vidéo Minecraft pour 2,5 milliards de dollars[77].
+20 juillet 2015 : Microsoft acquiert l'entreprise israélienne de sécurité informatique Adallom pour 320 millions de dollars[78].
+29 juillet 2015 : lancement mondial du système d'exploitation Windows 10.
+6 octobre 2015 : rachat de Havok.
+26 octobre 2015 : lancement du Surface Book, premier ordinateur portable fabriqué par Microsoft.
+30 octobre 2015 : lancement du Microsoft Store[79], à New York sur la 5e Avenue.
+Mai 2016 : Microsoft annonce la vente pour 350 millions de dollars de ses activités dans les feature phone, c'est-à-dire les téléphones portables bas-de-gamme, à une filiale de Foxconn[80] et annonce un plan de licenciement de 1850 postes dans sa filiale mobile[81].
+13 juin 2016 : rachat de LinkedIn pour 26 milliards de dollars. C'est l'acquisition la plus importante dans l'histoire de Microsoft[note 1].
+Août 2016 : rachat de la startup Genee spécialisée dans l'intelligence artificielle qui a conçu un assistant virtuel intelligent spécialisé dans la prise de rendez-vous[84].
+28 septembre 2016 : Google, Facebook, IBM, Microsoft et Amazon officialisent dans un communiqué commun la création du « Partnership on Artificial Intelligence to Benefit People and Society » (« partenariat pour l'intelligence artificielle au bénéfice des citoyens et de la société »). Ce partenariat prendra la forme d'une organisation à but non lucratif, qui « mènera des recherches, recommandera de bonnes pratiques, et publiera les résultats de ses recherches sous une licence ouverte »[85].
+7 novembre 2017 : Microsoft sort la Xbox One X.
+4 juin 2018 : acquisition de l'entreprise GitHub pour la somme de 7,5 milliards de dollars américains[86].
+Années 2020
+Durant l'année 2020, la société annonce progressivement ses consoles de nouvelle génération[87], la Xbox Series X et la Xbox Series S pour une sortie face à la Playstation 5 de Sony en novembre.
+Le 21 septembre 2020, Microsoft annonce le rachat de ZeniMax Media[88], société mère de Bethesda et id Software qui possèdent des licences comme DOOM, The Elder Scrolls ou Fallout pour l'intégrer à ses Xbox Game Studios.
+Le 10 novembre 2020, Microsoft sort les Xbox Series X et S.
+Le 12 avril 2021, Microsoft annonce le rachat de Nuance communications pour 19,7 milliards de dollars[89].
+Le 24 juin 2021 : Lancement de Windows 11.
+Le 18 janvier 2022, Microsoft annonce le rachat de Activision Blizzard pour 68,7 milliards de dollars[90].
+Le 25 avril 2022, dans un nouveau partenariat avec Microsoft Corp., Mastercard a annoncé le lancement d'une solution d'identification améliorée destinée à améliorer l'expérience d'achat en ligne et à lutter contre la fraude numérique[91].
+Le 16 juin 2022, Microsoft, en partenariat avec l'Institut Curie, lance lors de la 6ème édition de « Viva Technology », Biotech Scaler Program, un programme d'accompagnement des Startups de la Biotech & Medtech française afin d'accélérer la découverte et la croissance de leurs produits[92].
+En janvier 2023, Microsoft annonce la suppression de 10 000 postes dans le monde (soit 5% de son effectif). Les licenciements se feront avant la fin du 1er trimestre 2023[93].
+Le 19 juillet 2024 une panne mondiale de Microsoft a été causée par une mise à jour défectueuse du logiciel de cybersécurité CrowdStrike[94],[95]. Cette mise à jour a provoqué des défaillances à grande échelle, entraînant des boucles d'écran bleu de la mort (BSOD) sur les systèmes Windows 10 et 11[96]. En raison de cette panne, de nombreux secteurs, y compris les aéroports et les entreprises, ont été gravement perturbés[97]. Microsoft et CrowdStrike travaillent activement à déployer un correctif pour résoudre ce problème[98].
+Le 27 novembre 2024, l'ouverture d'une enquête de la Commission fédérale de commerce (FTC), présidée par Lina Khan, pour l'abus de position dominante est révélée, visant en particulier la vente groupée de logiciels. Son possible départ de la présidence de la FTC à la suite de l'investiture de Donald Trump rend les suites de cette plainte incertaines[99].
+Le 9 janvier 2025, Microsoft annonce qu'elle contribuera à hauteur de 1 million de dollars au fond d'inauguration de Donald Trump[100].
+Systèmes, logiciels et technologies
+Stratégie du « One Windows »
+Article détaillé : Microsoft Windows.
+
+Logo de Windows.
+Microsoft veut que Windows 10 harmonise l'expérience utilisateur et la fonctionnalité entre les différentes classes de périphériques, par exemple en corrigeant les lacunes de l'interface utilisateur qui ont été introduites dans Windows 8[101],[102],[103]. Ou bien encore centraliser toutes les applications autour de Windows. Cette stratégie, Microsoft la nomme « One Windows » c'est-à-dire créer un seul écosystème regroupant les Windows pour smartphones, Xbox, les objets connectés ainsi que les autres projets de Microsoft comme le casque à réalité augmentée Hololens ou le tableau interactif de réunion Surface Hub[104],[105],[106],[107].
+
+Ces applications universelles sont faites pour fonctionner sur plusieurs plates-formes et les classes de périphériques, y compris les smartphones, tablettes, Xbox, et d'autres compatible avec Windows 10[108],[109],[110]. Les applications universelles de Windows, partagent du code entre les plates-formes pour s'adapter aux besoins de l'appareil et des tâches demandées, pour synchroniser les données entre Windows 10 et les différents appareils qui sont distribués par le Windows Store qui est lui aussi unifié[111],[112].
+
+Les applications que Microsoft propose avec Windows 10 sont par exemple :
+
+Cortana, un assistant personnel virtuel développé par Microsoft. Il repose principalement sur Bing, le moteur de recherche de la firme, ainsi que sur les données présentes sur le smartphone de l'utilisateur (contacts, courriels, calendrier, etc.) Il concurrence les assistants Siri d'Apple, S Voice de Samsung et Google Now. Les résultats sont retournés par Bing, mais aussi par des services externes, comme Foursquare pour la géolocalisation[113],[114].
+Microsoft Edge, le navigateur web de Microsoft conçu pour remplacer Internet Explorer[115]. Contrairement à Internet Explorer, Edge est une application universelle, c'est-à-dire qu'il peut tourner sur PC, tablette et smartphone. Son nom de code, « Spartan », provenait du héros de la série de jeux vidéo Halo, le Spartan John-117. Également, le navigateur est muni d'un mode lecture. On peut aussi prendre des notes facilement depuis Microsoft Edge grâce à l'outil « Écrire une Note Web » intégré au navigateur.
+Windows est installé sur presque 90 % des ordinateurs personnels (postes clients) vendus dans le monde[116], et dégage actuellement 87 % de marge bénéficiaire. Néanmoins, Windows perd petit à petit quelques parts de marché au profit de l'OS X d'Apple[117]. Linux a grignoté pour sa part une grande part du marché des serveurs, où l'ergonomie est un critère secondaire[118]. Windows reste cependant en 2016, le produit le plus rentable de l'éditeur, suivi de près par la suite Microsoft Office. Windows 10 est la première version de Windows qui est officiellement la même sur toutes les plateformes (ordinateur de bureau, ordinateur portable, tablette tactile, smartphone, montre connectée, casque de réalité virtuelle) bien qu'il s'agisse d'une version modifiée du Windows 10 original. Microsoft a déclaré que c'est la dernière « grande » version disponible sur support physique et que les mises à jour suivantes seront disponibles gratuitement en OTA (via Internet) en tant que « Service Packs » nommés Windows 10.x.x. Une version spécifique, Windows 10 Mobile, sera disponible pour les appareils mobiles à processeurs ARM et dont l'écran fait moins de 8 pouces. Le système pour les tablettes de moins de 8 pouces aura donc une apparence proche de celle de Windows Phone alors que les tablettes de plus de 8 pouces auront obligatoirement une architecture 32 bits ou 64 bits et exécuteront Windows 10 pour PC.
+
+Bill Gates a appelé son service d'exploitation Windows (fenêtres), car l'innovation principale du système d'exploitation était l'emploi de fenêtres d'affichage[note 2].
+
+La famille Windows Phone est un système d'exploitation mobile qui est le principal produit orienté mobiles de la firme. Il inclut des services de Microsoft comme Office, OneDrive, Xbox Live et Bing. Il intègre aussi des fonctionnalités axées vers les médias sociaux tels Facebook et Twitter. Comme Windows Phone est une nouvelle plate-forme, il n'existe aucune compatibilité avec les applications Windows Mobile. Les ventes des portables sous Windows Phone 7 sont limitées, avec seulement 3 % des ventes en 2011[119].
+
+Les ventes de smartphones sous Windows Phone 8 partent dans une meilleure direction pour Microsoft. En effet, en 2013, Windows Phone 8 dépasse les 10 % de parts de marché en Europe[120] et se retrouve même devant iOS en Amérique latine[121]. Windows 10 Mobile est la version mobile du système d'exploitation Windows 10 développé par Microsoft[122]. Windows 10 Mobile succède à Windows Phone 8.1, et est conçu pour les smartphones et les tablettes tactiles d'une diagonale d'écran inférieure à 8 pouces, fonctionnant sur les architectures ARM, ainsi qu'IA-32. Sa sortie est prévue pour fin 2015[123].
+
+Office, la suite bureautique
+Article détaillé : Microsoft Office.
+À l'origine, c'est une suite bureautique de l'éditeur, composée de nombreux logiciels dont le traitement de texte Word, le tableur Excel, le logiciel de présentation PowerPoint, le logiciel de publication Publisher, l'outil de communication et agenda Outlook et la base de données Access. Depuis 2003, la suite Office s'est largement étendue, avec de nombreux logiciels serveurs comme Office Communication Server ou Microsoft Office Web Applications.
+
+Office est un des logiciels les plus rentables de l'éditeur[15].
+
+Dans les nouvelles versions d'Office, Microsoft axe sa stratégie sur des applications qui hébergent les données dans le Cloud, avec notamment la sortie de la licence Office 365. Cet outil en ligne permet d'avoir accès à de nombreuses ressources, telles que la suite Office 2016 (version en ligne ou locale), SharePoint, Office Online, OneNote, OneDrive, etc., en fonction du niveau de licence acquis.
+
+Office Online, est une version en ligne gratuite de Microsoft Office accessible depuis un navigateur web, et dont certaines fonctionnalités sont toutefois réduites par rapport aux logiciels de la suite Office installés sur un ordinateur.
+
+Office Online regroupe ainsi les services en ligne Word Online, Excel Online, PowerPoint Online, OneNote Online mais aussi Outlook.com. La page d'accueil d'Office.com permet d'accéder aux espaces Contacts, Calendrier et OneDrive. Office Online intègre les outils traditionnels d'Office avec des fonctionnalités de collaboration en temps réel supplémentaires.
+
+
+Logo de Skype.
+Microsoft propose aussi un drive qui se nomme Microsoft OneDrive qui est un ensemble de services en ligne : stockage et applications Word, Excel, PowerPoint et OneNote, dont les fonctionnalités sont toutefois réduites par rapport aux logiciels installés sur un ordinateur. Ce service a été créé en 2007 et a porté les noms Windows Live Folders, Windows Live SkyDrive, SkyDrive et enfin son nom actuel depuis janvier 2014.
+
+Le service peut s'utiliser de deux manières : à travers un navigateur web, en téléchargeant des fichiers sur un serveur, en les récupérant sur son ordinateur au besoin et en les partageant avec des amis ou avec tous les internautes ; ou à travers le logiciel OneDrive qui permet une synchronisation rapide entre OneDrive et les supports informatiques compatibles. Ce service est une manifestation du concept de cloud computing.
+
+Début 2012, Microsoft a annoncé l'intégration de SkyDrive dans Windows 8. En avril 2012, la capacité de stockage est abaissée à 7 Go et devient payante au-delà, avec des offres allant de 8 à 37 euros par an permettant d'atteindre jusqu'à 100 Go. Toutefois, pour les utilisateurs déjà inscrits, il était possible de demander l'extension à 25 Go gratuitement. Cette possibilité n'existe plus depuis le 1er mai 2012.
+
+À la fin de juillet 2013, à la suite d'un procès perdu contre le groupe audiovisuel britannique British Sky Broadcasting (BSkyB), Microsoft sera contraint de changer le nom de son service de stockage en ligne[124]. Finalement, c'est le 27 janvier 2014 que Microsoft annonce le changement de nom en OneDrive. Le 18 février 2014, le nom de SkyDrive devient officiellement OneDrive.
+
+Skype est un logiciel gratuit qui permet aux utilisateurs de passer des appels téléphoniques et vidéo via Internet, ainsi que le partage d'écran. Les appels d'utilisateur à utilisateur sont gratuits, tandis que ceux vers les lignes téléphoniques fixes et les téléphones mobiles sont payants. Il existe des fonctionnalités additionnelles comme la messagerie instantanée, le transfert de fichiers et la visioconférence.
+
+
+Logo actuel de OneDrive.
+
+Ancien logo de OneDrive.
+Le 6 novembre 2012, Microsoft annonce que les utilisateurs de Windows Live Messenger seront d'ici à quelques mois intégrés dans Skype. Windows Live Messenger sera désactivé le premier trimestre 2013[125] (exception faite de la Chine). À cela s'ajoute un changement technologique, puisque 80 %[126] de la messagerie instantanée transiteraient par les serveurs de Messenger.
+
+En décembre 2014, Skype lance Skype Translator. Cette application permettra la traduction instantanée des communications vocales dans plus de quarante langues. Pour son lancement, les deux premières langues supportées par l'application sont l'anglais et l'espagnol[127]. Skype est désormais intégré à la suite bureautique en ligne qui se nomme Office Online[128].
+
+Le 14 mars 2017, Microsoft lance Teams pour concurrencer Slack dans son offre Office 365 pour entreprise : un logiciel collaboratif basé sur Skype.
+
+En septembre 2017, une nouvelle offre Microsoft 365 est lancée. Elle inclut Office 365, Windows 10 et Enterprise Mobility + Security. C'est une solution destinée aux entreprises ou au secteur de l'éducation. Elle favorise l'aspect collaboratif dans un environnement sécurisé.
+
+Influence sur Internet
+Microsoft voulait[Quand ?] être influent dans le monde d'internet, comme toute société à l'époque[Quand ?], par exemple avec Internet Explorer qui est un navigateur web équipant un peu plus de 60 % des ordinateurs du monde en mars 2011 (selon StatOwl.com)[129]. La version actuelle est la version 11 avec Windows 8. Une version d'Internet Explorer est disponible gratuitement pour les systèmes Mac OS d'Apple, mais le développement de cette version a toutefois été arrêté en 2003. Néanmoins, le navigateur perd des parts de marché depuis 2004, avec l'arrivée d'autres navigateurs comme Mozilla Firefox, Google Chrome et Safari[129]. Cette baisse coïncide avec l'ajout du ballot screen en Europe, un écran obligeant le consommateur à choisir son navigateur web, une mesure imposée par la Commission européenne[130].
+
+
+Icône de Bing depuis 2023.
+Bing est le moteur de recherche développé par la société Microsoft. Il a été rendu public le 1er juin 2009. Au moment de sa sortie, en 2008, cela révélait un changement dans la stratégie commerciale de Microsoft, qui séparait son moteur de recherche de sa suite d'applications Windows Live. Dans sa version finale, Bing offre les options de recherches suivantes : sites web, images, vidéos, shopping, actualités, cartes, voyages…
+
+Selon Microsoft, ce moteur de recherche innove en termes d'algorithmes, qui donne des résultats plus pertinents, mieux organisés et classés en rubriques thématiques[131].
+
+L'objectif pour Microsoft avec ce quatrième moteur de recherche est de mieux concurrencer la suprématie du géant Google, dominant dans ce secteur. Ce dernier compte, à la date d'avril 2009, 65,3 % de part de marché. Lors du lancement de Bing, Microsoft a prévu un budget communication compris entre 80 et 100 millions de dollars[132].
+
+Ce moteur de recherche est intégré aux pages de MSN et Windows Live. En juillet 2009, un partenariat a été conclu entre Microsoft et Yahoo!. Cet accord prévoit que Bing fournisse son algorithme au moteur de recherche Yahoo! Search sur les portails Yahoo!.
+
+
+Logo de MSN depuis 2024.
+Concernant MSN, c'est un portail web offrant des sites et services Internet fourni par Microsoft. The Microsoft Network est originellement un service en ligne et fournisseur d'accès à internet commercialisé le 24 août 1995, en même temps que la sortie de Windows 95.
+
+MSN se présente comme une plateforme interactive, donnant à terme un accès à l'ensemble des produits de Microsoft, comme Outlook.com, Skype, la suite Office en ligne et le service de stockage dématérialisé OneDrive. Facebook et Twitter sont quant à eux intégrés à l'ensemble du site afin de pouvoir communiquer et échanger des informations à tout moment par le biais des réseaux sociaux.
+
+MSN se divise en dix thèmes (actualités, sport, finance, lifestyle, cuisine et vins, divertissement, santé et forme, etc.). Il présente les derniers résultats sportifs, des avis sur des produits commerciaux, des recettes de cuisine, des horaires de vols, la météo à venir et les cours de la bourse.[réf. nécessaire]
+
+Une étude publiée le 14 avril 2026 indique que les entreprises Google, Meta et Microsoft ne respectent pas le dispositif Global privacy control (GPC) et déposent des cookies publicitaires même lorsque le navigateur a activé l'option interdisant le pistage. Ce comportement contrevient au California Consumer Privacy Act et au Règlement général sur la protection des données (RGPD)[133].
+
+Développement et productivité
+Microsoft propose aussi plusieurs outils pour les entreprises comme Microsoft SQL Server qui est le système de gestion de base de données (SGBD) phare de Microsoft, codéveloppé avec Sybase jusqu'en 1994. Microsoft Access est le SGBD personnel inclus dans la suite Office, et Extensible Storage Engine est le moteur de SGBD utilisé dans des produits de la marque tels que Exchange ou Active Directory[134]. Plus d'une centaine d'outils périphériques sont disponibles, soit lors de l'installation (SQL Profiler, Database Tuning Advisor, Data Collector…), soit directement sur le site de Microsoft (SQLdiag, SQLioSim, SQL Server Best Practices Analyzer…), soit à travers le site communautaire opensource Codeplex (RML Utilities, PAL, Open DBDiff…).
+
+Une instance de SQL Server est une installation de tout ou partie des services SQL Server sur une machine Windows et peut héberger de nombreuses bases de données. Un même OS supportant jusqu'à 50 instances différentes (ce qui n'est pas conseillé en production).
+
+SQL Server existe en différentes éditions : CE (Compact Édition : solution embarquée pour les smartphones), Express (plusieurs déclinaisons gratuites), Web (en mode SPLA : Service Provider License Agreement, auprès d'hébergeurs web), Standard, BI et Enterprise — ceci pour la production. L'édition Developper, équivalente à l'édition Enterprise, est destinée au développement.
+
+Il y a aussi Visual Studio qui est la suite de développement de la firme, incluant divers éditeurs et compilateurs, essentiellement une version améliorée de BASIC nommée Visual Basic, ainsi que des évolutions de C++ et de C#, qui constitue la réponse de Microsoft au langage Java. Cette suite permet aussi de tirer parti des fonctionnalités du .NET Framework.
+
+
+Logo de Visual Studio 2022
+Depuis le 20 juillet 2015, une nouvelle version marque une fusion entre les éditions Premium et Ultimate pour simplifier le choix : trois éditions sont disponibles : Community, Professionnel et Enterprise[135].
+
+Le numéro de version interne de Visual Studio 2015 est 14.0 (le symbole _MSC_VER étant défini comme 1900).
+
+Microsoft propose aussi la suite Microsoft Azure (Windows Azure jusqu'en 2014) qui est le nom de la plate-forme applicative en nuage pour entreprise de Microsoft. Son nom évoque le concept de « cloud computing » ou informatique en nuage (l'externalisation des ressources informatiques d'une entreprise vers des datacentres distants). Il s'agit d'une offre d'hébergement (applications et données) et de services (workflow, stockage et synchronisation des données, bus de messages, contacts…).
+
+Un ensemble d'API permet d'utiliser et d'accéder à cette plate-forme et aux services associés.
+
+Un environnement d'exécution (le « Live Operating Environment ») permet une intégration étroite avec les principaux systèmes d'exploitation existant (Windows, Mac OS et Windows Phone).
+
+Le 20 juillet 2016, Microsoft est accusé par la CNIL d'une collecte de données excessive avec son système d'exploitation pour ordinateurs et tablettes. La CNIL met en demeure Microsoft de « cesser la collecte excessive de données et le suivi de la navigation des utilisateurs sans leur consentement ». Elle lui demande aussi d'assurer de façon satisfaisante la confidentialité des données des utilisateurs[136].
+
+Industrie du jeu vidéo
+Article détaillé : Xbox Game Studios.
+Microsoft est l'éditeur de nombreux jeux vidéo pour PC dont Flight Simulator, Age of Empires, Fable ou Viva Piñata. Un service communautaire a été lancé en 2006, « Games for Windows ». Cette gamme accueille plusieurs jeux comme Gears of War ou Grand Theft Auto IV, mais est abandonnée par de grands éditeurs tels THQ[137], qui justifie son retrait par des « demandes récurrentes de joueurs lassés par ce service ». En 2013, le service Games for Windows est abandonné par Microsoft, face à la concurrence d'autres plateformes comme Steam, et pour mettre en valeur les nouveaux services de Microsoft comme le Windows Store qui propose lui aussi des jeux. Il propose également DirectX, une API multimédia (vidéo, son, réseau, etc.) pour le développement d'application Windows (principalement des jeux vidéo) et aussi Silverlight qui permet de visionner des animations vectorielles (faisant ainsi concurrence à Adobe Flash Player), intégrant de l'audio et de la vidéo.
+
+Microsoft Studios, créé en 2002 sous la dénomination Microsoft Game Studios (aussi appelé Microsoft Game Division), est une société détenue par Microsoft qui développe et édite des jeux vidéo pour les plates-formes Microsoft Windows ou les consoles Xbox, Xbox 360 et Xbox One. La société publie notamment les jeux des studios de développement internes comme 343 Industries ou Rare Ltd., mais aussi des studios de développement tiers comme BioWare ou Bizarre Creations.
+
+Le 15 septembre 2014, Microsoft acquiert la société Mojang Studio (à l'origine du jeu Minecraft) pour 2,5 milliards de dollars. Minecraft est un jeu vidéo indépendant de type « bac à sable » développé par le Suédois Markus Persson alias Notch, puis par le studio de développement Mojang Studio. Ce jeu vidéo plonge le joueur dans un univers réaliste, mais cubique : tout est composé de blocs en 3D pixelisés. Un des principes de base consiste à exploiter les ressources naturelles (minéralogiques, fossiles, animales et végétales) pour en faire de la nourriture, des produits manufacturés ou des matériaux de construction.
+
+En août 2016, Microsoft annonce le rachat de la plateforme de streaming Beam (renommée Mixer en 2017) afin de permettre aux spectateurs d'interagir avec d'autres joueurs sur des parties de jeux vidéo en direct[138]. Mixer a fermé en 2020 et a fusionné avec Facebook Gaming.
+
+Matériel et projet de Microsoft
+Xbox, la console de jeu
+Articles détaillés : Xbox, Xbox 360, Xbox One et Xbox Series.
+
+Logo de la Xbox.
+
+Xbox One.
+Microsoft s'est lancé en 2001 dans ce secteur hautement concurrentiel, en sortant sa propre console de jeux vidéo la Xbox et en 2005, la Xbox 360. Elles proposent toutes les deux des centaines de jeux et un mode de jeu en ligne communautaire, le Xbox Live. La Xbox 360 permet également de se connecter à Windows Live Messenger, Facebook et Twitter et d'utiliser d'autres services de Microsoft. Elle peut également lire des DVD, des vidéos, ou de la musique. Depuis une récente mise à jour s'inspirant de l'interface de Windows 8, différentes applications sont arrivées sur la console comme Internet Explorer Xbox 360, YouTube, Dailymotion et différentes télés de rattrapage (TF1, Pluzz, Arte, M6…).
+
+La Xbox 360 possède environ 30 % des parts de marché sur le marché des consoles de jeux vidéo en février 2009[139]. Elle est de plus rentable depuis 2008 pour l'éditeur[140]. Les consoles Xbox au Japon ont peu de succès, contrairement à l'Amérique du Nord. Au Japon, la Xbox 360 peine à atteindre un million d'unités vendues en trois ans, alors que la PS3 s'est vendue à presque trois millions en deux ans, et la Wii à sept millions en deux ans[141]. Malgré quelques remontées en 2008 et 2009 grâce notamment à la sortie de plusieurs JRPG (en) comme Star Ocean 4 ou Infinite Undiscovery[142], elle reste loin derrière. Néanmoins, cela ne l'empêche pas d'avoir un succès dans le reste du monde[143].
+
+La Xbox One est une console de jeux vidéo de huitième génération développée par Microsoft. Dévoilée le 21 mai 2013, elle succède à la Xbox 360 et se place en concurrence frontale avec la PlayStation 4 de Sony, et plus indirectement avec la Wii U de Nintendo. Elle est disponible depuis le 22 novembre 2013 dans treize pays et depuis septembre 2014 dans vingt-six autres pays. D'abord uniquement commercialisée avec Kinect, Microsoft propose la console seule à partir du 9 juin 2014.
+
+
+Logo de la Xbox Series X.
+La Xbox One S est sortie vers août 2016 et a été présentée lors de l'E3 2016. La Xbox One S est plus légère, 40 % plus petite que la Xbox One, possibilité de la mettre à la verticale, le bloc d'alimentation est intégré à l'intérieur, la technologie HDR est intégrée, tout comme un affichage UHD. On note également une petite augmentation de puissance par rapport à la Xbox One.
+
+Lors de l'E3 2016, Microsoft annonce l'arrivée de la « console la plus puissante au monde » : la Xbox One X, et à l'E3 2017, Microsoft donne la date de mise sur le marché de la console : le 7 novembre 2017. Elle est capable de diffuser de la vraie 4K et améliore les graphismes en Full HD[144]. Elle est également la première console à utiliser un système de refroidissement à vapeur et refroidissement liquide.
+
+En décembre 2019, Microsoft annonce la Xbox Series X, initialement appelée « Projet Scarlett »[145]. Cette dernière est accompagnée par la Xbox Series S, qui est une entrée de gamme à la Next-Gen[146]. Les deux consoles sortent le 10 novembre 2020[147] et permettent de jouer à de nombreux jeux développés sur les générations précédentes[148].
+
+Lumia, le smartphone de la firme
+Article détaillé : Microsoft Lumia.
+Microsoft Lumia (appelé jusqu'en 2014, Nokia Lumia) est une gamme d'appareils mobiles conçue et commercialisée par Microsoft Mobile et précédemment par Nokia. Lancée en novembre 2011, cette série de smartphones et d'une tablette tactile est le résultat de la coopération des sociétés Nokia, constructeur des téléphones, et Microsoft, concepteur du système d'exploitation Windows Phone. Le nom Lumia vient du mot finnois lumi, qui signifie « neige »[149].
+
+À la suite du rachat de la branche mobile de Nokia par Microsoft, celui-ci annonce en octobre 2014 que désormais la gamme Nokia Lumia s'appellera Microsoft Lumia[150].
+
+Les appareils Lumia, outre les fonctions élémentaires (téléphonie, SMS et MMS), disposent, comme leurs concurrents, d'un écran tactile capacitif multipoint, d'un appareil photo équipé d'une caméra HD, d'un système de géolocalisation intégré, d'un logiciel de cartographie numérique inclus, d'un système d'écoute et de téléchargement de la musique, d'un client Internet, d'applications bureautiques Office, d'une plateforme permettant le téléchargement d'applications mobile (Windows Store).
+
+Comme les appareils Lumia utilisent exclusivement Windows Phone, les mises à jour de l'OS sont souvent accompagnées de mises à jour firmware lors du déploiement. Nokia et Microsoft Mobile ont publié plusieurs mises à jour firmware exclusives aux dispositifs Lumia, celles-ci sont nommées grâce à une couleur qui leur est associée, comme : « Lumia Black ». Les mises à jour peuvent contenir des améliorations logicielles de types photographies ou avancées technologiques ; mais aussi des corrections de bugs.
+
+En Juillet 2015, Bloomberg a rapporté que Microsoft préparait une restructuration de Microsoft Mobile, qui comprend la gamme Lumia Microsoft. Microsoft a également signalé qu'il commercialisera moins de modèles[151].
+
+Dans le cadre d'une restructuration plus importante du groupe d'ingénierie, Microsoft Devices & Studios a été fusionné avec le Groupe d'ingénierie des systèmes d'exploitation pour former le plus grand groupe d'ingénierie regroupant Windows et les périphériques, et en juillet 2015, il a été annoncé que le chef de la gamme Surface, Panos Panay serait à la tête de la nouvelle organisation Microsoft, qui comprend les Microsoft Lumia ainsi que divers autres produits matériels Microsoft tels que les Band, HoloLens, et Xbox[152].
+
+Microsoft ne produit plus aucun Lumia depuis mai 2016 et n'en vend plus depuis décembre 2016.
+
+Surface, tablette et ordinateur
+Article détaillé : Microsoft Surface.
+
+Microsoft Surface Pro 3.
+Microsoft Surface est une gamme de tablettes PC conçues et commercialisées par Microsoft. Cela comprend les tablettes PC (Surface et Surface Pro), les ordinateurs portables (Surface Book), et les tableaux interactifs (Surface Hub).
+
+La gamme Surface est donc concentrée en trois grandes lignes majeures :
+
+les tablettes, destinées aux utilisateurs ayant un budget réduit et aux étudiants ;
+les tablettes Pro, destinées aux professionnels ;
+les ordinateurs hybrides, destinés aux professionnels et gamers à la recherche de performances et d'exclusivités.
+Le Surface Hub, le tableau interactif, est considéré comme un produit à part, qui par son prix élevé ciblera les entreprises.
+
+Il existe cinq modèles de cette tablette avec sa déclinaison Pro. Les Surface tournent sous Windows RT, Windows 8 et Windows 10. Au mois d'octobre 2015 Microsoft annonce qu'elle sortira son premier ordinateur portable : le Surface book, en concurrence direct avec le Macbook d'Apple.
+
+En mai 2024, pour faire face à des baisses de vente importantes sur le marché des ordinateurs portables, Microsoft présente sa nouvelle gamme de matériels, les Copilot+ PCs, qui intègre par défaut une intelligence artificielle. Celle-ci soulève rapidement des interrogations concernant la vie privée des consommateurs, en particulier avec la fonction « Recall ». Celle-ci permet à l'ordinateur de prendre une capture d'écran toutes les secondes, qui est entreprosée chiffrée localement. Microsoft indique qu'il s'agit d'une fonctionnalité optionnelle et configurable[153].
+
+Band, un bracelet pour faire du sport
+Article détaillé : Microsoft Band.
+
+Microsoft Band 2.
+Microsoft Band est une montre connectée dévoilée le 29 octobre 2014. Disponible dès le lendemain aux États-Unis, elle est l'une des premières à fonctionner aussi bien avec Windows Phone, Android et iOS. L'utilisation de Microsoft Band avec un Windows Phone permet d'interagir avec Cortana, l'assistant personnel présent dans le système d'exploitation de la firme de Redmond, grâce au microphone intégré[154].
+
+L'appareil se synchronise par le biais de l'application Microsoft Health disponible sur Windows Phone, Android, et iOS. Elle se connecte à un smartphone au moyen du système Bluetooth, mais peut fonctionner de manière autonome puis être synchronisée avec un PC sous Windows ou un Mac.
+
+Annoncé le 6 octobre 2015, le Microsoft Band 2 est la seconde génération du bracelet connecté. Tout comme la première génération, il comprend un cardiofréquencemètre optique, un accéléromètre à trois axes, un gyromètre, un GPS, un microphone, un photodétecteur, des capteurs de réponse corporelle, un capteur à ultraviolets, un thermomètre de peau et un capteur de déplacement capacitif ; il comprend également un nouveau capteur : le baromètre, permettant de mesurer l'altitude. Cortana est directement intégrée au bracelet.
+
+Microsoft ne vend plus de Microsoft Band 2 depuis novembre 2016, a supprimé un projet d'un éventuel Band 3 et a supprimé les SDK de développement[155].
+
+HoloLens, un casque de réalité augmentée
+Article détaillé : Microsoft HoloLens.
+Présenté le 21 janvier 2015, HoloLens est un casque de réalité augmentée permettant de simuler des hologrammes qui s'intègrent dans le champ de vision de l'utilisateur. Selon Satya Nadella, dirigeant de la société, le dispositif va faire rentrer l'industrie dans l'ère de « l'informatique holographique »[156]. Le développement de Microsoft HoloLens est conduit par l'équipe d'Alex Kipman et s'est fait en partenariat avec la NASA[157]. Le casque est dévoilé par Microsoft lors de la conférence Windows 10: The Next Chapter, le 21 janvier 2015. Le 29 avril 2015, Microsoft va encore plus loin et montre une démonstration en direct lors d'un événement consacré à l'avenir de Windows 10, baptisé Build 2015[158]. Le 15 juin 2015, Microsoft dévoile lors de l'E3 2015 une version de Minecraft compatible avec HoloLens. Mojang Studio se livre même à une démonstration en direct sur scène[159]. Le 6 octobre 2015, Microsoft annonce que les kits de développement pour Microsoft HoloLens seront distribués lors du premier trimestre de 2016, pour 3 000 $[160].
+
+Le casque est un ordinateur complet équipé d'une version de Windows adaptée et compatible avec Windows 10[161]. Trois processeurs sont utilisés : le premier est le CPU principal, le deuxième est un processeur graphique (GPU) et le troisième gère les hologrammes (baptisé HPU pour « Holographic Processing Unit »)[162],[163]. Des capteurs de mouvements permettent à l'utilisateur de se déplacer en l'utilisant, le son produit par le casque est spatialisé[157]. La simulation des hologrammes fonctionne avec les gestes de l'utilisateur, une commande vocale est aussi disponible, le casque ne nécessite pas d'être connecté à Internet ou à un autre appareil pour fonctionner[164]. Il pèse environ 400 grammes.
+
+Intelligence artificielle
+Article détaillé : Microsoft Copilot.
+En 2017, Microsoft réalise sa première acquisition dans le domaine de l'intelligence artificielle avec une entreprise canadienne, Maluuba[165]. L'équipe chargée de ce projet sera intégrée dans le pôle Intelligence artificielle et développement de Microsoft. La firme a déjà commencé à travailler dans le domaine de l'intelligence artificielle, mais cette acquisition signe une volonté de se développer[166].
+
+En 2019, Microsoft a par ailleurs annoncé son intention d'investir un milliard de dollars dans OpenAI, en échange d'un partenariat privilégié avec OpenAI, lorsque la société commercialisera ses technologies d'intelligence artificielle[167].
+
+
+Logo de Microsoft Copilot.
+Au début de 2023, d'après le média Semafor et l'agence Bloomberg News, un investissement supplémentaire de la part de Microsoft à hauteur de dix milliards de dollars serait en cours de négociation[168]. L'objectif en est d'accélérer l'intégration des solutions d'OpenAI dans les logiciels de Microsoft, comme la suite bureautique Microsoft Office. Selon Semafor, ce nouveau financement prévoit que Microsoft obtienne 75 % des bénéfices d'OpenAI jusqu'à la récupération de son investissement initial[169],[170].
+
+Le 7 février 2023, Microsoft lance l'agent conversationnel Bing Chat, qui sera renommé plus tard en Microsoft Copilot. Fondé sur plusieurs grands modèles de langage développés par l'entreprise OpenAI, il est capable de notamment citer des sources, de créer des poèmes, d'écrire des chansons, ou de créer des images. Il s'agit du principal remplaçant de l'assistant personnel intelligent Cortana, dont la commercialisation a été interrompue[171].
+
+En janvier 2025, la suite bureautique Microsoft 365 (succédant à Microsoft Office et Office 365) change de nom pour Microsoft 365 Copilot afin de souligner l'intégration de l'agent conversationnel Copilot dans celle-ci[172],[173].
+
+Actionnaires
+Liste des principaux actionnaires au 29 août 2023[174] :
+
+The Vanguard Group	8,53 %
+Fidelity Management & Research	2,13 %
+Geode Capital Management LLC	1,83 %
+Capital Research & Management	1,51 %
+Capital Research & Management	1,45 %
+Bill Gates	1,39 %
+T. Rowe Price Associates, Inc. (Investment Management)	1,22 %
+Norges Bank Investment Management	1,16 %
+JPMorgan Investment Management	0,76 %
+Wellington Management Co. LLP	0,61 %
+Direction, finances et activités
+Dirigeants et Conseil d'administration
+
+Bill Gates.
+Bill Gates : cofondateur emblématique de Microsoft, avec Paul Allen, il en est l'actionnaire principal (ce qui a fait de lui l'homme le plus riche du monde de 1995 à 2008 cédant sa place à Warren Buffett avec 67 milliards de dollars selon le classement annuel du magazine Forbes ; il récupère finalement sa place de premier du classement en 2009, mais la perd à nouveau en 2010 au profit de Carlos Slim. Il redevient premier en 2014). Président et Directeur de l'Architecture Logicielle (il fut PDG de 1975 à 2000), désigné personnalité de l'année 2005 par l'hebdomadaire Time Magazine, aux côtés de sa femme Melinda et du chanteur Bono du groupe U2, pour leur participation à l'effort humanitaire en général, et particulièrement cette année-là, à la suite du tsunami de 2004 en Asie et de l'ouragan Katrina à La Nouvelle-Orléans[175]. Il a annoncé en juin 2006 qu'après une période de transition de deux ans, il se consacrera à plein temps à la Fondation Bill-et-Melinda-Gates (Bill & Melinda Foundation), tout en demeurant actionnaire, président, et conseiller de Microsoft. Bien peu d'entreprises ont eu une image liée si fortement à leur fondateur, si bien qu'il a souvent été comparé à Henry Ford et à William Rockefeller, qui furent comme lui à l'origine de nouveaux domaines économiques (véhicules particuliers et industrie pétrolière), et également d'excès de la société de consommation. C'est en tant que grande figure du marché qu'il subit son entartage par Noël Godin et ses acolytes, en 1998 à Bruxelles[176].
+Steve Ballmer, employé de l'entreprise depuis 1980, il en devient le directeur (Chief Executive Officer) en janvier 2000, lorsque Bill Gates décide de prendre du recul par rapport à la gestion de la société, pour se consacrer essentiellement à la stratégie-produits. Il fait la connaissance de Bill Gates à l'université Harvard et entre chez Microsoft en 1980. Ballmer est CEO de l'entreprise de 2000 à 2014, date à laquelle il cède son poste à Satya Nadella. Depuis le 12 août 2014, il est officiellement le nouveau propriétaire des Clippers de Los Angeles. Le 23 août 2013, il annonce qu'il prendra sa retraite dans l'année[177].
+Le 4 février 2014, il est remplacé à la direction de l'entreprise par Satya Nadella. Nadella était précédemment vice-président de la branche Cloud et Entreprise de cette entreprise, notamment responsable de la gestion et de l'évolution des plates-formes informatiques (serveurs et postes de travail), de la branche Développement et des activités cloud (dématérialisées) du groupe.
+La société est dirigée par un conseil d'administration composé principalement de l'extérieur de l'entreprise, comme il est habituel pour les sociétés cotées en bourse. Les membres du conseil d'administration à partir du mois de septembre 2014 sont : John W. Thompson, Dina Dublon, Bill Gates, Maria Klawe, David Marquardt, Mason Morfit, Satya Nadella, Charles Noski, Helmut Panke et John W. Stanton[178],[179].
+
+Les membres du Conseil sont élus chaque année lors de la réunion annuelle des actionnaires en utilisant un système de vote à la majorité.
+
+Il y a actuellement cinq comités au sein du conseil d'administration, qui supervisent les questions plus spécifiques de l'entreprise. Ces comités comprennent le Comité économique, qui traite des questions comptables avec la société, y compris le Comité des finances et de la comptabilité ; le comité de rémunération, qui approuve la rémunération pour le chef de la direction et d'autres employés de la société ; le Comité des finances, qui gère les questions financières telles que proposer des fusions et acquisitions ; la gouvernance et des candidatures, qui gère diverses questions, y compris des entreprises nomination du conseil d'administration ; et le Comité de conformité antitrust, qui observe les pratiques de l'entreprise et juge si la société a violé les lois antitrust[180].
+
+Bourse, économie et finances de l'entreprise
+D'après les comptes annuels, le chiffre d'affaires de Microsoft s'élevait en 2005 à 39,788 milliards de dollars. C'est-à-dire une augmentation de 8 % depuis 2004.
+
+
+Satya Nadella.
+En 2009, le chiffre d'affaires était de 58, 69 milliards de dollars pour 16,26 milliards de bénéfices[181].
+
+En 2011, le chiffre d'affaires était de 69,9 milliards de dollars (+16,04 % par rapport à 2009)[182].
+
+Le chiffre d'affaires est réparti en sept segments de produits : client, serveur et outils, Information Worker, Microsoft Business Solutions, MSN, Mobile and Embedded Devices, Home and Entertainment.
+
+La partie « Client » regroupe notamment Windows XP. Elle rapporte en 2005 12,234 millions de dollars (+6 %) de chiffre d'affaires. Ceci correspond à une augmentation de 12 % du nombre de licences OEM, mais celle-ci est balancée par une diminution de 9 % du chiffre d'affaires issu des ventes au détail de ces mêmes licences. Ceci indique un changement de la structure du chiffre d'affaires : le système d'exploitation est de plus en plus une vente liée à l'achat du matériel.
+
+La partie « Serveur et Outils » contient par exemple, le serveur Exchange. Son chiffre d'affaires est de 3,259 millions de dollars (+130 %) en 2005.
+
+« Information worker » concerne essentiellement les outils bureautiques pour un chiffre d'affaires de 11,013 millions de dollars (+3 %) en 2005. Les autres segments sont soit en perte, soit apportent une contribution mineure en regard des 3 premiers.
+
+Depuis le 13 mars 1986, Microsoft est coté en Bourse, au NASDAQ : MSFT [archive].
+
+En novembre 2014, avec une valorisation boursière de 408,68 milliards de dollars, Microsoft est la 2e plus grosse valorisation boursière au monde[183].
+
+La société, qui auparavant n'avait jamais distribué de dividende, verse 3 $ par action le 1er décembre 2004. Ce versement de dividende ayant été aidé par une réduction de la taxation concernée de 35 à 15 %. La somme versée en dividendes aux actionnaires de Microsoft en 2004 approche donc les 28 milliards USD.
+
+Données financières[184][source insuffisante]
+Année	Capitalisation
+(en millions de dollar ($))	Profit
+(en millions de dollar ($))	Chiffre d'affaires
+(en millions de dollar ($))	Nb.
+d'employés
+2005	39 788	12 254	70 815	61 000
+2006	44 282	12 599	69 597	71 000
+2007	51 122	14 065	63 171	79 000
+2008	60 420	17 681	72 793	91 000
+2009	58 437	14 569	77 888	93 000
+2010	62 484	18 760	86 113	89 000
+2011	69 943	23 150	108 704	90 000
+2012	73 723	16 978	121 271	94 000
+2013	77 849	21 863	142 431	99 000
+2014	86 833	22 074	172 384	128 000
+2015	93 580	12 193	174 472	118 000
+2016	91 154	20 539	193 468	114 000
+2017	96 571	25 489	250 312	124 000
+2018	110 360	16 571	258 848	131 000
+2019	125 843	39 240	286 556	144 106
+
+La société a commencé à offrir un dividende le 16 janvier 2003, à partir de huit cents par action pour l'exercice suivi par un dividende de seize cents par action l'année suivante, le passage de chaque année à des dividendes trimestriels en 2005 avec huit cents par action par trimestre et un paiement ponctuel spécial de trois dollars par action pour le deuxième trimestre de l'exercice financier. Bien que la société ait eu des augmentations des distributions de dividendes, le prix de l'action de Microsoft est resté stable pour deux ans[185],[186].
+
+Standard and Poor et Moody's ont tous deux donné une cote de AAA à Microsoft, dont les actifs ont été évalués à 41 milliards de dollars, comparativement à seulement 8,5 milliards de dettes non garanties. Par conséquent, en février 2011, Microsoft a publié une obligation d'entreprise d'un montant de 2,25 milliards de dollars avec des taux d'emprunt relativement faible par rapport aux obligations d'État[187].
+
+Lieux et centres d'activités
+
+Siège social de Microsoft France, à Issy-les-Moulineaux, au sud de Paris.
+Microsoft possède des infrastructures et des bureaux partout dans le monde, même s'ils sont plus nombreux en Europe, aux États-Unis, en Inde et Chine littorale.
+
+Microsoft possède un complexe à New York pour la recherche de nouveaux services.
+Microsoft est aussi basé en Europe avec un siège à Paris en France. L'École IA Microsoft est lancée en mars 2018, une formation ouverte aux décrocheurs scolaires et aux personnes éloignées de l'emploi, en partenariat avec Simplon.co[188]. Dix Écoles AI Microsoft ont été lancées depuis septembre 2018[189].
+En mars 2008, l'entreprise crée un nouveau complexe à Zurich, en Suisse, pour son développement en Europe[190].
+Plusieurs bâtiments sont placés au Proche-Orient et Moyen-Orient : en Israël, à Dubaï et au Qatar.
+En Afrique du Sud sont présents les locaux de Microsoft pour son développement en Afrique.
+En Asie se situant dans les villes de Hong Kong et Tokyo.
+Le site de Microsoft australien basé dans la ville de Sydney.
+Le site de Microsoft France se situe à Issy-les-Moulineaux. Dans ce complexe, 1 700 salariés travaillent sous la présidence de Corine de Bilbao, en fonction depuis le 1er juillet 2021[191].
+
+En juillet 2014, Microsoft annonce la suppression de 18 000 emplois, soit 14 % des effectifs de l'entreprise. La dernière vague de licenciements touche notamment le service informatique[192].
+
+Environnement et condition de travail
+
+Cafétéria de Microsoft.
+En 2011, Greenpeace a publié un rapport notant les dix premières grandes entreprises de l'informatique dématérialisée sur leurs sources d'électricité pour leurs centres de données. À cette époque, la consommation des centres de données représentait 2 % de la consommation électrique mondiale, chiffre en constante augmentation depuis. Phil Radford de Greenpeace a dit « nous sommes préoccupés par cette nouvelle explosion de l'utilisation d'électricité qui pourrait nous enfermer dans des sources d'énergie vieilles, polluantes au lieu de l'énergie propre disponible aujourd'hui[193]. Microsoft et d'autres leaders de l'industrie de technologie de l'information doivent embrasser l'énergie propre de faire fonctionner leurs centres de données ainsi que leurs cloud »[194]. En 2013, Microsoft a consenti à acheter la totalité de la puissance produit par un projet éolien de Texas pour faire fonctionner un de ses centres de données[195].
+
+Microsoft est classé à la 7e place dans le Guide du Greenpeace pour l'Électronique Plus verte, qui classe les 18 fabricants d'électronique selon leurs politiques sur les produits chimiques, toxiques, recyclant et sur le changement climatique[196],[197].
+
+Le campus américain principal de Microsoft a reçu une certification d'argent de la Direction (du Leadership) dans l'Énergie et le Design (la Conception) Environnemental (LEED) le programme en 2008[Quoi ?] et il a installé plus de deux mille panneaux solaires en plus de ses constructions de bâtiments dans son campus de la Silicon Valley, produisant approximativement 15 % de l'énergie totale nécessaire pour faire fonctionner le campus[198].
+
+Microsoft se sert des formes alternatives de transition pour l'écologie. Il a créé un des plus grands systèmes de bus privés du monde, qui se nomme « le Connecteur », pour transporter les gens de l'extérieur de l'entreprise pour visiter le campus, « la Navette Connecteur » comporte une grande flotte de voitures hybrides pour économiser le carburant. L'entreprise subventionne aussi le transport public régional[198]. En février 2010, Microsoft a pris position pour addition du transport public supplémentaire et le véhicule électrique en libre service ainsi que le pont flottant connectant Redmond à Seattle[199].
+
+Microsoft était le classé numéro 1 dans la liste des Meilleurs Lieux de travail multinationaux du Monde par l'Endroit formidable pour travailler par l'Institut en 2011[200][pas clair].
+
+Le siège social, d'une façon informelle connu comme « Microsoft Redmond Campus » est localisé à dans Redmond, Washington. Microsoft s'est initialement déplacé sur les terres du campus le 26 février 1986, deux semaines avant que l'entreprise ne soit entrée en bourse le 13 mars. Le siège social a depuis éprouvé des expansions multiples depuis son établissement.
+
+Il est évalué pour englober plus de 80 kilomètres carrés (750 000 m2) d'espace de bureau et 30 000 à 40 000 salariés travaillent sur le campus[3].
+
+Investissement et partenariat
+Microsoft propose également un programme de formation et certification (Microsoft certified systems engineer, Microsoft certified solution developer, Microsoft Certified Professional, etc.). Microsoft présente aussi un programme de distribution gratuite de logiciels pour les étudiants du second degré, appelé MSDN Academic Alliance.
+
+En France, Microsoft revendique générer avec son écosystème environ 75 000 emplois[201]. En 2013, 96 % des revenus mondiaux de Microsoft étaient générés par son écosystème de partenaires équivalent à quatorze millions d'employés[202].
+
+Microsoft signe, en 2007, son premier accord de partenariat avec une université française, l'université Claude-Bernard-Lyon-I[203].
+
+En France, le nombre de partenaires Gold de l'éditeur a été réduit de moitié à 239 dont douze grossistes, Microsoft annonce investir une enveloppe de 5,8 Md$ de licences, de formations et de primes sur ses partenaires en 2011[204].
+
+Microsoft a investi treize millions d'euros afin de favoriser la réussite du Plan Numérique à l'École, réforme envisagé par la ministre Najat Vallaud-Belkacem. Cette démarche qui s'étendra sur les 18 prochains mois qui consiste notamment à assurer des formations aux enseignants et autres cadres de l'éducation, la mise en place de plateformes collaboratives, des mises à jour matérielles, mais aussi une introduction expérimentale à l'apprentissage du code[205].
+
+Ce partenariat survient quelque temps après la visite de Satya Nadella sur Paris. Début novembre, le PDG de Microsoft avait rencontré le président François Hollande afin de s'entretenir au sujet du Plan Numérique à l'École, mais aussi discuter sur l'avenir des métiers du numérique[206].
+
+Durant ces cinq prochaines années, le fondateur de Microsoft investira 2 milliards de dollars pour soutenir les technologies vertes. Bill Gates profitera du coup d'envoi de la Conférence de Paris sur le climat (COP21) pour annoncer un investissement massif dans les technologies vertes (« clean tech »)[207],[208].
+
+Bill Gates a promis de débourser 2 milliards de dollars de sa poche durant les cinq prochaines années pour contribuer à combattre le réchauffement climatique. D'après le classement établi par Forbes, il demeure en 2015, l'homme le plus riche de la planète avec une fortune évaluée à plus de 79 milliards de dollars. On ne connaît pas encore comment ces fonds seront utilisés, mais ils soutiendront les nouvelles technologies[209],[210].
+
+En 2015, pour concurrencer Google, avec son application Santa Tracker, le NORAD met en place un partenariat avec Microsoft pour l'utilisation de son logiciel cartographique Bing Maps, en contrepartie le NORAD devra faire la promotion du navigateur web Microsoft Edge ainsi que du système d'exploitation Windows 10[211].
+
+Activité de lobbying
+Microsoft est inscrit, depuis 2009, au registre de transparence des représentants d'intérêts auprès de la Commission européenne. L'entreprise déclare en 2015, pour cette activité, des dépenses d'un montant compris entre 4 250 000 et 4 500 000 euros. Elle indique avoir perçu, sur le même exercice, 1 144 480 euros de subventions de l'Union européenne, et remporté auprès de l'UE des marchés à hauteur de 23 015 454 euros[212].
+
+Les organisations Corporate Europe Observatory et LobbyControl indiquent dans une étude publiée en 2021 que Microsoft dépense chaque année environ 5,25 millions d'euros pour tenter d'influencer les décisions de Bruxelles[213].
+
+Marque et marketing
+Selon une étude BVA publiée par Capital le 23 juin 2011, Microsoft est la marque high-tech préférée des Français, juste devant Apple et Samsung. Au classement général, Microsoft est deuxième derrière Google (rangée dans la catégorie Médias et non high-tech) et devant Ikea[214].
+
+Le 27 janvier 2004, Microsoft demande à des Institut de recherche de faire des études indépendantes comparant le coût total de possession de Windows Server 2003 pour Linux. Les études ont conclu que les entreprises trouvent plus facile à administrer Windows que Linux ; ainsi, celles sous Windows auraient administré rapidement une baisse des coûts. Cela a entraîné une vague d'études connexes, menée par le Yankee Group qui a conclu que la mise à niveau d'une version de Windows Server à un autre, coûte une fraction des coûts de commutation à partir de Windows Server pour Linux, bien que les entreprises interrogées aient noté le décroissement de la sécurité et la fragilité des serveurs Linux et le souci de se laisser enfermer dans l'aide de produits Microsoft[215]. Une autre étude, publiée par l'Open Source Development Labs, a affirmé que les études de Microsoft étaient « tout simplement pas à jour et unilatérales » et leur enquête a conclu que le coût total de possession de Linux a été plus faible en raison des administrateurs Linux qui gèrent plusieurs serveurs en moyenne[216].
+
+Dans le cadre de la campagne « Les faits », Microsoft a mis en évidence la plateforme de trading de .NET Framework qu'il avait développé en partenariat avec Accenture pour la Bourse de Londres, affirmant qu'il a fourni des « cinq neuf » fiabilité[pas clair]. Après avoir subi les temps d'arrêt prolongé et de fiabilité, le LSE a annoncé le 6 octobre 2009 qu'il avait l'intention de déposer sa solution Microsoft et passer à un basé sur Linux en 2010[217],[218].
+
+Le 14 décembre 2012, Microsoft a embauché un sondeur politique nommé Mark Penn[219]. Il a créé une série de publicités négatives ciblant l'un des principaux concurrents de Microsoft, Google. Les annonces, appelées « Scroogled », pour tenter de faire remarquer au monde que Google est dangereux[220] pour les consommateurs, avec les résultats de recherche truqués pour favoriser les annonceurs payés de Google, que Gmail viole la vie privée de ses utilisateurs, de placer les annonces liées au contenu de leurs courriels ainsi que les résultats commerciaux qui favorisent les produits Google[221].
+
+Du 5 et 18 octobre 2015, Microsoft France met en place une opération de séduction à Paris avec son « Windows Cube », afin de promouvoir son nouveau système Windows 10. Situé sur le parvis de Beaubourg devant le Centre Pompidou, ce lieu permet de découvrir une gamme de nouveaux produits pour Windows 10, et de se familiariser avec ses fonctionnalités telles que Cortana, Windows Hello, le mode Continuum ou encore le navigateur Edge à travers différents pôles expérientiels[222].
+
+Identité visuelle
+Logo du 4 avril 1975 au 9 décembre 1979.
+Logo du 4 avril 1975 au 9 décembre 1979.
+ 
+Logo du 9 décembre 1979 au 25 juin 1982.
+Logo du 9 décembre 1979 au 25 juin 1982.
+ 
+Logo du 25 juin 1982 au 26 février 1987.
+Logo du 25 juin 1982 au 26 février 1987.
+ 
+Logo du 26 février 1987 au 23 août 2012.
+Logo du 26 février 1987 au 23 août 2012.
+ 
+Logo depuis le 23 août 2012.
+Logo depuis le 23 août 2012[223].
+Le 23 août 2012, Microsoft dévoile le nouveau logo de l'entreprise à l'ouverture de sa 23e boutique Microsoft Store à Boston indiquant le changement de cap de la société et de mise au point du style classique à l'interface moderne qui utilisera la plate-forme Windows, Windows Phone et la Xbox One. Le logo comprend quatre carrées avec les couleurs des produits de Microsoft, c'est-à-dire : Office pour le carré rouge, Xbox pour le carré vert, Windows pour le carré bleu, et Bing pour le carré jaune[224],[225],[226],[227].
+
+Controverses et affaires judiciaires
+Articles détaillés : Affaires et controverses de Microsoft et Censure d'Internet en république populaire de Chine.
+Microsoft fait l'objet de nombreuses controverses portant sur ses abus de position dominante[228],[229], et la vente liée de son système d'exploitation dans le commerce[230]. Microsoft est la première entreprise à avoir participé au programme de surveillance PRISM de la NSA, selon les documents obtenus par The Guardian3 et The Washington Post4 en juin 2013.
+
+Des critiques sont par ailleurs émises concernant la vente de services et logiciels à des États totalitaires[231],[232].
+
+Microsoft est condamné plusieurs fois par la Commission européenne, entre 2004 et 2013 pour des abus de position dominante[228],[233],[234],[235],[236], et écope au total de près de deux milliards d'euros d'amende[228]. L'entreprise se voit reprochée de ne pas garantir que les données qu'elle héberge ne seront jamais transmises à des autorités étrangères sans l’accord des pays hébergeurs[237],[238].
+
+En juin 2025, Microsoft contribue à la suspension du compte de messagerie électronique de Karim Khan, procureur de la Cour pénale internationale aux Pays-Bas qui enquête sur Israël pour crimes de guerre, afin de se conformer au décret présidentiel 14203 pour Imposer des sanctions à l'encontre de la Cour pénale internationale[239],[240].
+
+En juin 2025, un rapport d'experts de l'ONU désigne Microsoft comme « étant au cœur du dispositif de surveillance israélien et de la destruction continue de Gaza »[241].
+
+Notes et références
+Notes
+Cette dernière a acheté des liens pour 196 $ par action. Par rapport au cours de clôture au dernier jour de commerce de Linkedin (131,08 $), la prime est de 49,5%. Au cours de la téléconférence des investisseurs, le PDG de LinkedIn Jeff Weiner a déclaré qu'en combinant les utilisateurs de logiciels de bureau de 120 millions de Microsoft avec les 430 millions d'utilisateurs de LinkedIn, ils réaliseront l'intégration transparente des applications bureautiques et du milieu de travail social afin d'améliorer l'efficacité. Linkedin pourra ainsi optimiser ses contenus sponsorisés grâce aux données issues directement des logiciels Microsoft afin de faciliter le ciblage des recrutements pour les employeurs utilisant le média social[82]. Cette fusion soulève ainsi de nombreuses questions éthiques quant aux données des utilisateurs car en achetant Linkedin Microsoft s'offre une gigantesque base de données d'utilisateurs[83].
+Les notions de fenêtrage, déjà présentes alors sur des machines de développement Lisp et quelques ordinateurs expérimentaux du PARC de Xerox ont été auparavant décrites dans le livre "L'ergonomie du logiciel sur micro-ordinateur" de Didier Hallépée (éditions L'impensé radical, 1980) et utilisées notamment dans le progiciel de Gestion de stock de Bijouterie Geistock fonctionnant sur Pet de Commodore et dans les solutions de comptabilité marchandise déployées dès 1983 dans l'ensemble des magasins Prisunic sur ordinateurs Sirius puis IBM PC.
+Références
+(en) « The History of Microsoft - 1976 [archive] », sur Microsoft.com (consulté le 18 décembre 2019).
+(en) « The History of Microsoft [archive] », sur Microsoft.com (consulté le 18 décembre 2019).
+ (en) « Facts About Microsoft [archive] », sur Microsoft.com (consulté le 21 juillet 2015).
+(en) « FY24 Q3 - Press Releases - Investor Relations - Microsoft [archive] », sur Microsoft
+ (en) « FY21 Q4 - Press Releases - Investor Relations - Microsoft [archive] », sur Microsoft Investor Relations.
+ « Microsoft bat le consensus et rassure (à moitié) Wall Street [archive] », sur boursier.com, 29 juillet 2026 (consulté le 5 août 2026)
+Prononciation en anglais américain retranscrite selon la norme API.
+Julien Baldacchino, « Microsoft fête ses 50 ans, et son lot de petites innovations restées dans les mémoires [archive] » Accès libre, France Inter, 4 avril 2025 (consulté le 3 avril 2026)
+« Indice du NASDAQ [archive] », sur boursier.com (consulté le 2 juin 2020)
+« Compte de résultat Microsoft Corporation (MSFT) - Yahoo Finance [archive] », sur Yahoo! Finance (consulté le 5 août 2026)
+Jérôme Lefilliâtre, Qui est Satya Nadella, le nouveau patron de Microsoft ? [archive] « Copie archivée » (version du 23 juillet 2018 sur archive.org), Challenges, 4 février 2014.
+(en) « Annonce sur le site de Microsoft [archive] », sur microsoft.com.
+Christophe Auffray, « Chiffres clés : les systèmes d’exploitation sur PC [archive] », sur ZDNET, 6 mai 2013 (consulté le 29 juillet 2024)
+(en) Lu, « Infographic : Les entreprises américaines qui ont échoué en Chine [archive] », sur Visual Capitalist, 9 février 2022 (consulté le 21 février 2022)
+ Caroline Zanotti, La révolution intelligence, Suisse, nuinui, 2023, 319 p. (ISBN 9782889755387), p. 172-173
+(en) Roy A. Allan, A History of the Personal Computer : The People and the Technology, Allan Publishing, 2001, 528 p. (ISBN 0-9689108-0-7, présentation en ligne [archive]).
+(en) « Microsoft Company History [archive] », sur fundinguniverse.com.
+La dure leçon du procès IBM", article par David Barroux le 19 octobre 1998 dans Les Échos  [archive]
+(en) Julie Bick, The Microsoft Millionaires Come of Age [archive], The New York Times, 29 mai 2005, consulté le 20 février 2008.
+(en) Martin Finucane, « Harvard Square newsstand sold the magazine that started a revolution », Boston Globe,‎ 30 décembre 2008 (lire en ligne).
+(en) Ina Fried, « Microsoft follows Apple into the retail business [archive] », sur CNET, 12 février 2009 (consulté le 17 juillet 2010).
+(en) Tim Gaynor, « Long lines as Microsoft opens retail store », Reuters,‎ 22 octobre 2009 (lire en ligne [archive], consulté le 3 juillet 2010).
+(en) Jessica Mintz, « Windows 7 operating system makes its debut », NBCNews.com,‎ 22 octobre 2009 (lire en ligne [archive], consulté le 4 avril 2012).
+(en) « Bill Gates: A Timeline », BBC News,‎ 15 juillet 2006 (lire en ligne [archive], consulté le 17 juillet 2010).
+ (en) Engines that move markets, 2002, 494 p. (ISBN 978-0-471-20595-1, présentation en ligne [archive]).
+(en) « Microsoft to Microsoft disk operating system (MS-DOS) », Smart Computing, Sandhills Publishing Company, vol. 6, no 3,‎ mars 2002 (lire en ligne [archive du 5 septembre 2004], consulté le 18 août 2008).
+(en) Mark Blaxill et Ralph Eckardt, The Invisible Edge : Taking Your Strategy to the Next Level Using Intellectual Property, Portfolio Hardcover, 5 mars 2009, 340 p. (ISBN 978-1-59184-237-8 et 1-59184-237-9, lire en ligne [archive]).
+(en) Athow, Desire, « Microsoft Windows 3.0 Is 20 Years Old Today!!! [archive] », sur ITProPortal, 22 mai 2010 (consulté le 4 avril 2012).
+(en) Jim Waner, « Novell Files WordPerfect Suit Against Microsoft », internetnews.com,‎ 12 novembre 2004 (lire en ligne [archive], consulté le 15 juillet 2010).
+(en) « Competitive Impact Statement : U.S. v. Microsoft Corporation [archive] », sur Justice.gov, Département de la Justice des États-Unis (consulté le 11 mai 2011).
+(en) « U.S. v. Microsoft: Timeline », Wired,‎ 4 novembre 2002 (lire en ligne [archive du 19 avril 2010], consulté le 17 juillet 2010).
+(en) Dafydd Neal Dyar, « Under The Hood: Part 8 », Computer Source,‎ 4 novembre 2002 (lire en ligne, consulté le 14 juillet 2010).
+(en) Poundstone, William, « Square Manhole Covers and Crazy Questions », G4TV.com,‎ 21 mai 2003 (lire en ligne [archive], consulté le 1er juillet 2006).
+(en) John Markoff, « Fears of Misuse of Encryption System Are Voiced », The New York Times,‎ 20 juin 2002 (lire en ligne [archive], consulté le 7 juillet 2010).
+(en) Frank Stajano, « Security for whom? The shifting security assumptions of pervasive computing », Software Security—Theories and Systems, Springer-Verlag Berlin Heidelberg, vol. 2609,‎ 2003, p. 16–27 (ISBN 978-3-540-00708-1, ISSN 0302-9743, DOI 10.1007/3-540-36532-X_2, lire en ligne [archive], consulté le 6 juillet 2010).
+(en) Margaret Kane, « Apple, Microsoft elaborate on cross-licensing pact [archive] », sur ZDNet.
+(en) Charles Arthur, « Microsoft falls behind Apple for first time in 20 years | Technology [archive] », sur The Guardian, 28 avril 2011 (consulté le 11 mai 2011).
+Solveig Godeluck, « Apple, première capitalisation boursière de toute l'Histoire », Les Échos,‎ 21 août 2012.
+(en) Thurrott, Paul, « Windows Server 2003: The Road To Gold », sur winsupersite.com, 24 janvier 2003 (version du 4 juin 2010 sur archive.org).
+(en) Todd Bishop, « Microsoft makes a deal for Safeco's Redmond campus », Seattle Post-Intelligencer,‎ 19 janvier 2006 (lire en ligne [archive], consulté le 15 janvier 2008).
+(en) Brier Dudley, « Microsoft speeding up plans for huge campus redevelopment », The Seattle Times,‎ 9 février 2006 (lire en ligne [archive], consulté le 15 janvier 2008).
+(en) Gerald Wee, « Steve Ballmer on management style », ITWorld, IDG,‎ 10 novembre 2005 (lire en ligne [archive], consulté le 29 janvier 2011).
+(en) « Microsoft Azure Cloud Computing Platform & Services [archive] », sur microsoft.com.
+(en) Robert Vamosi, « Windows Vista Ultimate review [archive] », sur CNET, 23 janvier 2007 (consulté le 4 avril 2012).
+(en) « Vista gives Microsoft view of record profit [archive] », sur Edinburgh Evening News, 27 avril 2007 (consulté le 1er février 2009).
+(en) « AFP:EU hits Microsoft with record 899 million euro antitrust fine », Google News,‎ 27 février 2008 (lire en ligne [archive du 30 avril 2008], consulté le 1er juin 2008).
+(en) « Microsoft Chronology », CBS News,‎ 5 novembre 2008 (lire en ligne [archive du 5 novembre 2008], consulté le 5 août 2010).
+Le ruban de Windows 8 [archive] - Windows8.free.fr.
+(en) Lee Hutchinson, « It's official: Microsoft acquires Mojang and Minecraft for $2.5 billion [archive] », sur Ars Technica (consulté le 19 septembre 2014).
+« Microsoft Wireless Display Adapter : une autre clé HDMI Miracast concurrente du Chromecast [archive] », 9 octobre 3620.
+« Microsoft dévoile le Wireless Display Adapter, concurrent du Chromecast [archive] », sur begeek.fr, 24 septembre 2014.
+« La clé HDMI de Microsoft diffusant l'écran du mobile sur la TV sort en France [archive] », Numerama, 9 février 2015.
+« Microsoft Is Acquiring Calendar App Sunrise For North Of $100 Million [archive] », sur TechCrunch, 5 février 2015.
+Microsoft buys Israeli digital pen maker N-trig: report [archive], Reuters, 12 février 2015.
+(en) Hui-yong Yu et Dina Bass, « Microsoft considers multibillion-dollar overhaul to Redmond campus », The Seattle Times,‎ 4 septembre 2015 (lire en ligne [archive], consulté le 8 septembre 2015).
+« Microsoft finance l’achat de LinkedIn par un emprunt géant [archive] », 2 août 2016 (consulté le 3 août 2016).
+« Microsoft va fermer la quasi-totalité de ses magasins dans le monde [archive] », sur Le Monde, 27 juin 2020
+« Microsoft parie sur le boom des hologrammes [archive] », sur Les Echos, 2 mars 2021 (consulté le 3 mars 2021)
+Florian Dèbes, « Microsoft amorce une nouvelle offensive dans l'adtech en rachetant Xandr à AT&T [archive] » Accès payant, sur Les Echos, 22 décembre 2021
+« Microsoft annonce le licenciement d'environ 10.000 employés d'ici fin mars [archive] », sur lefigaro.fr, 18 janvier 2023 (consulté le 18 janvier 2023)
+« Microsoft licencie 10 000 employés, les studios Xbox et Bethesda concernés [archive] », sur gamekult.com, 2023-01-19cet10:00:00+0100 (consulté le 9 octobre 2024)
+« Sam Altman va rejoindre Microsoft après avoir été viré d'OpenAI: “La mission continue” [archive] », sur 7sur7.be (consulté le 20 novembre 2023)
+« Microsoft annonce une nouvelle vague de milliers de licenciements », Le Monde,‎ 2 juillet 2025 (lire en ligne [archive], consulté le 1er août 2025)
+« Microsoft rejoint Nvidia dans le club des 4.000 milliards de dollars à Wall Street [archive] », sur Les Échos, 31 juillet 2025 (consulté le 1er août 2025)
+« Microsoft surperforme au quatrième trimestre fiscal 2025 [archive] », sur InformatiqueNews.fr, 31 juillet 2025 (consulté le 1er août 2025)
+Jérémy Olcina, « Microsoft licencie plus de 6000 employés [archive] » Accès libre, 01net, 1er juillet 2026 (consulté le 6 juillet 2026)
+Daniel Ichbiah, Bill Gates et la saga de Microsoft, Pocket, 1995, p. 43.
+Microsoft essaie de décrocher la lune et d’augmenter ses capacités mobiles avec l’acquisition prévue de MobiComp [archive], Biz-Affaire, publié le 26 juin 2008.
+Microsoft Bing est en ligne mais ne fait pas encore bang ! [archive], ZDNet.fr, publié le 1er juin 2009.
+Windows 7 : lancement le jeudi 22 octobre [archive], ZDNet.fr, publié le 3 juin 2009.
+Office 2010 bêta : premier aperçu en images [archive], 01net.com, publié le 18 novembre 2009.
+(en) Niklas Pollard et Sven Nordenstam, Ericsson to buy Microsoft IPTV business [archive], Reuters, 8 avril 2013.
+(en) Ritsuko Ando et Bill Rigby, Microsoft swallows Nokia's phone business for $7.2 billion [archive], Reuters, 3 septembre 2013.
+Kevin Hottot, AOL adopte Bing jusqu'en 2026 et devient la régie publicitaire de Microsoft [archive], Next Inpact, 1er juillet 2015.
+Jérôme Marin, Microsoft abandonne une partie de ses ambitions dans la publicité en ligne [archive], Le Monde, 2 juillet 2015.
+Julien Dupont-Calbo, Microsoft supprime 18 000 emplois, dont 12.500 chez Nokia [archive], Les Échos, 17 juillet 2014.
+(en) Mia Shanley et Bill Rigby, Microsoft to buy Minecraft maker Mojang for $2.5 billion [archive], Reuters, 15 septembre 2014.
+(en) Tova Cohen, Louise Heavens, Microsoft to buy Israeli cyber security firm Adallom: report [archive], Reuters, 20 juillet 2015.
+« Microsoft Store : découvrez le nouveau flagship de New York en images [archive] », sur ZDNet.
+(en) S. Sangameswaran et Sunil Nair, Microsoft to sell feature phone business to Foxconn subsidiary, HMD Global [archive], Reuters, 18 mai 2016.
+Grégoire Martinez, « Microsoft annonce un vaste plan de licenciements dans le mobile [archive] », sur europe1.fr (consulté le 31 mai 2016).
+Kevin Hottot, « Microsoft finalise le rachat de LinkedIn, et veut glisser sa pub un peu partout [archive] », sur Next INpact, 12 septembre 2016.
+Lucie Ronfaut, « Microsoft va racheter LinkedIn pour 26,2 milliards de dollars », Le Figaro,‎ 13 juin 2016 (lire en ligne [archive], consulté le 25 juin 2017).
+« Rachats : Microsoft dans l'intelligence artificielle, Apple dans la santé [archive] », sur CNET France.
+Morgane Tual, « Intelligence artificielle : les géants du Web lancent un partenariat sur l’éthique » [archive], Le Monde, 28 septembre 2016, consulté le 28 septembre 2016.
+« Microsoft acquiert GitHub, la plate-forme de développement de logiciels, pour 7,5 milliards de dollars [archive] », sur Le Monde.fr (consulté le 4 juin 2018)
+(en-US) Phil Spencer et Head of Xbox, « Xbox Series S and Xbox Series X Launch November 10, Starting at $24.99 a Month with Xbox Game Pass Ultimate and EA Play [archive] », sur Xbox Wire, 9 septembre 2020 (consulté le 21 septembre 2020)
+(en-US) Phil Spencer, « Welcoming the Talented Teams and Beloved Game Franchises of Bethesda to Xbox [archive] », sur Xbox Wire, 21 septembre 2020 (consulté le 21 septembre 2020)
+Florian Dèbes, « Intelligence artificielle : Microsoft s'offre Nuance pour 19,7 milliards de dollars [archive] », sur Les Echos, 11 avril 2021
+Le Monde avec AFP, « Microsoft rachète Activision Blizzard, le géant américain des jeux vidéo, pour un peu moins de 69 milliards de dollars [archive] », sur Le Monde, 18 janvier 2022
+(en) « Mastercard launches next-generation identity technology with Microsoft to help more consumers shop online safely [archive] », sur OCCRP (consulté le 11 avril 2022)
+« Microsoft et l'Institut Curie s'allient pour accompagner les biotech et les medtech dans leur croissance [archive] », sur usine-digitale.fr (consulté le 13 septembre 2022)
+Solveig Godeluck, « Microsoft va licencier 10.000 personnes [archive] » Accès libre, sur Les Échos, 18 janvier 2023 (consulté le 18 janvier 2023)
+Romain Vitt, « Qui est Crowdstrike, l’entreprise qui pourrait être à l’origine de la panne mondiale de Microsoft ? [archive] », sur presse-citron.net, 19 juillet 2024.
+J.J., « CrowdStrike, un antivirus utilisé par Microsoft, à l'origine de la panne informatique mondiale [archive] », sur laprovence.com, 19 juillet 2024.
+« Qu'est-ce que CrowdStrike, cette entreprise à l'origine de la panne informatique mondiale ? [archive] », 19 juillet 2024.
+« Une panne géante de Microsoft paralyse de nombreuses entreprises dans le monde [archive] ».
+« Panne informatique mondiale : quelle est la cause des perturbations chez Microsoft ? [archive] », 19 juillet 2024
+Hugo Bernard, « Microsoft visé par une enquête : l’arrivée de Donald Trump peut-elle tout changer ? », Numérama,‎ 28 novembre 2024 (lire en ligne [archive] Accès libre)
+(en) Jordan Novet, « Microsoft contributes $1 million to Trump’s inauguration fund [archive] » Accès libre, sur CNBC, 9 janvier 2025 (consulté le 13 janvier 2025)
+(en) Tom Warren, « Microsoft's universal apps are now called Windows apps [archive] », 26 mars 2015 (consulté le 3 avril 2015).
+(en) « Windows 10 review: Technical Preview (January 2015) [archive] », sur alphr.com (consulté le 7 février 2015).
+(en) « Windows 10 Settings Menu: The System tab [archive] », sur CNET (consulté le 7 février 2015).
+« This is Windows 10 for phones [archive] », sur The Verge (consulté le 22 janvier 2015).
+(en) Sebastian Anthony, « Don’t call them Metro: Microsoft rebrands Universal apps as "Windows apps" [archive] », sur Ars Technica, 29 mars 2015.
+(en) « Guide to Universal Windows Platform (UWP) apps [archive] », sur MSDN (consulté le 12 août 2015).
+« Microsoft HoloLens [archive] », sur Microsoft HoloLens.
+(en) « Windows 10 Technical Preview 2: Configure Tablet Mode [archive] », sur Thurrott.com (consulté le 16 juillet 2015).
+(en) « Windows 10 Technical Preview 2: Continuum and Tablet Mode [archive] », sur Thurrott.com (consulté le 16 juillet 2015).
+(en) Zack Bowden, « Windows 10: The tablet experience is better than ever (with video) [archive] », sur WinBeta (consulté le 16 juillet 2015).
+(en) Bright Peter, « Microsoft's next attempt to fill the Windows 10 app gap: Web app apps [archive] », sur Ars Technica, 3 mars 2015 (consulté le 9 mars 2015).
+(en) « Here's how Microsoft hopes to get Android and iOS phone apps into its Windows 10 Store [archive] », sur ZDNet (consulté le 3 mai 2015).
+(en) Tom Warren, « This is Cortana, Microsoft’s answer to Siri [archive] », sur The Verge, 3 mars 2014 (consulté le 5 mars 2014).
+Vincent Hermann, « L'assistant vocal Cortana de Windows Phone 8.1 se dévoile en images », sur pcinpact.com, 4 mars 2014 (version du 5 mars 2014 sur archive.org).
+« Exclusive: First look at Microsoft’s brand new ‘Spartan’ project for Windows 10 [archive] », sur bgr.com, 6 janvier 2015 (consulté le 25 mars 2015).
+(en) OS Statistics [archive], sur W3Schools.
+Parts de marché : OS X en hausse, Windows en baisse [archive], Clubic, publié le 5 février 2008.
+Windows Server détient 30% des parts de marché derrière Linux avec 38%. BSD est à 1% et les autres basés sur Unix se maintienne vers les 30% [archive].
+(en) Windows Mobile 7 Sales Data Show Slow Initial Sales [archive], blog mobile please, 14 février 2011.
+« Windows Phone dépasse 10% de parts de marché en Europe [archive] », sur windowsphonecorner.com (consulté le 24 décembre 2013).
+« Windows Phone confirme face à iOS en Amérique Latine [archive] », sur windowsphonecorner.com (consulté le 24 décembre 2013).
+« Windows 10 : où en est la version mobile ? [archive] », sur clubic.com (consulté le 11 juin 2015).
+« Microsoft prévoit Windows 10 Mobile pour fin septembre [archive] », sur nextinpact.com (consulté le 11 juin 2015).
+Cécile Bolesse, « Microsoft va devoir renommer son service SkyDrive [archive] », sur 01net, 1er août 2013.
+« MSN : Windows Live Messenger s’arrêtera le 15 mars 2013 que faire ? [archive] », sur place4geek.com, 11 janvier 2013 (consulté le 6 août 2020).
+(en) Tom Warren, « Microsoft to retire Windows Live Messenger in favor of Skype [archive] », sur The Verge.
+(en) « Skype’s real-time translator goes live for registered users on Windows 8.1 [archive] ».
+Dominique Filippone, « Skype désormais intégré à Office Online [archive] », sur Le Monde Informatique.
+ L’avance d’Internet Explorer sur ses concurrents diminue encore [archive], CNET France, 3 février 2009, consulté le 21 février 2009.
+« Internet Explorer en recul en France depuis la diffusion du ballot screen [archive] », sur ZDNet.
+(en) « Microsoft Bing: Much better than expected [archive] », sur CNET, 28 mai 2009.
+Cécile Ducourtieux, « Avec Bing, Microsoft repart à l'assaut de Google [archive] », Le Monde, 29 mai 2009.
+Naïm Bada, « Un audit révèle que Google, Meta et Microsoft ignorent massivement le signal de refus de pistage [archive] » Accès libre, sur Clubic, 15 avril 2026
+(en) Jim McBee, Barry Gerber, Microsoft Exchange server 2003, John Wiley and Sons - 2004, (ISBN 978-0-7821-4250-1).
+Vincent Hermann, "Microsoft simplifie sa gamme Visual Studio 2015 et reconduit l'édition Community [archive], Next INpact.
+« Vie privée : la Cnil accuse Microsoft de « graves manquements » avec Windows 10 [archive] », Le Figaro, 20 juillet 2016 (consulté le 9 avril 2020).
+Mathieu Chartier, THQ abandonne Games for Windows Live [archive], Gamepro.fr, 16 septembre 2010..
+François Giraud, « Jeux vidéo : la plateforme de streaming Beam est rachetée par Microsoft [archive] », sur zone-numerique.com, 12 août 2016.
+(en) source [archive] : VG Chartz.[source insuffisante].
+Oui, la Xbox 360 est rentable [archive], Gamekyo, 20 juillet 2008, consulté le 21 février 2009.
+Site d’informations concernant les ventes de consoles de jeux vidéo [archive].[source insuffisante].
+www.gamekult.com [archive] Remontée de la Xbox 360 avec Star Ocean 4.
+www.vgchartz.com [archive] Elle reste globalement devant la PS3 dans le monde comme elle est sortie un an avant.[source insuffisante].
+Marc-Antoine Turcotte, « Project Scorpio sera la console la plus puissante sur le marché [archive] », sur Le Journal de Québec (consulté le 8 avril 2017).
+« The game awards, les annonces - Microsoft dévoile la Xbox Series X, sa console nouvelle génération [archive] », sur Gamekult, 13 décembre 2019 (consulté le 20 août 2020)
+« Xbox Series X : caractéristiques, prix, date, jeux, tout ce qu'il faut savoir sur la prochaine console de Microsoft [archive] », sur CNET France (consulté le 20 août 2020)
+« Xbox Series X : les packs, meilleurs jeux et actus [archive] », sur Gamekult (consulté le 20 août 2020)
+« Xbox Series : Rétrocompatibilité et jeux disponibles [archive] », sur Jeuxvideo.com, 18 novembre 2020 (consulté le 9 novembre 2022)
+(en) Rich Edmonds, « Some interesting "Did you know…" facts about Nokia », Windows (Phone) Central,‎ 5 février 2013 (lire en ligne [archive]).
+« Microsoft n'utilisera bientôt plus le nom de Nokia [archive] », sur Figaro interactif, 22 octobre 2014.
+(en) « Microsoft to Cut Jobs, Take $7.6 Billion Writedown on Nokia [archive] », sur Bloomberg News (consulté le 8 juillet 2015).
+(en) Pradeep Viswav, « Surface Chief Panos Panay Is Taking Over Engineering For All Of Premium Devices Including Lumia Windows Phones », Windows Mobile PowerUser,‎ 21 juillet 2015 (lire en ligne [archive]).
+(en) Anna Gordon, « Why Microsoft’s New AI Feature Has Prompted Major Privacy Concerns [archive] » Accès libre, sur Time, 22 mai 2024 (consulté le 23 juin 2025)
+(en) John Callaham, « Joe Belfiore: Windows Phone team worked to add Cortana to Microsoft Band [archive] », sur Windows Central, 30 octobre 2014.
+Gabriele Porrometo, « Bye bye Microsoft Band : Redmond arrête ses bracelets connectés - Business », Numerama,‎ 4 octobre 2016 (lire en ligne [archive], consulté le 8 avril 2017).
+(en) Nick Wingfield, « At Windows 10 Event, Microsoft Jumps Into Augmented Reality With HoloLens Headset [archive] », The New York Times, 21 janvier 2015 (consulté le 9 avril 2020).
+ Dina Tagemouati, « Face aux Google Glass, Microsoft proposera ses casques HoloLens [archive] », Les Échos, 22 janvier 2015 (consulté le 23 janvier 2015).
+« HoloLens : Nouvelle démo, fonctionnalités et partenaires [archive] », sur Casques-VR.com, 29 avril 2015.
+Julien L., « Minecraft sur HoloLens : un couple impressionnant [archive] », sur Numerama, 16 juin 2015 (consulté le 17 juin 2015).
+Xavier Eutrope, « Surface Pro, Surface Book, Lumia : Microsoft répond à Apple [archive] », sur Figaro interactif, Le Figaro, 7 octobre 2015 (consulté le 10 octobre 2015).
+Laszlo Perelstein, « Réalité augmentée : Microsoft à la frontière de l'Oculus et des Google Glass [archive] », sur latribune.fr, 22 janvier 2015 (consulté le 23 janvier 2015).
+Julien L., « HoloLens : Microsoft dévoile un casque holographique [archive] », sur Numerama, 21 janvier 2015 (consulté le 23 janvier 2015).
+Raphaële Karayan, « HoloLens: le masque de réalité virtuelle de Microsoft va-t-il révolutionner l'informatique? [archive] », sur lexpansion.lexpress.fr, 23 janvier 2015 (consulté le 23 janvier 2015).
+« Windows 10 et lunettes "HoloLens" : les nouveaux paris de Microsoft pour se réinventer [archive] », HuffPost, 22 janvier 2015 (consulté le 23 janvier 2015).
+(en) Jay Greene, « Microsoft Acquires Artificial-Intelligence Startup Maluuba [archive] », The Wall Street Journal, 13 janvier 2017 (consulté le 9 avril 2020).
+« Intelligence artificielle : Microsoft réalise sa première acquisition de 2017 avec Maluuba [archive] », sur ZDNet, 16 janvier 2017.
+François Manens, « Pourquoi Microsoft mise un milliard de dollars sur la pépite OpenAI [archive] » Accès libre, sur La Tribune, 24 juillet 2019 (consulté le 16 janvier 2023).
+Alexandre Piquard, « Intelligence artificielle : Microsoft prêt à investir davantage dans la pépite OpenAI [archive] », sur Le Monde, 10 janvier 2023.
+« Microsoft en pourparlers pour investir $10 mds dans le propriétaire de ChatGPT-Semafor [archive] » Accès libre, sur Les Echos, 10 janvier 2023 (consulté le 16 janvier 2023).
+Adrian Branco, « ChatGPT : Microsoft veut investir 10 milliards dans OpenAI… et dominer les IA grand public ? [archive] » Accès libre, sur 01.net, 10 janvier 2023 (consulté le 16 janvier 2023).
+(en-US) Sarah Perez, « Microsoft kills Cortana in Windows as it focuses on next-gen AI [archive] », sur TechCrunch, 4 août 2023 (consulté le 4 juillet 2025)
+(en-US) Tom Warren, « Microsoft announces Copilot: the AI-powered future of Office documents [archive] », sur The Verge, 16 mars 2023 (consulté le 4 juillet 2025)
+(en-US) Shubham Kumar, « Microsoft just renamed Office to Microsoft 365 Copilot on Windows 11 for everyone [archive] », sur Windows Latest, 17 janvier 2025 (consulté le 4 juillet 2025)
+« MICROSOFT CORPORATION : Actionnaires Dirigeants et Profil Société [archive] », sur zonebourse.com (consulté le 29 août 2023).
+(en) The Good Samaritans [archive], time.com, 19 décembre 2005.
+France 3 - 19/20, « Bill Gates entarté [archive] », sur ina.fr, 4 février 1998.
+« Le patron de Microsoft Steve Ballmer va prendre sa retraite d'ici un an [archive] », sur lexpress.fr, 23 août 2013.
+(en) « Microsoft appoints activist investor Mason Morfit to board », Reuters,‎ 11 mars 2014 (lire en ligne [archive]).
+(en) « Microsoft Board of Directors [archive] », PressPass, sur microsoft.com (consulté le 6 septembre 2014).
+(en) « Microsoft Corporation Corporate Governance Guidelines [archive] », sur microsoft.com, 1er juillet 2009 (consulté le 18 juillet 2010).
+(en) 2010 - The Global 2000 - Profits list [archive], Forbes, 21 avril 2010, consulté le 26 décembre 2010..
+Alternatives économiques no 329, novembre 2013.
+Microsoft est redevenu la 2e plus grosse valorisation boursière [archive], Journal du Net, 17 novembre 2014.
+(en) « Microsoft Investor Relations — Annual Reports [archive] », sur Microsoft.com (consulté le 7 novembre 2018).
+(en) « Dividend Frequently Asked Questions [archive] », sur microsoft.com (consulté le 18 août 2008).
+(en) « Yahoo MSFT stock chart » [archive du 23 janvier 2008], sur Yahoo Finance (consulté le 13 décembre 2008).
+(en) Tim Sifert et Bill Rigby, « Microsoft sells $2.25 billion of debt at low rates [archive] », sur Reuters, 4 février 2011.
+« Microsoft ouvre une école sur l'Intelligence Artificielle en France », ZD Net,‎ 6 mars 2018 (lire en ligne [archive]).
+Maryse Gros, « Microsoft France renforce son Ecole IA et étend son périmètre », Le Monde Informatique,‎ 20 septembre 2018 (lire en ligne [archive]).
+« Microsoft ouvre un lab et renforce sa collaboration avec les EPF [archive] », sur Ictjournal.ch, 1er novembre 2018 (consulté le 18 décembre 2019).
+Capucine Simon, « Corine de Bilbao est nommée Présidente de Microsoft France », Microsoft.com,‎ 21 juin 2021 (lire en ligne [archive]).
+« Microsoft procède à de nouveaux licenciements [archive] », sur zdnet.fr.
+(en) « Dirty Data Report Card [archive] », sur Greenpeace (consulté le 22 août 2013).
+(en) Phil Radford, "Amazon, Microsoft: Let's keep 'the cloud' clean" [archive], Seattle Times.
+(en) Suzanne Goldenberg, "Microsoft looks to boost eco credentials with wind-powered data centre" [archive], The Guardian.
+(en) « Guide to Greener Electronics » [archive du 31 mars 2012], sur Greenpeace International (consulté le 3 avril 2012).
+(en) « Ranking tables October 2010 [archive] » [PDF], sur Greenpeace International (consulté le 24 janvier 2011).
+ (en) Elinor Mills, « Microsoft vs. Google: Who's greener? », CNET,‎ 6 juin 2008 (lire en ligne [archive], consulté le 3 juillet 2010).
+(en) « Seattle hires consultant to look at 520 bridge plan », King5 Television News,‎ 23 février 2010 (lire en ligne [archive], consulté le 3 juillet 2010).
+(en) Janet I. Tu, « Microsoft named best multinational workplace », Seattle Times,‎ 28 octobre 2011 (lire en ligne [archive], consulté le 3 novembre 2011).
+« Attachée à sa démarche partenariale originelle, Microsoft France génère avec son écosystème environ 75 000 emplois au cœur de l’économie du logiciel [archive] ».
+Quiz spécial France 2020 [archive], Ed. MEDEF, août 2014, #1, p. 46.
+« Microsoft signe un partenariat avec Lyon 1 [archive] », sur challenges.fr, 26 novembre 2007 (consulté le 12 février 2021).
+Valéry Marchive, « Microsoft investit 5,8 Md$ dans son réseau de partenaires [archive] », sur LeMagIT, 23 juillet 2011.
+« Le numérique au service de l'École de la confiance [archive] », ministère de l'Éducation nationale.
+« Satya Nadella (Microsoft) reçu à l'Elysée par François Hollande [archive] », sur ZDNet.
+« COP21 : Bill Gates injecte 2 milliards de dollars dans les technologies vertes [archive] ».
+Philippe Escande, « COP 21 : L’argent et le climat [archive] », Le Monde.
+« COP 21 : Bill Gates va investir 2 milliards de dollars dans les énergies propres [archive] », sur boursier.com.
+« Bill Gates met sa fortune et son image au service des cleantech [archive] », sur BFM Business.
+(en) « Official Norad Santa Tracker [archive] », sur noradsanta.org.
+« Registre de transparence [archive] », sur Commission européenne (consulté le 21 janvier 2017).
+« Les Gafam, rois du lobbying à Bruxelles », Le Monde.fr,‎ 31 août 2021 (lire en ligne [archive])
+Christophe Laporte, « Microsoft et Google : les deux marques préférées des Français [MàJ] [archive] », sur macg.co, 23 juin 2011.
+(en) Bishop, Todd, « Studies on Linux help their patron: Microsoft », Seattle Post-Intelligencer,‎ 27 janvier 2004 (lire en ligne [archive], consulté le 16 juillet 2010).
+(en) « Linux fans hit back at Microsoft TCO claims [archive] », sur techcentral.ie, 13 février 2006 (consulté le 18 août 2008).
+(en) David M. Williams, « London Stock Exchange gets the facts and dumps Windows for Linux [archive] », sur ITWire, 8 octobre 2009.
+(en) kdawson, « London Stock Exchange Rejects .NET For Open Source [archive] », sur Slashdot, 6 octobre 2009.
+(en) Nick Wingfield, « Microsoft Battles Google by Hiring Political Brawler Mark Penn », The New York Times,‎ 14 décembre 2012 (lire en ligne [archive]).
+(en) Frederic Lardinois, « Scroogled: Why So Negative, Microsoft? [archive] », sur TechCrunch, 10 février 2013 (consulté le 18 avril 2014).
+(en) Kashmir Hill, « Googlers Love Microsoft's 'Scroogled' Gear. Mug and Shirts Sell Out [archive] », Forbes, 21 novembre 2013.
+« Microsoft ouvre un Windows Cube à Paris [archive] », sur www.cnews.fr, 7 octobre 2015 (consulté le 5 avril 2026)
+(en) Microsoft dévoile un nouveau look [archive], The Official Microsoft Blog, 23 août 2012.
+(en) Steven H. Eric, « NEW MICROSOFT LOGO REVEALED » [archive du 25 août 2012], sur Flapship.com via Internet Archive, 23 août 2012 (consulté le 23 août 2012).
+(en) « Microsoft's new logo has ties to the past [archive] ».
+« Microsoft's logo is not new, it's from 1995 [archive] ».
+(en) Jeffrey Meisner, « Microsoft Unveils a New Look » [archive du 25 août 2012], sur blogs.technet.com, 23 août 2012 (consulté le 23 août 2012).
+ Étienne Combier, « Abus de position dominante : les plus grosses amendes de la Commission européenne [archive] », Les Échos, 24 janvier 2018 (consulté le 5 février 2020).
+Cassim Ketfi, « Kaspersky poursuit Microsoft pour abus de position dominante avec son antivirus par défaut [archive] », sur Numerama, 6 juin 2017 (consulté le 5 février 2020).
+Marc Rees, « Pourquoi la justice européenne a sanctuarisé la vente liée PC et OS [archive] », sur Next INpact, 9 juillet 2016 (consulté le 5 février 2020).
+Vincent Hermann, « Skype pris en flagrant délit d'espionnage des conversations en Chine [archive] », sur Next INpact, 2 mai 2020 (consulté le 5 février 2020).
+Guillaume Champeau, « Microsoft lance un nouveau Skype censuré en Chine (MàJ) [archive] », sur Numerama, 26 novembre 2013 (consulté le 5 février 2020).
+(en) « Abus de position dominante: la Commission sanctionne Microsoft pour non-respect de ses engagements concernant le choix du navigateur [archive] », sur European Commission (consulté le 6 février 2020).
+AFP/Reuters, « La Commission européenne a imposé à Microsoft une nouvelle amende de 899 millions d'euros », Le Monde,‎ 27 février 2008 (lire en ligne [archive], consulté le 6 février 2020).
+Hélène Puel, « La justice européenne confirme l'amende de 497 millions de Microsoft [archive] », sur 01net (consulté le 6 février 2020).
+Julien Lausson, « Bruxelles condamne Microsoft à 561 millions d'euros d'amende [archive] », sur Numerama, 6 mars 2013 (consulté le 6 février 2020).
+Simon UZENAT (Président) et Dany WATTEBLED (Rapporteur), « Rapport fait au nom de la commission d’enquête sur les coûts et les modalités effectifs de la commande publique et la mesure de leur effet d’entraînement sur l’économie française [archive] » Accès libre [PDF], sur Sénat, 8 juillet 2025 (consulté le 14 juillet 2025), p. 241
+[27 min 25 secondes] Public Sénat, « Audition de M. Anton Carniaux, directeur des affaires publiques et juridiques, et de M. Pierre Lagarde, directeur technique du secteur public, de Microsoft France [archive] » Accès libre [vidéo], sur Sénat (France), 10 juin 2025 (consulté le 14 juillet 2025)
+(en) Adam Satariano et Jeanna Smialek, « Europe’s Growing Fear: How Trump Might Use U.S. Tech Dominance Against It », The New York Times,‎ 21 juin 2025 (ISSN 0362-4331, lire en ligne [archive], consulté le 31 juillet 2025).
+(en) « Imposing Sanctions on the International Criminal Court [archive] », sur le site de la Maison blanche, 6 février 2025 (consulté le 31 juillet 2025).
+(en) Emma Farge, « 'Lucrative' business deals help sustain Israel's Gaza campaign, UN expert says », Reuters,‎ 1er juillet 2025 (lire en ligne [archive])
+Voir aussi
+Articles connexes
+Microsoft Windows
+Microsoft Office
+Microsoft Mobile
+Microsoft Surface
+Microsoft Lumia
+Windows 10
+Windows 10 Mobile
+Windows Store
+Embrace, extend and extinguish - stratégie de Microsoft
+Langage Q#
+Fog computing
+Liens externes
+(en) Site officiel [archive]
+Ressources relatives aux beaux-arts : Cooper–Hewitt, Smithsonian Design MuseumUnion List of Artist Names
+Ressources relatives à la recherche : CrossRefResearchGate
+Ressources relatives à la musique : DiscogsMusicBrainz
+Ressource relative aux organisations : Registre de transparence de l'UE
+Ressource relative à plusieurs domaines : Radio France
+Ressource relative à l'audiovisuel : France 24
+Notices dans des dictionnaires ou encyclopédies généralistes : Britannica [archive]Brockhaus [archive]Den Store Danske Encyklopædi [archive]Enciclopedia De Agostini [archive]Encyclopédie de l'Ukraine moderne [archive]Gran Enciclopèdia Catalana [archive]Hrvatska Enciklopedija [archive]Larousse [archive]Nationalencyklopedin [archive]Store norske leksikon [archive]Treccani [archive]Visuotinė lietuvių enciklopedija [archive]
+Notices d'autorité : VIAFISNIBnF (données)IdRefLCCNGNDJaponCiNiiEspagnePologneIsraëlNUKATCatalogneSuèdeAustralieNorvègeCroatieTchéquie
+« Comment acheter des actions Microsoft en 2021 [archive] », sur AcheterDesActions.io (consulté le 20 août 2021)
+ [afficher]
+v · m
+Microsoft
+ [afficher]
+v · m
+Principales entreprises commercialisant des smartphones (2024)
+ [afficher]
+v · m
+Principales sociétés de logiciels par chiffre d'affaires (2025)
+ [afficher]
+v · m
+Les 25 plus grandes sociétés commercialisant des jeux vidéo par chiffre d'affaires (décembre 2019)[1]
+ [afficher]
+v · m
+Entreprises du Dow Jones
+ [afficher]
+v · m
+Entreprises du NASDAQ-100 (Mai 2023)
+ [afficher]
+v · m
+Silicon Valley
+
+
+ [afficher]
+v · m
+Logiciel antivirus
+icône décorative Portail de Microsoft icône décorative Portail des entreprises icône décorative Portail des logiciels icône décorative Portail du jeu vidéo icône décorative Portail de l’État de Washington
+Catégories : Société cotée au NASDAQEntreprise fondée en 1975Constructeur informatiqueÉditeur de logiciel ayant son siège aux États-UnisÉditeur de jeux vidéoEntreprise ayant son siège à Redmond (Washington)Entreprise informatique ayant son siège aux États-UnisEntreprise de jeux vidéo ayant son siège à Redmond (Washington)Bill GatesMicrosoftEntreprise du Dow JonesEntreprise du NASDAQ-100[+]
+La dernière modification de cette page a été faite le 5 octobre 2026 à 09:42. La page a été rendue avec Parsoid.
+Droit d'auteur : les textes sont disponibles sous licence Creative Commons attribution, partage dans les mêmes conditions ; d’autres conditions peuvent s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que les crédits graphiques. En cas de réutilisation des textes de cette page, voyez comment citer les auteurs et mentionner la licence.
+Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.
+Politique de confidentialitéÀ propos de WikipédiaAvertissementsContactContacts juridiques & sécuritéCode de conduiteDéveloppementStatistiquesDéclaration sur les témoins (cookies)Version mobile
+Wikimedia Foundation
+Powered by MediaWiki
